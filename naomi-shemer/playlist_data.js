@@ -11726,80 +11726,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 138,
-      "chrono_n": 642,
-      "canon_score": 198.9,
-      "acum_v": 16,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "p1",
-      "ch_lbl": "",
-      "title": "יובל [ביצוע מקורי] (1998)",
-      "raw_title": "יובל",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1998",
-      "rec_year": "1998",
-      "song_year": "1998",
-      "year_src": "original_inherited",
-      "decade": "1990s+",
-      "vid": "AoGcmpu5D4Y",
-      "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
-      "ch": "Nogaro",
-      "dur": "4:06",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר וגידי גוב",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Pk0mm0ly7Og",
-          "vtitle": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
-          "ch": "דורית פרקש",
-          "dur": "3:50",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cXln3eAat5g",
-          "vtitle": "שיר יובל- הכל עובר חביבי",
-          "ch": "Sharona Nastovich",
-          "dur": "5:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "odVOcsR91qQ",
-          "vtitle": "שיר יובל - נעמי שמר",
-          "ch": "eli natan",
-          "dur": "3:05",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 139,
       "chrono_n": 31,
       "canon_score": 198.1,
       "acum_v": 40,
@@ -11888,7 +11814,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 140,
+      "n": 139,
       "chrono_n": 330,
       "canon_score": 198.1,
       "acum_v": 40,
@@ -11977,7 +11903,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 141,
+      "n": 140,
       "chrono_n": 319,
       "canon_score": 197.2,
       "acum_v": 23,
@@ -12058,7 +11984,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 142,
+      "n": 141,
       "chrono_n": 113,
       "canon_score": 192.0,
       "acum_v": 30,
@@ -12132,7 +12058,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 143,
+      "n": 142,
       "chrono_n": 204,
       "canon_score": 192.0,
       "acum_v": 30,
@@ -12213,7 +12139,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 144,
+      "n": 143,
       "chrono_n": 348,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -12289,7 +12215,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 145,
+      "n": 144,
       "chrono_n": 654,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -12365,7 +12291,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 146,
+      "n": 145,
       "chrono_n": 258,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -12449,7 +12375,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 147,
+      "n": 146,
       "chrono_n": 433,
       "canon_score": 158.8,
       "acum_v": 28,
@@ -12526,7 +12452,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 148,
+      "n": 147,
       "chrono_n": 388,
       "canon_score": 157.8,
       "acum_v": 149,
@@ -12610,7 +12536,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 149,
+      "n": 148,
       "chrono_n": 605,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -12684,7 +12610,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 150,
+      "n": 149,
       "chrono_n": 435,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -12776,7 +12702,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 151,
+      "n": 150,
       "chrono_n": 597,
       "canon_score": 151.4,
       "acum_v": 13,
@@ -12854,7 +12780,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 152,
+      "n": 151,
       "chrono_n": 491,
       "canon_score": 147.0,
       "acum_v": 21,
@@ -12916,7 +12842,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 153,
+      "n": 152,
       "chrono_n": 215,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -12999,7 +12925,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 154,
+      "n": 153,
       "chrono_n": 273,
       "canon_score": 116.5,
       "acum_v": 3,
@@ -13073,7 +12999,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 155,
+      "n": 154,
       "chrono_n": 376,
       "canon_score": 108.2,
       "acum_v": 8,
@@ -13150,7 +13076,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 156,
+      "n": 155,
       "chrono_n": 309,
       "canon_score": 83.0,
       "acum_v": 14,
@@ -13227,7 +13153,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 157,
+      "n": 156,
       "chrono_n": 374,
       "canon_score": 76.5,
       "acum_v": 16,
@@ -13296,7 +13222,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 158,
+      "n": 157,
       "chrono_n": 458,
       "canon_score": 71.6,
       "acum_v": 12,
@@ -13356,7 +13282,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 159,
+      "n": 158,
       "chrono_n": 460,
       "canon_score": 71.6,
       "acum_v": 12,
@@ -13416,7 +13342,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 160,
+      "n": 159,
       "chrono_n": 378,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -13490,7 +13416,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 161,
+      "n": 160,
       "chrono_n": 213,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -13564,7 +13490,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 162,
+      "n": 161,
       "chrono_n": 512,
       "canon_score": 57.3,
       "acum_v": 8,
@@ -13619,7 +13545,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 163,
+      "n": 162,
       "chrono_n": 496,
       "canon_score": 56.8,
       "acum_v": 5,
@@ -13693,7 +13619,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 164,
+      "n": 163,
       "chrono_n": 58,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -13778,7 +13704,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 165,
+      "n": 164,
       "chrono_n": 382,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -13840,7 +13766,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 166,
+      "n": 165,
       "chrono_n": 283,
       "canon_score": 40.9,
       "acum_v": 1,
@@ -13900,7 +13826,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 167,
+      "n": 166,
       "chrono_n": 511,
       "canon_score": 39.6,
       "acum_v": 1,
@@ -13965,7 +13891,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 168,
+      "n": 167,
       "chrono_n": 3,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -14030,7 +13956,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 169,
+      "n": 168,
       "chrono_n": 345,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -14095,7 +14021,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 170,
+      "n": 169,
       "chrono_n": 16,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -14165,7 +14091,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 171,
+      "n": 170,
       "chrono_n": 346,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -14235,7 +14161,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 172,
+      "n": 171,
       "chrono_n": 33,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -14312,7 +14238,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 173,
+      "n": 172,
       "chrono_n": 56,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -14372,7 +14298,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 174,
+      "n": 173,
       "chrono_n": 74,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -14456,7 +14382,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 175,
+      "n": 174,
       "chrono_n": 332,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -14540,7 +14466,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 176,
+      "n": 175,
       "chrono_n": 132,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -14628,7 +14554,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 177,
+      "n": 176,
       "chrono_n": 367,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -14716,7 +14642,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 178,
+      "n": 177,
       "chrono_n": 344,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -14793,7 +14719,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 179,
+      "n": 178,
       "chrono_n": 335,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -14885,7 +14811,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 180,
+      "n": 179,
       "chrono_n": 622,
       "canon_score": 57.6,
       "acum_v": 4,
@@ -14947,7 +14873,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 181,
+      "n": 180,
       "chrono_n": 625,
       "canon_score": 57.6,
       "acum_v": 4,
@@ -15009,7 +14935,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 182,
+      "n": 181,
       "chrono_n": 188,
       "canon_score": 32.8,
       "acum_v": 18,
@@ -15061,7 +14987,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 183,
+      "n": 182,
       "chrono_n": 311,
       "canon_score": 93.3,
       "acum_v": 9,
@@ -15135,7 +15061,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 184,
+      "n": 183,
       "chrono_n": 313,
       "canon_score": 196.6,
       "acum_v": 11,
@@ -15209,7 +15135,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 185,
+      "n": 184,
       "chrono_n": 315,
       "canon_score": 243.2,
       "acum_v": 50,
@@ -15279,7 +15205,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 186,
+      "n": 185,
       "chrono_n": 317,
       "canon_score": 42.7,
       "acum_v": 5,
@@ -15346,7 +15272,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 187,
+      "n": 186,
       "chrono_n": 323,
       "canon_score": 117.2,
       "acum_v": 12,
@@ -15420,7 +15346,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 188,
+      "n": 187,
       "chrono_n": 459,
       "canon_score": 47.2,
       "acum_v": 9,
@@ -15494,7 +15420,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 189,
+      "n": 188,
       "chrono_n": 662,
       "canon_score": 107.6,
       "acum_v": 22,
@@ -15554,7 +15480,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 190,
+      "n": 189,
       "chrono_n": 543,
       "canon_score": 96.5,
       "acum_v": 4,
@@ -15614,7 +15540,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 191,
+      "n": 190,
       "chrono_n": 544,
       "canon_score": 93.0,
       "acum_v": 5,
@@ -15690,7 +15616,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 192,
+      "n": 191,
       "chrono_n": 545,
       "canon_score": 39.4,
       "acum_v": 4,
@@ -15752,7 +15678,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 193,
+      "n": 192,
       "chrono_n": 546,
       "canon_score": 39.4,
       "acum_v": 4,
@@ -15814,7 +15740,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 194,
+      "n": 193,
       "chrono_n": 547,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -15874,7 +15800,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 195,
+      "n": 194,
       "chrono_n": 548,
       "canon_score": 176.0,
       "acum_v": 12,
@@ -15943,7 +15869,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 196,
+      "n": 195,
       "chrono_n": 551,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -16017,7 +15943,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 197,
+      "n": 196,
       "chrono_n": 552,
       "canon_score": 87.6,
       "acum_v": 2,
@@ -16093,7 +16019,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 198,
+      "n": 197,
       "chrono_n": 553,
       "canon_score": 153.5,
       "acum_v": 6,
@@ -16167,7 +16093,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 199,
+      "n": 198,
       "chrono_n": 585,
       "canon_score": 25.1,
       "acum_v": 1,
@@ -16234,7 +16160,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 200,
+      "n": 199,
       "chrono_n": 19,
       "canon_score": 92.2,
       "acum_v": 7,
@@ -16314,7 +16240,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 201,
+      "n": 200,
       "chrono_n": 37,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -16402,7 +16328,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 202,
+      "n": 201,
       "chrono_n": 22,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -16481,7 +16407,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 203,
+      "n": 202,
       "chrono_n": 148,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -16573,7 +16499,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 204,
+      "n": 203,
       "chrono_n": 155,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -16665,7 +16591,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 205,
+      "n": 204,
       "chrono_n": 149,
       "canon_score": 48.9,
       "acum_v": 7,
@@ -16748,7 +16674,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 206,
+      "n": 205,
       "chrono_n": 150,
       "canon_score": 48.9,
       "acum_v": 7,
@@ -16831,7 +16757,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 207,
+      "n": 206,
       "chrono_n": 171,
       "canon_score": 43.9,
       "acum_v": 16,
@@ -16901,7 +16827,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 208,
+      "n": 207,
       "chrono_n": 172,
       "canon_score": 36.8,
       "acum_v": 1,
@@ -16953,7 +16879,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 209,
+      "n": 208,
       "chrono_n": 173,
       "canon_score": 37.4,
       "acum_v": 1,
@@ -17008,7 +16934,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 210,
+      "n": 209,
       "chrono_n": 174,
       "canon_score": 36.7,
       "acum_v": 1,
@@ -17062,7 +16988,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 211,
+      "n": 210,
       "chrono_n": 175,
       "canon_score": 37.4,
       "acum_v": 1,
@@ -17118,7 +17044,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 212,
+      "n": 211,
       "chrono_n": 176,
       "canon_score": 36.6,
       "acum_v": 1,
@@ -17170,7 +17096,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 213,
+      "n": 212,
       "chrono_n": 177,
       "canon_score": 37.2,
       "acum_v": 1,
@@ -17222,7 +17148,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 214,
+      "n": 213,
       "chrono_n": 178,
       "canon_score": 36.7,
       "acum_v": 1,
@@ -17276,7 +17202,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 215,
+      "n": 214,
       "chrono_n": 180,
       "canon_score": 36.7,
       "acum_v": 1,
@@ -17328,7 +17254,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 216,
+      "n": 215,
       "chrono_n": 181,
       "canon_score": 37.0,
       "acum_v": 1,
@@ -17383,7 +17309,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 217,
+      "n": 216,
       "chrono_n": 182,
       "canon_score": 38.1,
       "acum_v": 1,
@@ -17438,7 +17364,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 218,
+      "n": 217,
       "chrono_n": 7,
       "canon_score": 42.7,
       "acum_v": 57,
@@ -17497,7 +17423,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 219,
+      "n": 218,
       "chrono_n": 29,
       "canon_score": 111.8,
       "acum_v": 12,
@@ -17580,7 +17506,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 220,
+      "n": 219,
       "chrono_n": 227,
       "canon_score": 111.8,
       "acum_v": 12,
@@ -17663,7 +17589,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 221,
+      "n": 220,
       "chrono_n": 50,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -17748,7 +17674,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 222,
+      "n": 221,
       "chrono_n": 82,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -17833,7 +17759,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 223,
+      "n": 222,
       "chrono_n": 53,
       "canon_score": 88.5,
       "acum_v": 8,
@@ -17907,7 +17833,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 224,
+      "n": 223,
       "chrono_n": 73,
       "canon_score": 94.7,
       "acum_v": 24,
@@ -17988,7 +17914,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 225,
+      "n": 224,
       "chrono_n": 78,
       "canon_score": 94.7,
       "acum_v": 24,
@@ -18069,7 +17995,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 226,
+      "n": 225,
       "chrono_n": 70,
       "canon_score": 71.0,
       "acum_v": 12,
@@ -18143,7 +18069,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 227,
+      "n": 226,
       "chrono_n": 77,
       "canon_score": 38.9,
       "acum_v": 1,
@@ -18198,7 +18124,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 228,
+      "n": 227,
       "chrono_n": 100,
       "canon_score": 55.6,
       "acum_v": 6,
@@ -18274,7 +18200,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 229,
+      "n": 228,
       "chrono_n": 108,
       "canon_score": 76.5,
       "acum_v": 18,
@@ -18358,7 +18284,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 230,
+      "n": 229,
       "chrono_n": 201,
       "canon_score": 76.5,
       "acum_v": 18,
@@ -18442,7 +18368,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 231,
+      "n": 230,
       "chrono_n": 112,
       "canon_score": 40.1,
       "acum_v": 2,
@@ -18513,7 +18439,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 232,
+      "n": 231,
       "chrono_n": 499,
       "canon_score": 40.1,
       "acum_v": 2,
@@ -18584,7 +18510,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 233,
+      "n": 232,
       "chrono_n": 131,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -18662,7 +18588,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 234,
+      "n": 233,
       "chrono_n": 334,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -18740,7 +18666,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 235,
+      "n": 234,
       "chrono_n": 121,
       "canon_score": 91.2,
       "acum_v": 21,
@@ -18821,7 +18747,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 236,
+      "n": 235,
       "chrono_n": 129,
       "canon_score": 91.2,
       "acum_v": 21,
@@ -18902,7 +18828,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 237,
+      "n": 236,
       "chrono_n": 120,
       "canon_score": 81.9,
       "acum_v": 13,
@@ -18978,7 +18904,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 238,
+      "n": 237,
       "chrono_n": 142,
       "canon_score": 59.1,
       "acum_v": 7,
@@ -19052,7 +18978,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 239,
+      "n": 238,
       "chrono_n": 205,
       "canon_score": 59.1,
       "acum_v": 7,
@@ -19126,7 +19052,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 240,
+      "n": 239,
       "chrono_n": 245,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -19209,7 +19135,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 241,
+      "n": 240,
       "chrono_n": 246,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -19292,7 +19218,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 242,
+      "n": 241,
       "chrono_n": 225,
       "canon_score": 98.9,
       "acum_v": 1,
@@ -19359,7 +19285,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 243,
+      "n": 242,
       "chrono_n": 274,
       "canon_score": 126.7,
       "acum_v": 5,
@@ -19431,7 +19357,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 244,
+      "n": 243,
       "chrono_n": 272,
       "canon_score": 97.5,
       "acum_v": 4,
@@ -19494,7 +19420,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 245,
+      "n": 244,
       "chrono_n": 287,
       "canon_score": 89.4,
       "acum_v": 3,
@@ -19554,7 +19480,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 246,
+      "n": 245,
       "chrono_n": 298,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -19632,7 +19558,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 247,
+      "n": 246,
       "chrono_n": 109,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -19710,7 +19636,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 248,
+      "n": 247,
       "chrono_n": 329,
       "canon_score": 47.3,
       "acum_v": 1,
@@ -19784,7 +19710,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 249,
+      "n": 248,
       "chrono_n": 475,
       "canon_score": 47.3,
       "acum_v": 1,
@@ -19858,7 +19784,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 250,
+      "n": 249,
       "chrono_n": 337,
       "canon_score": 126.1,
       "acum_v": 12,
@@ -19934,7 +19860,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 251,
+      "n": 250,
       "chrono_n": 357,
       "canon_score": 79.2,
       "acum_v": 1,
@@ -20003,7 +19929,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 252,
+      "n": 251,
       "chrono_n": 356,
       "canon_score": 27.3,
       "acum_v": 1,
@@ -20077,7 +20003,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 253,
+      "n": 252,
       "chrono_n": 349,
       "canon_score": 39.0,
       "acum_v": 2,
@@ -20146,7 +20072,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 254,
+      "n": 253,
       "chrono_n": 350,
       "canon_score": 28.9,
       "acum_v": 1,
@@ -20224,7 +20150,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 255,
+      "n": 254,
       "chrono_n": 351,
       "canon_score": 34.8,
       "acum_v": 1,
@@ -20301,7 +20227,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 256,
+      "n": 255,
       "chrono_n": 355,
       "canon_score": 29.3,
       "acum_v": 1,
@@ -20377,7 +20303,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 257,
+      "n": 256,
       "chrono_n": 432,
       "canon_score": 143.6,
       "acum_v": 14,
@@ -20447,7 +20373,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 258,
+      "n": 257,
       "chrono_n": 409,
       "canon_score": 51.0,
       "acum_v": 7,
@@ -20527,7 +20453,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 259,
+      "n": 258,
       "chrono_n": 393,
       "canon_score": 37.3,
       "acum_v": 3,
@@ -20581,7 +20507,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 260,
+      "n": 259,
       "chrono_n": 450,
       "canon_score": 25.5,
       "acum_v": 3,
@@ -20659,7 +20585,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 261,
+      "n": 260,
       "chrono_n": 506,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -20733,7 +20659,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 262,
+      "n": 261,
       "chrono_n": 494,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -20816,7 +20742,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 263,
+      "n": 262,
       "chrono_n": 495,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -20899,7 +20825,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 264,
+      "n": 263,
       "chrono_n": 489,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -20966,7 +20892,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 265,
+      "n": 264,
       "chrono_n": 515,
       "canon_score": 79.0,
       "acum_v": 4,
@@ -21026,7 +20952,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 266,
+      "n": 265,
       "chrono_n": 521,
       "canon_score": 108.0,
       "acum_v": 3,
@@ -21107,7 +21033,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 267,
+      "n": 266,
       "chrono_n": 530,
       "canon_score": 133.8,
       "acum_v": 11,
@@ -21181,7 +21107,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 268,
+      "n": 267,
       "chrono_n": 531,
       "canon_score": 88.8,
       "acum_v": 4,
@@ -21236,7 +21162,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 269,
+      "n": 268,
       "chrono_n": 537,
       "canon_score": 82.5,
       "acum_v": 3,
@@ -21305,7 +21231,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 270,
+      "n": 269,
       "chrono_n": 571,
       "canon_score": 44.1,
       "acum_v": 3,
@@ -21379,7 +21305,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 271,
+      "n": 270,
       "chrono_n": 576,
       "canon_score": 137.7,
       "acum_v": 13,
@@ -21453,7 +21379,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 272,
+      "n": 271,
       "chrono_n": 575,
       "canon_score": 24.0,
       "acum_v": 2,
@@ -21507,7 +21433,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 273,
+      "n": 272,
       "chrono_n": 584,
       "canon_score": 83.9,
       "acum_v": 3,
@@ -21562,7 +21488,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 274,
+      "n": 273,
       "chrono_n": 581,
       "canon_score": 27.9,
       "acum_v": 1,
@@ -21638,7 +21564,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 275,
+      "n": 274,
       "chrono_n": 580,
       "canon_score": 32.4,
       "acum_v": 1,
@@ -21700,7 +21626,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 276,
+      "n": 275,
       "chrono_n": 586,
       "canon_score": 101.7,
       "acum_v": 6,
@@ -21770,7 +21696,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 277,
+      "n": 276,
       "chrono_n": 588,
       "canon_score": 53.8,
       "acum_v": 12,
@@ -21848,7 +21774,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 278,
+      "n": 277,
       "chrono_n": 591,
       "canon_score": 46.0,
       "acum_v": 46,
@@ -21903,7 +21829,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 279,
+      "n": 278,
       "chrono_n": 595,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -21993,7 +21919,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 280,
+      "n": 279,
       "chrono_n": 607,
       "canon_score": 124.1,
       "acum_v": 11,
@@ -22067,7 +21993,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 281,
+      "n": 280,
       "chrono_n": 644,
       "canon_score": 104.2,
       "acum_v": 11,
@@ -22148,6 +22074,80 @@ window.PLAYLIST_DATA = {
           "ch": "דורית פרקש",
           "dur": "3:49",
           "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 281,
+      "chrono_n": 642,
+      "canon_score": 198.9,
+      "acum_v": 16,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "",
+      "title": "יובל [ביצוע מקורי] (1998)",
+      "raw_title": "יובל",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1998",
+      "rec_year": "1998",
+      "song_year": "1998",
+      "year_src": "original_inherited",
+      "decade": "1990s+",
+      "vid": "AoGcmpu5D4Y",
+      "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
+      "ch": "Nogaro",
+      "dur": "4:06",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר וגידי גוב",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Pk0mm0ly7Og",
+          "vtitle": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
+          "ch": "דורית פרקש",
+          "dur": "3:50",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cXln3eAat5g",
+          "vtitle": "שיר יובל- הכל עובר חביבי",
+          "ch": "Sharona Nastovich",
+          "dur": "5:02",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "odVOcsR91qQ",
+          "vtitle": "שיר יובל - נעמי שמר",
+          "ch": "eli natan",
+          "dur": "3:05",
+          "src": "direct_alternative"
         }
       ]
     },
@@ -44939,154 +44939,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 608,
-      "chrono_n": 641,
-      "canon_score": 198.9,
-      "acum_v": 16,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "e1",
-      "ch_lbl": "",
-      "title": "יובל [ביצוע: הכל עובר חביבי] (1998)",
-      "raw_title": "יובל",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1998",
-      "rec_year": "1998",
-      "song_year": "1998",
-      "year_src": "archive_desc",
-      "decade": "1990s+",
-      "vid": "cXln3eAat5g",
-      "vtitle": "שיר יובל - הכל עובר חביבי (1998)",
-      "ch": "Sharona Nastovich",
-      "dur": "5:02",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "הכל עובר חביבי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Pk0mm0ly7Og",
-          "vtitle": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
-          "ch": "דורית פרקש",
-          "dur": "3:50",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "odVOcsR91qQ",
-          "vtitle": "שיר יובל - נעמי שמר",
-          "ch": "eli natan",
-          "dur": "3:05",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "AoGcmpu5D4Y",
-          "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
-          "ch": "Nogaro",
-          "dur": "4:06",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 609,
-      "chrono_n": 643,
-      "canon_score": 198.9,
-      "acum_v": 16,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "e1",
-      "ch_lbl": "",
-      "title": "יובל [ביצוע: דורית פרקש] (1998)",
-      "raw_title": "יובל",
-      "alt_titles": [],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1998",
-      "rec_year": "1998",
-      "song_year": "1998",
-      "year_src": "original_inherited",
-      "decade": "1990s+",
-      "vid": "Pk0mm0ly7Og",
-      "vtitle": "דורית פרקש - יובל (1998)",
-      "ch": "דורית פרקש",
-      "dur": "3:50",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "דורית פרקש",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "cXln3eAat5g",
-          "vtitle": "שיר יובל- הכל עובר חביבי",
-          "ch": "Sharona Nastovich",
-          "dur": "5:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "odVOcsR91qQ",
-          "vtitle": "שיר יובל - נעמי שמר",
-          "ch": "eli natan",
-          "dur": "3:05",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "AoGcmpu5D4Y",
-          "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
-          "ch": "Nogaro",
-          "dur": "4:06",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 610,
       "chrono_n": 320,
       "canon_score": 197.2,
       "acum_v": 23,
@@ -45167,7 +45019,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 611,
+      "n": 609,
       "chrono_n": 391,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -45243,7 +45095,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 612,
+      "n": 610,
       "chrono_n": 655,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -45319,7 +45171,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 613,
+      "n": 611,
       "chrono_n": 243,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -45403,7 +45255,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 614,
+      "n": 612,
       "chrono_n": 562,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -45487,7 +45339,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 615,
+      "n": 613,
       "chrono_n": 455,
       "canon_score": 158.8,
       "acum_v": 28,
@@ -45564,7 +45416,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 616,
+      "n": 614,
       "chrono_n": 609,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -45638,7 +45490,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 617,
+      "n": 615,
       "chrono_n": 610,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -45712,7 +45564,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 618,
+      "n": 616,
       "chrono_n": 520,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -45811,7 +45663,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 619,
+      "n": 617,
       "chrono_n": 620,
       "canon_score": 147.0,
       "acum_v": 21,
@@ -45873,7 +45725,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 620,
+      "n": 618,
       "chrono_n": 304,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -45949,7 +45801,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 621,
+      "n": 619,
       "chrono_n": 667,
       "canon_score": 108.2,
       "acum_v": 8,
@@ -46026,7 +45878,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 622,
+      "n": 620,
       "chrono_n": 383,
       "canon_score": 76.5,
       "acum_v": 16,
@@ -46095,7 +45947,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 623,
+      "n": 621,
       "chrono_n": 428,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -46169,7 +46021,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 624,
+      "n": 622,
       "chrono_n": 280,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -46243,7 +46095,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 625,
+      "n": 623,
       "chrono_n": 239,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -46317,7 +46169,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 626,
+      "n": 624,
       "chrono_n": 413,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -46402,7 +46254,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 627,
+      "n": 625,
       "chrono_n": 412,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -46487,7 +46339,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 628,
+      "n": 626,
       "chrono_n": 616,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -46549,7 +46401,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 629,
+      "n": 627,
       "chrono_n": 347,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -46626,7 +46478,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 630,
+      "n": 628,
       "chrono_n": 228,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -46686,7 +46538,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 631,
+      "n": 629,
       "chrono_n": 229,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -46770,7 +46622,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 632,
+      "n": 630,
       "chrono_n": 415,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -46858,7 +46710,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 633,
+      "n": 631,
       "chrono_n": 424,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -46935,7 +46787,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 634,
+      "n": 632,
       "chrono_n": 420,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -47027,7 +46879,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 635,
+      "n": 633,
       "chrono_n": 224,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -47119,7 +46971,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 636,
+      "n": 634,
       "chrono_n": 422,
       "canon_score": 243.2,
       "acum_v": 50,
@@ -47189,7 +47041,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 637,
+      "n": 635,
       "chrono_n": 318,
       "canon_score": 42.7,
       "acum_v": 5,
@@ -47256,7 +47108,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 638,
+      "n": 636,
       "chrono_n": 461,
       "canon_score": 47.2,
       "acum_v": 9,
@@ -47330,7 +47182,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 639,
+      "n": 637,
       "chrono_n": 579,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -47390,7 +47242,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 640,
+      "n": 638,
       "chrono_n": 621,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -47464,7 +47316,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 641,
+      "n": 639,
       "chrono_n": 20,
       "canon_score": 92.2,
       "acum_v": 7,
@@ -47544,7 +47396,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 642,
+      "n": 640,
       "chrono_n": 38,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47632,7 +47484,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 643,
+      "n": 641,
       "chrono_n": 153,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47727,7 +47579,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 644,
+      "n": 642,
       "chrono_n": 63,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47806,7 +47658,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 645,
+      "n": 643,
       "chrono_n": 21,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47885,7 +47737,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 646,
+      "n": 644,
       "chrono_n": 135,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -47977,7 +47829,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 647,
+      "n": 645,
       "chrono_n": 234,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -48069,7 +47921,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 648,
+      "n": 646,
       "chrono_n": 170,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -48161,7 +48013,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 649,
+      "n": 647,
       "chrono_n": 233,
       "canon_score": 48.9,
       "acum_v": 7,
@@ -48244,7 +48096,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 650,
+      "n": 648,
       "chrono_n": 51,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -48329,7 +48181,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 651,
+      "n": 649,
       "chrono_n": 64,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -48414,7 +48266,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 652,
+      "n": 650,
       "chrono_n": 472,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -48499,7 +48351,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 653,
+      "n": 651,
       "chrono_n": 255,
       "canon_score": 71.0,
       "acum_v": 12,
@@ -48573,7 +48425,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 654,
+      "n": 652,
       "chrono_n": 563,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -48656,7 +48508,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 655,
+      "n": 653,
       "chrono_n": 275,
       "canon_score": 126.7,
       "acum_v": 5,
@@ -48728,7 +48580,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 656,
+      "n": 654,
       "chrono_n": 421,
       "canon_score": 126.7,
       "acum_v": 5,
@@ -48800,7 +48652,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 657,
+      "n": 655,
       "chrono_n": 110,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -48878,7 +48730,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 658,
+      "n": 656,
       "chrono_n": 507,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -48952,7 +48804,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 659,
+      "n": 657,
       "chrono_n": 569,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -49019,7 +48871,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 660,
+      "n": 658,
       "chrono_n": 321,
       "canon_score": 101.7,
       "acum_v": 6,
@@ -49096,7 +48948,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 661,
+      "n": 659,
       "chrono_n": 596,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -49186,7 +49038,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 662,
+      "n": 660,
       "chrono_n": 698,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -49276,7 +49128,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 663,
+      "n": 661,
       "chrono_n": 639,
       "canon_score": 104.2,
       "acum_v": 11,
@@ -49356,6 +49208,154 @@ window.PLAYLIST_DATA = {
           "vtitle": "מי ידליק נעמי שמר מספרת ושרה בבית חינוך לעיוורים",
           "ch": "Ofer Gavish",
           "dur": "1:46",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 662,
+      "chrono_n": 641,
+      "canon_score": 198.9,
+      "acum_v": 16,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יובל [ביצוע: הכל עובר חביבי] (1998)",
+      "raw_title": "יובל",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1998",
+      "rec_year": "1998",
+      "song_year": "1998",
+      "year_src": "archive_desc",
+      "decade": "1990s+",
+      "vid": "cXln3eAat5g",
+      "vtitle": "שיר יובל - הכל עובר חביבי (1998)",
+      "ch": "Sharona Nastovich",
+      "dur": "5:02",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "הכל עובר חביבי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Pk0mm0ly7Og",
+          "vtitle": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
+          "ch": "דורית פרקש",
+          "dur": "3:50",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "odVOcsR91qQ",
+          "vtitle": "שיר יובל - נעמי שמר",
+          "ch": "eli natan",
+          "dur": "3:05",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "AoGcmpu5D4Y",
+          "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
+          "ch": "Nogaro",
+          "dur": "4:06",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 663,
+      "chrono_n": 643,
+      "canon_score": 198.9,
+      "acum_v": 16,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יובל [ביצוע: דורית פרקש] (1998)",
+      "raw_title": "יובל",
+      "alt_titles": [],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1998",
+      "rec_year": "1998",
+      "song_year": "1998",
+      "year_src": "original_inherited",
+      "decade": "1990s+",
+      "vid": "Pk0mm0ly7Og",
+      "vtitle": "דורית פרקש - יובל (1998)",
+      "ch": "דורית פרקש",
+      "dur": "3:50",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "דורית פרקש",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "cXln3eAat5g",
+          "vtitle": "שיר יובל- הכל עובר חביבי",
+          "ch": "Sharona Nastovich",
+          "dur": "5:02",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "odVOcsR91qQ",
+          "vtitle": "שיר יובל - נעמי שמר",
+          "ch": "eli natan",
+          "dur": "3:05",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "AoGcmpu5D4Y",
+          "vtitle": "שיר יובל - גידי גוב ונעמי שמר",
+          "ch": "Nogaro",
+          "dur": "4:06",
           "src": "same_song_performance"
         }
       ]

@@ -20786,126 +20786,6 @@
     },
     {
       "index": 138,
-      "title": "יובל",
-      "alt_titles": [],
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "year": "1998",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer",
-        "arranger"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "nli"
-      ],
-      "catalog_performers": [
-        "דורית פרקש",
-        "הכל עובר חביבי",
-        "גידי גוב ונעמי שמר",
-        "נעמי שמר",
-        "גוב גידי ונעמי שמר",
-        "מקהלת הדיסקונטאים",
-        "להקת רפאלה"
-      ],
-      "catalog_albums": [
-        "נעמי שמר על כל אלה",
-        "2 הכל עובר חביבי המיטב",
-        "אהבתי",
-        "להקת הדיסקונטאים",
-        "על גג העולם",
-        "רפאל",
-        "תלווי אותי האוסף הכל עובר חביבי",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "נעמי שמר - סימני דרך"
-      ],
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "selected_video": {
-        "video_id": "AoGcmpu5D4Y",
-        "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
-        "video_title": "שיר יובל - גידי גוב ונעמי שמר",
-        "channel": "Nogaro",
-        "duration": "4:06",
-        "description": "מתוך תוכנית יום העצמאות (50) של שידורי טלעד.",
-        "tier": "3_naomi_performance",
-        "tier_label": "3. ביצוע של נעמי שמר",
-        "matched_performer": "נעמי שמר וגידי גוב",
-        "matched_album": "",
-        "score": 2837
-      },
-      "alternative_videos": [
-        {
-          "video_id": "Pk0mm0ly7Og",
-          "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
-          "video_title": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
-          "channel": "דורית פרקש",
-          "duration": "3:50",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "cXln3eAat5g",
-          "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
-          "video_title": "שיר יובל- הכל עובר חביבי",
-          "channel": "Sharona Nastovich",
-          "duration": "5:02",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "odVOcsR91qQ",
-          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
-          "video_title": "שיר יובל - נעמי שמר",
-          "channel": "eli natan",
-          "duration": "3:05",
-          "views": "",
-          "source": "direct_alternative"
-        }
-      ],
-      "chrono_index": 642,
-      "canonical_score": 198.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 16,
-      "dual_role": "original_performance",
-      "ver_idx": 1,
-      "ver_total": 3,
-      "matched_performer": "נעמי שמר וגידי גוב",
-      "song_year": "1998",
-      "recording_year": "1998",
-      "year_source": "original_inherited"
-    },
-    {
-      "index": 139,
       "title": "הדואר בא",
       "alt_titles": [
         "הדאר בא",
@@ -21049,7 +20929,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 140,
+      "index": 139,
       "title": "הדואר בא",
       "alt_titles": [
         "הדאר בא",
@@ -21193,7 +21073,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 141,
+      "index": 140,
       "title": "מר נרקיס",
       "alt_titles": [],
       "opening_line": "יום ששי בצהרים דוקא בשעה טובה",
@@ -21330,7 +21210,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 142,
+      "index": 141,
       "title": "אחרי השקיעה בשדה",
       "alt_titles": [],
       "opening_line": "בין שדה התירס ושדה החיטה אחרי השקיעה בשדה",
@@ -21467,7 +21347,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 143,
+      "index": 142,
       "title": "אחרי השקיעה בשדה",
       "alt_titles": [],
       "opening_line": "בין שדה התירס ושדה החיטה אחרי השקיעה בשדה",
@@ -21613,7 +21493,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 144,
+      "index": 143,
       "title": "שיר נולד",
       "alt_titles": [
         "שיר נולד הקשיבו שיר נולד הלילה"
@@ -21736,7 +21616,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 145,
+      "index": 144,
       "title": "המעיל",
       "alt_titles": [
         "חברים שלי עשו לי מעיל"
@@ -21852,7 +21732,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 146,
+      "index": 145,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -21988,7 +21868,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 147,
+      "index": 146,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -22109,7 +21989,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 148,
+      "index": 147,
       "title": "על הדרך עץ עומד",
       "alt_titles": [
         "OIFEN WEG SHTEIT A BOYM",
@@ -22287,7 +22167,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 149,
+      "index": 148,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -22402,7 +22282,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 150,
+      "index": 149,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -22542,7 +22422,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 151,
+      "index": 150,
       "title": "לחם האוהבים",
       "alt_titles": [
         "לחם האהבים",
@@ -22669,7 +22549,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 152,
+      "index": 151,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -22783,7 +22663,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 153,
+      "index": 152,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -22918,7 +22798,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 154,
+      "index": 153,
       "title": "האם השלישית",
       "alt_titles": [],
       "opening_line": "אמהות שרות אמהות שרות אגרוף רעם נתך",
@@ -23027,7 +22907,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 155,
+      "index": 154,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -23150,7 +23030,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 156,
+      "index": 155,
       "title": "ספני שלמה המלך (לחן ב')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -23273,7 +23153,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 157,
+      "index": 156,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -23393,7 +23273,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 158,
+      "index": 157,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -23490,7 +23370,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 159,
+      "index": 158,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -23587,7 +23467,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 160,
+      "index": 159,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -23703,7 +23583,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 161,
+      "index": 160,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -23821,7 +23701,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 162,
+      "index": 161,
       "title": "על נהרות בבל",
       "alt_titles": [
         "[[על נהרות בבל",
@@ -23910,7 +23790,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 163,
+      "index": 162,
       "title": "האיר השחר",
       "alt_titles": [],
       "opening_line": "ומבעד לחג חמשים ומבעד לרשעות מגליו של הזמן הקוצר",
@@ -24024,7 +23904,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 164,
+      "index": 163,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -24151,7 +24031,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 165,
+      "index": 164,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -24279,7 +24159,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 166,
+      "index": 165,
       "title": "קלי קלות",
       "alt_titles": [],
       "opening_line": "שלחתי עפיפון על חוטי הטלפון",
@@ -24371,7 +24251,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 167,
+      "index": 166,
       "title": "קולך מן הסופה",
       "alt_titles": [
         "כמה דרכים תעבור בן אדם",
@@ -24468,7 +24348,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 168,
+      "index": 167,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24567,7 +24447,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 169,
+      "index": 168,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24666,7 +24546,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 170,
+      "index": 169,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -24775,7 +24655,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 171,
+      "index": 170,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -24884,7 +24764,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 172,
+      "index": 171,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -25000,7 +24880,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 173,
+      "index": 172,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -25103,7 +24983,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 174,
+      "index": 173,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -25246,7 +25126,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 175,
+      "index": 174,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -25389,7 +25269,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 176,
+      "index": 175,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25525,7 +25405,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 177,
+      "index": 176,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25661,7 +25541,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 178,
+      "index": 177,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -25781,7 +25661,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 179,
+      "index": 178,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -25935,7 +25815,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 180,
+      "index": 179,
       "title": "פרי חדש",
       "alt_titles": [
         "שיר הפירות"
@@ -26033,7 +25913,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 181,
+      "index": 180,
       "title": "פרי חדש",
       "alt_titles": [
         "שיר הפירות"
@@ -26131,7 +26011,7 @@
       "year_source": "discogs"
     },
     {
-      "index": 182,
+      "index": 181,
       "title": "הללויה",
       "alt_titles": [],
       "opening_line": "אם בשבת אחים יחד הללויה",
@@ -26215,7 +26095,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 183,
+      "index": 182,
       "title": "אין ויש",
       "alt_titles": [],
       "opening_line": "לנו אין נהרות אדירים וגשם בקיץ",
@@ -26326,7 +26206,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 184,
+      "index": 183,
       "title": "שש עשרה",
       "alt_titles": [],
       "opening_line": "בסנדלים על גשר הירקון",
@@ -26450,7 +26330,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 185,
+      "index": 184,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -26589,7 +26469,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 186,
+      "index": 185,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -26687,7 +26567,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 187,
+      "index": 186,
       "title": "שני צלמי רחוב",
       "alt_titles": [],
       "opening_line": "שני צלמי רחוב זרח וצלמונע",
@@ -26800,7 +26680,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 188,
+      "index": 187,
       "title": "מסעות בנימין מטודלה",
       "alt_titles": [],
       "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
@@ -26912,7 +26792,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 189,
+      "index": 188,
       "title": "למה צחקה מיכל",
       "alt_titles": [],
       "opening_line": "כשהחג היה בארץ והשמש בערה",
@@ -27008,7 +26888,7 @@
       "year_source": "manual_verified"
     },
     {
-      "index": 190,
+      "index": 189,
       "title": "גג",
       "alt_titles": [],
       "opening_line": "גנוב על העיר הזאת נעול עליה",
@@ -27099,7 +26979,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 191,
+      "index": 190,
       "title": "ילדה ברבור",
       "alt_titles": [
         "ילדה-ברבור"
@@ -27207,7 +27087,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 192,
+      "index": 191,
       "title": "פרלוד",
       "alt_titles": [
         "פרילוד"
@@ -27302,7 +27182,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 193,
+      "index": 192,
       "title": "פרלוד",
       "alt_titles": [
         "פרילוד"
@@ -27397,7 +27277,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 194,
+      "index": 193,
       "title": "אהבת אשתקד",
       "alt_titles": [],
       "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
@@ -27491,7 +27371,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 195,
+      "index": 194,
       "title": "תות",
       "alt_titles": [
         "אם את רוצה לגרום לי נחת"
@@ -27604,7 +27484,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 196,
+      "index": 195,
       "title": "גיא",
       "alt_titles": [],
       "opening_line": "גיא אתה ואני ודי אני ואתה",
@@ -27726,7 +27606,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 197,
+      "index": 196,
       "title": "חפצים אישיים",
       "alt_titles": [
         "קלידים הלבנים והשחורים את מגע ידה הקל זוכרים"
@@ -27831,7 +27711,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 198,
+      "index": 197,
       "title": "בראשון לספטמבר",
       "alt_titles": [],
       "opening_line": "בראשון לספטמבר אלף תשע מאות ששים",
@@ -27940,7 +27820,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 199,
+      "index": 198,
       "title": "עלי שלכת",
       "alt_titles": [],
       "opening_line": "עוד מהלכת הרוח בגן עוד מספר אגדות השושן",
@@ -28046,7 +27926,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 200,
+      "index": 199,
       "title": "שיר הבר",
       "alt_titles": [
         "טנגו",
@@ -28166,7 +28046,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 201,
+      "index": 200,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -28306,7 +28186,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 202,
+      "index": 201,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -28431,7 +28311,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 203,
+      "index": 202,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -28569,7 +28449,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 204,
+      "index": 203,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -28707,7 +28587,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 205,
+      "index": 204,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -28829,7 +28709,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 206,
+      "index": 205,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -28951,7 +28831,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 207,
+      "index": 206,
       "title": "אשרוק לי שיר עליז",
       "alt_titles": [
         "I WHISTLE A HAPPY TUNE",
@@ -29059,7 +28939,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 208,
+      "index": 207,
       "title": "אדון ומלך",
       "alt_titles": [],
       "opening_line": "הוא מביט אלי אדון ומלך והוא אומר יפה היא בעיני",
@@ -29138,7 +29018,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 209,
+      "index": 208,
       "title": "אקרא שלום",
       "alt_titles": [
         "אקרא לשלום",
@@ -29219,7 +29099,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 210,
+      "index": 209,
       "title": "חידתיות",
       "alt_titles": [
         "לפעמים אני בטוח כבר ששום דבר"
@@ -29299,7 +29179,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 211,
+      "index": 210,
       "title": "להתוודע",
       "alt_titles": [
         "להתודע",
@@ -29381,7 +29261,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 212,
+      "index": 211,
       "title": "בצל ובאופל",
       "alt_titles": [],
       "opening_line": "בצל הרחק מן האור אותך אנשק חמדת לבבי",
@@ -29462,7 +29342,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 213,
+      "index": 212,
       "title": "שפחה שפחה",
       "alt_titles": [],
       "opening_line": "שפחה שפחה אני איני שפחה",
@@ -29540,7 +29420,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 214,
+      "index": 213,
       "title": "דבר מה נפלא כל כך",
       "alt_titles": [
         "דבר מה נפלא"
@@ -29621,7 +29501,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 215,
+      "index": 214,
       "title": "בחלום",
       "alt_titles": [],
       "opening_line": "בחלום את קולך שמעתי בחלום לי נגלית כולך",
@@ -29701,7 +29581,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 216,
+      "index": 215,
       "title": "משל סיאמי",
       "alt_titles": [
         "אשה היא הנקבה של הגבר",
@@ -29783,7 +29663,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 217,
+      "index": 216,
       "title": "הנרקוד",
       "alt_titles": [
         "הנרקד",
@@ -29870,7 +29750,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 218,
+      "index": 217,
       "title": "מה שיהיה יהיה",
       "alt_titles": [
         "QUE SERA SERA",
@@ -29962,7 +29842,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 219,
+      "index": 218,
       "title": "שיר לחג עשור",
       "alt_titles": [
         "כל הבקר הכנרת לא חדלה לסער"
@@ -30096,7 +29976,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 220,
+      "index": 219,
       "title": "שיר לחג עשור",
       "alt_titles": [
         "כל הבקר הכנרת לא חדלה לסער"
@@ -30230,7 +30110,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 221,
+      "index": 220,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -30361,7 +30241,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 222,
+      "index": 221,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -30492,7 +30372,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 223,
+      "index": 222,
       "title": "רוקדת",
       "alt_titles": [],
       "opening_line": "גרטרוד קראוס באה מארופה",
@@ -30602,7 +30482,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 224,
+      "index": 223,
       "title": "מצעד האביב",
       "alt_titles": [],
       "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
@@ -30736,7 +30616,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 225,
+      "index": 224,
       "title": "מצעד האביב",
       "alt_titles": [],
       "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
@@ -30870,7 +30750,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 226,
+      "index": 225,
       "title": "קפה שחור",
       "alt_titles": [],
       "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
@@ -30992,7 +30872,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 227,
+      "index": 226,
       "title": "ספני שלמה המלך (לחן א')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -31072,7 +30952,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 228,
+      "index": 227,
       "title": "שיר לגדעון",
       "alt_titles": [
         "זמר לגדעון"
@@ -31193,7 +31073,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 229,
+      "index": 228,
       "title": "חיילים יצאו לדרך",
       "alt_titles": [
         "חילים יצאו לדרך",
@@ -31330,7 +31210,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 230,
+      "index": 229,
       "title": "חיילים יצאו לדרך",
       "alt_titles": [
         "חילים יצאו לדרך",
@@ -31467,7 +31347,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 231,
+      "index": 230,
       "title": "ורד בר",
       "alt_titles": [
         "עלמה חיוורת",
@@ -31575,7 +31455,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 232,
+      "index": 231,
       "title": "ורד בר",
       "alt_titles": [
         "עלמה חיוורת",
@@ -31683,7 +31563,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 233,
+      "index": 232,
       "title": "זהירות בונים כאן",
       "alt_titles": [
         "זהירות, בונים!",
@@ -31808,7 +31688,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 234,
+      "index": 233,
       "title": "זהירות בונים כאן",
       "alt_titles": [
         "זהירות, בונים!",
@@ -31933,7 +31813,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 235,
+      "index": 234,
       "title": "הטיול הגדול",
       "alt_titles": [],
       "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
@@ -32067,7 +31947,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 236,
+      "index": 235,
       "title": "הטיול הגדול",
       "alt_titles": [],
       "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
@@ -32201,7 +32081,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 237,
+      "index": 236,
       "title": "עוד לא אכלנו",
       "alt_titles": [
         "שיר האוכל"
@@ -32322,7 +32202,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 238,
+      "index": 237,
       "title": "לכבודך",
       "alt_titles": [],
       "opening_line": "הוא אמר צבעתי בשלכת את העיר",
@@ -32438,7 +32318,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 239,
+      "index": 238,
       "title": "לכבודך",
       "alt_titles": [],
       "opening_line": "הוא אמר צבעתי בשלכת את העיר",
@@ -32554,7 +32434,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 240,
+      "index": 239,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -32680,7 +32560,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 241,
+      "index": 240,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -32806,7 +32686,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 242,
+      "index": 241,
       "title": "כל הדרך חזרה",
       "alt_titles": [],
       "opening_line": "באותו מקום באותה שעה בין אותם שדות",
@@ -32912,7 +32792,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 243,
+      "index": 242,
       "title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -33015,7 +32895,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 244,
+      "index": 243,
       "title": "בתכול השמים",
       "alt_titles": [
         "בתכול השמיים",
@@ -33107,7 +32987,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 245,
+      "index": 244,
       "title": "אסוני הצעיר",
       "alt_titles": [],
       "opening_line": "אסוני הצעיר הוא עלם דק בשחורים",
@@ -33192,7 +33072,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 246,
+      "index": 245,
       "title": "מה אמרו הציפורים",
       "alt_titles": [
         "מה אמרו הצפרים",
@@ -33322,7 +33202,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 247,
+      "index": 246,
       "title": "מה אמרו הציפורים",
       "alt_titles": [
         "מה אמרו הצפרים",
@@ -33451,7 +33331,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 248,
+      "index": 247,
       "title": "ברברה",
       "alt_titles": [],
       "opening_line": "נא זכרי ברברה",
@@ -33568,7 +33448,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 249,
+      "index": 248,
       "title": "ברברה",
       "alt_titles": [],
       "opening_line": "נא זכרי ברברה",
@@ -33685,7 +33565,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 250,
+      "index": 249,
       "title": "החטא השביעי",
       "alt_titles": [
         "חטא שלי הוא...אני אוהבת"
@@ -33802,7 +33682,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 251,
+      "index": 250,
       "title": "לאיש חסדי",
       "alt_titles": [
         "Chanson Pour L'auvergnat"
@@ -33904,7 +33784,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 252,
+      "index": 251,
       "title": "נשים נשים",
       "alt_titles": [],
       "opening_line": "חצי חיוך על כוס קפה מגבעת קש",
@@ -34020,7 +33900,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 253,
+      "index": 252,
       "title": "אין אהבות שמחות",
       "alt_titles": [
         "אין אהבה שמחה"
@@ -34122,7 +34002,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 254,
+      "index": 253,
       "title": "לא אבקש את ידך",
       "alt_titles": [
         "על כן בשם כל הקדושים",
@@ -34246,7 +34126,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 255,
+      "index": 254,
       "title": "הצוואה",
       "alt_titles": [
         "הצואה",
@@ -34365,7 +34245,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 256,
+      "index": 255,
       "title": "מרגו",
       "alt_titles": [
         "מארגו"
@@ -34486,7 +34366,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 257,
+      "index": 256,
       "title": "בעלייתי שם יפתי",
       "alt_titles": [
         "יללת הרוח",
@@ -34597,7 +34477,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 258,
+      "index": 257,
       "title": "בזכותם",
       "alt_titles": [
         "בזכותם קיים",
@@ -34716,7 +34596,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 259,
+      "index": 258,
       "title": "שיר לכת",
       "alt_titles": [
         "איזו שמש מבורכת"
@@ -34800,7 +34680,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 260,
+      "index": 259,
       "title": "כריש",
       "alt_titles": [
         "הכריש",
@@ -34908,7 +34788,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 261,
+      "index": 260,
       "title": "יפעת",
       "alt_titles": [],
       "opening_line": "עיר זרה ורוח בפנים על העיר חופה של עננים",
@@ -35020,7 +34900,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 262,
+      "index": 261,
       "title": "תן כתף",
       "alt_titles": [
         "תן תן כתף כי בחשך שעוטף ובלב הסערה"
@@ -35148,7 +35028,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 263,
+      "index": 262,
       "title": "תן כתף",
       "alt_titles": [
         "תן תן כתף כי בחשך שעוטף ובלב הסערה"
@@ -35276,7 +35156,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 264,
+      "index": 263,
       "title": "את הכי הכי",
       "alt_titles": [],
       "opening_line": "את הכי הכי אסור שתברחי",
@@ -35377,7 +35257,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 265,
+      "index": 264,
       "title": "פרדס חנה בשבת",
       "alt_titles": [],
       "opening_line": "מענפי האבוקדו כל הלילה פרי נשר",
@@ -35464,7 +35344,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 266,
+      "index": 265,
       "title": "אל תלכי מכאן",
       "alt_titles": [
         "אל תלך מכאן",
@@ -35624,7 +35504,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 267,
+      "index": 266,
       "title": "התחדשות אחרת",
       "alt_titles": [],
       "opening_line": "עיפות בלתי מוסברת פיק ברכיים לא מובן",
@@ -35741,7 +35621,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 268,
+      "index": 267,
       "title": "לאורך הטיילת",
       "alt_titles": [
         "לארך הטילת",
@@ -35831,7 +35711,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 269,
+      "index": 268,
       "title": "ליבבתיני",
       "alt_titles": [
         "לבבתיני"
@@ -35927,7 +35807,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 270,
+      "index": 269,
       "title": "אחר קציר",
       "alt_titles": [],
       "opening_line": "אחר קציר נפשי המתאבלת",
@@ -36039,7 +35919,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 271,
+      "index": 270,
       "title": "על ראש שמחתי",
       "alt_titles": [],
       "opening_line": "על ראש שמחתי ענדתי זר",
@@ -36155,7 +36035,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 272,
+      "index": 271,
       "title": "ילד רע תל אביב",
       "alt_titles": [
         "ילד רע תל-אביב"
@@ -36232,7 +36112,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 273,
+      "index": 272,
       "title": "עוד מעט מסך",
       "alt_titles": [
         "שוב יורד מסך",
@@ -36318,7 +36198,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 274,
+      "index": 273,
       "title": "אישה על החוף",
       "alt_titles": [
         "אשה על החוף"
@@ -36439,7 +36319,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 275,
+      "index": 274,
       "title": "מוזיקה",
       "alt_titles": [
         "מוסיקה"
@@ -36539,7 +36419,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 276,
+      "index": 275,
       "title": "שיר ערש למקרים מיוחדים",
       "alt_titles": [
         "נומי בת",
@@ -36641,7 +36521,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 277,
+      "index": 276,
       "title": "בניך מרחוק",
       "alt_titles": [
         "בנייך מרחוק",
@@ -36760,7 +36640,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 278,
+      "index": 277,
       "title": "למבדה על החוף",
       "alt_titles": [
         "ילד של אמא",
@@ -36849,7 +36729,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 279,
+      "index": 278,
       "title": "והוא יושיענו",
       "alt_titles": [
         "והוא יושיעני",
@@ -36990,7 +36870,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 280,
+      "index": 279,
       "title": "עיר ואם",
       "alt_titles": [],
       "opening_line": "עיר ואם לב פועם עין כל רואה",
@@ -37109,7 +36989,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 281,
+      "index": 280,
       "title": "מי ידליק",
       "alt_titles": [
         "הולכים בחשך אור גדול יראו",
@@ -37229,6 +37109,126 @@
       "ver_idx": 1,
       "ver_total": 2,
       "layer2_chapter": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "song_year": "1998",
+      "recording_year": "1998",
+      "year_source": "original_inherited"
+    },
+    {
+      "index": 281,
+      "title": "יובל",
+      "alt_titles": [],
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "year": "1998",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer",
+        "arranger"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "nli"
+      ],
+      "catalog_performers": [
+        "דורית פרקש",
+        "הכל עובר חביבי",
+        "גידי גוב ונעמי שמר",
+        "נעמי שמר",
+        "גוב גידי ונעמי שמר",
+        "מקהלת הדיסקונטאים",
+        "להקת רפאלה"
+      ],
+      "catalog_albums": [
+        "נעמי שמר על כל אלה",
+        "2 הכל עובר חביבי המיטב",
+        "אהבתי",
+        "להקת הדיסקונטאים",
+        "על גג העולם",
+        "רפאל",
+        "תלווי אותי האוסף הכל עובר חביבי",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "נעמי שמר - סימני דרך"
+      ],
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "selected_video": {
+        "video_id": "AoGcmpu5D4Y",
+        "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
+        "video_title": "שיר יובל - גידי גוב ונעמי שמר",
+        "channel": "Nogaro",
+        "duration": "4:06",
+        "description": "מתוך תוכנית יום העצמאות (50) של שידורי טלעד.",
+        "tier": "3_naomi_performance",
+        "tier_label": "3. ביצוע של נעמי שמר",
+        "matched_performer": "נעמי שמר וגידי גוב",
+        "matched_album": "",
+        "score": 2837
+      },
+      "alternative_videos": [
+        {
+          "video_id": "Pk0mm0ly7Og",
+          "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
+          "video_title": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
+          "channel": "דורית פרקש",
+          "duration": "3:50",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "cXln3eAat5g",
+          "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
+          "video_title": "שיר יובל- הכל עובר חביבי",
+          "channel": "Sharona Nastovich",
+          "duration": "5:02",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "odVOcsR91qQ",
+          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
+          "video_title": "שיר יובל - נעמי שמר",
+          "channel": "eli natan",
+          "duration": "3:05",
+          "views": "",
+          "source": "direct_alternative"
+        }
+      ],
+      "chrono_index": 642,
+      "canonical_score": 198.9,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 16,
+      "dual_role": "original_performance",
+      "ver_idx": 1,
+      "ver_total": 3,
+      "matched_performer": "נעמי שמר וגידי גוב",
       "song_year": "1998",
       "recording_year": "1998",
       "year_source": "original_inherited"
@@ -74999,244 +74999,6 @@
     },
     {
       "index": 608,
-      "title": "יובל",
-      "alt_titles": [],
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "year": "1998",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer",
-        "arranger"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "nli"
-      ],
-      "catalog_performers": [
-        "דורית פרקש",
-        "הכל עובר חביבי",
-        "גידי גוב ונעמי שמר",
-        "נעמי שמר",
-        "גוב גידי ונעמי שמר",
-        "מקהלת הדיסקונטאים",
-        "להקת רפאלה"
-      ],
-      "catalog_albums": [
-        "נעמי שמר על כל אלה",
-        "2 הכל עובר חביבי המיטב",
-        "אהבתי",
-        "להקת הדיסקונטאים",
-        "על גג העולם",
-        "רפאל",
-        "תלווי אותי האוסף הכל עובר חביבי",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "נעמי שמר - סימני דרך"
-      ],
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "selected_video": {
-        "video_id": "cXln3eAat5g",
-        "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
-        "video_title": "שיר יובל - הכל עובר חביבי (1998)",
-        "channel": "Sharona Nastovich",
-        "duration": "5:02",
-        "description": "מילים ולחן: נעמי שמר · ביצוע: הכל עובר חביבי",
-        "tier": "4_original_performance",
-        "tier_label": "4. ביצוע מקורי",
-        "matched_performer": "הכל עובר חביבי",
-        "matched_album": "",
-        "score": 3200
-      },
-      "alternative_videos": [
-        {
-          "video_id": "Pk0mm0ly7Og",
-          "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
-          "video_title": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
-          "channel": "דורית פרקש",
-          "duration": "3:50",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "odVOcsR91qQ",
-          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
-          "video_title": "שיר יובל - נעמי שמר",
-          "channel": "eli natan",
-          "duration": "3:05",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "AoGcmpu5D4Y",
-          "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
-          "video_title": "שיר יובל - גידי גוב ונעמי שמר",
-          "channel": "Nogaro",
-          "duration": "4:06",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 641,
-      "canonical_score": 198.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 16,
-      "dual_role": "additional_performance",
-      "ver_idx": 2,
-      "ver_total": 3,
-      "song_year": "1998",
-      "recording_year": "1998",
-      "year_source": "archive_desc"
-    },
-    {
-      "index": 609,
-      "title": "יובל",
-      "alt_titles": [],
-      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
-      "year": "1998",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer",
-        "arranger"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "nli"
-      ],
-      "catalog_performers": [
-        "דורית פרקש",
-        "הכל עובר חביבי",
-        "גידי גוב ונעמי שמר",
-        "נעמי שמר",
-        "גוב גידי ונעמי שמר",
-        "מקהלת הדיסקונטאים",
-        "להקת רפאלה"
-      ],
-      "catalog_albums": [
-        "נעמי שמר על כל אלה",
-        "2 הכל עובר חביבי המיטב",
-        "אהבתי",
-        "להקת הדיסקונטאים",
-        "על גג העולם",
-        "רפאל",
-        "תלווי אותי האוסף הכל עובר חביבי",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "נעמי שמר - סימני דרך"
-      ],
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "selected_video": {
-        "video_id": "Pk0mm0ly7Og",
-        "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
-        "video_title": "דורית פרקש - יובל (1998)",
-        "channel": "דורית פרקש",
-        "duration": "3:50",
-        "description": "ביצוע מקורי: דורית פרקש",
-        "tier": "2_album_original",
-        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "דורית פרקש",
-        "matched_album": "",
-        "score": 3000
-      },
-      "alternative_videos": [
-        {
-          "video_id": "cXln3eAat5g",
-          "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
-          "video_title": "שיר יובל- הכל עובר חביבי",
-          "channel": "Sharona Nastovich",
-          "duration": "5:02",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "odVOcsR91qQ",
-          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
-          "video_title": "שיר יובל - נעמי שמר",
-          "channel": "eli natan",
-          "duration": "3:05",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "AoGcmpu5D4Y",
-          "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
-          "video_title": "שיר יובל - גידי גוב ונעמי שמר",
-          "channel": "Nogaro",
-          "duration": "4:06",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 643,
-      "canonical_score": 198.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 16,
-      "dual_role": "additional_performance",
-      "ver_idx": 3,
-      "ver_total": 3,
-      "song_year": "1998",
-      "recording_year": "1998",
-      "year_source": "original_inherited"
-    },
-    {
-      "index": 610,
       "title": "מר נרקיס",
       "alt_titles": [],
       "opening_line": "יום ששי בצהרים דוקא בשעה טובה",
@@ -75373,7 +75135,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 611,
+      "index": 609,
       "title": "שיר נולד",
       "alt_titles": [
         "שיר נולד הקשיבו שיר נולד הלילה"
@@ -75496,7 +75258,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 612,
+      "index": 610,
       "title": "המעיל",
       "alt_titles": [
         "חברים שלי עשו לי מעיל"
@@ -75612,7 +75374,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 613,
+      "index": 611,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -75748,7 +75510,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 614,
+      "index": 612,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -75884,7 +75646,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 615,
+      "index": 613,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -76006,7 +75768,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 616,
+      "index": 614,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -76121,7 +75883,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 617,
+      "index": 615,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -76236,7 +75998,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 618,
+      "index": 616,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -76385,7 +76147,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 619,
+      "index": 617,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -76499,7 +76261,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 620,
+      "index": 618,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -76625,7 +76387,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 621,
+      "index": 619,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -76748,7 +76510,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 622,
+      "index": 620,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -76869,7 +76631,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 623,
+      "index": 621,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -76985,7 +76747,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 624,
+      "index": 622,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -77103,7 +76865,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 625,
+      "index": 623,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -77221,7 +76983,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 626,
+      "index": 624,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -77348,7 +77110,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 627,
+      "index": 625,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -77475,7 +77237,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 628,
+      "index": 626,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -77602,7 +77364,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 629,
+      "index": 627,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -77717,7 +77479,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 630,
+      "index": 628,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -77819,7 +77581,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 631,
+      "index": 629,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -77961,7 +77723,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 632,
+      "index": 630,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -78096,7 +77858,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 633,
+      "index": 631,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -78215,7 +77977,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 634,
+      "index": 632,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -78369,7 +78131,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 635,
+      "index": 633,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -78523,7 +78285,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 636,
+      "index": 634,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -78661,7 +78423,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 637,
+      "index": 635,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -78758,7 +78520,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 638,
+      "index": 636,
       "title": "מסעות בנימין מטודלה",
       "alt_titles": [],
       "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
@@ -78868,7 +78630,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 639,
+      "index": 637,
       "title": "אהבת אשתקד",
       "alt_titles": [],
       "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
@@ -78961,7 +78723,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 640,
+      "index": 638,
       "title": "גיא",
       "alt_titles": [],
       "opening_line": "גיא אתה ואני ודי אני ואתה",
@@ -79082,7 +78844,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 641,
+      "index": 639,
       "title": "שיר הבר",
       "alt_titles": [
         "טנגו",
@@ -79201,7 +78963,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 642,
+      "index": 640,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -79340,7 +79102,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 643,
+      "index": 641,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -79488,7 +79250,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 644,
+      "index": 642,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -79612,7 +79374,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 645,
+      "index": 643,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -79736,7 +79498,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 646,
+      "index": 644,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -79873,7 +79635,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 647,
+      "index": 645,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -80010,7 +79772,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 648,
+      "index": 646,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -80147,7 +79909,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 649,
+      "index": 647,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -80268,7 +80030,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 650,
+      "index": 648,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -80398,7 +80160,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 651,
+      "index": 649,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -80528,7 +80290,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 652,
+      "index": 650,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -80658,7 +80420,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 653,
+      "index": 651,
       "title": "קפה שחור",
       "alt_titles": [],
       "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
@@ -80779,7 +80541,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 654,
+      "index": 652,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -80904,7 +80666,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 655,
+      "index": 653,
       "title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -81006,7 +80768,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 656,
+      "index": 654,
       "title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -81108,7 +80870,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 657,
+      "index": 655,
       "title": "מה אמרו הציפורים",
       "alt_titles": [
         "מה אמרו הצפרים",
@@ -81236,7 +80998,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 658,
+      "index": 656,
       "title": "יפעת",
       "alt_titles": [],
       "opening_line": "עיר זרה ורוח בפנים על העיר חופה של עננים",
@@ -81347,7 +81109,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 659,
+      "index": 657,
       "title": "את הכי הכי",
       "alt_titles": [],
       "opening_line": "את הכי הכי אסור שתברחי",
@@ -81446,7 +81208,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 660,
+      "index": 658,
       "title": "שיר ערש למקרים מיוחדים",
       "alt_titles": [
         "נומי בת",
@@ -81556,7 +81318,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 661,
+      "index": 659,
       "title": "והוא יושיענו",
       "alt_titles": [
         "והוא יושיעני",
@@ -81696,7 +81458,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 662,
+      "index": 660,
       "title": "והוא יושיענו",
       "alt_titles": [
         "והוא יושיעני",
@@ -81836,7 +81598,7 @@
       "year_source": "manual_verified"
     },
     {
-      "index": 663,
+      "index": 661,
       "title": "מי ידליק",
       "alt_titles": [
         "הולכים בחשך אור גדול יראו",
@@ -81958,6 +81720,244 @@
       "song_year": "1998",
       "recording_year": "1998",
       "year_source": "canonical_album"
+    },
+    {
+      "index": 662,
+      "title": "יובל",
+      "alt_titles": [],
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "year": "1998",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer",
+        "arranger"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "nli"
+      ],
+      "catalog_performers": [
+        "דורית פרקש",
+        "הכל עובר חביבי",
+        "גידי גוב ונעמי שמר",
+        "נעמי שמר",
+        "גוב גידי ונעמי שמר",
+        "מקהלת הדיסקונטאים",
+        "להקת רפאלה"
+      ],
+      "catalog_albums": [
+        "נעמי שמר על כל אלה",
+        "2 הכל עובר חביבי המיטב",
+        "אהבתי",
+        "להקת הדיסקונטאים",
+        "על גג העולם",
+        "רפאל",
+        "תלווי אותי האוסף הכל עובר חביבי",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "נעמי שמר - סימני דרך"
+      ],
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "selected_video": {
+        "video_id": "cXln3eAat5g",
+        "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
+        "video_title": "שיר יובל - הכל עובר חביבי (1998)",
+        "channel": "Sharona Nastovich",
+        "duration": "5:02",
+        "description": "מילים ולחן: נעמי שמר · ביצוע: הכל עובר חביבי",
+        "tier": "4_original_performance",
+        "tier_label": "4. ביצוע מקורי",
+        "matched_performer": "הכל עובר חביבי",
+        "matched_album": "",
+        "score": 3200
+      },
+      "alternative_videos": [
+        {
+          "video_id": "Pk0mm0ly7Og",
+          "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
+          "video_title": "דורית פרקש -נעמי שמר     ''יובל''   - Naomi Shemer",
+          "channel": "דורית פרקש",
+          "duration": "3:50",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "odVOcsR91qQ",
+          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
+          "video_title": "שיר יובל - נעמי שמר",
+          "channel": "eli natan",
+          "duration": "3:05",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "AoGcmpu5D4Y",
+          "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
+          "video_title": "שיר יובל - גידי גוב ונעמי שמר",
+          "channel": "Nogaro",
+          "duration": "4:06",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 641,
+      "canonical_score": 198.9,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 16,
+      "dual_role": "additional_performance",
+      "ver_idx": 2,
+      "ver_total": 3,
+      "song_year": "1998",
+      "recording_year": "1998",
+      "year_source": "archive_desc"
+    },
+    {
+      "index": 663,
+      "title": "יובל",
+      "alt_titles": [],
+      "opening_line": "מי שאוהב אוהב מי ששונא שונא",
+      "year": "1998",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer",
+        "arranger"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1097302",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "nli"
+      ],
+      "catalog_performers": [
+        "דורית פרקש",
+        "הכל עובר חביבי",
+        "גידי גוב ונעמי שמר",
+        "נעמי שמר",
+        "גוב גידי ונעמי שמר",
+        "מקהלת הדיסקונטאים",
+        "להקת רפאלה"
+      ],
+      "catalog_albums": [
+        "נעמי שמר על כל אלה",
+        "2 הכל עובר חביבי המיטב",
+        "אהבתי",
+        "להקת הדיסקונטאים",
+        "על גג העולם",
+        "רפאל",
+        "תלווי אותי האוסף הכל עובר חביבי",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "נעמי שמר - סימני דרך"
+      ],
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "selected_video": {
+        "video_id": "Pk0mm0ly7Og",
+        "url": "https://www.youtube.com/watch?v=Pk0mm0ly7Og",
+        "video_title": "דורית פרקש - יובל (1998)",
+        "channel": "דורית פרקש",
+        "duration": "3:50",
+        "description": "ביצוע מקורי: דורית פרקש",
+        "tier": "2_album_original",
+        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+        "matched_performer": "דורית פרקש",
+        "matched_album": "",
+        "score": 3000
+      },
+      "alternative_videos": [
+        {
+          "video_id": "cXln3eAat5g",
+          "url": "https://www.youtube.com/watch?v=cXln3eAat5g",
+          "video_title": "שיר יובל- הכל עובר חביבי",
+          "channel": "Sharona Nastovich",
+          "duration": "5:02",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "odVOcsR91qQ",
+          "url": "https://www.youtube.com/watch?v=odVOcsR91qQ",
+          "video_title": "שיר יובל - נעמי שמר",
+          "channel": "eli natan",
+          "duration": "3:05",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "AoGcmpu5D4Y",
+          "url": "https://www.youtube.com/watch?v=AoGcmpu5D4Y",
+          "video_title": "שיר יובל - גידי גוב ונעמי שמר",
+          "channel": "Nogaro",
+          "duration": "4:06",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 643,
+      "canonical_score": 198.9,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 16,
+      "dual_role": "additional_performance",
+      "ver_idx": 3,
+      "ver_total": 3,
+      "song_year": "1998",
+      "recording_year": "1998",
+      "year_source": "original_inherited"
     },
     {
       "index": 664,

@@ -323,9 +323,6 @@ https://www.youtube.com/watch?v=MtwqXXIN6Xs
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042540205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6728
 https://www.youtube.com/watch?v=5v77wNxd8Kw
-https://www.youtube.com/watch?v=AoGcmpu5D4Y
-https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI
-https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070
 https://www.youtube.com/watch?v=SgzeIwaaGMU
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043340205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5770
@@ -704,6 +701,9 @@ https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9579
 https://www.youtube.com/watch?v=nvaUD-WzYDQ
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042730205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6649
+https://www.youtube.com/watch?v=AoGcmpu5D4Y
+https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041950205171/NLI
+https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6070
 https://www.youtube.com/watch?v=iz3Et-1Ywe8
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042170205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6989
@@ -1222,8 +1222,6 @@ https://www.youtube.com/watch?v=xI2m7tKJ40E
 https://www.youtube.com/watch?v=YS6EfEQu1ik
 https://www.youtube.com/watch?v=hDqbO57hnyQ
 https://www.youtube.com/watch?v=EfcKLvzIDRw
-https://www.youtube.com/watch?v=cXln3eAat5g
-https://www.youtube.com/watch?v=Pk0mm0ly7Og
 https://www.youtube.com/watch?v=KvBOUWSO1PM
 https://www.youtube.com/watch?v=vNw21mQVfKM
 https://www.youtube.com/watch?v=H9f2NJOxcz0
@@ -1278,6 +1276,8 @@ https://www.youtube.com/watch?v=tpe1wARxPSs
 https://www.youtube.com/watch?v=3wNpnpA5K-w
 https://www.youtube.com/watch?v=2LRsVjehz44
 https://www.youtube.com/watch?v=SZhwVVZuRkY
+https://www.youtube.com/watch?v=cXln3eAat5g
+https://www.youtube.com/watch?v=Pk0mm0ly7Og
 https://www.youtube.com/watch?v=CwORk-NwrQM
 https://www.youtube.com/watch?v=_JG62QmM-QE
 https://www.youtube.com/watch?v=XeD27Barwbk
