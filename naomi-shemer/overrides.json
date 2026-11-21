@@ -72,9 +72,9 @@
   },
   "video_trim_bounds": {
     "kF_MJiReEn0": {
-      "start": 20,
+      "start": 19,
       "end": 174,
-      "reason": "חיתוך פתיחת הדיבור הביתית (0:00–0:20) ושילוב 'התקווה' בסיום (מ־2:54)"
+      "reason": "חיתוך פתיחת הדיבור הביתית (0:00–0:19) ושילוב 'התקווה' בסיום (מ־2:54)"
     }
   },
   "performance_only_strict_creator_match": true,
