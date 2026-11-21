@@ -21494,6 +21494,142 @@
     },
     {
       "index": 143,
+      "title": "קרן יער",
+      "alt_titles": [
+        "קרן סהר",
+        "לו היתה לי קרן יער"
+      ],
+      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
+      "year": "1969",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030840",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "יהורם גאון",
+        "הגבעטרון",
+        "שלישיית אדלר",
+        "מקהלה",
+        "דליה עמיהוד",
+        "שולי נתן",
+        "שלמה ממן",
+        "חבורת הזמר תלמה"
+      ],
+      "catalog_albums": [
+        "1 נעמי שמר - אסיף",
+        "אחר קציר הגבעטרון בשירי נעמי שמר",
+        "אחר קציר שירי נעמי שמר",
+        "ארצי מולדתי שיריה היפים של נעמי שמר",
+        "שיריה היפים של נעמי שמר",
+        "1 ארבעים להיטי זהב",
+        "5 האוסף של יהורם גאון",
+        "אוסף הגבעטרון א שוב יוצא הזמר",
+        "איפה את אהובה",
+        "אני עושה לי מנגינות",
+        "נעמי שמר - שירי זמר נודד (1973)",
+        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
+        "סימני דרך = Road Signs",
+        "נעמי שמר - אסיף",
+        "שירונט"
+      ],
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "selected_video": {
+        "video_id": "Okj7fK4VSOA",
+        "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
+        "video_title": "קרן יער",
+        "channel": "Yehoram Gaon - Topic",
+        "duration": "2:31",
+        "description": "יהורם גאון (איפה את אהובה (1969))",
+        "tier": "5_cover",
+        "tier_label": "5. ביצוע מחודש / קאבר",
+        "matched_performer": "יהורם גאון",
+        "matched_album": "איפה את אהובה (1969)",
+        "score": 3200
+      },
+      "alternative_videos": [
+        {
+          "video_id": "PZCoJRSnWcg",
+          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
+          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
+          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "duration": "2:42",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "qpa3PzEpSDw",
+          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
+          "video_title": "להקת הכרמלים - קרן יער שלי",
+          "channel": "סימה",
+          "duration": "1:52",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "P7eGfaq3E_s",
+          "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
+          "video_title": "קרן יער",
+          "channel": "Release - Topic",
+          "duration": "2:23",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "GyiSOeKOK8s",
+          "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
+          "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
+          "channel": "הגבעטרון | האלבומים הגדולים",
+          "duration": "2:44",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 258,
+      "canonical_score": 167.1,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 14,
+      "dual_role": "additional_performance",
+      "ver_idx": 1,
+      "ver_total": 3,
+      "song_year": "1968",
+      "recording_year": "1969",
+      "year_source": "topic_album"
+    },
+    {
+      "index": 144,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -21614,7 +21750,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 144,
+      "index": 145,
       "title": "על הדרך עץ עומד",
       "alt_titles": [
         "OIFEN WEG SHTEIT A BOYM",
@@ -21792,7 +21928,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 145,
+      "index": 146,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -21907,7 +22043,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 146,
+      "index": 147,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -22047,7 +22183,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 147,
+      "index": 148,
       "title": "לחם האוהבים",
       "alt_titles": [
         "לחם האהבים",
@@ -22174,7 +22310,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 148,
+      "index": 149,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -22288,7 +22424,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 149,
+      "index": 150,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -22423,7 +22559,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 150,
+      "index": 151,
       "title": "האם השלישית",
       "alt_titles": [],
       "opening_line": "אמהות שרות אמהות שרות אגרוף רעם נתך",
@@ -22532,7 +22668,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 151,
+      "index": 152,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -22655,7 +22791,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 152,
+      "index": 153,
       "title": "ספני שלמה המלך (לחן ב')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -22778,7 +22914,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 153,
+      "index": 154,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -22898,7 +23034,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 154,
+      "index": 155,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -22995,7 +23131,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 155,
+      "index": 156,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -23092,7 +23228,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 156,
+      "index": 157,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -23208,7 +23344,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 157,
+      "index": 158,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -23326,7 +23462,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 158,
+      "index": 159,
       "title": "על נהרות בבל",
       "alt_titles": [
         "[[על נהרות בבל",
@@ -23415,7 +23551,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 159,
+      "index": 160,
       "title": "האיר השחר",
       "alt_titles": [],
       "opening_line": "ומבעד לחג חמשים ומבעד לרשעות מגליו של הזמן הקוצר",
@@ -23529,7 +23665,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 160,
+      "index": 161,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -23656,7 +23792,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 161,
+      "index": 162,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -23784,7 +23920,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 162,
+      "index": 163,
       "title": "קלי קלות",
       "alt_titles": [],
       "opening_line": "שלחתי עפיפון על חוטי הטלפון",
@@ -23876,7 +24012,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 163,
+      "index": 164,
       "title": "קולך מן הסופה",
       "alt_titles": [
         "כמה דרכים תעבור בן אדם",
@@ -23973,7 +24109,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 164,
+      "index": 165,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24072,7 +24208,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 165,
+      "index": 166,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24171,7 +24307,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 166,
+      "index": 167,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -24280,7 +24416,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 167,
+      "index": 168,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -24389,7 +24525,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 168,
+      "index": 169,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -24505,7 +24641,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 169,
+      "index": 170,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -24608,7 +24744,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 170,
+      "index": 171,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -24751,7 +24887,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 171,
+      "index": 172,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -24894,7 +25030,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 172,
+      "index": 173,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25030,7 +25166,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 173,
+      "index": 174,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25166,7 +25302,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 174,
+      "index": 175,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -25286,7 +25422,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 175,
+      "index": 176,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -25440,7 +25576,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 176,
+      "index": 177,
       "title": "פרי חדש",
       "alt_titles": [
         "שיר הפירות"
@@ -25538,7 +25674,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 177,
+      "index": 178,
       "title": "פרי חדש",
       "alt_titles": [
         "שיר הפירות"
@@ -25636,7 +25772,7 @@
       "year_source": "discogs"
     },
     {
-      "index": 178,
+      "index": 179,
       "title": "הללויה",
       "alt_titles": [],
       "opening_line": "אם בשבת אחים יחד הללויה",
@@ -25720,7 +25856,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 179,
+      "index": 180,
       "title": "אין ויש",
       "alt_titles": [],
       "opening_line": "לנו אין נהרות אדירים וגשם בקיץ",
@@ -25831,7 +25967,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 180,
+      "index": 181,
       "title": "שש עשרה",
       "alt_titles": [],
       "opening_line": "בסנדלים על גשר הירקון",
@@ -25955,7 +26091,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 181,
+      "index": 182,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -26094,7 +26230,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 182,
+      "index": 183,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -26192,7 +26328,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 183,
+      "index": 184,
       "title": "שני צלמי רחוב",
       "alt_titles": [],
       "opening_line": "שני צלמי רחוב זרח וצלמונע",
@@ -26305,7 +26441,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 184,
+      "index": 185,
       "title": "מסעות בנימין מטודלה",
       "alt_titles": [],
       "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
@@ -26417,7 +26553,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 185,
+      "index": 186,
       "title": "למה צחקה מיכל",
       "alt_titles": [],
       "opening_line": "כשהחג היה בארץ והשמש בערה",
@@ -26513,7 +26649,7 @@
       "year_source": "manual_verified"
     },
     {
-      "index": 186,
+      "index": 187,
       "title": "גג",
       "alt_titles": [],
       "opening_line": "גנוב על העיר הזאת נעול עליה",
@@ -26604,7 +26740,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 187,
+      "index": 188,
       "title": "ילדה ברבור",
       "alt_titles": [
         "ילדה-ברבור"
@@ -26712,7 +26848,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 188,
+      "index": 189,
       "title": "פרלוד",
       "alt_titles": [
         "פרילוד"
@@ -26807,7 +26943,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 189,
+      "index": 190,
       "title": "פרלוד",
       "alt_titles": [
         "פרילוד"
@@ -26902,7 +27038,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 190,
+      "index": 191,
       "title": "אהבת אשתקד",
       "alt_titles": [],
       "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
@@ -26996,7 +27132,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 191,
+      "index": 192,
       "title": "תות",
       "alt_titles": [
         "אם את רוצה לגרום לי נחת"
@@ -27109,7 +27245,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 192,
+      "index": 193,
       "title": "גיא",
       "alt_titles": [],
       "opening_line": "גיא אתה ואני ודי אני ואתה",
@@ -27231,7 +27367,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 193,
+      "index": 194,
       "title": "חפצים אישיים",
       "alt_titles": [
         "קלידים הלבנים והשחורים את מגע ידה הקל זוכרים"
@@ -27336,7 +27472,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 194,
+      "index": 195,
       "title": "בראשון לספטמבר",
       "alt_titles": [],
       "opening_line": "בראשון לספטמבר אלף תשע מאות ששים",
@@ -27445,7 +27581,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 195,
+      "index": 196,
       "title": "עלי שלכת",
       "alt_titles": [],
       "opening_line": "עוד מהלכת הרוח בגן עוד מספר אגדות השושן",
@@ -27551,7 +27687,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 196,
+      "index": 197,
       "title": "שיר הבר",
       "alt_titles": [
         "טנגו",
@@ -27671,7 +27807,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 197,
+      "index": 198,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -27811,7 +27947,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 198,
+      "index": 199,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -27936,7 +28072,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 199,
+      "index": 200,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -28074,7 +28210,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 200,
+      "index": 201,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -28212,7 +28348,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 201,
+      "index": 202,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -28334,7 +28470,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 202,
+      "index": 203,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -28456,7 +28592,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 203,
+      "index": 204,
       "title": "אשרוק לי שיר עליז",
       "alt_titles": [
         "I WHISTLE A HAPPY TUNE",
@@ -28564,7 +28700,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 204,
+      "index": 205,
       "title": "אדון ומלך",
       "alt_titles": [],
       "opening_line": "הוא מביט אלי אדון ומלך והוא אומר יפה היא בעיני",
@@ -28643,7 +28779,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 205,
+      "index": 206,
       "title": "אקרא שלום",
       "alt_titles": [
         "אקרא לשלום",
@@ -28724,7 +28860,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 206,
+      "index": 207,
       "title": "חידתיות",
       "alt_titles": [
         "לפעמים אני בטוח כבר ששום דבר"
@@ -28804,7 +28940,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 207,
+      "index": 208,
       "title": "להתוודע",
       "alt_titles": [
         "להתודע",
@@ -28886,7 +29022,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 208,
+      "index": 209,
       "title": "בצל ובאופל",
       "alt_titles": [],
       "opening_line": "בצל הרחק מן האור אותך אנשק חמדת לבבי",
@@ -28967,7 +29103,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 209,
+      "index": 210,
       "title": "שפחה שפחה",
       "alt_titles": [],
       "opening_line": "שפחה שפחה אני איני שפחה",
@@ -29045,7 +29181,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 210,
+      "index": 211,
       "title": "דבר מה נפלא כל כך",
       "alt_titles": [
         "דבר מה נפלא"
@@ -29126,7 +29262,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 211,
+      "index": 212,
       "title": "בחלום",
       "alt_titles": [],
       "opening_line": "בחלום את קולך שמעתי בחלום לי נגלית כולך",
@@ -29206,7 +29342,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 212,
+      "index": 213,
       "title": "משל סיאמי",
       "alt_titles": [
         "אשה היא הנקבה של הגבר",
@@ -29288,7 +29424,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 213,
+      "index": 214,
       "title": "הנרקוד",
       "alt_titles": [
         "הנרקד",
@@ -29375,7 +29511,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 214,
+      "index": 215,
       "title": "מה שיהיה יהיה",
       "alt_titles": [
         "QUE SERA SERA",
@@ -29467,7 +29603,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 215,
+      "index": 216,
       "title": "שיר לחג עשור",
       "alt_titles": [
         "כל הבקר הכנרת לא חדלה לסער"
@@ -29601,7 +29737,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 216,
+      "index": 217,
       "title": "שיר לחג עשור",
       "alt_titles": [
         "כל הבקר הכנרת לא חדלה לסער"
@@ -29735,7 +29871,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 217,
+      "index": 218,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -29866,7 +30002,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 218,
+      "index": 219,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -29997,7 +30133,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 219,
+      "index": 220,
       "title": "רוקדת",
       "alt_titles": [],
       "opening_line": "גרטרוד קראוס באה מארופה",
@@ -30107,7 +30243,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 220,
+      "index": 221,
       "title": "מצעד האביב",
       "alt_titles": [],
       "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
@@ -30241,7 +30377,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 221,
+      "index": 222,
       "title": "מצעד האביב",
       "alt_titles": [],
       "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
@@ -30375,7 +30511,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 222,
+      "index": 223,
       "title": "קפה שחור",
       "alt_titles": [],
       "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
@@ -30497,7 +30633,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 223,
+      "index": 224,
       "title": "ספני שלמה המלך (לחן א')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -30577,7 +30713,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 224,
+      "index": 225,
       "title": "שיר לגדעון",
       "alt_titles": [
         "זמר לגדעון"
@@ -30698,7 +30834,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 225,
+      "index": 226,
       "title": "חיילים יצאו לדרך",
       "alt_titles": [
         "חילים יצאו לדרך",
@@ -30835,7 +30971,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 226,
+      "index": 227,
       "title": "חיילים יצאו לדרך",
       "alt_titles": [
         "חילים יצאו לדרך",
@@ -30972,7 +31108,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 227,
+      "index": 228,
       "title": "ורד בר",
       "alt_titles": [
         "עלמה חיוורת",
@@ -31080,7 +31216,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 228,
+      "index": 229,
       "title": "ורד בר",
       "alt_titles": [
         "עלמה חיוורת",
@@ -31188,7 +31324,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 229,
+      "index": 230,
       "title": "זהירות בונים כאן",
       "alt_titles": [
         "זהירות, בונים!",
@@ -31313,7 +31449,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 230,
+      "index": 231,
       "title": "זהירות בונים כאן",
       "alt_titles": [
         "זהירות, בונים!",
@@ -31438,7 +31574,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 231,
+      "index": 232,
       "title": "הטיול הגדול",
       "alt_titles": [],
       "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
@@ -31572,7 +31708,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 232,
+      "index": 233,
       "title": "הטיול הגדול",
       "alt_titles": [],
       "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
@@ -31706,7 +31842,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 233,
+      "index": 234,
       "title": "עוד לא אכלנו",
       "alt_titles": [
         "שיר האוכל"
@@ -31827,7 +31963,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 234,
+      "index": 235,
       "title": "לכבודך",
       "alt_titles": [],
       "opening_line": "הוא אמר צבעתי בשלכת את העיר",
@@ -31943,7 +32079,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 235,
+      "index": 236,
       "title": "לכבודך",
       "alt_titles": [],
       "opening_line": "הוא אמר צבעתי בשלכת את העיר",
@@ -32059,7 +32195,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 236,
+      "index": 237,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -32185,7 +32321,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 237,
+      "index": 238,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -32309,142 +32445,6 @@
       "song_year": "1968",
       "recording_year": "1968",
       "year_source": "canonical_album"
-    },
-    {
-      "index": 238,
-      "title": "קרן יער",
-      "alt_titles": [
-        "קרן סהר",
-        "לו היתה לי קרן יער"
-      ],
-      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
-      "year": "1969",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "יהורם גאון",
-        "הגבעטרון",
-        "שלישיית אדלר",
-        "מקהלה",
-        "דליה עמיהוד",
-        "שולי נתן",
-        "שלמה ממן",
-        "חבורת הזמר תלמה"
-      ],
-      "catalog_albums": [
-        "1 נעמי שמר - אסיף",
-        "אחר קציר הגבעטרון בשירי נעמי שמר",
-        "אחר קציר שירי נעמי שמר",
-        "ארצי מולדתי שיריה היפים של נעמי שמר",
-        "שיריה היפים של נעמי שמר",
-        "1 ארבעים להיטי זהב",
-        "5 האוסף של יהורם גאון",
-        "אוסף הגבעטרון א שוב יוצא הזמר",
-        "איפה את אהובה",
-        "אני עושה לי מנגינות",
-        "נעמי שמר - שירי זמר נודד (1973)",
-        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
-        "סימני דרך = Road Signs",
-        "נעמי שמר - אסיף",
-        "שירונט"
-      ],
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "selected_video": {
-        "video_id": "Okj7fK4VSOA",
-        "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
-        "video_title": "קרן יער",
-        "channel": "Yehoram Gaon - Topic",
-        "duration": "2:31",
-        "description": "יהורם גאון (איפה את אהובה (1969))",
-        "tier": "5_cover",
-        "tier_label": "5. ביצוע מחודש / קאבר",
-        "matched_performer": "יהורם גאון",
-        "matched_album": "איפה את אהובה (1969)",
-        "score": 3200
-      },
-      "alternative_videos": [
-        {
-          "video_id": "PZCoJRSnWcg",
-          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
-          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
-          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "duration": "2:42",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "qpa3PzEpSDw",
-          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
-          "video_title": "להקת הכרמלים - קרן יער שלי",
-          "channel": "סימה",
-          "duration": "1:52",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "P7eGfaq3E_s",
-          "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
-          "video_title": "קרן יער",
-          "channel": "Release - Topic",
-          "duration": "2:23",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "GyiSOeKOK8s",
-          "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
-          "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
-          "channel": "הגבעטרון | האלבומים הגדולים",
-          "duration": "2:44",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 258,
-      "canonical_score": 167.1,
-      "canonical_layer": 2,
-      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "acum_versions_count": 14,
-      "dual_role": "additional_performance",
-      "ver_idx": 1,
-      "ver_total": 3,
-      "song_year": "1968",
-      "recording_year": "1969",
-      "year_source": "topic_album"
     },
     {
       "index": 239,
@@ -75136,6 +75136,278 @@
     },
     {
       "index": 609,
+      "title": "קרן יער",
+      "alt_titles": [
+        "קרן סהר",
+        "לו היתה לי קרן יער"
+      ],
+      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
+      "year": "1968",
+      "album_group": "שולי נתן שרה נעמי שמר",
+      "album_track_number": 4,
+      "roles": [
+        "author",
+        "composer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030840",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "יהורם גאון",
+        "הגבעטרון",
+        "שלישיית אדלר",
+        "מקהלה",
+        "דליה עמיהוד",
+        "שולי נתן",
+        "שלמה ממן",
+        "חבורת הזמר תלמה"
+      ],
+      "catalog_albums": [
+        "1 נעמי שמר - אסיף",
+        "אחר קציר הגבעטרון בשירי נעמי שמר",
+        "אחר קציר שירי נעמי שמר",
+        "ארצי מולדתי שיריה היפים של נעמי שמר",
+        "שיריה היפים של נעמי שמר",
+        "1 ארבעים להיטי זהב",
+        "5 האוסף של יהורם גאון",
+        "אוסף הגבעטרון א שוב יוצא הזמר",
+        "איפה את אהובה",
+        "אני עושה לי מנגינות",
+        "נעמי שמר - שירי זמר נודד (1973)",
+        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
+        "סימני דרך = Road Signs",
+        "נעמי שמר - אסיף",
+        "שירונט"
+      ],
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "selected_video": {
+        "video_id": "P7eGfaq3E_s",
+        "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
+        "video_title": "קרן יער",
+        "channel": "Release - Topic",
+        "duration": "2:23",
+        "description": "Provided to YouTube · שולי נתן · מתוך האלבום: שולי נתן שרה נעמי שמר",
+        "tier": "2_album_original",
+        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+        "matched_performer": "שולי נתן",
+        "matched_album": "שולי נתן שרה נעמי שמר",
+        "score": 4000
+      },
+      "alternative_videos": [
+        {
+          "video_id": "Okj7fK4VSOA",
+          "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
+          "video_title": "קרן יער",
+          "channel": "YehoramGaonOfficial",
+          "duration": "2:32",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "PZCoJRSnWcg",
+          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
+          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
+          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "duration": "2:42",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "qpa3PzEpSDw",
+          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
+          "video_title": "להקת הכרמלים - קרן יער שלי",
+          "channel": "סימה",
+          "duration": "1:52",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "GyiSOeKOK8s",
+          "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
+          "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
+          "channel": "הגבעטרון | האלבומים הגדולים",
+          "duration": "2:44",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 243,
+      "canonical_score": 167.1,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 14,
+      "dual_role": "original_performance",
+      "ver_idx": 2,
+      "ver_total": 3,
+      "song_year": "1968",
+      "recording_year": "1968",
+      "year_source": "canonical_album"
+    },
+    {
+      "index": 610,
+      "title": "קרן יער",
+      "alt_titles": [
+        "קרן סהר",
+        "לו היתה לי קרן יער"
+      ],
+      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
+      "year": "1988",
+      "album_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
+      "album_track_number": "3",
+      "roles": [
+        "author",
+        "composer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030840",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "יהורם גאון",
+        "הגבעטרון",
+        "שלישיית אדלר",
+        "מקהלה",
+        "דליה עמיהוד",
+        "שולי נתן",
+        "שלמה ממן",
+        "חבורת הזמר תלמה"
+      ],
+      "catalog_albums": [
+        "1 נעמי שמר - אסיף",
+        "אחר קציר הגבעטרון בשירי נעמי שמר",
+        "אחר קציר שירי נעמי שמר",
+        "ארצי מולדתי שיריה היפים של נעמי שמר",
+        "שיריה היפים של נעמי שמר",
+        "1 ארבעים להיטי זהב",
+        "5 האוסף של יהורם גאון",
+        "אוסף הגבעטרון א שוב יוצא הזמר",
+        "איפה את אהובה",
+        "אני עושה לי מנגינות",
+        "נעמי שמר - שירי זמר נודד (1973)",
+        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
+        "סימני דרך = Road Signs",
+        "נעמי שמר - אסיף",
+        "שירונט"
+      ],
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "selected_video": {
+        "video_id": "GyiSOeKOK8s",
+        "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
+        "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
+        "channel": "הגבעטרון | האלבומים הגדולים",
+        "duration": "2:44",
+        "description": "ביצוע: הגבעטרון (אחר קציר - הגבעטרון בשירי נעמי שמר (1988))",
+        "tier": "5_cover",
+        "tier_label": "5. ביצוע מחודש / קאבר",
+        "matched_performer": "הגבעטרון",
+        "matched_album": "אחר קציר - הגבעטרון בשירי נעמי שמר (1988)",
+        "score": 3000
+      },
+      "alternative_videos": [
+        {
+          "video_id": "Okj7fK4VSOA",
+          "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
+          "video_title": "קרן יער",
+          "channel": "YehoramGaonOfficial",
+          "duration": "2:32",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "PZCoJRSnWcg",
+          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
+          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
+          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "duration": "2:42",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "qpa3PzEpSDw",
+          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
+          "video_title": "להקת הכרמלים - קרן יער שלי",
+          "channel": "סימה",
+          "duration": "1:52",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "P7eGfaq3E_s",
+          "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
+          "video_title": "קרן יער",
+          "channel": "Release - Topic",
+          "duration": "2:23",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 562,
+      "canonical_score": 167.1,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 14,
+      "dual_role": "additional_performance",
+      "ver_idx": 3,
+      "ver_total": 3,
+      "song_year": "1968",
+      "recording_year": "1988",
+      "year_source": "canonical_album"
+    },
+    {
+      "index": 611,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -75257,7 +75529,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 610,
+      "index": 612,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -75372,7 +75644,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 611,
+      "index": 613,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -75487,7 +75759,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 612,
+      "index": 614,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -75636,7 +75908,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 613,
+      "index": 615,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -75750,7 +76022,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 614,
+      "index": 616,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -75876,7 +76148,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 615,
+      "index": 617,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -75999,7 +76271,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 616,
+      "index": 618,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -76120,7 +76392,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 617,
+      "index": 619,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -76236,7 +76508,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 618,
+      "index": 620,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -76354,7 +76626,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 619,
+      "index": 621,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -76472,7 +76744,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 620,
+      "index": 622,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -76599,7 +76871,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 621,
+      "index": 623,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -76726,7 +76998,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 622,
+      "index": 624,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -76853,7 +77125,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 623,
+      "index": 625,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -76968,7 +77240,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 624,
+      "index": 626,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -77070,7 +77342,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 625,
+      "index": 627,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -77212,7 +77484,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 626,
+      "index": 628,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -77347,7 +77619,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 627,
+      "index": 629,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -77466,7 +77738,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 628,
+      "index": 630,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -77620,7 +77892,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 629,
+      "index": 631,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -77774,7 +78046,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 630,
+      "index": 632,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -77912,7 +78184,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 631,
+      "index": 633,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -78009,7 +78281,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 632,
+      "index": 634,
       "title": "מסעות בנימין מטודלה",
       "alt_titles": [],
       "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
@@ -78119,7 +78391,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 633,
+      "index": 635,
       "title": "אהבת אשתקד",
       "alt_titles": [],
       "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
@@ -78212,7 +78484,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 634,
+      "index": 636,
       "title": "גיא",
       "alt_titles": [],
       "opening_line": "גיא אתה ואני ודי אני ואתה",
@@ -78333,7 +78605,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 635,
+      "index": 637,
       "title": "שיר הבר",
       "alt_titles": [
         "טנגו",
@@ -78452,7 +78724,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 636,
+      "index": 638,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -78591,7 +78863,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 637,
+      "index": 639,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -78739,7 +79011,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 638,
+      "index": 640,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -78863,7 +79135,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 639,
+      "index": 641,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -78987,7 +79259,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 640,
+      "index": 642,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -79124,7 +79396,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 641,
+      "index": 643,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -79261,7 +79533,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 642,
+      "index": 644,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -79398,7 +79670,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 643,
+      "index": 645,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -79519,7 +79791,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 644,
+      "index": 646,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -79649,7 +79921,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 645,
+      "index": 647,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -79779,7 +80051,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 646,
+      "index": 648,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -79909,7 +80181,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 647,
+      "index": 649,
       "title": "קפה שחור",
       "alt_titles": [],
       "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
@@ -80030,7 +80302,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 648,
+      "index": 650,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -80148,278 +80420,6 @@
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "acum_versions_count": 7,
-      "ver_idx": 3,
-      "ver_total": 3,
-      "song_year": "1968",
-      "recording_year": "1988",
-      "year_source": "canonical_album"
-    },
-    {
-      "index": 649,
-      "title": "קרן יער",
-      "alt_titles": [
-        "קרן סהר",
-        "לו היתה לי קרן יער"
-      ],
-      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
-      "year": "1968",
-      "album_group": "שולי נתן שרה נעמי שמר",
-      "album_track_number": 4,
-      "roles": [
-        "author",
-        "composer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "יהורם גאון",
-        "הגבעטרון",
-        "שלישיית אדלר",
-        "מקהלה",
-        "דליה עמיהוד",
-        "שולי נתן",
-        "שלמה ממן",
-        "חבורת הזמר תלמה"
-      ],
-      "catalog_albums": [
-        "1 נעמי שמר - אסיף",
-        "אחר קציר הגבעטרון בשירי נעמי שמר",
-        "אחר קציר שירי נעמי שמר",
-        "ארצי מולדתי שיריה היפים של נעמי שמר",
-        "שיריה היפים של נעמי שמר",
-        "1 ארבעים להיטי זהב",
-        "5 האוסף של יהורם גאון",
-        "אוסף הגבעטרון א שוב יוצא הזמר",
-        "איפה את אהובה",
-        "אני עושה לי מנגינות",
-        "נעמי שמר - שירי זמר נודד (1973)",
-        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
-        "סימני דרך = Road Signs",
-        "נעמי שמר - אסיף",
-        "שירונט"
-      ],
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "selected_video": {
-        "video_id": "P7eGfaq3E_s",
-        "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
-        "video_title": "קרן יער",
-        "channel": "Release - Topic",
-        "duration": "2:23",
-        "description": "Provided to YouTube · שולי נתן · מתוך האלבום: שולי נתן שרה נעמי שמר",
-        "tier": "2_album_original",
-        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "שולי נתן",
-        "matched_album": "שולי נתן שרה נעמי שמר",
-        "score": 4000
-      },
-      "alternative_videos": [
-        {
-          "video_id": "Okj7fK4VSOA",
-          "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
-          "video_title": "קרן יער",
-          "channel": "YehoramGaonOfficial",
-          "duration": "2:32",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "PZCoJRSnWcg",
-          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
-          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
-          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "duration": "2:42",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "qpa3PzEpSDw",
-          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
-          "video_title": "להקת הכרמלים - קרן יער שלי",
-          "channel": "סימה",
-          "duration": "1:52",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "GyiSOeKOK8s",
-          "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
-          "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
-          "channel": "הגבעטרון | האלבומים הגדולים",
-          "duration": "2:44",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 243,
-      "canonical_score": 167.1,
-      "canonical_layer": 2,
-      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "acum_versions_count": 14,
-      "dual_role": "original_performance",
-      "ver_idx": 2,
-      "ver_total": 3,
-      "song_year": "1968",
-      "recording_year": "1968",
-      "year_source": "canonical_album"
-    },
-    {
-      "index": 650,
-      "title": "קרן יער",
-      "alt_titles": [
-        "קרן סהר",
-        "לו היתה לי קרן יער"
-      ],
-      "opening_line": "לו היתה לי קרן סהר קרן סהר שלי",
-      "year": "1988",
-      "album_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
-      "album_track_number": "3",
-      "roles": [
-        "author",
-        "composer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042000205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=8364"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "יהורם גאון",
-        "הגבעטרון",
-        "שלישיית אדלר",
-        "מקהלה",
-        "דליה עמיהוד",
-        "שולי נתן",
-        "שלמה ממן",
-        "חבורת הזמר תלמה"
-      ],
-      "catalog_albums": [
-        "1 נעמי שמר - אסיף",
-        "אחר קציר הגבעטרון בשירי נעמי שמר",
-        "אחר קציר שירי נעמי שמר",
-        "ארצי מולדתי שיריה היפים של נעמי שמר",
-        "שיריה היפים של נעמי שמר",
-        "1 ארבעים להיטי זהב",
-        "5 האוסף של יהורם גאון",
-        "אוסף הגבעטרון א שוב יוצא הזמר",
-        "איפה את אהובה",
-        "אני עושה לי מנגינות",
-        "נעמי שמר - שירי זמר נודד (1973)",
-        "הגבעטרון - אחר קציר, משירי נעמי שמר (1988)",
-        "סימני דרך = Road Signs",
-        "נעמי שמר - אסיף",
-        "שירונט"
-      ],
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "selected_video": {
-        "video_id": "GyiSOeKOK8s",
-        "url": "https://www.youtube.com/watch?v=GyiSOeKOK8s",
-        "video_title": "Hagevatron | קרן יער - הגבעטרון - אחר קציר",
-        "channel": "הגבעטרון | האלבומים הגדולים",
-        "duration": "2:44",
-        "description": "ביצוע: הגבעטרון (אחר קציר - הגבעטרון בשירי נעמי שמר (1988))",
-        "tier": "5_cover",
-        "tier_label": "5. ביצוע מחודש / קאבר",
-        "matched_performer": "הגבעטרון",
-        "matched_album": "אחר קציר - הגבעטרון בשירי נעמי שמר (1988)",
-        "score": 3000
-      },
-      "alternative_videos": [
-        {
-          "video_id": "Okj7fK4VSOA",
-          "url": "https://www.youtube.com/watch?v=Okj7fK4VSOA",
-          "video_title": "קרן יער",
-          "channel": "YehoramGaonOfficial",
-          "duration": "2:32",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "PZCoJRSnWcg",
-          "url": "https://www.youtube.com/watch?v=PZCoJRSnWcg",
-          "video_title": "שיר ישראלי - רון בכר - קרן סהר - יהורם גאון - נעמי שמר",
-          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "duration": "2:42",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "qpa3PzEpSDw",
-          "url": "https://www.youtube.com/watch?v=qpa3PzEpSDw",
-          "video_title": "להקת הכרמלים - קרן יער שלי",
-          "channel": "סימה",
-          "duration": "1:52",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "P7eGfaq3E_s",
-          "url": "https://www.youtube.com/watch?v=P7eGfaq3E_s",
-          "video_title": "קרן יער",
-          "channel": "Release - Topic",
-          "duration": "2:23",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 562,
-      "canonical_score": 167.1,
-      "canonical_layer": 2,
-      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "acum_versions_count": 14,
-      "dual_role": "additional_performance",
       "ver_idx": 3,
       "ver_total": 3,
       "song_year": "1968",
