@@ -13,7 +13,12 @@ import time
 from typing import Any
 import requests
 
-from core.artists import CREATOR_NAME_MAP, ENGLISH_TO_HEB_ARTISTS, expand_performer_variants
+from core.artists import (
+    CREATOR_NAME_MAP,
+    ENGLISH_TO_HEB_ARTISTS,
+    KNOWN_1WORD_GROUPS,
+    expand_performer_variants,
+)
 from core.config import ComposerConfig, load_composer, load_overrides
 from core.hebrew import FINDER_SPELLING_VARIANTS, NIKUD_RE, parse_duration_seconds
 from core.year_verifier import (
@@ -958,6 +963,81 @@ def classify_and_score_candidate(
     }
 
 
+def _clean_search_performer(raw_p: str) -> str:
+    """Normalize a catalog performer name for YouTube search without word-reversal noise."""
+    clean = re.sub(r"\s*\([^)]*\)", "", str(raw_p or "")).strip()
+    if not clean:
+        return ""
+    return KNOWN_1WORD_GROUPS.get(clean, clean)
+
+
+def build_secondary_queries(
+    song: dict[str, Any],
+    ctx: FinderContext,
+    *,
+    scored_map_empty: bool,
+    best_tier_so_far: str,
+    has_orig_tier: bool,
+) -> list[str]:
+    """Build prioritized, deduplicated fallback YouTube search queries for a song."""
+    title = song["title"]
+    creator = ctx.cfg.name_he
+    creator_names_skip = {ctx.cfg.name_he, ctx.cfg.creator_acum_reversed_name, ctx.cfg.name_en}
+    secondary_queries: list[str] = []
+
+    def _add_q(q: str) -> None:
+        qs = q.strip()
+        if qs and qs not in secondary_queries:
+            secondary_queries.append(qs)
+
+    clean_perfs: list[str] = []
+    for raw_p in song.get("performers", [])[:4]:
+        cp = _clean_search_performer(raw_p)
+        if not cp or any(cn and cn in cp for cn in creator_names_skip):
+            continue
+        if cp not in clean_perfs:
+            clean_perfs.append(cp)
+        if len(clean_perfs) >= 2:
+            break
+
+    if scored_map_empty:
+        _add_q(f'"{title}" "{creator}"')
+
+    if best_tier_so_far > "2_album_original" or not has_orig_tier:
+        for cp in clean_perfs[:2]:
+            _add_q(f"{title} {cp}")
+
+    if scored_map_empty:
+        alts = [
+            str(a).strip()
+            for a in song.get("alt_titles", [])
+            if str(a or "").strip() and str(a).strip() != title
+        ][:2]
+        if alts:
+            _add_q(f"{alts[0]} {clean_perfs[0]}" if clean_perfs else f'"{alts[0]}" "{creator}"')
+
+        if song.get("opening_line"):
+            ol_words = str(song["opening_line"]).split()[:5]
+            if len(ol_words) >= 2:
+                _add_q(f'"{" ".join(ol_words)}" {creator}')
+
+        skip_generic = {"עממי", "נחלת הכלל", "מסורתי"}
+        for raw_co in list(song.get("composers") or []) + list(song.get("authors") or []):
+            co_c = _clean_search_performer(raw_co)
+            if not co_c or co_c in skip_generic or any(cn and cn in co_c for cn in creator_names_skip):
+                continue
+            _add_q(f'"{title}" {co_c}')
+            break
+
+        for alt in alts:
+            _add_q(f'"{alt}" "{creator}"')
+            if clean_perfs:
+                _add_q(f"{alt} {clean_perfs[0]}")
+
+    cap = 5 if scored_map_empty else 3
+    return secondary_queries[:cap]
+
+
 def find_candidates_for_song(
     song: dict[str, Any],
     topic_tracks_map: dict[str, list[dict[str, Any]]],
@@ -1024,33 +1104,16 @@ def find_candidates_for_song(
 
     best_tier_so_far = min((c["tier"] for c in scored_map.values()), default="6_not_found")
     has_orig_tier = any(c["tier"] in ("2_album_original", "4_original_performance") for c in scored_map.values())
-    creator_names_skip = {ctx.cfg.name_he, ctx.cfg.creator_acum_reversed_name, ctx.cfg.name_en}
 
-    secondary_queries: list[str] = []
-    if (best_tier_so_far > "2_album_original" or not has_orig_tier) and song.get("performers"):
-        for raw_p in song["performers"][:2]:
-            if any(cn and cn in raw_p for cn in creator_names_skip):
-                continue
-            q_raw = f"{song['title']} {raw_p}"
-            if q_raw not in secondary_queries:
-                secondary_queries.append(q_raw)
-            p_vars = expand_performer_variants(raw_p)
-            pref_p = p_vars[-1] if p_vars else raw_p
-            if pref_p and not any(cn and cn in pref_p for cn in creator_names_skip):
-                q_p = f"{song['title']} {pref_p}"
-                if q_p not in secondary_queries:
-                    secondary_queries.append(q_p)
-            break
-    if not scored_map:
-        for alt in song.get("alt_titles", [])[:1]:
-            if alt != song["title"]:
-                secondary_queries.append(f"{ctx.cfg.name_he} {alt}")
-        if song.get("opening_line"):
-            ol_words = song["opening_line"].split()[:5]
-            if len(ol_words) >= 2:
-                secondary_queries.append(f"{ctx.cfg.name_he} {' '.join(ol_words)}")
+    secondary_queries = build_secondary_queries(
+        song,
+        ctx,
+        scored_map_empty=(not scored_map),
+        best_tier_so_far=best_tier_so_far,
+        has_orig_tier=has_orig_tier,
+    )
 
-    for sq in secondary_queries[:3]:
+    for sq in secondary_queries:
         sec_res = _cache_get(sq)
         if sec_res is None:
             if not cache_only and (best_tier_so_far > "2_album_original" or not has_orig_tier):
