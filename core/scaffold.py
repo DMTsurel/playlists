@@ -174,6 +174,7 @@ def scaffold_composer(
 
     overrides_cfg: dict[str, Any] = {
         "bad_video_ids": {},
+        "qa_allow_exceptions": {},
         "performance_only_strict_creator_match": True,
         "songs_requiring_explicit_creator": [],
         "homonym_block_tokens": {},

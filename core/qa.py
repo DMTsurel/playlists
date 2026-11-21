@@ -148,8 +148,13 @@ def audit_composer(slug: str) -> dict[str, Any]:
     warnings: list[dict[str, Any]] = []
 
     bad_ids: dict[str, str] = ov.get("bad_video_ids") or {}
+    qa_exceptions: dict[str, Any] = ov.get("qa_allow_exceptions") or {}
     strict_perf_only = bool(ov.get("performance_only_strict_creator_match", True))
     excluded_norm = {norm_heb(x) for x in (ov.get("excluded_normalized_songs") or []) if norm_heb(x)}
+
+    def _is_allowed_exception(code: str, vid: str) -> bool:
+        code_map = qa_exceptions.get(code)
+        return isinstance(code_map, dict) and bool(vid) and vid in code_map
 
     matched = [it for it in playlist if it.get("selected_video")]
     unmatched = [it for it in playlist if not it.get("selected_video")]
@@ -372,6 +377,9 @@ def audit_composer(slug: str) -> dict[str, Any]:
                             f"Long notes paragraph ({len(notes_val)} chars) in public export",
                         )
                     )
+
+    errors = [e for e in errors if not _is_allowed_exception(e["code"], e["video_id"])]
+    warnings = [w for w in warnings if not _is_allowed_exception(w["code"], w["video_id"])]
 
     return {
         "slug": cfg.slug,

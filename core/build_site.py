@@ -38,7 +38,7 @@ def _is_non_song_clip(entry: dict[str, Any], tv_album_group: str) -> bool:
         return True
     sv = entry.get("selected_video") or {}
     txt = f"{sv.get('matched_performer', '')} {sv.get('video_title', '')}"
-    return any(w in txt for w in ("ראיון", "פרודיה", "סקיצה נדירה", "חזרה,"))
+    return any(w in txt for w in ("ראיון", "פרודיה", "סקיצה נדירה", "חזרה,", "הקדמה לשיר"))
 
 
 def validate_and_normalize_playlist(data: dict[str, Any], cfg: ComposerConfig) -> bool:
