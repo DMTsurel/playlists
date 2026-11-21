@@ -346,6 +346,9 @@ https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332
 https://www.youtube.com/watch?v=pDLQ_FrzKL4
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042940205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=16644
+https://www.youtube.com/watch?v=B7oZ2GPHhEU
+https://www.nli.org.il/he/items/NNL_MUSIC_AL990037128270205171/NLI
+https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4447
 https://www.youtube.com/watch?v=Ba1W41IDnhI
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042290205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18008
@@ -512,9 +515,6 @@ https://www.youtube.com/watch?v=7IEl35CsSaI
 https://www.youtube.com/watch?v=38jU5bVcNzo
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781
-https://www.youtube.com/watch?v=3iQEC7mO3YY
-https://www.nli.org.il/he/items/NNL_MUSIC_AL990037128270205171/NLI
-https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4447
 https://www.youtube.com/watch?v=me0k188YXNw
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042220205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4752
@@ -573,7 +573,6 @@ https://www.youtube.com/watch?v=gRfvDuXwtYI
 https://www.nli.org.il/he/items/NNL_MUSIC_AL997008971391605171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=7708
 https://www.youtube.com/watch?v=VXLKQYTYShc
-https://www.youtube.com/watch?v=B7oZ2GPHhEU
 https://www.youtube.com/watch?v=61RF4uejHJE
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043330205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=1038
@@ -754,6 +753,7 @@ https://www.youtube.com/watch?v=J1mbZ9eGho0
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046350205171/NLI
 https://www.youtube.com/watch?v=jYVg9ERVMv0
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046570205171/NLI
+https://www.youtube.com/watch?v=3iQEC7mO3YY
 https://www.youtube.com/watch?v=YMdqSo7wMUk
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990038347110205171/NLI
 https://www.youtube.com/watch?v=k8u50w4T-1g
