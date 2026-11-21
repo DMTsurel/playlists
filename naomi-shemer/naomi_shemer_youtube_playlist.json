@@ -21818,146 +21818,6 @@
     },
     {
       "index": 145,
-      "title": "נר ראשון של חנוכה",
-      "alt_titles": [
-        "נר ראשון של חנכה",
-        "נר ראשון של חנוכה לי יאיר בחשכה",
-        "אורים שבחלון לי מוסרים דרישת שלום"
-      ],
-      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
-      "year": "1977",
-      "album_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "wikipedia",
-        "shironet",
-        "acum",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "נעמי שמר",
-        "דודו זכאי",
-        "פלייבק",
-        "דנה דמארי",
-        "יהאל כרמלוס",
-        "רינת גבאי"
-      ],
-      "catalog_albums": [
-        "הטיול הקטן כל שירי נעמי שמר לילדים",
-        "15 פסטיבל ישראלי לשירי ילדים",
-        "2 שירי חגים",
-        "אורות מספרים",
-        "חנוכה חגיגת שירים",
-        "ימי החנוכה",
-        "נר ראשון של חנוכה",
-        "שירו שירים לכבוד החנוכה",
-        "שירי חנוכה עם רינת",
-        "הטיול הקטן: כל שירי נעמי שמר לילדים",
-        "נעמי שמר - ספר ארבע"
-      ],
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "selected_video": {
-        "video_id": "E3V70DpK_EI",
-        "url": "https://www.youtube.com/watch?v=E3V70DpK_EI",
-        "video_title": "נר ראשון של חנוכה",
-        "channel": "נעמי שמר - Topic",
-        "duration": "2:33",
-        "description": "מזהה יוטיוב מתוך מאגרי נעמי שמר (אקו\"ם / סטריאו ומונו / פזמונט)",
-        "tier": "1_album_naomi",
-        "tier_label": "1. אלבום של נעמי שמר",
-        "matched_performer": "נעמי שמר",
-        "matched_album": "",
-        "score": 4890
-      },
-      "alternative_videos": [
-        {
-          "video_id": "VtH6NkAXl20",
-          "url": "https://www.youtube.com/watch?v=VtH6NkAXl20",
-          "video_title": "נעמי שמר נר ראשון של חנוכה",
-          "channel": "נוסטלגיה ישראלית",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "EN9teQUDlPI",
-          "url": "https://www.youtube.com/watch?v=EN9teQUDlPI",
-          "video_title": "נר ראשון של חנוכה",
-          "channel": "Release - Topic",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "a49WH6PKzKY",
-          "url": "https://www.youtube.com/watch?v=a49WH6PKzKY",
-          "video_title": "נר ראשון של חנוכה",
-          "channel": "Release - Topic",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "mpPxqJrum-M",
-          "url": "https://www.youtube.com/watch?v=mpPxqJrum-M",
-          "video_title": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
-          "channel": "ללי שמר",
-          "duration": "7:33",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "YYVengVA5V8",
-          "url": "https://www.youtube.com/watch?v=YYVengVA5V8",
-          "video_title": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
-          "channel": "נתן דטנר",
-          "duration": "26:41",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 436,
-      "canonical_score": 151.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 12,
-      "dual_role": "original_performance",
-      "ver_idx": 1,
-      "ver_total": 3,
-      "song_year": "1977",
-      "recording_year": "1977",
-      "year_source": "canonical_album"
-    },
-    {
-      "index": 146,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -22071,7 +21931,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 147,
+      "index": 146,
       "title": "ספני שלמה המלך (לחן ב')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -22194,7 +22054,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 148,
+      "index": 147,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -22280,7 +22140,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 149,
+      "index": 148,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -22379,7 +22239,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 150,
+      "index": 149,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -22478,7 +22338,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 151,
+      "index": 150,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -22587,7 +22447,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 152,
+      "index": 151,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -22696,7 +22556,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 153,
+      "index": 152,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -22812,7 +22672,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 154,
+      "index": 153,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -22915,7 +22775,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 155,
+      "index": 154,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -23058,7 +22918,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 156,
+      "index": 155,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -23201,7 +23061,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 157,
+      "index": 156,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -23337,7 +23197,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 158,
+      "index": 157,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -23473,7 +23333,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 159,
+      "index": 158,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -23593,7 +23453,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 160,
+      "index": 159,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -23747,7 +23607,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 161,
+      "index": 160,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -23895,7 +23755,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 162,
+      "index": 161,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -24023,7 +23883,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 163,
+      "index": 162,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -24136,6 +23996,146 @@
       "ver_total": 2,
       "song_year": "1975",
       "recording_year": "1975",
+      "year_source": "canonical_album"
+    },
+    {
+      "index": 163,
+      "title": "נר ראשון של חנוכה",
+      "alt_titles": [
+        "נר ראשון של חנכה",
+        "נר ראשון של חנוכה לי יאיר בחשכה",
+        "אורים שבחלון לי מוסרים דרישת שלום"
+      ],
+      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
+      "year": "1977",
+      "album_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1025630",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "נעמי שמר",
+        "דודו זכאי",
+        "פלייבק",
+        "דנה דמארי",
+        "יהאל כרמלוס",
+        "רינת גבאי"
+      ],
+      "catalog_albums": [
+        "הטיול הקטן כל שירי נעמי שמר לילדים",
+        "15 פסטיבל ישראלי לשירי ילדים",
+        "2 שירי חגים",
+        "אורות מספרים",
+        "חנוכה חגיגת שירים",
+        "ימי החנוכה",
+        "נר ראשון של חנוכה",
+        "שירו שירים לכבוד החנוכה",
+        "שירי חנוכה עם רינת",
+        "הטיול הקטן: כל שירי נעמי שמר לילדים",
+        "נעמי שמר - ספר ארבע"
+      ],
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "selected_video": {
+        "video_id": "E3V70DpK_EI",
+        "url": "https://www.youtube.com/watch?v=E3V70DpK_EI",
+        "video_title": "נר ראשון של חנוכה",
+        "channel": "נעמי שמר - Topic",
+        "duration": "2:33",
+        "description": "מזהה יוטיוב מתוך מאגרי נעמי שמר (אקו\"ם / סטריאו ומונו / פזמונט)",
+        "tier": "1_album_naomi",
+        "tier_label": "1. אלבום של נעמי שמר",
+        "matched_performer": "נעמי שמר",
+        "matched_album": "",
+        "score": 4890
+      },
+      "alternative_videos": [
+        {
+          "video_id": "VtH6NkAXl20",
+          "url": "https://www.youtube.com/watch?v=VtH6NkAXl20",
+          "video_title": "נעמי שמר נר ראשון של חנוכה",
+          "channel": "נוסטלגיה ישראלית",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "EN9teQUDlPI",
+          "url": "https://www.youtube.com/watch?v=EN9teQUDlPI",
+          "video_title": "נר ראשון של חנוכה",
+          "channel": "Release - Topic",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "a49WH6PKzKY",
+          "url": "https://www.youtube.com/watch?v=a49WH6PKzKY",
+          "video_title": "נר ראשון של חנוכה",
+          "channel": "Release - Topic",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "mpPxqJrum-M",
+          "url": "https://www.youtube.com/watch?v=mpPxqJrum-M",
+          "video_title": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
+          "channel": "ללי שמר",
+          "duration": "7:33",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "YYVengVA5V8",
+          "url": "https://www.youtube.com/watch?v=YYVengVA5V8",
+          "video_title": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
+          "channel": "נתן דטנר",
+          "duration": "26:41",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 436,
+      "canonical_score": 151.9,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 12,
+      "dual_role": "original_performance",
+      "ver_idx": 1,
+      "ver_total": 3,
+      "song_year": "1977",
+      "recording_year": "1977",
       "year_source": "canonical_album"
     },
     {
@@ -75780,155 +75780,6 @@
     },
     {
       "index": 613,
-      "title": "נר ראשון של חנוכה",
-      "alt_titles": [
-        "נר ראשון של חנכה",
-        "נר ראשון של חנוכה לי יאיר בחשכה",
-        "אורים שבחלון לי מוסרים דרישת שלום"
-      ],
-      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
-      "year": "1984",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "wikipedia",
-        "shironet",
-        "acum",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "נעמי שמר",
-        "דודו זכאי",
-        "פלייבק",
-        "דנה דמארי",
-        "יהאל כרמלוס",
-        "רינת גבאי"
-      ],
-      "catalog_albums": [
-        "הטיול הקטן כל שירי נעמי שמר לילדים",
-        "15 פסטיבל ישראלי לשירי ילדים",
-        "2 שירי חגים",
-        "אורות מספרים",
-        "חנוכה חגיגת שירים",
-        "ימי החנוכה",
-        "נר ראשון של חנוכה",
-        "שירו שירים לכבוד החנוכה",
-        "שירי חנוכה עם רינת",
-        "הטיול הקטן: כל שירי נעמי שמר לילדים",
-        "נעמי שמר - ספר ארבע"
-      ],
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "selected_video": {
-        "video_id": "mpPxqJrum-M",
-        "url": "https://www.youtube.com/watch?v=mpPxqJrum-M",
-        "video_title": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
-        "channel": "ללי שמר",
-        "duration": "7:33",
-        "description": "נעמי שמר (הופעה חיה בפסטיבל שירי ילדים מס' 15 (1984))",
-        "tier": "3_naomi_performance",
-        "tier_label": "3. ביצוע של נעמי שמר",
-        "matched_performer": "נעמי שמר",
-        "matched_album": "הופעה חיה בפסטיבל שירי ילדים מס' 15 (1984)",
-        "score": 3000
-      },
-      "alternative_videos": [
-        {
-          "video_id": "UhSscH59sdA",
-          "url": "https://www.youtube.com/watch?v=UhSscH59sdA",
-          "video_title": "חג חנוכה שמח - נעמי שמר - נר ראשון - מחרוזת (פסטיבל שירי ילדים 15, 1984)",
-          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "duration": "6:52",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "VtH6NkAXl20",
-          "url": "https://www.youtube.com/watch?v=VtH6NkAXl20",
-          "video_title": "נעמי שמר נר ראשון של חנוכה",
-          "channel": "נוסטלגיה ישראלית",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "EN9teQUDlPI",
-          "url": "https://www.youtube.com/watch?v=EN9teQUDlPI",
-          "video_title": "נר ראשון של חנוכה",
-          "channel": "Release - Topic",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "a49WH6PKzKY",
-          "url": "https://www.youtube.com/watch?v=a49WH6PKzKY",
-          "video_title": "נר ראשון של חנוכה",
-          "channel": "Release - Topic",
-          "duration": "2:35",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "E3V70DpK_EI",
-          "url": "https://www.youtube.com/watch?v=E3V70DpK_EI",
-          "video_title": "נר ראשון של חנוכה",
-          "channel": "נעמי שמר - Topic",
-          "duration": "2:33",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "YYVengVA5V8",
-          "url": "https://www.youtube.com/watch?v=YYVengVA5V8",
-          "video_title": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
-          "channel": "נתן דטנר",
-          "duration": "26:41",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 522,
-      "canonical_score": 151.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 12,
-      "dual_role": "naomi_performance",
-      "ver_idx": 2,
-      "ver_total": 3,
-      "song_year": "1977",
-      "recording_year": "1984",
-      "year_source": "archive_desc"
-    },
-    {
-      "index": 614,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -76042,7 +75893,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 615,
+      "index": 614,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -76157,7 +76008,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 616,
+      "index": 615,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -76259,7 +76110,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 617,
+      "index": 616,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -76401,7 +76252,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 618,
+      "index": 617,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -76536,7 +76387,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 619,
+      "index": 618,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -76655,7 +76506,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 620,
+      "index": 619,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -76809,7 +76660,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 621,
+      "index": 620,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -76963,7 +76814,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 622,
+      "index": 621,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -77111,7 +76962,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 623,
+      "index": 622,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -77259,7 +77110,7 @@
       "year_source": "manual_verified"
     },
     {
-      "index": 624,
+      "index": 623,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -77407,7 +77258,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 625,
+      "index": 624,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -77534,7 +77385,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 626,
+      "index": 625,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -77648,6 +77499,155 @@
       "song_year": "1975",
       "recording_year": "1977",
       "year_source": "canonical_album"
+    },
+    {
+      "index": 626,
+      "title": "נר ראשון של חנוכה",
+      "alt_titles": [
+        "נר ראשון של חנכה",
+        "נר ראשון של חנוכה לי יאיר בחשכה",
+        "אורים שבחלון לי מוסרים דרישת שלום"
+      ],
+      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
+      "year": "1984",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1025630",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "נעמי שמר",
+        "דודו זכאי",
+        "פלייבק",
+        "דנה דמארי",
+        "יהאל כרמלוס",
+        "רינת גבאי"
+      ],
+      "catalog_albums": [
+        "הטיול הקטן כל שירי נעמי שמר לילדים",
+        "15 פסטיבל ישראלי לשירי ילדים",
+        "2 שירי חגים",
+        "אורות מספרים",
+        "חנוכה חגיגת שירים",
+        "ימי החנוכה",
+        "נר ראשון של חנוכה",
+        "שירו שירים לכבוד החנוכה",
+        "שירי חנוכה עם רינת",
+        "הטיול הקטן: כל שירי נעמי שמר לילדים",
+        "נעמי שמר - ספר ארבע"
+      ],
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "selected_video": {
+        "video_id": "mpPxqJrum-M",
+        "url": "https://www.youtube.com/watch?v=mpPxqJrum-M",
+        "video_title": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
+        "channel": "ללי שמר",
+        "duration": "7:33",
+        "description": "נעמי שמר (הופעה חיה בפסטיבל שירי ילדים מס' 15 (1984))",
+        "tier": "3_naomi_performance",
+        "tier_label": "3. ביצוע של נעמי שמר",
+        "matched_performer": "נעמי שמר",
+        "matched_album": "הופעה חיה בפסטיבל שירי ילדים מס' 15 (1984)",
+        "score": 3000
+      },
+      "alternative_videos": [
+        {
+          "video_id": "UhSscH59sdA",
+          "url": "https://www.youtube.com/watch?v=UhSscH59sdA",
+          "video_title": "חג חנוכה שמח - נעמי שמר - נר ראשון - מחרוזת (פסטיבל שירי ילדים 15, 1984)",
+          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "duration": "6:52",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "VtH6NkAXl20",
+          "url": "https://www.youtube.com/watch?v=VtH6NkAXl20",
+          "video_title": "נעמי שמר נר ראשון של חנוכה",
+          "channel": "נוסטלגיה ישראלית",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "EN9teQUDlPI",
+          "url": "https://www.youtube.com/watch?v=EN9teQUDlPI",
+          "video_title": "נר ראשון של חנוכה",
+          "channel": "Release - Topic",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "a49WH6PKzKY",
+          "url": "https://www.youtube.com/watch?v=a49WH6PKzKY",
+          "video_title": "נר ראשון של חנוכה",
+          "channel": "Release - Topic",
+          "duration": "2:35",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "E3V70DpK_EI",
+          "url": "https://www.youtube.com/watch?v=E3V70DpK_EI",
+          "video_title": "נר ראשון של חנוכה",
+          "channel": "נעמי שמר - Topic",
+          "duration": "2:33",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "YYVengVA5V8",
+          "url": "https://www.youtube.com/watch?v=YYVengVA5V8",
+          "video_title": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
+          "channel": "נתן דטנר",
+          "duration": "26:41",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 522,
+      "canonical_score": 151.9,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 12,
+      "dual_role": "naomi_performance",
+      "ver_idx": 2,
+      "ver_total": 3,
+      "song_year": "1977",
+      "recording_year": "1984",
+      "year_source": "archive_desc"
     },
     {
       "index": 627,
@@ -87339,8 +87339,8 @@
       ],
       "chrono_index": 437,
       "canonical_score": 151.9,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "acum_versions_count": 12,
       "dual_role": "naomi_performance",
       "ver_idx": 3,
