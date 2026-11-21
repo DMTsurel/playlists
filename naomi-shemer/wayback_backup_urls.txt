@@ -312,9 +312,6 @@ https://www.youtube.com/watch?v=aDZqwcq7eVI
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041480205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=12042
 https://www.youtube.com/watch?v=B0EO7nYCdu0
-https://www.youtube.com/watch?v=04AcSZS8K3s
-https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI
-https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729
 https://www.youtube.com/watch?v=SDCkIuEiWWY
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042140205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5892
@@ -435,6 +432,9 @@ https://www.youtube.com/watch?v=UgXcD55HXzc
 https://www.youtube.com/watch?v=yKAUdNGyVpA
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045140205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23534
+https://www.youtube.com/watch?v=04AcSZS8K3s
+https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI
+https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729
 https://www.youtube.com/watch?v=YtWovd6r0yc
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043670205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23689
@@ -1219,8 +1219,6 @@ https://www.youtube.com/watch?v=PHQFSQi4tzU
 https://www.youtube.com/watch?v=9bfiWAv4HSU
 https://www.youtube.com/watch?v=XteReGQom40
 https://www.youtube.com/watch?v=xI2m7tKJ40E
-https://www.youtube.com/watch?v=JAY_uZjqmIA
-https://www.youtube.com/watch?v=qrvKQtQgb2s
 https://www.youtube.com/watch?v=YS6EfEQu1ik
 https://www.youtube.com/watch?v=hDqbO57hnyQ
 https://www.youtube.com/watch?v=EfcKLvzIDRw
@@ -1250,6 +1248,8 @@ https://www.youtube.com/watch?v=4g6cymurqY0
 https://www.youtube.com/watch?v=-1__PIJhhPI
 https://www.youtube.com/watch?v=agChJ2Ho124
 https://www.youtube.com/watch?v=Yd3_uDW6i4w
+https://www.youtube.com/watch?v=JAY_uZjqmIA
+https://www.youtube.com/watch?v=qrvKQtQgb2s
 https://www.youtube.com/watch?v=vxQcorAdAXA
 https://www.youtube.com/watch?v=chuU4lFZ5iA
 https://www.youtube.com/watch?v=vbG5B1wswQc

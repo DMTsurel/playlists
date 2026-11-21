@@ -20090,160 +20090,6 @@
     },
     {
       "index": 133,
-      "title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "year": "1973",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "wikipedia",
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "רננים",
-        "נתנאלה",
-        "נתנאלה ודודו זכאי",
-        "רוחמה רז",
-        "שולי נתן",
-        "איתן ורדי",
-        "תמר גלעדי",
-        "חיה קורן",
-        "רננים ואנסמבל חלילים",
-        "שולמית לבנת",
-        "מארג'ה ג'אפינן",
-        "אנסמבל קולי חדש"
-      ],
-      "catalog_albums": [
-        "כל השירים (ספר), 1967",
-        "הטיול הקטן כל שירי נעמי שמר לילדים",
-        "נעמי שמר - סימני דרך מתורגם לפינית",
-        "נעמי שמר אקפלה",
-        "נעמי שמר ירושלים של זהב",
-        "1 ממעוף העפרוני-דיסק",
-        "ארבע אחרי הצהריים ג את תלכי בשדה",
-        "בלוז לנעמי",
-        "חליל מקנה סוף",
-        "לאור הזכרונות",
-        "מה עושים העצים",
-        "משהו טוב לילדים",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "הטיול הקטן: כל שירי נעמי שמר לילדים",
-        "נעמי שמר - כל השירים"
-      ],
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "selected_video": {
-        "video_id": "04AcSZS8K3s",
-        "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
-        "video_title": "נעמי שמר - חליל מקנה סוף",
-        "channel": "כאן | מוזיקה",
-        "duration": "4:10",
-        "description": "מילים ולחן: נעמי שמר. מתוך התכנית \"נעמי שמר וידידיה מרחוב האוניברסיטה\", 1973-4. אותר והומר במסגרת פרויקט הדיגיטציה של ארכיון הטלוויזיה ...",
-        "tier": "3_naomi_performance",
-        "tier_label": "3. ביצוע של נעמי שמר",
-        "matched_performer": "נעמי שמר",
-        "matched_album": "",
-        "score": 1800
-      },
-      "alternative_videos": [
-        {
-          "video_id": "wP2eXGYKT0w",
-          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
-          "video_title": "נתנאלה חליל מקנה סוף",
-          "channel": "נוסטלגיה ישראלית",
-          "duration": "2:02",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "blJooo_JcHA",
-          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
-          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
-          "channel": "רוחמה רז - הערוץ הרשמי",
-          "duration": "2:15",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "kYitjm6rqM4",
-          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
-          "video_title": "חליל מקנה סוף - שולי נתן",
-          "channel": "שולי נתן - הערוץ הרשמי",
-          "duration": "2:07",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "JAY_uZjqmIA",
-          "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
-          "video_title": "חליל מקנה סוף",
-          "channel": "Netanela - Topic",
-          "duration": "2:02",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "qrvKQtQgb2s",
-          "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
-          "video_title": "חליל מקנה סוף",
-          "channel": "Shuly Natan - Topic",
-          "duration": "1:58",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 335,
-      "canonical_score": 210.3,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 24,
-      "dual_role": "naomi_performance",
-      "ver_idx": 1,
-      "ver_total": 3,
-      "song_year": "1967",
-      "recording_year": "1973",
-      "year_source": "archive_desc"
-    },
-    {
-      "index": 134,
       "title": "יש לי חבר",
       "alt_titles": [
         "אצא לי לטייל על כל ארץ ישראל",
@@ -20369,7 +20215,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 135,
+      "index": 134,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -20526,7 +20372,7 @@
       "year_source": "manual_verified"
     },
     {
-      "index": 136,
+      "index": 135,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -20683,7 +20529,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 137,
+      "index": 136,
       "title": "וזוהי רק ההתחלה",
       "alt_titles": [
         "זוהי רק ההתחלה",
@@ -20811,7 +20657,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 138,
+      "index": 137,
       "title": "וזוהי רק ההתחלה",
       "alt_titles": [
         "זוהי רק ההתחלה",
@@ -20939,7 +20785,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 139,
+      "index": 138,
       "title": "יובל",
       "alt_titles": [],
       "opening_line": "מי שאוהב אוהב מי ששונא שונא",
@@ -21059,7 +20905,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 140,
+      "index": 139,
       "title": "הדואר בא",
       "alt_titles": [
         "הדאר בא",
@@ -21203,7 +21049,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 141,
+      "index": 140,
       "title": "הדואר בא",
       "alt_titles": [
         "הדאר בא",
@@ -21347,7 +21193,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 142,
+      "index": 141,
       "title": "מר נרקיס",
       "alt_titles": [],
       "opening_line": "יום ששי בצהרים דוקא בשעה טובה",
@@ -21484,7 +21330,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 143,
+      "index": 142,
       "title": "אחרי השקיעה בשדה",
       "alt_titles": [],
       "opening_line": "בין שדה התירס ושדה החיטה אחרי השקיעה בשדה",
@@ -21621,7 +21467,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 144,
+      "index": 143,
       "title": "אחרי השקיעה בשדה",
       "alt_titles": [],
       "opening_line": "בין שדה התירס ושדה החיטה אחרי השקיעה בשדה",
@@ -21767,7 +21613,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 145,
+      "index": 144,
       "title": "שיר נולד",
       "alt_titles": [
         "שיר נולד הקשיבו שיר נולד הלילה"
@@ -21890,7 +21736,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 146,
+      "index": 145,
       "title": "המעיל",
       "alt_titles": [
         "חברים שלי עשו לי מעיל"
@@ -22006,7 +21852,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 147,
+      "index": 146,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -22142,7 +21988,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 148,
+      "index": 147,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -22263,7 +22109,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 149,
+      "index": 148,
       "title": "על הדרך עץ עומד",
       "alt_titles": [
         "OIFEN WEG SHTEIT A BOYM",
@@ -22441,7 +22287,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 150,
+      "index": 149,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -22556,7 +22402,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 151,
+      "index": 150,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -22696,7 +22542,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 152,
+      "index": 151,
       "title": "לחם האוהבים",
       "alt_titles": [
         "לחם האהבים",
@@ -22823,7 +22669,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 153,
+      "index": 152,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -22937,7 +22783,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 154,
+      "index": 153,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -23072,7 +22918,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 155,
+      "index": 154,
       "title": "האם השלישית",
       "alt_titles": [],
       "opening_line": "אמהות שרות אמהות שרות אגרוף רעם נתך",
@@ -23181,7 +23027,7 @@
       "year_source": "streaming_api"
     },
     {
-      "index": 156,
+      "index": 155,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -23304,7 +23150,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 157,
+      "index": 156,
       "title": "ספני שלמה המלך (לחן ב')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -23427,7 +23273,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 158,
+      "index": 157,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -23547,7 +23393,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 159,
+      "index": 158,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -23644,7 +23490,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 160,
+      "index": 159,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -23741,7 +23587,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 161,
+      "index": 160,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -23857,7 +23703,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 162,
+      "index": 161,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -23975,7 +23821,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 163,
+      "index": 162,
       "title": "על נהרות בבל",
       "alt_titles": [
         "[[על נהרות בבל",
@@ -24064,7 +23910,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 164,
+      "index": 163,
       "title": "האיר השחר",
       "alt_titles": [],
       "opening_line": "ומבעד לחג חמשים ומבעד לרשעות מגליו של הזמן הקוצר",
@@ -24178,7 +24024,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 165,
+      "index": 164,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -24305,7 +24151,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 166,
+      "index": 165,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -24433,7 +24279,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 167,
+      "index": 166,
       "title": "קלי קלות",
       "alt_titles": [],
       "opening_line": "שלחתי עפיפון על חוטי הטלפון",
@@ -24525,7 +24371,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 168,
+      "index": 167,
       "title": "קולך מן הסופה",
       "alt_titles": [
         "כמה דרכים תעבור בן אדם",
@@ -24622,7 +24468,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 169,
+      "index": 168,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24721,7 +24567,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 170,
+      "index": 169,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -24820,7 +24666,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 171,
+      "index": 170,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -24929,7 +24775,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 172,
+      "index": 171,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -25038,7 +24884,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 173,
+      "index": 172,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -25154,7 +25000,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 174,
+      "index": 173,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -25257,7 +25103,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 175,
+      "index": 174,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -25400,7 +25246,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 176,
+      "index": 175,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -25543,7 +25389,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 177,
+      "index": 176,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25679,7 +25525,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 178,
+      "index": 177,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -25815,7 +25661,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 179,
+      "index": 178,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -25931,6 +25777,160 @@
       "ver_total": 2,
       "layer2_chapter": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
       "song_year": "1973",
+      "recording_year": "1973",
+      "year_source": "archive_desc"
+    },
+    {
+      "index": 179,
+      "title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "year": "1973",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "רננים",
+        "נתנאלה",
+        "נתנאלה ודודו זכאי",
+        "רוחמה רז",
+        "שולי נתן",
+        "איתן ורדי",
+        "תמר גלעדי",
+        "חיה קורן",
+        "רננים ואנסמבל חלילים",
+        "שולמית לבנת",
+        "מארג'ה ג'אפינן",
+        "אנסמבל קולי חדש"
+      ],
+      "catalog_albums": [
+        "כל השירים (ספר), 1967",
+        "הטיול הקטן כל שירי נעמי שמר לילדים",
+        "נעמי שמר - סימני דרך מתורגם לפינית",
+        "נעמי שמר אקפלה",
+        "נעמי שמר ירושלים של זהב",
+        "1 ממעוף העפרוני-דיסק",
+        "ארבע אחרי הצהריים ג את תלכי בשדה",
+        "בלוז לנעמי",
+        "חליל מקנה סוף",
+        "לאור הזכרונות",
+        "מה עושים העצים",
+        "משהו טוב לילדים",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "הטיול הקטן: כל שירי נעמי שמר לילדים",
+        "נעמי שמר - כל השירים"
+      ],
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "selected_video": {
+        "video_id": "04AcSZS8K3s",
+        "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
+        "video_title": "נעמי שמר - חליל מקנה סוף",
+        "channel": "כאן | מוזיקה",
+        "duration": "4:10",
+        "description": "מילים ולחן: נעמי שמר. מתוך התכנית \"נעמי שמר וידידיה מרחוב האוניברסיטה\", 1973-4. אותר והומר במסגרת פרויקט הדיגיטציה של ארכיון הטלוויזיה ...",
+        "tier": "3_naomi_performance",
+        "tier_label": "3. ביצוע של נעמי שמר",
+        "matched_performer": "נעמי שמר",
+        "matched_album": "",
+        "score": 1800
+      },
+      "alternative_videos": [
+        {
+          "video_id": "wP2eXGYKT0w",
+          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
+          "video_title": "נתנאלה חליל מקנה סוף",
+          "channel": "נוסטלגיה ישראלית",
+          "duration": "2:02",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "blJooo_JcHA",
+          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
+          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
+          "channel": "רוחמה רז - הערוץ הרשמי",
+          "duration": "2:15",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "kYitjm6rqM4",
+          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
+          "video_title": "חליל מקנה סוף - שולי נתן",
+          "channel": "שולי נתן - הערוץ הרשמי",
+          "duration": "2:07",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "JAY_uZjqmIA",
+          "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
+          "video_title": "חליל מקנה סוף",
+          "channel": "Netanela - Topic",
+          "duration": "2:02",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "qrvKQtQgb2s",
+          "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
+          "video_title": "חליל מקנה סוף",
+          "channel": "Shuly Natan - Topic",
+          "duration": "1:58",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 335,
+      "canonical_score": 210.3,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 24,
+      "dual_role": "naomi_performance",
+      "ver_idx": 1,
+      "ver_total": 3,
+      "song_year": "1967",
       "recording_year": "1973",
       "year_source": "archive_desc"
     },
@@ -74550,314 +74550,6 @@
     },
     {
       "index": 605,
-      "title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "year": "1977",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "wikipedia",
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "רננים",
-        "נתנאלה",
-        "נתנאלה ודודו זכאי",
-        "רוחמה רז",
-        "שולי נתן",
-        "איתן ורדי",
-        "תמר גלעדי",
-        "חיה קורן",
-        "רננים ואנסמבל חלילים",
-        "שולמית לבנת",
-        "מארג'ה ג'אפינן",
-        "אנסמבל קולי חדש"
-      ],
-      "catalog_albums": [
-        "כל השירים (ספר), 1967",
-        "הטיול הקטן כל שירי נעמי שמר לילדים",
-        "נעמי שמר - סימני דרך מתורגם לפינית",
-        "נעמי שמר אקפלה",
-        "נעמי שמר ירושלים של זהב",
-        "1 ממעוף העפרוני-דיסק",
-        "ארבע אחרי הצהריים ג את תלכי בשדה",
-        "בלוז לנעמי",
-        "חליל מקנה סוף",
-        "לאור הזכרונות",
-        "מה עושים העצים",
-        "משהו טוב לילדים",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "הטיול הקטן: כל שירי נעמי שמר לילדים",
-        "נעמי שמר - כל השירים"
-      ],
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "selected_video": {
-        "video_id": "JAY_uZjqmIA",
-        "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
-        "video_title": "חליל מקנה סוף",
-        "channel": "Netanela - Topic",
-        "duration": "2:02",
-        "description": "Provided to YouTube by Adskimo LTD חליל מקנה סוף · Netanela הטיול הקטן - כל שירי נעמי שמר לילדים ℗ Visart Released on: ...",
-        "tier": "5_cover",
-        "tier_label": "5. ביצוע מחודש / קאבר",
-        "matched_performer": "נתנאלה",
-        "matched_album": "הטיול הקטן",
-        "score": 3851
-      },
-      "alternative_videos": [
-        {
-          "video_id": "wP2eXGYKT0w",
-          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
-          "video_title": "נתנאלה חליל מקנה סוף",
-          "channel": "נוסטלגיה ישראלית",
-          "duration": "2:02",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "blJooo_JcHA",
-          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
-          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
-          "channel": "רוחמה רז - הערוץ הרשמי",
-          "duration": "2:15",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "kYitjm6rqM4",
-          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
-          "video_title": "חליל מקנה סוף - שולי נתן",
-          "channel": "שולי נתן - הערוץ הרשמי",
-          "duration": "2:07",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "04AcSZS8K3s",
-          "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
-          "video_title": "נעמי שמר - חליל מקנה סוף",
-          "channel": "כאן | מוזיקה",
-          "duration": "4:10",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "qrvKQtQgb2s",
-          "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
-          "video_title": "חליל מקנה סוף",
-          "channel": "Shuly Natan - Topic",
-          "duration": "1:58",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 420,
-      "canonical_score": 210.3,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 24,
-      "dual_role": "additional_performance",
-      "ver_idx": 2,
-      "ver_total": 3,
-      "song_year": "1967",
-      "recording_year": "1977",
-      "year_source": "canonical_album"
-    },
-    {
-      "index": 606,
-      "title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "year": "1967",
-      "album_group": "סינגל / ביצוע בודד",
-      "album_track_number": "",
-      "roles": [
-        "author",
-        "composer",
-        "performer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "wikipedia",
-        "shironet",
-        "acum",
-        "stereo_ve_mono",
-        "discogs",
-        "musicbrainz",
-        "nli"
-      ],
-      "catalog_performers": [
-        "רננים",
-        "נתנאלה",
-        "נתנאלה ודודו זכאי",
-        "רוחמה רז",
-        "שולי נתן",
-        "איתן ורדי",
-        "תמר גלעדי",
-        "חיה קורן",
-        "רננים ואנסמבל חלילים",
-        "שולמית לבנת",
-        "מארג'ה ג'אפינן",
-        "אנסמבל קולי חדש"
-      ],
-      "catalog_albums": [
-        "כל השירים (ספר), 1967",
-        "הטיול הקטן כל שירי נעמי שמר לילדים",
-        "נעמי שמר - סימני דרך מתורגם לפינית",
-        "נעמי שמר אקפלה",
-        "נעמי שמר ירושלים של זהב",
-        "1 ממעוף העפרוני-דיסק",
-        "ארבע אחרי הצהריים ג את תלכי בשדה",
-        "בלוז לנעמי",
-        "חליל מקנה סוף",
-        "לאור הזכרונות",
-        "מה עושים העצים",
-        "משהו טוב לילדים",
-        "האוסף השלם, 100 שירים נבחרים (2002)",
-        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
-        "האוסף השלם: 100 שירים נבחרים",
-        "הטיול הקטן: כל שירי נעמי שמר לילדים",
-        "נעמי שמר - כל השירים"
-      ],
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "selected_video": {
-        "video_id": "qrvKQtQgb2s",
-        "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
-        "video_title": "חליל מקנה סוף",
-        "channel": "Shuly Natan - Topic",
-        "duration": "1:58",
-        "description": "Provided to YouTube by NMC United Entertainment Ltd\n\nחליל מקנה סוף · Shuly Natan\n\nירושלים של זהב\n\n℗ 1967 Hed Arzi Ltd.\n\nReleased on: 1967-01-01\n\nMusic  Publisher: Copyright Control\nComposer, Lyricist: Naomi Shemer\n\nAuto-generated by YouTube.",
-        "tier": "4_original_performance",
-        "tier_label": "4. ביצוע מקורי",
-        "matched_performer": "שולי נתן",
-        "matched_album": "",
-        "score": 2900
-      },
-      "alternative_videos": [
-        {
-          "video_id": "wP2eXGYKT0w",
-          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
-          "video_title": "נתנאלה חליל מקנה סוף",
-          "channel": "נוסטלגיה ישראלית",
-          "duration": "2:02",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "blJooo_JcHA",
-          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
-          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
-          "channel": "רוחמה רז - הערוץ הרשמי",
-          "duration": "2:15",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "kYitjm6rqM4",
-          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
-          "video_title": "חליל מקנה סוף - שולי נתן",
-          "channel": "שולי נתן - הערוץ הרשמי",
-          "duration": "2:07",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "JAY_uZjqmIA",
-          "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
-          "video_title": "חליל מקנה סוף",
-          "channel": "Netanela - Topic",
-          "duration": "2:02",
-          "views": "",
-          "source": "same_song_performance"
-        },
-        {
-          "video_id": "04AcSZS8K3s",
-          "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
-          "video_title": "נעמי שמר - חליל מקנה סוף",
-          "channel": "כאן | מוזיקה",
-          "duration": "4:10",
-          "views": "",
-          "source": "same_song_performance"
-        }
-      ],
-      "chrono_index": 224,
-      "canonical_score": 210.3,
-      "canonical_layer": 1,
-      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "acum_versions_count": 24,
-      "dual_role": "original_performance",
-      "ver_idx": 3,
-      "ver_total": 3,
-      "song_year": "1967",
-      "recording_year": "1967",
-      "year_source": "topic_album"
-    },
-    {
-      "index": 607,
       "title": "יש לי חבר",
       "alt_titles": [
         "אצא לי לטייל על כל ארץ ישראל",
@@ -74983,7 +74675,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 608,
+      "index": 606,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -75140,7 +74832,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 609,
+      "index": 607,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -75306,7 +74998,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 610,
+      "index": 608,
       "title": "יובל",
       "alt_titles": [],
       "opening_line": "מי שאוהב אוהב מי ששונא שונא",
@@ -75425,7 +75117,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 611,
+      "index": 609,
       "title": "יובל",
       "alt_titles": [],
       "opening_line": "מי שאוהב אוהב מי ששונא שונא",
@@ -75544,7 +75236,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 612,
+      "index": 610,
       "title": "מר נרקיס",
       "alt_titles": [],
       "opening_line": "יום ששי בצהרים דוקא בשעה טובה",
@@ -75681,7 +75373,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 613,
+      "index": 611,
       "title": "שיר נולד",
       "alt_titles": [
         "שיר נולד הקשיבו שיר נולד הלילה"
@@ -75804,7 +75496,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 614,
+      "index": 612,
       "title": "המעיל",
       "alt_titles": [
         "חברים שלי עשו לי מעיל"
@@ -75920,7 +75612,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 615,
+      "index": 613,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -76056,7 +75748,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 616,
+      "index": 614,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -76192,7 +75884,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 617,
+      "index": 615,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -76314,7 +76006,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 618,
+      "index": 616,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -76429,7 +76121,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 619,
+      "index": 617,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -76544,7 +76236,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 620,
+      "index": 618,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -76693,7 +76385,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 621,
+      "index": 619,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -76807,7 +76499,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 622,
+      "index": 620,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -76933,7 +76625,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 623,
+      "index": 621,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -77056,7 +76748,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 624,
+      "index": 622,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -77177,7 +76869,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 625,
+      "index": 623,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -77293,7 +76985,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 626,
+      "index": 624,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -77411,7 +77103,7 @@
       "year_source": "topic_album"
     },
     {
-      "index": 627,
+      "index": 625,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -77529,7 +77221,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 628,
+      "index": 626,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -77656,7 +77348,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 629,
+      "index": 627,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -77783,7 +77475,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 630,
+      "index": 628,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -77910,7 +77602,7 @@
       "year_source": "existing_curated"
     },
     {
-      "index": 631,
+      "index": 629,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -78025,7 +77717,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 632,
+      "index": 630,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -78127,7 +77819,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 633,
+      "index": 631,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -78269,7 +77961,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 634,
+      "index": 632,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -78404,7 +78096,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 635,
+      "index": 633,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -78521,6 +78213,314 @@
       "song_year": "1973",
       "recording_year": "1977",
       "year_source": "canonical_album"
+    },
+    {
+      "index": 634,
+      "title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "year": "1977",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "רננים",
+        "נתנאלה",
+        "נתנאלה ודודו זכאי",
+        "רוחמה רז",
+        "שולי נתן",
+        "איתן ורדי",
+        "תמר גלעדי",
+        "חיה קורן",
+        "רננים ואנסמבל חלילים",
+        "שולמית לבנת",
+        "מארג'ה ג'אפינן",
+        "אנסמבל קולי חדש"
+      ],
+      "catalog_albums": [
+        "כל השירים (ספר), 1967",
+        "הטיול הקטן כל שירי נעמי שמר לילדים",
+        "נעמי שמר - סימני דרך מתורגם לפינית",
+        "נעמי שמר אקפלה",
+        "נעמי שמר ירושלים של זהב",
+        "1 ממעוף העפרוני-דיסק",
+        "ארבע אחרי הצהריים ג את תלכי בשדה",
+        "בלוז לנעמי",
+        "חליל מקנה סוף",
+        "לאור הזכרונות",
+        "מה עושים העצים",
+        "משהו טוב לילדים",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "הטיול הקטן: כל שירי נעמי שמר לילדים",
+        "נעמי שמר - כל השירים"
+      ],
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "selected_video": {
+        "video_id": "JAY_uZjqmIA",
+        "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
+        "video_title": "חליל מקנה סוף",
+        "channel": "Netanela - Topic",
+        "duration": "2:02",
+        "description": "Provided to YouTube by Adskimo LTD חליל מקנה סוף · Netanela הטיול הקטן - כל שירי נעמי שמר לילדים ℗ Visart Released on: ...",
+        "tier": "5_cover",
+        "tier_label": "5. ביצוע מחודש / קאבר",
+        "matched_performer": "נתנאלה",
+        "matched_album": "הטיול הקטן",
+        "score": 3851
+      },
+      "alternative_videos": [
+        {
+          "video_id": "wP2eXGYKT0w",
+          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
+          "video_title": "נתנאלה חליל מקנה סוף",
+          "channel": "נוסטלגיה ישראלית",
+          "duration": "2:02",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "blJooo_JcHA",
+          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
+          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
+          "channel": "רוחמה רז - הערוץ הרשמי",
+          "duration": "2:15",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "kYitjm6rqM4",
+          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
+          "video_title": "חליל מקנה סוף - שולי נתן",
+          "channel": "שולי נתן - הערוץ הרשמי",
+          "duration": "2:07",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "04AcSZS8K3s",
+          "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
+          "video_title": "נעמי שמר - חליל מקנה סוף",
+          "channel": "כאן | מוזיקה",
+          "duration": "4:10",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "qrvKQtQgb2s",
+          "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
+          "video_title": "חליל מקנה סוף",
+          "channel": "Shuly Natan - Topic",
+          "duration": "1:58",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 420,
+      "canonical_score": 210.3,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 24,
+      "dual_role": "additional_performance",
+      "ver_idx": 2,
+      "ver_total": 3,
+      "song_year": "1967",
+      "recording_year": "1977",
+      "year_source": "canonical_album"
+    },
+    {
+      "index": 635,
+      "title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "year": "1967",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "רננים",
+        "נתנאלה",
+        "נתנאלה ודודו זכאי",
+        "רוחמה רז",
+        "שולי נתן",
+        "איתן ורדי",
+        "תמר גלעדי",
+        "חיה קורן",
+        "רננים ואנסמבל חלילים",
+        "שולמית לבנת",
+        "מארג'ה ג'אפינן",
+        "אנסמבל קולי חדש"
+      ],
+      "catalog_albums": [
+        "כל השירים (ספר), 1967",
+        "הטיול הקטן כל שירי נעמי שמר לילדים",
+        "נעמי שמר - סימני דרך מתורגם לפינית",
+        "נעמי שמר אקפלה",
+        "נעמי שמר ירושלים של זהב",
+        "1 ממעוף העפרוני-דיסק",
+        "ארבע אחרי הצהריים ג את תלכי בשדה",
+        "בלוז לנעמי",
+        "חליל מקנה סוף",
+        "לאור הזכרונות",
+        "מה עושים העצים",
+        "משהו טוב לילדים",
+        "האוסף השלם, 100 שירים נבחרים (2002)",
+        "בלוז לנעמי, תמר גלעדי שרה נעמי שמר (2011)",
+        "האוסף השלם: 100 שירים נבחרים",
+        "הטיול הקטן: כל שירי נעמי שמר לילדים",
+        "נעמי שמר - כל השירים"
+      ],
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "selected_video": {
+        "video_id": "qrvKQtQgb2s",
+        "url": "https://www.youtube.com/watch?v=qrvKQtQgb2s",
+        "video_title": "חליל מקנה סוף",
+        "channel": "Shuly Natan - Topic",
+        "duration": "1:58",
+        "description": "Provided to YouTube by NMC United Entertainment Ltd\n\nחליל מקנה סוף · Shuly Natan\n\nירושלים של זהב\n\n℗ 1967 Hed Arzi Ltd.\n\nReleased on: 1967-01-01\n\nMusic  Publisher: Copyright Control\nComposer, Lyricist: Naomi Shemer\n\nAuto-generated by YouTube.",
+        "tier": "4_original_performance",
+        "tier_label": "4. ביצוע מקורי",
+        "matched_performer": "שולי נתן",
+        "matched_album": "",
+        "score": 2900
+      },
+      "alternative_videos": [
+        {
+          "video_id": "wP2eXGYKT0w",
+          "url": "https://www.youtube.com/watch?v=wP2eXGYKT0w",
+          "video_title": "נתנאלה חליל מקנה סוף",
+          "channel": "נוסטלגיה ישראלית",
+          "duration": "2:02",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "blJooo_JcHA",
+          "url": "https://www.youtube.com/watch?v=blJooo_JcHA",
+          "video_title": "חליל מקנה סוף - רוחמה רז (1977)",
+          "channel": "רוחמה רז - הערוץ הרשמי",
+          "duration": "2:15",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "kYitjm6rqM4",
+          "url": "https://www.youtube.com/watch?v=kYitjm6rqM4",
+          "video_title": "חליל מקנה סוף - שולי נתן",
+          "channel": "שולי נתן - הערוץ הרשמי",
+          "duration": "2:07",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "JAY_uZjqmIA",
+          "url": "https://www.youtube.com/watch?v=JAY_uZjqmIA",
+          "video_title": "חליל מקנה סוף",
+          "channel": "Netanela - Topic",
+          "duration": "2:02",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "04AcSZS8K3s",
+          "url": "https://www.youtube.com/watch?v=04AcSZS8K3s",
+          "video_title": "נעמי שמר - חליל מקנה סוף",
+          "channel": "כאן | מוזיקה",
+          "duration": "4:10",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 224,
+      "canonical_score": 210.3,
+      "canonical_layer": 2,
+      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "acum_versions_count": 24,
+      "dual_role": "original_performance",
+      "ver_idx": 3,
+      "ver_total": 3,
+      "song_year": "1967",
+      "recording_year": "1967",
+      "year_source": "topic_album"
     },
     {
       "index": 636,

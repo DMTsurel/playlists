@@ -11301,98 +11301,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 133,
-      "chrono_n": 335,
-      "canon_score": 210.3,
-      "acum_v": 24,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "p1",
-      "ch_lbl": "",
-      "title": "חליל מקנה-סוף [ביצוע נעמי שמר] (1973)",
-      "raw_title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1973",
-      "rec_year": "1973",
-      "song_year": "1967",
-      "year_src": "archive_desc",
-      "decade": "1970s",
-      "vid": "04AcSZS8K3s",
-      "vtitle": "נעמי שמר - חליל מקנה סוף",
-      "ch": "כאן | מוזיקה",
-      "dur": "4:10",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "wP2eXGYKT0w",
-          "vtitle": "נתנאלה חליל מקנה סוף",
-          "ch": "נוסטלגיה ישראלית",
-          "dur": "2:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "blJooo_JcHA",
-          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
-          "ch": "רוחמה רז - הערוץ הרשמי",
-          "dur": "2:15",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "kYitjm6rqM4",
-          "vtitle": "חליל מקנה סוף - שולי נתן",
-          "ch": "שולי נתן - הערוץ הרשמי",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JAY_uZjqmIA",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Netanela - Topic",
-          "dur": "2:02",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "qrvKQtQgb2s",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Shuly Natan - Topic",
-          "dur": "1:58",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 134,
       "chrono_n": 379,
       "canon_score": 205.3,
       "acum_v": 35,
@@ -11469,7 +11377,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 135,
+      "n": 134,
       "chrono_n": 60,
       "canon_score": 201.4,
       "acum_v": 27,
@@ -11566,7 +11474,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 136,
+      "n": 135,
       "chrono_n": 199,
       "canon_score": 201.4,
       "acum_v": 27,
@@ -11663,7 +11571,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 137,
+      "n": 136,
       "chrono_n": 372,
       "canon_score": 200.4,
       "acum_v": 22,
@@ -11740,7 +11648,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 138,
+      "n": 137,
       "chrono_n": 362,
       "canon_score": 200.4,
       "acum_v": 22,
@@ -11817,7 +11725,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 139,
+      "n": 138,
       "chrono_n": 642,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -11891,7 +11799,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 140,
+      "n": 139,
       "chrono_n": 31,
       "canon_score": 198.1,
       "acum_v": 40,
@@ -11980,7 +11888,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 141,
+      "n": 140,
       "chrono_n": 330,
       "canon_score": 198.1,
       "acum_v": 40,
@@ -12069,7 +11977,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 142,
+      "n": 141,
       "chrono_n": 319,
       "canon_score": 197.2,
       "acum_v": 23,
@@ -12150,7 +12058,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 143,
+      "n": 142,
       "chrono_n": 113,
       "canon_score": 192.0,
       "acum_v": 30,
@@ -12224,7 +12132,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 144,
+      "n": 143,
       "chrono_n": 204,
       "canon_score": 192.0,
       "acum_v": 30,
@@ -12305,7 +12213,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 145,
+      "n": 144,
       "chrono_n": 348,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -12381,7 +12289,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 146,
+      "n": 145,
       "chrono_n": 654,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -12457,7 +12365,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 147,
+      "n": 146,
       "chrono_n": 258,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -12541,7 +12449,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 148,
+      "n": 147,
       "chrono_n": 433,
       "canon_score": 158.8,
       "acum_v": 28,
@@ -12618,7 +12526,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 149,
+      "n": 148,
       "chrono_n": 388,
       "canon_score": 157.8,
       "acum_v": 149,
@@ -12702,7 +12610,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 150,
+      "n": 149,
       "chrono_n": 605,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -12776,7 +12684,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 151,
+      "n": 150,
       "chrono_n": 435,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -12868,7 +12776,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 152,
+      "n": 151,
       "chrono_n": 597,
       "canon_score": 151.4,
       "acum_v": 13,
@@ -12946,7 +12854,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 153,
+      "n": 152,
       "chrono_n": 491,
       "canon_score": 147.0,
       "acum_v": 21,
@@ -13008,7 +12916,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 154,
+      "n": 153,
       "chrono_n": 215,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -13091,7 +12999,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 155,
+      "n": 154,
       "chrono_n": 273,
       "canon_score": 116.5,
       "acum_v": 3,
@@ -13165,7 +13073,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 156,
+      "n": 155,
       "chrono_n": 376,
       "canon_score": 108.2,
       "acum_v": 8,
@@ -13242,7 +13150,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 157,
+      "n": 156,
       "chrono_n": 309,
       "canon_score": 83.0,
       "acum_v": 14,
@@ -13319,7 +13227,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 158,
+      "n": 157,
       "chrono_n": 374,
       "canon_score": 76.5,
       "acum_v": 16,
@@ -13388,7 +13296,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 159,
+      "n": 158,
       "chrono_n": 458,
       "canon_score": 71.6,
       "acum_v": 12,
@@ -13448,7 +13356,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 160,
+      "n": 159,
       "chrono_n": 460,
       "canon_score": 71.6,
       "acum_v": 12,
@@ -13508,7 +13416,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 161,
+      "n": 160,
       "chrono_n": 378,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -13582,7 +13490,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 162,
+      "n": 161,
       "chrono_n": 213,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -13656,7 +13564,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 163,
+      "n": 162,
       "chrono_n": 512,
       "canon_score": 57.3,
       "acum_v": 8,
@@ -13711,7 +13619,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 164,
+      "n": 163,
       "chrono_n": 496,
       "canon_score": 56.8,
       "acum_v": 5,
@@ -13785,7 +13693,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 165,
+      "n": 164,
       "chrono_n": 58,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -13870,7 +13778,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 166,
+      "n": 165,
       "chrono_n": 382,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -13932,7 +13840,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 167,
+      "n": 166,
       "chrono_n": 283,
       "canon_score": 40.9,
       "acum_v": 1,
@@ -13992,7 +13900,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 168,
+      "n": 167,
       "chrono_n": 511,
       "canon_score": 39.6,
       "acum_v": 1,
@@ -14057,7 +13965,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 169,
+      "n": 168,
       "chrono_n": 3,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -14122,7 +14030,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 170,
+      "n": 169,
       "chrono_n": 345,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -14187,7 +14095,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 171,
+      "n": 170,
       "chrono_n": 16,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -14257,7 +14165,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 172,
+      "n": 171,
       "chrono_n": 346,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -14327,7 +14235,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 173,
+      "n": 172,
       "chrono_n": 33,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -14404,7 +14312,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 174,
+      "n": 173,
       "chrono_n": 56,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -14464,7 +14372,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 175,
+      "n": 174,
       "chrono_n": 74,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -14548,7 +14456,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 176,
+      "n": 175,
       "chrono_n": 332,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -14632,7 +14540,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 177,
+      "n": 176,
       "chrono_n": 132,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -14720,7 +14628,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 178,
+      "n": 177,
       "chrono_n": 367,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -14808,7 +14716,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 179,
+      "n": 178,
       "chrono_n": 344,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -14881,6 +14789,98 @@ window.PLAYLIST_DATA = {
           "ch": "IBA Classics",
           "dur": "1:59",
           "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 179,
+      "chrono_n": 335,
+      "canon_score": 210.3,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "",
+      "title": "חליל מקנה-סוף [ביצוע נעמי שמר] (1973)",
+      "raw_title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1973",
+      "rec_year": "1973",
+      "song_year": "1967",
+      "year_src": "archive_desc",
+      "decade": "1970s",
+      "vid": "04AcSZS8K3s",
+      "vtitle": "נעמי שמר - חליל מקנה סוף",
+      "ch": "כאן | מוזיקה",
+      "dur": "4:10",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "wP2eXGYKT0w",
+          "vtitle": "נתנאלה חליל מקנה סוף",
+          "ch": "נוסטלגיה ישראלית",
+          "dur": "2:02",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "blJooo_JcHA",
+          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
+          "ch": "רוחמה רז - הערוץ הרשמי",
+          "dur": "2:15",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "kYitjm6rqM4",
+          "vtitle": "חליל מקנה סוף - שולי נתן",
+          "ch": "שולי נתן - הערוץ הרשמי",
+          "dur": "2:07",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JAY_uZjqmIA",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Netanela - Topic",
+          "dur": "2:02",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "qrvKQtQgb2s",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Shuly Natan - Topic",
+          "dur": "1:58",
+          "src": "same_song_performance"
         }
       ]
     },
@@ -44661,190 +44661,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 605,
-      "chrono_n": 420,
-      "canon_score": 210.3,
-      "acum_v": 24,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "e1",
-      "ch_lbl": "",
-      "title": "חליל מקנה-סוף [ביצוע: נתנאלה] (1977)",
-      "raw_title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1977",
-      "rec_year": "1977",
-      "song_year": "1967",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "JAY_uZjqmIA",
-      "vtitle": "חליל מקנה סוף",
-      "ch": "Netanela - Topic",
-      "dur": "2:02",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "נתנאלה",
-      "alb": "הטיול הקטן",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "wP2eXGYKT0w",
-          "vtitle": "נתנאלה חליל מקנה סוף",
-          "ch": "נוסטלגיה ישראלית",
-          "dur": "2:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "blJooo_JcHA",
-          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
-          "ch": "רוחמה רז - הערוץ הרשמי",
-          "dur": "2:15",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "kYitjm6rqM4",
-          "vtitle": "חליל מקנה סוף - שולי נתן",
-          "ch": "שולי נתן - הערוץ הרשמי",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "04AcSZS8K3s",
-          "vtitle": "נעמי שמר - חליל מקנה סוף",
-          "ch": "כאן | מוזיקה",
-          "dur": "4:10",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "qrvKQtQgb2s",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Shuly Natan - Topic",
-          "dur": "1:58",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 606,
-      "chrono_n": 224,
-      "canon_score": 210.3,
-      "acum_v": 24,
-      "layer": 1,
-      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
-      "blk": "e1",
-      "ch_lbl": "",
-      "title": "חליל מקנה-סוף [ביצוע מקורי] (1967)",
-      "raw_title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1967",
-      "rec_year": "1967",
-      "song_year": "1967",
-      "year_src": "topic_album",
-      "decade": "1960s",
-      "vid": "qrvKQtQgb2s",
-      "vtitle": "חליל מקנה סוף",
-      "ch": "Shuly Natan - Topic",
-      "dur": "1:58",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שולי נתן",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "wP2eXGYKT0w",
-          "vtitle": "נתנאלה חליל מקנה סוף",
-          "ch": "נוסטלגיה ישראלית",
-          "dur": "2:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "blJooo_JcHA",
-          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
-          "ch": "רוחמה רז - הערוץ הרשמי",
-          "dur": "2:15",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "kYitjm6rqM4",
-          "vtitle": "חליל מקנה סוף - שולי נתן",
-          "ch": "שולי נתן - הערוץ הרשמי",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JAY_uZjqmIA",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Netanela - Topic",
-          "dur": "2:02",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "04AcSZS8K3s",
-          "vtitle": "נעמי שמר - חליל מקנה סוף",
-          "ch": "כאן | מוזיקה",
-          "dur": "4:10",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 607,
       "chrono_n": 425,
       "canon_score": 205.3,
       "acum_v": 35,
@@ -44921,7 +44737,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 608,
+      "n": 606,
       "chrono_n": 67,
       "canon_score": 201.4,
       "acum_v": 27,
@@ -45018,7 +44834,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 609,
+      "n": 607,
       "chrono_n": 59,
       "canon_score": 201.4,
       "acum_v": 27,
@@ -45122,7 +44938,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 610,
+      "n": 608,
       "chrono_n": 641,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -45196,7 +45012,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 611,
+      "n": 609,
       "chrono_n": 643,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -45270,7 +45086,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 612,
+      "n": 610,
       "chrono_n": 320,
       "canon_score": 197.2,
       "acum_v": 23,
@@ -45351,7 +45167,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 613,
+      "n": 611,
       "chrono_n": 391,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -45427,7 +45243,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 614,
+      "n": 612,
       "chrono_n": 655,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -45503,7 +45319,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 615,
+      "n": 613,
       "chrono_n": 243,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -45587,7 +45403,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 616,
+      "n": 614,
       "chrono_n": 562,
       "canon_score": 167.1,
       "acum_v": 14,
@@ -45671,7 +45487,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 617,
+      "n": 615,
       "chrono_n": 455,
       "canon_score": 158.8,
       "acum_v": 28,
@@ -45748,7 +45564,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 618,
+      "n": 616,
       "chrono_n": 609,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -45822,7 +45638,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 619,
+      "n": 617,
       "chrono_n": 610,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -45896,7 +45712,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 620,
+      "n": 618,
       "chrono_n": 520,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -45995,7 +45811,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 621,
+      "n": 619,
       "chrono_n": 620,
       "canon_score": 147.0,
       "acum_v": 21,
@@ -46057,7 +45873,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 622,
+      "n": 620,
       "chrono_n": 304,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -46133,7 +45949,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 623,
+      "n": 621,
       "chrono_n": 667,
       "canon_score": 108.2,
       "acum_v": 8,
@@ -46210,7 +46026,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 624,
+      "n": 622,
       "chrono_n": 383,
       "canon_score": 76.5,
       "acum_v": 16,
@@ -46279,7 +46095,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 625,
+      "n": 623,
       "chrono_n": 428,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -46353,7 +46169,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 626,
+      "n": 624,
       "chrono_n": 280,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -46427,7 +46243,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 627,
+      "n": 625,
       "chrono_n": 239,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -46501,7 +46317,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 628,
+      "n": 626,
       "chrono_n": 413,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -46586,7 +46402,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 629,
+      "n": 627,
       "chrono_n": 412,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -46671,7 +46487,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 630,
+      "n": 628,
       "chrono_n": 616,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -46733,7 +46549,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 631,
+      "n": 629,
       "chrono_n": 347,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -46810,7 +46626,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 632,
+      "n": 630,
       "chrono_n": 228,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -46870,7 +46686,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 633,
+      "n": 631,
       "chrono_n": 229,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -46954,7 +46770,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 634,
+      "n": 632,
       "chrono_n": 415,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -47042,7 +46858,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 635,
+      "n": 633,
       "chrono_n": 424,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -47115,6 +46931,190 @@ window.PLAYLIST_DATA = {
           "ch": "IBA Classics",
           "dur": "1:59",
           "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 634,
+      "chrono_n": 420,
+      "canon_score": 210.3,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "חליל מקנה-סוף [ביצוע: נתנאלה] (1977)",
+      "raw_title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1977",
+      "rec_year": "1977",
+      "song_year": "1967",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "JAY_uZjqmIA",
+      "vtitle": "חליל מקנה סוף",
+      "ch": "Netanela - Topic",
+      "dur": "2:02",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "נתנאלה",
+      "alb": "הטיול הקטן",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "wP2eXGYKT0w",
+          "vtitle": "נתנאלה חליל מקנה סוף",
+          "ch": "נוסטלגיה ישראלית",
+          "dur": "2:02",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "blJooo_JcHA",
+          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
+          "ch": "רוחמה רז - הערוץ הרשמי",
+          "dur": "2:15",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "kYitjm6rqM4",
+          "vtitle": "חליל מקנה סוף - שולי נתן",
+          "ch": "שולי נתן - הערוץ הרשמי",
+          "dur": "2:07",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "04AcSZS8K3s",
+          "vtitle": "נעמי שמר - חליל מקנה סוף",
+          "ch": "כאן | מוזיקה",
+          "dur": "4:10",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "qrvKQtQgb2s",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Shuly Natan - Topic",
+          "dur": "1:58",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 635,
+      "chrono_n": 224,
+      "canon_score": 210.3,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "חליל מקנה-סוף [ביצוע מקורי] (1967)",
+      "raw_title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1967",
+      "rec_year": "1967",
+      "song_year": "1967",
+      "year_src": "topic_album",
+      "decade": "1960s",
+      "vid": "qrvKQtQgb2s",
+      "vtitle": "חליל מקנה סוף",
+      "ch": "Shuly Natan - Topic",
+      "dur": "1:58",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שולי נתן",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "wP2eXGYKT0w",
+          "vtitle": "נתנאלה חליל מקנה סוף",
+          "ch": "נוסטלגיה ישראלית",
+          "dur": "2:02",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "blJooo_JcHA",
+          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
+          "ch": "רוחמה רז - הערוץ הרשמי",
+          "dur": "2:15",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "kYitjm6rqM4",
+          "vtitle": "חליל מקנה סוף - שולי נתן",
+          "ch": "שולי נתן - הערוץ הרשמי",
+          "dur": "2:07",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JAY_uZjqmIA",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Netanela - Topic",
+          "dur": "2:02",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "04AcSZS8K3s",
+          "vtitle": "נעמי שמר - חליל מקנה סוף",
+          "ch": "כאן | מוזיקה",
+          "dur": "4:10",
+          "src": "same_song_performance"
         }
       ]
     },
