@@ -391,44 +391,119 @@ function loadYouTubeIframeAPI() {
   }, 6000);
 }
 
+let trimEndTimer = null;
+let activePlaybackToken = 0;
+let trimHandledToken = -1;
+
+function formatSecClock(sec) {
+  const n = Math.max(0, Math.floor(Number(sec) || 0));
+  return `${Math.floor(n / 60)}:${String(n % 60).padStart(2, "0")}`;
+}
+
+function getActiveVid() {
+  const s = getActiveSong();
+  if (!s) return "";
+  if (currentAltIdx >= 0 && Array.isArray(s.alts) && s.alts[currentAltIdx]) {
+    return s.alts[currentAltIdx].vid || s.vid;
+  }
+  return s.vid;
+}
+
+function getVideoTrimBounds(vid) {
+  const s = getActiveSong();
+  if (!s || s.vid !== vid) return { start: 0, end: 0 };
+  return { start: Number(s.start) || 0, end: Number(s.end) || 0 };
+}
+
+function stopTrimEndWatcher() {
+  if (trimEndTimer) {
+    clearInterval(trimEndTimer);
+    trimEndTimer = null;
+  }
+}
+
+function triggerTrimEndOrNext(token) {
+  if (trimHandledToken === token) return;
+  trimHandledToken = token;
+  stopTrimEndWatcher();
+  const curVid = getActiveVid();
+  const bounds = getVideoTrimBounds(curVid);
+  if (repeatOneEnabled && ytPlayer) {
+    if (bounds.start > 0 || bounds.end > 0) {
+      loadVideoByIdOrSrc(curVid, true);
+    } else if (typeof ytPlayer.seekTo === "function") {
+      ytPlayer.seekTo(0, true);
+      ytPlayer.playVideo();
+    }
+    return;
+  }
+  playNext();
+}
+
+function startTrimEndWatcher(token) {
+  stopTrimEndWatcher();
+  const bounds = getVideoTrimBounds(getActiveVid());
+  if (bounds.end <= 0) return;
+  trimEndTimer = setInterval(() => {
+    if (!ytPlayer || typeof ytPlayer.getCurrentTime !== "function" || trimHandledToken === token) {
+      stopTrimEndWatcher();
+      return;
+    }
+    const state = typeof ytPlayer.getPlayerState === "function" ? ytPlayer.getPlayerState() : 1;
+    if (state === 1) {
+      const t = Number(ytPlayer.getCurrentTime() || 0);
+      if (t >= bounds.end - 0.15) {
+        triggerTrimEndOrNext(token);
+      }
+    }
+  }, 350);
+}
+
 window.onYouTubeIframeAPIReady = function() {
   try {
     const activeInit = getActiveSong();
     const initReq = pendingVideoLoad || { vid: activeInit ? activeInit.vid : "", autoplay: false };
     pendingVideoLoad = null;
+    const initBounds = getVideoTrimBounds(initReq.vid);
+    const playerVars = {
+      rel: 0,
+      enablejsapi: 1,
+      playsinline: 1,
+      autoplay: initReq.autoplay ? 1 : 0
+    };
+    if (initBounds.start > 0) playerVars.start = initBounds.start;
+    if (initBounds.end > 0) playerVars.end = initBounds.end;
     ytPlayer = new YT.Player("ytFrame", {
       width: "100%",
       height: "100%",
       videoId: initReq.vid,
-      playerVars: {
-        rel: 0,
-        enablejsapi: 1,
-        playsinline: 1,
-        autoplay: initReq.autoplay ? 1 : 0
-      },
+      playerVars,
       events: {
         onReady: function() {
           ytApiReady = true;
           const req = pendingVideoLoad || initReq;
           pendingVideoLoad = null;
           if (req && req.autoplay) {
-            if (req.vid !== initReq.vid) ytPlayer.loadVideoById(req.vid);
-            else ytPlayer.playVideo();
+            if (req.vid !== initReq.vid) {
+              loadVideoByIdOrSrc(req.vid, true);
+            } else {
+              activePlaybackToken++;
+              trimHandledToken = -1;
+              ytPlayer.playVideo();
+            }
           } else if (req && req.vid !== initReq.vid) {
-            ytPlayer.cueVideoById(req.vid);
+            loadVideoByIdOrSrc(req.vid, false);
           }
           syncPlayButtonUI();
         },
         onStateChange: function(ev) {
           if (ev.data === 1) {
             hasUserStartedPlayback = true;
+            startTrimEndWatcher(activePlaybackToken);
+          } else if (ev.data === 2) {
+            stopTrimEndWatcher();
           } else if (ev.data === 0) { // YT.PlayerState.ENDED
-            if (repeatOneEnabled && ytPlayer && typeof ytPlayer.seekTo === "function") {
-              ytPlayer.seekTo(0, true);
-              ytPlayer.playVideo();
-            } else {
-              playNext();
-            }
+            triggerTrimEndOrNext(activePlaybackToken);
           }
           syncPlayButtonUI();
         },
@@ -478,11 +553,23 @@ function handleVideoPlaybackError(errCode) {
 }
 
 function loadVideoByIdOrSrc(vid, autoplay) {
+  activePlaybackToken++;
+  trimHandledToken = -1;
+  stopTrimEndWatcher();
+  const bounds = getVideoTrimBounds(vid);
+  const hasTrim = bounds.start > 0 || bounds.end > 0;
   if (ytApiReady && ytPlayer && typeof ytPlayer.loadVideoById === "function") {
+    const arg = hasTrim
+      ? {
+          videoId: vid,
+          ...(bounds.start > 0 ? { startSeconds: bounds.start } : {}),
+          ...(bounds.end > 0 ? { endSeconds: bounds.end } : {})
+        }
+      : vid;
     if (autoplay) {
-      ytPlayer.loadVideoById(vid);
+      ytPlayer.loadVideoById(arg);
     } else {
-      ytPlayer.cueVideoById(vid);
+      ytPlayer.cueVideoById(arg);
     }
     if (typeof syncPlayButtonUI === "function") syncPlayButtonUI();
     return;
@@ -493,7 +580,8 @@ function loadVideoByIdOrSrc(vid, autoplay) {
   }
   const wrap = document.getElementById("ytFrameWrap");
   const originParam = window.location.origin && window.location.origin !== "null" ? `&origin=${encodeURIComponent(window.location.origin)}` : "";
-  const srcUrl = `https://www.youtube.com/embed/${encodeURIComponent(vid)}?enablejsapi=1&rel=0${autoplay ? "&autoplay=1" : ""}${originParam}`;
+  const trimParams = `${bounds.start > 0 ? `&start=${bounds.start}` : ""}${bounds.end > 0 ? `&end=${bounds.end}` : ""}`;
+  const srcUrl = `https://www.youtube.com/embed/${encodeURIComponent(vid)}?enablejsapi=1&rel=0${autoplay ? "&autoplay=1" : ""}${trimParams}${originParam}`;
   let frame = document.getElementById("ytFrame");
   if (!frame || frame.tagName.toLowerCase() !== "iframe") {
     if (wrap) {
@@ -524,7 +612,8 @@ function switchVideoSource(vid) {
   loadVideoByIdOrSrc(vid, true);
   updateMiniPlayerCard(s, vid);
   updateMediaSession(s, vid);
-  document.getElementById("openOnYt").href = `https://www.youtube.com/watch?v=${encodeURIComponent(vid)}`;
+  const b = getVideoTrimBounds(vid);
+  document.getElementById("openOnYt").href = `https://www.youtube.com/watch?v=${encodeURIComponent(vid)}${b.start > 0 ? `&t=${b.start}s` : ""}`;
 }
 
 function switchTab(tab, skipSync = false) {
@@ -922,7 +1011,10 @@ function updateNowPlayingCard(s) {
   const songYrSpan = (syNp && (!ryNp || ryNp !== syNp))
     ? ` · <span class="song-year">שיר מ־${esc(syNp)}</span>`
     : "";
-  document.getElementById("nowPlayingMeta").innerHTML = `${perfSpan}${albSpan}${songYrSpan}`;
+  const trimSpan = (Number(s.start) > 0 || Number(s.end) > 0)
+    ? ` · <span class="song-year" title="חיתוך אוטומטי בנגן (דילוג על קטעי פתיחה/סיום שאינם חלק מהשיר)">✂️ ${formatSecClock(s.start || 0)}–${Number(s.end) > 0 ? formatSecClock(s.end) : esc(s.dur || "")}</span>`
+    : "";
+  document.getElementById("nowPlayingMeta").innerHTML = `${perfSpan}${albSpan}${songYrSpan}${trimSpan}`;
   const isFav = favoriteVids.has(s.vid);
   const npFav = document.getElementById("npFavBtn");
   if (npFav) {
@@ -997,7 +1089,8 @@ function updateNowPlayingCard(s) {
     qBox.style.display = "none";
   }
   document.getElementById("nowPlayingLinks").innerHTML = renderArchivePills(s.links, false);
-  document.getElementById("openOnYt").href = `https://www.youtube.com/watch?v=${encodeURIComponent(s.vid)}`;
+  const startQ = Number(s.start) > 0 ? `&t=${Number(s.start)}s` : "";
+  document.getElementById("openOnYt").href = `https://www.youtube.com/watch?v=${encodeURIComponent(s.vid)}${startQ}`;
   const banner = document.getElementById("failoverBanner");
   if (banner) banner.style.display = "none";
   const bBox = document.getElementById("backupSourcesBox");

@@ -176,6 +176,7 @@ def scaffold_composer(
         "bad_video_ids": {},
         "qa_allow_exceptions": {},
         "manual_recording_years": {},
+        "video_trim_bounds": {},
         "performance_only_strict_creator_match": True,
         "songs_requiring_explicit_creator": [],
         "homonym_block_tokens": {},

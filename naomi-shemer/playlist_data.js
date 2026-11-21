@@ -10754,7 +10754,7 @@ window.PLAYLIST_DATA = {
       "vid": "kF_MJiReEn0",
       "vtitle": "שלום כיתה א'  הגשש החיוור - נעמי שמר",
       "ch": "Eyal Zion // אייל ציון",
-      "dur": "3:17",
+      "dur": "2:34",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
       "perf": "הגשש החיוור",
@@ -10804,7 +10804,9 @@ window.PLAYLIST_DATA = {
           "dur": "3:45",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "start": 20,
+      "end": 174
     },
     {
       "n": 127,

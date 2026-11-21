@@ -1094,6 +1094,7 @@ def _build_songs_and_archive_payloads(
     tv_grp = cfg.tv_album_group
     tail_vids = cfg.tail_video_ids
     tail_kws = cfg.tail_performer_keywords
+    trim_bounds = load_overrides(cfg.slug).get("video_trim_bounds") or {}
 
     for idx_item, item in enumerate(matched_entries):
         sel = item["selected_video"]
@@ -1178,7 +1179,20 @@ def _build_songs_and_archive_payloads(
                 if len(alts_list) >= 6:
                     break
 
-        songs_js.append({
+        tb = trim_bounds.get(sel["video_id"]) or {}
+        start_sec = int(tb.get("start") or 0)
+        end_sec = int(tb.get("end") or 0)
+        disp_dur = sel.get("duration", "")
+        if end_sec > start_sec >= 0:
+            eff_sec = end_sec - start_sec
+            disp_dur = f"{eff_sec // 60}:{eff_sec % 60:02d}"
+        elif start_sec > 0:
+            raw_dur_sec = parse_duration_seconds(disp_dur)
+            if raw_dur_sec > start_sec:
+                eff_sec = raw_dur_sec - start_sec
+                disp_dur = f"{eff_sec // 60}:{eff_sec % 60:02d}"
+
+        song_obj: dict[str, Any] = {
             "n": item["index"],
             "chrono_n": item.get("chrono_index", item["index"]),
             "canon_score": item.get("canonical_score", 0),
@@ -1200,7 +1214,7 @@ def _build_songs_and_archive_payloads(
             "vid": sel["video_id"],
             "vtitle": sel["video_title"],
             "ch": sel["channel"],
-            "dur": sel.get("duration", ""),
+            "dur": disp_dur,
             "tier": tier,
             "tier_label": item["tier_label"],
             "perf": sel.get("matched_performer") or (", ".join(item.get("catalog_performers", [])[:2])),
@@ -1213,7 +1227,12 @@ def _build_songs_and_archive_payloads(
             "opening_line": item.get("opening_line", ""),
             "links": _sanitize_archive_links(item.get("archive_links", [])),
             "alts": alts_list,
-        })
+        }
+        if start_sec > 0:
+            song_obj["start"] = start_sec
+        if end_sec > 0:
+            song_obj["end"] = end_sec
+        songs_js.append(song_obj)
 
     archive_songs_js: list[dict[str, Any]] = []
     arch_role_counts: dict[str, int] = {}

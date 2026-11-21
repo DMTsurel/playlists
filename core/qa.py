@@ -157,6 +157,7 @@ def audit_composer(slug: str) -> dict[str, Any]:
 
     bad_ids: dict[str, str] = ov.get("bad_video_ids") or {}
     qa_exceptions: dict[str, Any] = ov.get("qa_allow_exceptions") or {}
+    trim_bounds: dict[str, Any] = ov.get("video_trim_bounds") or {}
     comp_kws = merge_compilation_keywords(ov)
     strict_perf_only = bool(ov.get("performance_only_strict_creator_match", True))
     excluded_norm = {norm_heb(x) for x in (ov.get("excluded_normalized_songs") or []) if norm_heb(x)}
@@ -325,6 +326,22 @@ def audit_composer(slug: str) -> dict[str, Any]:
                         f"Live marker on studio tier {item.get('tier')}: '{vtitle}'",
                     )
                 )
+
+        if vid in trim_bounds and isinstance(trim_bounds[vid], dict):
+            tb = trim_bounds[vid]
+            try:
+                t_start = int(tb.get("start") or 0)
+                t_end = int(tb.get("end") or 0)
+            except (TypeError, ValueError):
+                t_start, t_end = -1, -1
+            raw_dur_sec = parse_duration_seconds(sel.get("duration", ""))
+            trim_err = ""
+            if t_start < 0 or (t_end != 0 and t_end <= t_start):
+                trim_err = f"Invalid trim bounds start={t_start}, end={t_end}"
+            elif raw_dur_sec > 0 and (t_start >= raw_dur_sec or t_end > raw_dur_sec + 2):
+                trim_err = f"Trim bounds start={t_start}, end={t_end} exceed video duration {raw_dur_sec}s"
+            if trim_err:
+                errors.append(_issue("INVALID_TRIM_BOUNDS", idx, title, vid, trim_err))
 
         if not is_tv:
             dur_sec = parse_duration_seconds(sel.get("duration", ""))

@@ -60,6 +60,13 @@
     "weX6vsG96ZY": "2005",
     "JUiRv74kgHU": "2005"
   },
+  "video_trim_bounds": {
+    "kF_MJiReEn0": {
+      "start": 20,
+      "end": 174,
+      "reason": "חיתוך פתיחת הדיבור הביתית (0:00–0:20) ושילוב 'התקווה' בסיום (מ־2:54)"
+    }
+  },
   "performance_only_strict_creator_match": true,
   "songs_requiring_explicit_creator": [
     "איש מוזר",
