@@ -19,6 +19,10 @@
   --rose: #fb7185;
 }
 * { box-sizing: border-box; }
+html {
+  overflow-x: clip;
+  max-width: 100%;
+}
 body {
   margin: 0;
   font-family: "Heebo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -28,9 +32,10 @@ body {
   line-height: 1.5;
   padding: 20px 24px 86px;
   min-height: 100vh;
+  max-width: 100%;
   overflow-x: clip;
 }
-.container { max-width: 1420px; margin: 0 auto; }
+.container { width: 100%; max-width: 1420px; margin: 0 auto; min-width: 0; }
 
 /* Top Header */
 .top-header {
@@ -43,6 +48,7 @@ body {
   padding-bottom: 16px;
   border-bottom: 1px solid var(--border);
 }
+.top-header > * { min-width: 0; max-width: 100%; }
 .back-hub-link {
   display: inline-flex;
   align-items: center;
@@ -293,7 +299,7 @@ body {
   #nowPlayingTitle { font-size: 18px !important; }
   #nowPlayingMeta { font-size: 12.5px !important; margin-bottom: 5px !important; }
   .arch-toggle-btn { white-space: normal; text-align: center; }
-  .table-wrap { max-height: none !important; overflow-y: visible !important; overflow-x: visible !important; }
+  .table-wrap { max-height: none !important; overflow-y: visible !important; overflow-x: clip !important; }
   .toolbar .btn-sm, .np-title-actions .btn-sm { min-height: 38px; }
   .fav-btn {
     min-width: 34px;
@@ -331,6 +337,8 @@ body {
     column-gap: 8px;
     row-gap: 3px;
     padding: 10px 8px;
+    width: 100%;
+    max-width: 100%;
     border-bottom: 1px solid var(--border);
   }
   .songs-table tr.song-row.active { box-shadow: inset -3px 0 0 var(--gold); }
@@ -341,6 +349,7 @@ body {
     border-bottom: none;
     padding: 0;
     min-width: 0;
+    max-width: 100%;
   }
   .songs-table td.row-num { grid-area: num; width: auto; }
   .songs-table td.col-song { grid-area: song; }
@@ -448,7 +457,7 @@ body {
   font-weight: 500;
   cursor: pointer;
   transition: all 0.14s ease;
-  max-width: 220px;
+  max-width: min(220px, 100%);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -678,6 +687,9 @@ button:focus-visible, a:focus-visible, summary:focus-visible, [tabindex="0"]:foc
   display: inline-flex;
   align-items: center;
   gap: 5px;
+  max-width: 100%;
+  text-align: right;
+  overflow-wrap: anywhere;
   background: rgba(15, 23, 42, 0.8);
   color: var(--gold-soft);
   border: 1px solid rgba(245, 158, 11, 0.35);
@@ -852,6 +864,12 @@ tr.album-group-header.is-collapsed td {
   display: flex;
   align-items: center;
   gap: 8px;
+  min-width: 0;
+  max-width: 100%;
+}
+.section-header-inner > span:not(.section-chevron) {
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 .section-chevron {
   display: inline-flex;
@@ -912,6 +930,8 @@ tr.song-row.active .playing-ind { display: inline; }
   align-items: center;
   gap: 6px;
   flex-wrap: wrap;
+  min-width: 0;
+  max-width: 100%;
 }
 .song-year {
   color: var(--muted);
@@ -1005,7 +1025,11 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
   border-radius: 6px;
   font-size: 11px;
   font-weight: 600;
-  white-space: nowrap;
+  max-width: 100%;
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.35;
 }
 .ver-badge {
   display: inline-block;
@@ -1117,7 +1141,8 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
   color: var(--muted);
   font-size: 12.5px;
   margin-right: auto;
-  white-space: nowrap;
+  white-space: normal;
+  max-width: 100%;
 }
 kbd {
   background: #0f172a;
@@ -1251,7 +1276,9 @@ kbd {
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.2s ease, transform 0.2s ease;
-  white-space: nowrap;
+  max-width: calc(100vw - 24px);
+  white-space: normal;
+  text-align: center;
 }
 .share-toast.show {
   opacity: 1;
@@ -1268,6 +1295,9 @@ kbd {
   .mini-controls .btn-sm { padding: 7px 10px; font-size: 14px; min-height: 40px; min-width: 40px; }
   .mini-back-lbl { display: none; }
   .mini-hide-xs { display: none; }
+}
+@media (max-width: 420px) {
+  .toolbar .btn, .header-actions .btn { white-space: normal; text-align: center; max-width: 100%; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
