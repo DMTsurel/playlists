@@ -878,6 +878,10 @@ tr.song-row.active .playing-ind { display: inline; }
   font-weight: 400;
   font-size: 12.5px;
 }
+.song-year-orig-only {
+  opacity: 0.78;
+  font-style: italic;
+}
 .opening-line {
   color: var(--muted);
   font-size: 12px;

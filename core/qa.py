@@ -10,6 +10,14 @@ from core.artists import ACUM_PERFORMER_EXACT_MAP
 from core.config import ComposerConfig, load_composer, load_overrides
 from core.hebrew import has_bad_keyword, norm_heb, parse_duration_seconds
 from core.ranking import partition_matched_blocks
+from core.year_verifier import (
+    TRUSTED_COVER_YEAR_SOURCES,
+    extract_authoritative_desc_years,
+    extract_explicit_title_years,
+    merge_compilation_keywords,
+)
+
+_NON_CLIP_SUBSTRINGS: tuple[str, ...] = ("ראיון", "פרודיה", "סקיצה נדירה", "חזרה,", "הקדמה לשיר")
 
 _AI_FANMIX_MARKERS: tuple[str, ...] = (
     "בינה מלאכותית",
@@ -149,8 +157,20 @@ def audit_composer(slug: str) -> dict[str, Any]:
 
     bad_ids: dict[str, str] = ov.get("bad_video_ids") or {}
     qa_exceptions: dict[str, Any] = ov.get("qa_allow_exceptions") or {}
+    comp_kws = merge_compilation_keywords(ov)
     strict_perf_only = bool(ov.get("performance_only_strict_creator_match", True))
     excluded_norm = {norm_heb(x) for x in (ov.get("excluded_normalized_songs") or []) if norm_heb(x)}
+
+    meta_videos: dict[str, Any] = {}
+    if cfg.metadata_backup_json.exists():
+        try:
+            mraw = json.loads(cfg.metadata_backup_json.read_text(encoding="utf-8"))
+            meta_videos = mraw.get("videos", mraw) if isinstance(mraw, dict) else {}
+        except Exception:
+            meta_videos = {}
+
+    song_years_seen: dict[str, set[str]] = {}
+    matched_titles_with_videos: set[str] = {str(it.get("title", "")) for it in playlist if it.get("selected_video")}
 
     def _is_allowed_exception(code: str, vid: str) -> bool:
         code_map = qa_exceptions.get(code)
@@ -182,12 +202,39 @@ def audit_composer(slug: str) -> dict[str, Any]:
                 )
             )
 
-        if str(item.get("year", "")).strip() == "2099":
+        if any(str(item.get(yk, "")).strip() == "2099" for yk in ("year", "song_year", "recording_year")):
             errors.append(_issue("PLACEHOLDER_YEAR", idx, title, vid, "Placeholder year '2099' present"))
         else:
             yr_num = _parse_year(item.get("year"))
             if yr_num is not None and (yr_num < 1920 or yr_num > 2030):
                 warnings.append(_issue("SUSPICIOUS_YEAR", idx, title, vid, f"Unusual recording year: {yr_num}"))
+
+        if vid and "recording_year" in item:
+            if str(item.get("year") or "").strip() != str(item.get("recording_year") or "").strip():
+                errors.append(
+                    _issue(
+                        "YEAR_FIELD_DESYNC",
+                        idx,
+                        title,
+                        vid,
+                        f"year='{item.get('year', '')}' != recording_year='{item.get('recording_year', '')}'",
+                    )
+                )
+        elif (not vid) and "song_year" in item:
+            if str(item.get("year") or "").strip() != str(item.get("song_year") or "").strip():
+                errors.append(
+                    _issue(
+                        "YEAR_FIELD_DESYNC",
+                        idx,
+                        title,
+                        "",
+                        f"Archive year='{item.get('year', '')}' != song_year='{item.get('song_year', '')}'",
+                    )
+                )
+
+        sy_val = str(item.get("song_year") or "").strip()
+        if sy_val and sy_val != "2099":
+            song_years_seen.setdefault(title, set()).add(sy_val)
 
         for perf in list(item.get("catalog_performers") or []) + ([sel.get("matched_performer", "")] if sel else []):
             if str(perf).strip() in ACUM_PERFORMER_EXACT_MAP:
@@ -293,6 +340,97 @@ def audit_composer(slug: str) -> dict[str, Any]:
                         _issue("SUSPICIOUSLY_LONG", idx, title, vid, f"Long non-TV duration {sel.get('duration')} (> 8m)")
                     )
 
+            rec_yr_str = str(item.get("recording_year") if "recording_year" in item else item.get("year", "") or "").strip()
+            rec_yr_num = _parse_year(rec_yr_str)
+            song_yr_str = str(item.get("song_year") or "").strip()
+            song_yr_num = _parse_year(song_yr_str)
+            yr_src = str(item.get("year_source") or "").strip()
+
+            m_entry = meta_videos.get(vid) or {}
+            ym = m_entry.get("youtube_metadata") if isinstance(m_entry, dict) and "youtube_metadata" in m_entry else m_entry
+            ym = ym or {}
+            full_title = ym.get("title") or vtitle
+            full_desc = ym.get("short_description") or desc
+            pub_yr = _parse_year(str(ym.get("publish_date") or "")[:4])
+
+            if "recording_year" in item and not rec_yr_str:
+                warnings.append(
+                    _issue("MISSING_RECORDING_YEAR", idx, title, vid, f"Blank recording_year ({item.get('tier')}, perf='{perf}')")
+                )
+
+            ty = extract_explicit_title_years(full_title, perf, title)
+            if ty["video_title"] and ty["matched_performer"] and not (set(ty["video_title"]) & set(ty["matched_performer"])):
+                errors.append(
+                    _issue(
+                        "TITLE_YEAR_MISMATCH",
+                        idx,
+                        title,
+                        vid,
+                        f"Conflicting explicit years in video_title {ty['video_title']} vs matched_performer {ty['matched_performer']}",
+                    )
+                )
+            elif rec_yr_num is not None and ty["all"] and rec_yr_num not in ty["all"]:
+                # Allow seasonal TV finals titled with the upcoming year (e.g. '2025' airing Nov/Dec 2024).
+                if not (pub_yr is not None and rec_yr_num == pub_yr and ty["all"] == [pub_yr + 1]):
+                    errors.append(
+                        _issue(
+                            "TITLE_YEAR_MISMATCH",
+                            idx,
+                            title,
+                            vid,
+                            f"recording_year={rec_yr_num} contradicts explicit title/performer year {ty['all']} ('{full_title}')",
+                        )
+                    )
+
+            if rec_yr_num is not None and pub_yr is not None and rec_yr_num > pub_yr:
+                errors.append(
+                    _issue(
+                        "RECORDING_AFTER_PUBLISH",
+                        idx,
+                        title,
+                        vid,
+                        f"recording_year={rec_yr_num} is later than YouTube publish_year={pub_yr}",
+                    )
+                )
+
+            if rec_yr_num is not None and yr_src not in {"canonical_album", "stereo_ve_mono", "discogs", "manual_verified"}:
+                desc_hits = extract_authoritative_desc_years(full_desc, channel, title, comp_kws)
+                if desc_hits:
+                    hys = [y for y, _ in desc_hits]
+                    if rec_yr_num not in hys and all(abs(rec_yr_num - hy) >= 2 for hy in hys):
+                        warnings.append(
+                            _issue(
+                                "DESC_YEAR_MISMATCH",
+                                idx,
+                                title,
+                                vid,
+                                f"recording_year={rec_yr_num} differs from description recording year {desc_hits[0]}",
+                            )
+                        )
+
+            if item.get("tier") == "5_cover" and rec_yr_str and song_yr_str and rec_yr_str == song_yr_str:
+                if yr_src not in TRUSTED_COVER_YEAR_SOURCES:
+                    warnings.append(
+                        _issue(
+                            "COVER_COPIED_SONG_YEAR",
+                            idx,
+                            title,
+                            vid,
+                            f"5_cover has recording_year==song_year ({rec_yr_str}) without independent year_source ('{yr_src or 'none'}')",
+                        )
+                    )
+
+            if rec_yr_num is not None and song_yr_num is not None and rec_yr_num < song_yr_num:
+                warnings.append(
+                    _issue(
+                        "RECORDING_BEFORE_SONG",
+                        idx,
+                        title,
+                        vid,
+                        f"recording_year={rec_yr_num} precedes song_year={song_yr_num}",
+                    )
+                )
+
     _check_primary_pairing(primary_items, cfg, warnings)
 
     # Same-song duplicate recording & original-vs-cover year checks across matched entries
@@ -325,28 +463,44 @@ def audit_composer(slug: str) -> dict[str, Any]:
                         )
                     )
 
-        cover_years = [
+        other_years = [
             y
             for x in group
-            if x.get("tier") == "5_cover"
-            for y in [_parse_year(x.get("year"))]
+            if x.get("dual_role") != "original_performance"
+            and not any(
+                w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
+                for w in _NON_CLIP_SUBSTRINGS
+            )
+            for y in [_parse_year(x.get("recording_year") if "recording_year" in x else x.get("year"))]
             if y is not None
         ]
-        if cover_years:
-            min_cover_yr = min(cover_years)
+        if other_years:
+            min_other_yr = min(other_years)
             for x in group:
                 if x.get("dual_role") == "original_performance":
-                    orig_yr = _parse_year(x.get("year"))
-                    if orig_yr is not None and orig_yr > min_cover_yr:
+                    orig_yr = _parse_year(x.get("recording_year") if "recording_year" in x else x.get("year"))
+                    if orig_yr is not None and orig_yr > min_other_yr:
                         warnings.append(
                             _issue(
-                                "ORIGINAL_LATER_THAN_COVER",
+                                "ORIGINAL_LATER_THAN_OTHER",
                                 x.get("index"),
                                 title,
                                 x["selected_video"]["video_id"],
-                                f"Original marked year {orig_yr} > earliest 5_cover year {min_cover_yr}",
+                                f"Original recording_year={orig_yr} > earliest other version year {min_other_yr}",
                             )
                         )
+
+    for title, sy_set in song_years_seen.items():
+        if len(sy_set) > 1 and title in matched_titles_with_videos:
+            errors.append(
+                _issue(
+                    "INCONSISTENT_SONG_YEAR",
+                    "",
+                    title,
+                    "",
+                    f"Multiple distinct song_year values across entries: {sorted(sy_set)}",
+                )
+            )
 
     if cfg.playlist_data_js.exists():
         raw_js = cfg.playlist_data_js.read_text(encoding="utf-8")

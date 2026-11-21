@@ -71,9 +71,29 @@ def validate_and_normalize_playlist(data: dict[str, Any], cfg: ComposerConfig) -
     by_title: dict[str, list[dict[str, Any]]] = {}
 
     for item in playlist:
-        if str(item.get("year", "")) == "2099":
-            item["year"] = ""
-            changed = True
+        for yk in ("year", "song_year", "recording_year"):
+            if str(item.get(yk, "")) == "2099":
+                item[yk] = ""
+                changed = True
+        sel_pre = item.get("selected_video")
+        if sel_pre and sel_pre.get("video_id"):
+            if "recording_year" in item:
+                rec_y = str(item.get("recording_year") or "").strip()
+                if str(item.get("year") or "").strip() != rec_y:
+                    item["year"] = rec_y
+                    changed = True
+            elif item.get("year"):
+                item["recording_year"] = str(item["year"]).strip()
+                changed = True
+        else:
+            if "song_year" in item:
+                sy_y = str(item.get("song_year") or "").strip()
+                if str(item.get("year") or "").strip() != sy_y:
+                    item["year"] = sy_y
+                    changed = True
+            elif item.get("year"):
+                item["song_year"] = str(item["year"]).strip()
+                changed = True
         ag_val = str(item.get("album_group", "") or "").strip()
         if ag_val.startswith(f"ביצוע {cfg.name_he} (אחרי האלבום:") or ag_val == f"סינגל / ביצוע בודד (ביצוע {cfg.name_he})":
             item["album_group"] = "סינגל / ביצוע בודד"
@@ -118,7 +138,9 @@ def validate_and_normalize_playlist(data: dict[str, Any], cfg: ComposerConfig) -
             else:
                 candidates = [
                     (
-                        int(str(x.get("year", "")).strip()) if str(x.get("year", "")).strip().isdigit() else 9999,
+                        int(yr_cand)
+                        if (yr_cand := str(x.get("recording_year") if "recording_year" in x else x.get("year", "")).strip()).isdigit()
+                        else 9999,
                         0 if x.get("tier") != "5_cover" else 1,
                         idx_g,
                     )
@@ -157,11 +179,13 @@ def validate_and_normalize_playlist(data: dict[str, Any], cfg: ComposerConfig) -
             changed = True
 
     def _chrono_sort_key(it: dict[str, Any]):
-        yr_s = str(it.get("year", "") or "").strip()
-        yr_num = int(yr_s) if (yr_s.isdigit() and int(yr_s) < 2099) else 9999
+        ry_s = str(it.get("recording_year") if "recording_year" in it else it.get("year", "") or "").strip()
+        sy_s = str(it.get("song_year", "") or "").strip()
+        ry_num = int(ry_s) if (ry_s.isdigit() and int(ry_s) < 2099) else 9999
+        sy_num = int(sy_s) if (sy_s.isdigit() and int(sy_s) < 2099) else 9999
         prev_c = it.get("chrono_index")
         prev_c_num = int(prev_c) if isinstance(prev_c, int) else 999999
-        return (yr_num, prev_c_num, it["index"])
+        return (ry_num, sy_num, prev_c_num, it["index"])
 
     for c_idx, it in enumerate(sorted(matched_entries, key=_chrono_sort_key), 1):
         if it.get("chrono_index") != c_idx:
@@ -239,7 +263,8 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
 
     fieldnames = [
         "index", "chrono_index", "canonical_layer", "canonical_score", "title",
-        "year", "role_category", "role_label_heb", "co_creators_heb", "lyricist", "composer",
+        "year", "song_year", "recording_year", "year_source",
+        "role_category", "role_label_heb", "co_creators_heb", "lyricist", "composer",
         "translator", "tier", "tier_label", "matched_performer", "matched_album",
         "album_group", "album_track_number", "video_id", "video_url",
         "video_title", "channel", "duration", "views", "opening_line", "nli_url",
@@ -266,6 +291,10 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
             )
             yr_raw = item.get("year", "")
             yr_csv = yr_raw if (yr_raw and str(yr_raw) != "2099") else ""
+            sy_raw = item.get("song_year", "")
+            sy_csv = sy_raw if (sy_raw and str(sy_raw) != "2099") else ""
+            ry_raw = item.get("recording_year", "")
+            ry_csv = ry_raw if (ry_raw and str(ry_raw) != "2099") else ""
             w.writerow({
                 "index": item.get("index", ""),
                 "chrono_index": item.get("chrono_index", ""),
@@ -273,6 +302,9 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
                 "canonical_score": item.get("canonical_score", ""),
                 "title": item.get("title", ""),
                 "year": yr_csv,
+                "song_year": sy_csv,
+                "recording_year": ry_csv,
+                "year_source": item.get("year_source", ""),
                 "role_category": item.get("role_category", ""),
                 "role_label_heb": item.get("role_label_heb", ""),
                 "co_creators_heb": item.get("co_creators_heb", ""),
@@ -1065,8 +1097,13 @@ def _build_songs_and_archive_payloads(
 
     for idx_item, item in enumerate(matched_entries):
         sel = item["selected_video"]
-        yr = item.get("year", "")
-        yr_display = yr if (yr and str(yr) != "2099") else ""
+        rec_yr = str(item.get("recording_year") if "recording_year" in item else item.get("year", "") or "").strip()
+        if rec_yr == "2099":
+            rec_yr = ""
+        song_yr = str(item.get("song_year", "") or "").strip()
+        if song_yr == "2099":
+            song_yr = ""
+        yr_display = rec_yr
         dual_role = item.get("dual_role", "")
         if dual_role == "original_performance":
             role_suffix = " [ביצוע מקורי]"
@@ -1078,7 +1115,8 @@ def _build_songs_and_archive_payloads(
         else:
             role_suffix = ""
 
-        display_title = f"{item['title']}{role_suffix}" + (f" ({yr_display})" if yr_display else "")
+        yr_title_suffix = f" ({rec_yr})" if rec_yr else (f" (שיר מ־{song_yr})" if song_yr else "")
+        display_title = f"{item['title']}{role_suffix}{yr_title_suffix}"
         tier = item["tier"]
         tier_counts[tier] = tier_counts.get(tier, 0) + 1
 
@@ -1154,7 +1192,10 @@ def _build_songs_and_archive_payloads(
             "alt_titles": item.get("alt_titles", []),
             "ver_idx": item.get("ver_idx", 1),
             "ver_total": item.get("ver_total", 1),
-            "year": yr_display,
+            "year": rec_yr,
+            "rec_year": rec_yr,
+            "song_year": song_yr,
+            "year_src": item.get("year_source", ""),
             "decade": dec,
             "vid": sel["video_id"],
             "vtitle": sel["video_title"],
@@ -1179,8 +1220,10 @@ def _build_songs_and_archive_payloads(
     arch_src_counts: dict[str, int] = {}
     as_audio = 0
     for item in unmatched_entries:
-        yr = item.get("year", "")
-        yr_display = yr if (yr and str(yr) != "2099") else "ללא שנה"
+        song_yr = str(item.get("song_year") or item.get("year") or "").strip()
+        if song_yr == "2099":
+            song_yr = ""
+        yr_display = song_yr if song_yr else "ללא שנה"
         rcat = item.get("role_category", "words_and_music")
         arch_role_counts[rcat] = arch_role_counts.get(rcat, 0) + 1
         links_list = _sanitize_archive_links(item.get("archive_links", []))
@@ -1203,6 +1246,7 @@ def _build_songs_and_archive_payloads(
             "title": item["title"],
             "alt_titles": item.get("alt_titles", []),
             "year": yr_display,
+            "song_year": song_yr,
             "role_cat": rcat,
             "role_label": item.get("role_label_heb", cfg.default_role_label_heb),
             "co_creators": item.get("co_creators_heb", ""),
@@ -1268,7 +1312,7 @@ def _render_player_html(
         ("1990s+", "שנות ה-90+"),
     ]
     if decade_counts.get("unknown", 0) > 0:
-        decade_items.append(("unknown", "ללא שנה"))
+        decade_items.append(("unknown", "ללא שנת הקלטה"))
     decade_options_html = "\n              ".join(
         f'<option value="{key}">{label} ({decade_counts.get(key, 0)})</option>'
         for key, label in decade_items

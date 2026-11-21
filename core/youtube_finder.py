@@ -16,6 +16,12 @@ import requests
 from core.artists import CREATOR_NAME_MAP, ENGLISH_TO_HEB_ARTISTS, expand_performer_variants
 from core.config import ComposerConfig, load_composer, load_overrides
 from core.hebrew import FINDER_SPELLING_VARIANTS, NIKUD_RE, parse_duration_seconds
+from core.year_verifier import (
+    extract_authoritative_desc_years,
+    extract_explicit_title_years,
+    extract_topic_album_year,
+    merge_compilation_keywords,
+)
 
 HEADERS: dict[str, str] = {
     "User-Agent": (
@@ -1065,7 +1071,7 @@ def find_candidates_for_song(
     return sorted_candidates[:12], did_network
 
 
-def _resolve_single_year(song: dict[str, Any], chosen: dict[str, Any] | None, ctx: FinderContext, pizmonet_years: dict[str, str]) -> int:
+def _resolve_song_year(song: dict[str, Any], ctx: FinderContext, pizmonet_years: dict[str, str]) -> int:
     manual_years: dict[str, int] = ctx.finder_ov.get("manual_years", {})
     t = song["title"]
     if t in manual_years:
@@ -1073,7 +1079,7 @@ def _resolve_single_year(song: dict[str, Any], chosen: dict[str, Any] | None, ct
     min_yr, max_yr = ctx.active_year_range
     notes_any_max = max_yr - 1 if max_yr == 2004 else max_yr
     fallback_min_yr = 1950 if min_yr == 1948 else min_yr
-    comp_ignore = tuple(ctx.finder_ov.get("compilation_year_ignore_keywords", []))
+    comp_kws = merge_compilation_keywords(ctx.overrides)
 
     py = str(pizmonet_years.get(t, ""))
     if py and py.isdigit() and min_yr <= int(py) <= max_yr:
@@ -1087,17 +1093,7 @@ def _resolve_single_year(song: dict[str, Any], chosen: dict[str, Any] | None, ct
     if m_notes_any:
         return min(m_notes_any)
 
-    if chosen:
-        m_vt = [int(x) for x in re.findall(r"\b(19\d{2}|20\d{2})\b", chosen.get("video_title", "")) if fallback_min_yr <= int(x) <= max_yr]
-        if m_vt:
-            return min(m_vt)
-        vd = chosen.get("description", "")
-        if not (comp_ignore and any(comp in vd for comp in comp_ignore)):
-            m_vd = [int(x) for x in re.findall(r"℗\s*(19\d{2}|20\d{2})\b", vd) if fallback_min_yr <= int(x) <= max_yr]
-            if m_vd:
-                return min(m_vd)
-
-    albs_str = " ".join(a for a in song.get("albums", []) if not (comp_ignore and any(c in a for c in comp_ignore)))
+    albs_str = " ".join(a for a in song.get("albums", []) if not any(c.lower() in a.lower() for c in comp_kws))
     m_alb = [int(x) for x in re.findall(r"\b(19\d{2}|20\d{2})\b", albs_str) if fallback_min_yr <= int(x) <= max_yr]
     if m_alb:
         return min(m_alb)
@@ -1108,6 +1104,46 @@ def _resolve_single_year(song: dict[str, Any], chosen: dict[str, Any] | None, ct
     return 2099
 
 
+def _resolve_recording_year(
+    song: dict[str, Any],
+    chosen: dict[str, Any] | None,
+    ctx: FinderContext,
+    song_yr: int,
+    *,
+    explicit_alb_yr: int | None = None,
+    is_original_role: bool = True,
+) -> tuple[int, str]:
+    if not chosen:
+        return 2099, ""
+    comp_kws = merge_compilation_keywords(ctx.overrides)
+    manual_rec: dict[str, Any] = ctx.overrides.get("manual_recording_years") or {}
+    vid = chosen.get("video_id", "")
+    if vid in manual_rec and str(manual_rec[vid]).isdigit():
+        return int(manual_rec[vid]), "manual_verified"
+
+    ty = extract_explicit_title_years(chosen.get("video_title", ""), chosen.get("matched_performer", ""), song["title"])
+    if ty["all"]:
+        yr = max(ty["all"]) if chosen.get("tier") == "5_cover" else min(ty["all"])
+        return yr, "video_title"
+
+    if explicit_alb_yr and explicit_alb_yr != 2099:
+        return int(explicit_alb_yr), "canonical_album"
+
+    desc_hits = extract_authoritative_desc_years(chosen.get("description", ""), chosen.get("channel", ""), song["title"], comp_kws)
+    if desc_hits:
+        return desc_hits[0][0], "archive_desc"
+
+    topic_yr, _ = extract_topic_album_year(chosen.get("description", ""), chosen.get("channel", ""), comp_kws)
+    if topic_yr:
+        return topic_yr, "topic_album"
+
+    if chosen.get("tier") == "5_cover":
+        return 2099, ""
+    if is_original_role and song_yr != 2099:
+        return song_yr, "original_inherited"
+    return 2099, ""
+
+
 def _resolve_chrono_info(
     song: dict[str, Any],
     chosen: dict[str, Any] | None,
@@ -1116,7 +1152,7 @@ def _resolve_chrono_info(
     *,
     exclude_creator_solo: bool = False,
     only_creator_solo: bool = False,
-) -> tuple[int, int, str, int]:
+) -> tuple[int, int, str, int, bool]:
     t = song["title"]
     vblob = ""
     if chosen:
@@ -1133,7 +1169,7 @@ def _resolve_chrono_info(
         if only_creator_solo and aid not in ctx.creator_solo_album_ids:
             continue
         if t in trks and any(k in vblob for k in kws):
-            return ayr, alb_idx, atitle, trks.index(t) + 1
+            return ayr, alb_idx, atitle, trks.index(t) + 1, True
 
     for alb_idx, alb in enumerate(ctx.canonical_albums, 1):
         aid = str(alb["id"])
@@ -1145,9 +1181,9 @@ def _resolve_chrono_info(
         if only_creator_solo and aid not in ctx.creator_solo_album_ids:
             continue
         if t in trks:
-            return ayr, alb_idx, atitle, trks.index(t) + 1
+            return ayr, alb_idx, atitle, trks.index(t) + 1, False
 
-    return _resolve_single_year(song, chosen, ctx, pizmonet_years), 999, "סינגל / ביצוע בודד", 999
+    return _resolve_song_year(song, ctx, pizmonet_years), 999, "סינגל / ביצוע בודד", 999, False
 
 
 def _clean_co_creators(names: list[str], ctx: FinderContext) -> list[str]:
@@ -1502,17 +1538,35 @@ def find_composer_videos(
         song_notes = " ".join(s.get("notes", [])).strip()
         heb_perfs = [p for p in s.get("performers", []) if any("\u0590" <= c <= "\u05FF" for c in p)]
 
+        song_yr = _resolve_song_year(s, ctx, pizmonet_years)
+
         if orig_cand and creator_cand:
             matched_songs_count += 1
             dual_songs_count += 1
             tier_counts[orig_cand["tier"]] = tier_counts.get(orig_cand["tier"], 0) + 1
             tier_counts[creator_cand["tier"]] = tier_counts.get(creator_cand["tier"], 0) + 1
 
-            orig_yr, orig_alb_idx, orig_alb_group, orig_trk_num = _resolve_chrono_info(
+            orig_yr, orig_alb_idx, orig_alb_group, orig_trk_num, orig_exp = _resolve_chrono_info(
                 s, orig_cand, ctx, pizmonet_years, exclude_creator_solo=True
             )
-            cr_yr, cr_alb_idx, cr_alb_group, cr_trk_num = _resolve_chrono_info(
+            cr_yr, cr_alb_idx, cr_alb_group, cr_trk_num, cr_exp = _resolve_chrono_info(
                 s, creator_cand, ctx, pizmonet_years, only_creator_solo=True
+            )
+            orig_rec_yr, orig_yr_src = _resolve_recording_year(
+                s,
+                orig_cand,
+                ctx,
+                song_yr,
+                explicit_alb_yr=(orig_yr if orig_exp else (orig_yr if orig_alb_idx != 999 else None)),
+                is_original_role=True,
+            )
+            cr_rec_yr, cr_yr_src = _resolve_recording_year(
+                s,
+                creator_cand,
+                ctx,
+                song_yr,
+                explicit_alb_yr=(cr_yr if cr_exp else (cr_yr if cr_alb_idx != 999 else None)),
+                is_original_role=False,
             )
 
             if cr_alb_idx != 999 and creator_cand["tier"] == ctx.creator_album_tier:
@@ -1530,20 +1584,25 @@ def find_composer_videos(
                 if orig_alb_idx != 999:
                     cr_alb_group = f"ביצוע {cfg.name_he} (אחרי האלבום: {orig_alb_group})"
                     cr_trk_num = 999
-                    cr_yr = orig_yr
                     cr_sort_key = (0, orig_yr, orig_alb_idx, 900 + orig_trk_num, s["title"], 1)
                 else:
                     cr_alb_group = f"סינגל / ביצוע בודד (ביצוע {cfg.name_he})"
                     cr_trk_num = 999
-                    cr_yr = orig_yr
                     cr_sort_key = (0, orig_yr, 999, 999, s["title"], 1)
+
+            orig_rec_str = str(orig_rec_yr) if orig_rec_yr != 2099 else ""
+            cr_rec_str = str(cr_rec_yr) if cr_rec_yr != 2099 else ""
+            song_yr_str = str(song_yr) if song_yr != 2099 else ""
 
             playlist_entries.append({
                 "index": 0,
                 "title": s["title"],
                 "alt_titles": s.get("alt_titles", []),
                 "opening_line": s.get("opening_line", ""),
-                "year": str(orig_yr) if orig_yr != 2099 else "",
+                "year": orig_rec_str,
+                "song_year": song_yr_str,
+                "recording_year": orig_rec_str,
+                "year_source": orig_yr_src,
                 "album_group": orig_alb_group,
                 "album_track_number": orig_trk_num if orig_trk_num != 999 else "",
                 "dual_role": "original_performance",
@@ -1567,7 +1626,10 @@ def find_composer_videos(
                 "title": s["title"],
                 "alt_titles": s.get("alt_titles", []),
                 "opening_line": s.get("opening_line", ""),
-                "year": str(cr_yr) if cr_yr != 2099 else "",
+                "year": cr_rec_str,
+                "song_year": song_yr_str,
+                "recording_year": cr_rec_str,
+                "year_source": cr_yr_src,
                 "album_group": cr_alb_group,
                 "album_track_number": cr_trk_num if cr_trk_num != 999 else "",
                 "dual_role": cfg.creator_dual_role,
@@ -1592,14 +1654,27 @@ def find_composer_videos(
             tier_counts[tier] = tier_counts.get(tier, 0) + 1
             if chosen:
                 matched_songs_count += 1
-            chrono_yr, alb_order_idx, alb_group, trk_num = _resolve_chrono_info(s, chosen, ctx, pizmonet_years)
+            chrono_yr, alb_order_idx, alb_group, trk_num, is_exp_alb = _resolve_chrono_info(s, chosen, ctx, pizmonet_years)
+            rec_yr, yr_src = _resolve_recording_year(
+                s,
+                chosen,
+                ctx,
+                song_yr,
+                explicit_alb_yr=(chrono_yr if is_exp_alb else (chrono_yr if alb_order_idx != 999 else None)),
+                is_original_role=True,
+            )
+            song_yr_str = str(song_yr) if song_yr != 2099 else ""
+            rec_yr_str = str(rec_yr) if (chosen and rec_yr != 2099) else ""
 
             playlist_entries.append({
                 "index": 0,
                 "title": s["title"],
                 "alt_titles": s.get("alt_titles", []),
                 "opening_line": s.get("opening_line", ""),
-                "year": str(chrono_yr) if chrono_yr != 2099 else "",
+                "year": rec_yr_str if chosen else song_yr_str,
+                "song_year": song_yr_str,
+                "recording_year": rec_yr_str,
+                "year_source": yr_src if chosen else "",
                 "album_group": alb_group,
                 "album_track_number": trk_num if trk_num != 999 else "",
                 "_sort_key": (0 if chosen else 1, chrono_yr, alb_order_idx, trk_num, s["title"], 0),

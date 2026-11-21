@@ -21,6 +21,7 @@ from core.qa import audit_composer, format_qa_report  # noqa: E402
 from core.ranking import rank_composer_playlist  # noqa: E402
 from core.scaffold import scaffold_composer  # noqa: E402
 from core.streaming_matcher import match_composer_streaming  # noqa: E402
+from core.year_verifier import format_year_verification_report, verify_composer_years  # noqa: E402
 from core.youtube_finder import find_composer_videos  # noqa: E402
 from core.youtube_uploader import upload_composer_via_cookies, upload_composer_via_oauth  # noqa: E402
 
@@ -122,6 +123,14 @@ def main() -> int:
     p_up.add_argument("--oauth", action="store_true", help="Use official YouTube Data API v3 + OAuth 2.0")
     p_up.add_argument("--client-secret", help="Optional path to client_secret.json (for --oauth)")
     p_up.add_argument("--privacy", default="unlisted", help="Playlist privacy status (unlisted/public/private)")
+
+    p_vy = sub.add_parser("verify-years", help="Cross-verify song_year + recording_year across sources and metadata")
+    p_vy.add_argument("slug", help="Composer slug")
+    p_vy.add_argument("--fetch-missing", action="store_true", help="Fetch missing YouTube metadata backup entries first")
+    p_vy.add_argument("--use-streaming-api", action="store_true", help="Query iTunes IL API for non-compilation album years")
+    p_vy.add_argument("--apply", action="store_true", help="Write verified song_year / recording_year / year_source to playlist.json")
+    p_vy.add_argument("--no-rebuild", action="store_true", help="Skip rebuilding HTML/JS/exports after --apply")
+    p_vy.add_argument("--json-report", help="Optional path to write full JSON year-verification report")
 
     args = parser.parse_args()
 
@@ -284,6 +293,22 @@ def main() -> int:
         print(f"  1. המהירה ביותר (דפדפן): פתח {cfg.create_js} או הדף בנגן")
         print(f"  2. עם cookies.txt: python3 scripts/cli.py upload {args.slug} --cookies cookies.txt")
         print(f"  3. עם OAuth v3: python3 scripts/cli.py upload {args.slug} --oauth")
+        return 0
+
+    if args.command == "verify-years":
+        rep = verify_composer_years(
+            args.slug,
+            fetch_missing=args.fetch_missing,
+            use_streaming_api=args.use_streaming_api,
+            apply=args.apply,
+        )
+        print(format_year_verification_report(rep))
+        if args.json_report:
+            out_path = Path(args.json_report)
+            out_path.parent.mkdir(parents=True, exist_ok=True)
+            out_path.write_text(json.dumps(rep, ensure_ascii=False, indent=2), encoding="utf-8")
+        if args.apply and not args.no_rebuild:
+            build_composer(args.slug, rebuild_hub=True)
         return 0
 
     return 1

@@ -35,16 +35,18 @@ Follow these stages whenever onboarding a new composer or performer into this re
 5. **Inspect `OLAK` album playlists manually/programmatically** so YouTube's auto-mapped tracks do not substitute a live concert clip where a studio `- Topic` track exists, and prefer full album masters over shortened compilation edits.
 
 ### Stage 4: Classify Tiers, Recording Years & Blocks
-1. Assign accurate **recording year** (not reissue/CD compilation year) and set `is_true_original: true` strictly on verified historical premiere recordings.
-2. Separate primary canon entries (`p1..p3`) from additional versions (`e1..e3`) following `dual_performance_mode`, and isolate archival studio sketches/interviews in `tail` and full TV/concert programs in `tv`.
-3. Present edge cases (excluded false-positives, studio-vs-live swaps, dual-melody splits, non-performer borderline covers) to the user for explicit approval.
+1. Run `python3 scripts/cli.py verify-years <slug> --fetch-missing --use-streaming-api --apply` (`core/year_verifier.py`) to separate `song_year` from `recording_year` (with provenance `year_source`). Re-run this command whenever new videos are added or any `MISSING_RECORDING_YEAR` remains.
+2. Never copy `song_year` blindly onto `5_cover` versions — leave `recording_year` empty when unknown until verified, or pin verified video dates in `overrides.json["manual_recording_years"]`.
+3. Set `is_true_original: true` strictly on verified historical premiere recordings.
+4. Separate primary canon entries (`p1..p3`) from additional versions (`e1..e3`) following `dual_performance_mode`, and isolate archival studio sketches/interviews in `tail` and full TV/concert programs in `tv`.
+5. Present edge cases (excluded false-positives, studio-vs-live swaps, dual-melody splits, non-performer borderline covers) to the user for explicit approval.
 
 ### Stage 5: Rank & Polish Order
 1. Run `python3 scripts/cli.py rank <slug> --views-file <song_wide_views.json>` using Option C `sqrt_mult` (do not add Deezer rank weighting).
 2. Reassign Layer 1/2/3 boundaries intentionally (keeping authentic early/classic repertoire in `p1` without kids/holiday point inflation).
 
 ### Stage 6: Audit, Health Check & Archival Backup
-1. Run `python3 scripts/cli.py qa <slug> --strict` and resolve all `ERROR`s and actionable `WARNING`s.
+1. Run `python3 scripts/cli.py qa <slug> --strict` (enforcing `TITLE_YEAR_MISMATCH`, `RECORDING_AFTER_PUBLISH`, `INCONSISTENT_SONG_YEAR`, `DESC_YEAR_MISMATCH`, `COVER_COPIED_SONG_YEAR`, `MISSING_RECORDING_YEAR`, etc.) and resolve all `ERROR`s and actionable `WARNING`s (documenting verified historical exceptions in `overrides.json["qa_allow_exceptions"]`).
 2. Run `python3 scripts/cli.py health <slug>` and `python3 scripts/cli.py backup <slug>` to cache full metadata and populate multi-alternative `alternative_videos` failovers.
 3. Run `python3 scripts/cli.py wayback <slug> --save` for rare non-Topic uploads.
 

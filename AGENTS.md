@@ -9,8 +9,8 @@ This repository powers curated, source-merged Israeli composer catalogs, YouTube
   - `config.py`: `creators.json` + `<slug>/composer.json` + `<slug>/overrides.json`.
   - `hebrew.py` & `artists.py`: Hebrew normalization (`norm_heb`, `heb_loose`), title similarity, transliteration, ACUM `"שם משפחה שם פרטי"` reversal fixes, and artist alias tables.
   - `build_site.py`: Normalization, integrity validation (`bad_video_ids`, unique primary `video_id`s, valid tiers), HTML/JS build (`index.html`, `playlist_data.js`), YouTube browser sync scripts (`create_playlist_in_browser.js`, `update_existing_playlist_in_browser.js`), exports (`.csv`, `.md`, `.m3u8`, `wayback_backup_urls.txt`), and root Hub (`index.html`).
-  - `catalog_collector.py`, `youtube_finder.py`, `youtube_uploader.py`, `ranking.py`, `health.py`, `backup.py`, `streaming_matcher.py`, `qa.py`, `scaffold.py`.
-- `scripts/cli.py` — Unified CLI (`list`, `matrix-json`, `init-composer`, `collect`, `find-videos`, `build`, `hub`, `qa`, `health`, `heal`, `backup`, `wayback`, `rank`, `spotify`, `upload`).
+  - `catalog_collector.py`, `youtube_finder.py`, `youtube_uploader.py`, `year_verifier.py`, `ranking.py`, `health.py`, `backup.py`, `streaming_matcher.py`, `qa.py`, `scaffold.py`.
+- `scripts/cli.py` — Unified CLI (`list`, `matrix-json`, `init-composer`, `collect`, `find-videos`, `verify-years`, `build`, `hub`, `qa`, `health`, `heal`, `backup`, `wayback`, `rank`, `spotify`, `upload`).
 - `<slug>/` — Composer-specific configs (`composer.json`, `overrides.json`) and generated/curated datasets (`playlist.json`, `catalog.json`, exports). **Do not duplicate shared CSS/JS/Python logic inside `<slug>/`.**
 
 ## 2. Attribution & Catalog Integrity Rules
@@ -27,8 +27,10 @@ This repository powers curated, source-merged Israeli composer catalogs, YouTube
 - **Full masters over truncated edits:** Prefer full archival/album masters over shortened compilation edits (even if the shortened edit has more views).
 - **Trap check — YouTube Music `OLAK` live swaps:** YouTube Music album playlists sometimes map an album track to a *later live concert video* instead of the studio recording. Verify studio-tier tracks do not point to live concert footage when the studio master exists on `- Topic` / official OAC.
 - **Mandatory exclusions:** Never select or promote karaoke, playback, instrumental-only backing tracks, AI-stripped vocals, amateur fan sound-remasters, sketches/speeches masquerading as the song, or short `< 65s` clips unless the real song itself is that short. Record bad IDs in `overrides["bad_video_ids"]`.
-- **Authenticity of years & labels:**
-  - `year` must reflect the **actual recording year**, not a later anthology/reissue CD year (use `chrono_index` for true chronological order).
+- **Authenticity of years & labels (`song_year` + `recording_year` + `year_source`):**
+  - Separate **song creation/first publication year** (`song_year`, identical across all rows of a song and shown on archive rows) from **performance recording year** (`recording_year`, mirrored into `year` on matched tracks). Track provenance in `year_source` (`manual_verified`, `video_title`, `canonical_album`, `archive_desc`, `stereo_ve_mono`, `discogs`, `musicbrainz`, `topic_album`, `streaming_api`, `publish_date_contemporary`, `original_inherited`, `existing_curated`).
+  - **Never** copy `song_year` onto `5_cover` entries without independent verification — leave `recording_year` blank when unknown (displayed as `(שיר מ־YYYY)`) so `cli.py verify-years` can resolve it on subsequent passes rather than fabricating a false recording date.
+  - Record curated per-video year pins in `overrides.json["manual_recording_years"]` and documented exception justifications in `overrides.json["qa_allow_exceptions"]`.
   - Set `is_true_original: true` only on the genuine historical first recording (`[ביצוע מקורי]`). Do not label later creator self-covers as `[ביצוע מקורי]`.
   - Never expose internal taxonomy jargon (`"שכבה"`, `"נוספים"`, `"ביצוע מוביל"`) in visible UI strings.
 
@@ -67,5 +69,5 @@ All core stages run generically via `core/` + `scripts/cli.py` driven by `<slug>
 1. `python3 scripts/cli.py init-composer <slug> --name-he "..." --name-en "..." [--is-performer]`
 2. Fill `<slug>/composer.json` sources & official discography, then run `python3 scripts/cli.py collect <slug>` (`core/catalog_collector.py`) -> `<slug>/catalog.json`
 3. Run `python3 scripts/cli.py find-videos <slug>` (`core/youtube_finder.py`) -> initial `<slug>/playlist.json`
-4. Curate attribution, homonyms, and recording years -> `python3 scripts/cli.py rank <slug>` -> `python3 scripts/cli.py qa <slug> --strict`
+4. Cross-verify and separate `song_year` / `recording_year`: `python3 scripts/cli.py verify-years <slug> --fetch-missing --use-streaming-api --apply` (re-run whenever any `MISSING_RECORDING_YEAR` warning remains), curate attribution & homonyms -> `python3 scripts/cli.py rank <slug>` -> `python3 scripts/cli.py qa <slug> --strict`
 5. Enable in `creators.json`, run `python3 scripts/cli.py build --all`, and publish via `python3 scripts/cli.py upload <slug>` or `<slug>/create_playlist_in_browser.js`. Follow `.agents/skills/new-composer-playlist/SKILL.md`.

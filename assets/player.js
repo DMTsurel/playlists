@@ -95,6 +95,8 @@ SONGS.forEach(s => {
     s.role_label,
     s.co_creators,
     s.opening_line,
+    s.rec_year || s.year,
+    s.song_year,
     String(s.n)
   ].filter(Boolean).join(" ");
   s._sRaw = joined.toLowerCase();
@@ -213,6 +215,34 @@ function scrollToTopPlayer() {
   else window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+function getRecYear(s) {
+  return (s && (s.rec_year !== undefined ? s.rec_year : s.year)) || "";
+}
+
+function getSongYear(s) {
+  return (s && s.song_year) || "";
+}
+
+function formatYearShort(s) {
+  const ry = getRecYear(s);
+  if (ry) return `(${ry})`;
+  const sy = getSongYear(s);
+  return sy ? `(שיר מ־${sy})` : "";
+}
+
+function formatTableYearHtml(s) {
+  const ry = getRecYear(s);
+  const sy = getSongYear(s);
+  if (ry && sy && ry !== sy) {
+    return `<span class="song-year" title="שנת ביצוע: ${esc(ry)} · שנת השיר המקורי: ${esc(sy)}">(${esc(ry)})</span>`;
+  }
+  if (ry) return `<span class="song-year">(${esc(ry)})</span>`;
+  if (sy) {
+    return `<span class="song-year song-year-orig-only" title="שנת ההקלטה של ביצוע זה טרם אומתה — מוצגת שנת השיר המקורי">(שיר מ־${esc(sy)})</span>`;
+  }
+  return "";
+}
+
 function updateMiniPlayerCard(s, vidOverride) {
   if (!s) return;
   const activeVid = vidOverride || s.vid;
@@ -220,7 +250,8 @@ function updateMiniPlayerCard(s, vidOverride) {
   const titleEl = document.getElementById("miniTitle");
   const perfEl = document.getElementById("miniPerf");
   if (thumb) thumb.src = `https://i.ytimg.com/vi/${encodeURIComponent(activeVid)}/mqdefault.jpg`;
-  if (titleEl) titleEl.textContent = `${s.n}. ${s.raw_title}${s.year ? " (" + s.year + ")" : ""}`;
+  const yrShort = formatYearShort(s);
+  if (titleEl) titleEl.textContent = `${s.n}. ${s.raw_title}${yrShort ? " " + yrShort : ""}`;
   if (perfEl) perfEl.textContent = `${s.perf || s.ch}${s.alb ? " · " + s.alb : ""}`;
   if (activeVid !== lastMiniVid) {
     lastMiniVid = activeVid;
@@ -236,7 +267,8 @@ function updateMediaSession(s, vidOverride) {
   try {
     const activeVid = vidOverride || s.vid;
     const artistParts = [s.perf || s.ch || CREATOR_NAME_HE];
-    if (s.year) artistParts.push(`(${s.year})`);
+    const yrShortMs = formatYearShort(s);
+    if (yrShortMs) artistParts.push(yrShortMs);
     const albTitle = (s.alb && !s.alb.startsWith("סינגל")) ? s.alb : COLLECTION_PREFIX_HE;
     navigator.mediaSession.metadata = new MediaMetadata({
       title: s.raw_title || s.title,
@@ -873,7 +905,8 @@ function renderArchivePills(links, stopProp = false) {
 }
 
 function updateNowPlayingCard(s) {
-  document.getElementById("nowPlayingTitle").textContent = `${s.n}. ${s.raw_title}${s.year ? " (" + s.year + ")" : ""}`;
+  const npYr = formatYearShort(s);
+  document.getElementById("nowPlayingTitle").textContent = `${s.n}. ${s.raw_title}${npYr ? " " + npYr : ""}`;
   const perfText = s.perf || s.ch || "";
   const perfEscAttr = JSON.stringify(perfText).replace(/"/g, "&quot;");
   const cleanAlb = (s.alb || "").replace(/\s*\(#\d+\)\s*$/, "").trim();
@@ -884,7 +917,12 @@ function updateNowPlayingCard(s) {
   const albSpan = s.alb
     ? ` · <span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${albEscAttr})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל שירי האלבום">${esc(s.alb)}</span>`
     : "";
-  document.getElementById("nowPlayingMeta").innerHTML = `${perfSpan}${albSpan}`;
+  const ryNp = getRecYear(s);
+  const syNp = getSongYear(s);
+  const songYrSpan = (syNp && (!ryNp || ryNp !== syNp))
+    ? ` · <span class="song-year">שיר מ־${esc(syNp)}</span>`
+    : "";
+  document.getElementById("nowPlayingMeta").innerHTML = `${perfSpan}${albSpan}${songYrSpan}`;
   const isFav = favoriteVids.has(s.vid);
   const npFav = document.getElementById("npFavBtn");
   if (npFav) {
@@ -1398,7 +1436,7 @@ function renderTable(skipSync = false) {
       <td class="col-song">
         <div class="song-main-title">
           <span>${titleHtml}</span>
-          ${s.year ? `<span class="song-year">(${esc(s.year)})</span>` : ""}
+          ${formatTableYearHtml(s)}
           ${s.ver_total > 1 ? `<span class="ver-badge ${isVerFiltered ? "active-ver-filter" : ""}" role="button" tabindex="0" onclick="filterByExactSong(event, ${titleAttrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ להצגת כל ${s.ver_total} הביצועים של שיר זה בלבד">ביצוע ${s.ver_idx}/${s.ver_total}</span>` : ""}
           ${roleSub}
         </div>
