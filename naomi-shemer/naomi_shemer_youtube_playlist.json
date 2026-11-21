@@ -3,24 +3,24 @@
     "total_songs": 451,
     "matched_songs": 370,
     "dual_performance_songs": 172,
-    "total_playlist_videos": 705,
+    "total_playlist_videos": 707,
     "unmatched_songs": 81,
     "by_tier": {
-      "4. ביצוע מקורי": 200,
+      "4. ביצוע מקורי": 201,
       "1. אלבום של נעמי שמר": 63,
-      "2. אלבום של המבצע המקורי / אוסף רשמי": 234,
+      "2. אלבום של המבצע המקורי / אוסף רשמי": 235,
       "3. ביצוע של נעמי שמר": 83,
       "5. ביצוע מחודש / קאבר": 125,
       "6. לא נמצא סרטון תואם": 81
     },
-    "total_videos": 705,
-    "total_playlist_entries": 786,
-    "matched_videos": 705,
+    "total_videos": 707,
+    "total_playlist_entries": 788,
+    "matched_videos": 707,
     "total_catalog_songs": 451,
     "tier_breakdown": {
-      "4_original_performance": 200,
+      "4_original_performance": 201,
       "1_album_naomi": 63,
-      "2_album_original": 234,
+      "2_album_original": 235,
       "3_naomi_performance": 83,
       "5_cover": 125,
       "6_not_found": 81
@@ -588,7 +588,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 495,
+      "chrono_index": 496,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -760,7 +760,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 509,
+      "chrono_index": 510,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -1416,7 +1416,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 658,
+      "chrono_index": 659,
       "canonical_score": 1682.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -1726,7 +1726,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 513,
+      "chrono_index": 514,
       "canonical_score": 1601.4,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -2044,7 +2044,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 511,
+      "chrono_index": 512,
       "canonical_score": 1455.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -2395,7 +2395,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 606,
+      "chrono_index": 607,
       "canonical_score": 1432.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -2526,7 +2526,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 552,
+      "chrono_index": 553,
       "canonical_score": 1272.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -2657,7 +2657,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 554,
+      "chrono_index": 555,
       "canonical_score": 1272.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -2804,7 +2804,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 517,
+      "chrono_index": 518,
       "canonical_score": 1165.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -3100,7 +3100,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 564,
+      "chrono_index": 565,
       "canonical_score": 1054.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -3249,7 +3249,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 663,
+      "chrono_index": 664,
       "canonical_score": 1049.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -3725,7 +3725,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 600,
+      "chrono_index": 601,
       "canonical_score": 1038.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -4624,7 +4624,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 525,
+      "chrono_index": 526,
       "canonical_score": 826.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -5396,7 +5396,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 529,
+      "chrono_index": 530,
       "canonical_score": 734.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -6876,7 +6876,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 473,
+      "chrono_index": 474,
       "canonical_score": 627.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -7032,7 +7032,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 508,
+      "chrono_index": 509,
       "canonical_score": 627.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -9051,7 +9051,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 532,
+      "chrono_index": 533,
       "canonical_score": 601.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -9355,7 +9355,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 535,
+      "chrono_index": 536,
       "canonical_score": 594.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -9609,7 +9609,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 550,
+      "chrono_index": 551,
       "canonical_score": 538.7,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -10478,7 +10478,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 540,
+      "chrono_index": 541,
       "canonical_score": 504.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -10780,7 +10780,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 491,
+      "chrono_index": 492,
       "canonical_score": 489.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -10930,7 +10930,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 510,
+      "chrono_index": 511,
       "canonical_score": 489.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -11260,7 +11260,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 531,
+      "chrono_index": 532,
       "canonical_score": 484.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -11502,7 +11502,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 672,
+      "chrono_index": 673,
       "canonical_score": 466.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -12929,7 +12929,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 498,
+      "chrono_index": 499,
       "canonical_score": 376.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -13053,7 +13053,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 630,
+      "chrono_index": 631,
       "canonical_score": 376.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -13185,7 +13185,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 500,
+      "chrono_index": 501,
       "canonical_score": 375.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -13311,7 +13311,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 492,
+      "chrono_index": 493,
       "canonical_score": 364.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -13734,7 +13734,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 559,
+      "chrono_index": 560,
       "canonical_score": 349.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -14857,7 +14857,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 514,
+      "chrono_index": 515,
       "canonical_score": 320.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -15871,7 +15871,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 528,
+      "chrono_index": 529,
       "canonical_score": 292.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -16227,19 +16227,37 @@
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
       "selected_video": {
-        "video_id": "OS9uUlfBrbA",
-        "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
-        "video_title": "בכל שנה בסתיו גיורא - רוחמה רז (1980)",
-        "channel": "רוחמה רז - הערוץ הרשמי",
-        "duration": "3:27",
-        "description": "שיעורי פיתוח קול עם הזמרת רוחמה רז - 054-2336118 https://youtu.be/7_9K-xiTCPE?si=qoqFlOiKDF3zSuv7 מילים ולחן: נעמי שמר עיבוד ...",
+        "video_id": "MQOaZBQeo6U",
+        "url": "https://www.youtube.com/watch?v=MQOaZBQeo6U",
+        "video_title": "אסתר שמיר- בכל שנה בסתיו",
+        "channel": "morke mor",
+        "duration": "3:56",
+        "description": "אסתר שמיר (תקליטון שדרים CBS, 1977 — נעמי שמר ליד הפסנתר; נכלל באוסף \"אסיף\", 1998)",
         "tier": "4_original_performance",
         "tier_label": "4. ביצוע מקורי",
-        "matched_performer": "רוחמה רז",
-        "matched_album": "",
-        "score": 1711
+        "matched_performer": "אסתר שמיר",
+        "matched_album": "תקליטון שדרים CBS (1977)",
+        "score": 4000
       },
       "alternative_videos": [
+        {
+          "video_id": "lxr0_Ey9-vM",
+          "url": "https://www.youtube.com/watch?v=lxr0_Ey9-vM",
+          "video_title": "בכל שנה בסתיו גיורא",
+          "channel": "Nechama Hendel - Topic",
+          "duration": "3:46",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "OS9uUlfBrbA",
+          "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
+          "video_title": "בכל שנה בסתיו גיורא - רוחמה רז (1980)",
+          "channel": "רוחמה רז - הערוץ הרשמי",
+          "duration": "3:27",
+          "views": "",
+          "source": "same_song_performance"
+        },
         {
           "video_id": "YY8vUjMWzEc",
           "url": "https://www.youtube.com/watch?v=YY8vUjMWzEc",
@@ -16247,7 +16265,7 @@
           "channel": "נעמי שמר - Topic",
           "duration": "3:02",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
         },
         {
           "video_id": "6d8Bkb1IQNo",
@@ -16263,9 +16281,9 @@
           "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
           "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
           "channel": "שיר עד - Shir Ad",
-          "duration": "3:51",
+          "duration": "3:50",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
         }
       ],
       "chrono_index": 466,
@@ -16273,8 +16291,9 @@
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "acum_versions_count": 23,
+      "is_true_original": true,
       "ver_idx": 1,
-      "ver_total": 3
+      "ver_total": 5
     },
     {
       "index": 108,
@@ -16371,13 +16390,31 @@
       },
       "alternative_videos": [
         {
+          "video_id": "MQOaZBQeo6U",
+          "url": "https://www.youtube.com/watch?v=MQOaZBQeo6U",
+          "video_title": "אסתר שמיר- בכל שנה בסתיו",
+          "channel": "morke mor",
+          "duration": "3:56",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "lxr0_Ey9-vM",
+          "url": "https://www.youtube.com/watch?v=lxr0_Ey9-vM",
+          "video_title": "בכל שנה בסתיו גיורא",
+          "channel": "Nechama Hendel - Topic",
+          "duration": "3:46",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
           "video_id": "OS9uUlfBrbA",
           "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
           "video_title": "בכל שנה בסתיו גיורא - רוחמה רז (1980)",
           "channel": "רוחמה רז - הערוץ הרשמי",
           "duration": "3:27",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
         },
         {
           "video_id": "6d8Bkb1IQNo",
@@ -16393,18 +16430,18 @@
           "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
           "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
           "channel": "שיר עד - Shir Ad",
-          "duration": "3:51",
+          "duration": "3:50",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
         }
       ],
-      "chrono_index": 536,
+      "chrono_index": 537,
       "canonical_score": 279.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "acum_versions_count": 23,
       "ver_idx": 2,
-      "ver_total": 3
+      "ver_total": 5
     },
     {
       "index": 109,
@@ -16965,7 +17002,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 582,
+      "chrono_index": 583,
       "canonical_score": 266.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -17079,7 +17116,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 627,
+      "chrono_index": 628,
       "canonical_score": 263.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -18021,7 +18058,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 684,
+      "chrono_index": 685,
       "canonical_score": 238.3,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -18579,7 +18616,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 551,
+      "chrono_index": 552,
       "canonical_score": 217.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -18698,7 +18735,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 585,
+      "chrono_index": 586,
       "canonical_score": 217.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -18821,7 +18858,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 476,
+      "chrono_index": 477,
       "canonical_score": 216.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -19075,7 +19112,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 502,
+      "chrono_index": 503,
       "canonical_score": 216.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -19207,7 +19244,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 503,
+      "chrono_index": 504,
       "canonical_score": 216.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -20700,7 +20737,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 678,
+      "chrono_index": 679,
       "canonical_score": 198.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -21627,7 +21664,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 687,
+      "chrono_index": 688,
       "canonical_score": 178.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -22054,7 +22091,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 680,
+      "chrono_index": 681,
       "canonical_score": 157.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -22165,7 +22202,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 635,
+      "chrono_index": 636,
       "canonical_score": 155.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -22427,7 +22464,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 626,
+      "chrono_index": 627,
       "canonical_score": 151.4,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -22537,7 +22574,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 516,
+      "chrono_index": 517,
       "canonical_score": 147.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -23227,7 +23264,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 475,
+      "chrono_index": 476,
       "canonical_score": 71.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -23635,7 +23672,7 @@
         "score": 5000
       },
       "alternative_videos": [],
-      "chrono_index": 537,
+      "chrono_index": 538,
       "canonical_score": 57.3,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -23746,7 +23783,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 539,
+      "chrono_index": 540,
       "canonical_score": 56.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -24178,7 +24215,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 534,
+      "chrono_index": 535,
       "canonical_score": 39.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -25552,7 +25589,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 650,
+      "chrono_index": 651,
       "canonical_score": 57.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -25647,7 +25684,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 654,
+      "chrono_index": 655,
       "canonical_score": 57.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26406,7 +26443,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 477,
+      "chrono_index": 478,
       "canonical_score": 47.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26500,7 +26537,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 478,
+      "chrono_index": 479,
       "canonical_score": 107.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26588,7 +26625,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 570,
+      "chrono_index": 571,
       "canonical_score": 96.5,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26693,7 +26730,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 571,
+      "chrono_index": 572,
       "canonical_score": 93.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26784,7 +26821,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 572,
+      "chrono_index": 573,
       "canonical_score": 39.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26876,7 +26913,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 573,
+      "chrono_index": 574,
       "canonical_score": 39.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -26967,7 +27004,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 574,
+      "chrono_index": 575,
       "canonical_score": 100.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -27078,7 +27115,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 575,
+      "chrono_index": 576,
       "canonical_score": 176.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -27196,7 +27233,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 579,
+      "chrono_index": 580,
       "canonical_score": 142.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -27299,7 +27336,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 580,
+      "chrono_index": 581,
       "canonical_score": 87.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -27405,7 +27442,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 581,
+      "chrono_index": 582,
       "canonical_score": 153.5,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -27508,7 +27545,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 615,
+      "chrono_index": 616,
       "canonical_score": 25.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -31046,7 +31083,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 538,
+      "chrono_index": 539,
       "canonical_score": 40.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -32996,7 +33033,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 512,
+      "chrono_index": 513,
       "canonical_score": 47.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34295,7 +34332,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 493,
+      "chrono_index": 494,
       "canonical_score": 97.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34420,7 +34457,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 521,
+      "chrono_index": 522,
       "canonical_score": 53.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34545,7 +34582,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 522,
+      "chrono_index": 523,
       "canonical_score": 53.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34643,7 +34680,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 504,
+      "chrono_index": 505,
       "canonical_score": 43.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34728,7 +34765,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 544,
+      "chrono_index": 545,
       "canonical_score": 79.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34885,7 +34922,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 555,
+      "chrono_index": 556,
       "canonical_score": 108.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -34999,7 +35036,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 560,
+      "chrono_index": 561,
       "canonical_score": 133.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35086,7 +35123,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 562,
+      "chrono_index": 563,
       "canonical_score": 88.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35179,7 +35216,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 568,
+      "chrono_index": 569,
       "canonical_score": 82.5,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35288,7 +35325,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 590,
+      "chrono_index": 591,
       "canonical_score": 44.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35401,7 +35438,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 603,
+      "chrono_index": 604,
       "canonical_score": 137.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35475,7 +35512,7 @@
         "score": 3800
       },
       "alternative_videos": [],
-      "chrono_index": 602,
+      "chrono_index": 603,
       "canonical_score": 24.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35558,7 +35595,7 @@
         "score": 1880
       },
       "alternative_videos": [],
-      "chrono_index": 614,
+      "chrono_index": 615,
       "canonical_score": 83.9,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35676,7 +35713,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 611,
+      "chrono_index": 612,
       "canonical_score": 27.9,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35773,7 +35810,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 610,
+      "chrono_index": 611,
       "canonical_score": 32.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35871,7 +35908,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 620,
+      "chrono_index": 621,
       "canonical_score": 101.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -35988,7 +36025,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 616,
+      "chrono_index": 617,
       "canonical_score": 53.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36074,7 +36111,7 @@
         "score": 3940
       },
       "alternative_videos": [],
-      "chrono_index": 619,
+      "chrono_index": 620,
       "canonical_score": 46.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36211,7 +36248,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 623,
+      "chrono_index": 624,
       "canonical_score": 71.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36328,7 +36365,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 638,
+      "chrono_index": 639,
       "canonical_score": 124.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36449,7 +36486,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 681,
+      "chrono_index": 682,
       "canonical_score": 104.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36563,7 +36600,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 683,
+      "chrono_index": 684,
       "canonical_score": 181.5,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -36644,7 +36681,7 @@
         "score": 1800
       },
       "alternative_videos": [],
-      "chrono_index": 686,
+      "chrono_index": 687,
       "canonical_score": 144.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -45828,7 +45865,7 @@
         "score": 1754
       },
       "alternative_videos": [],
-      "chrono_index": 520,
+      "chrono_index": 521,
       "canonical_score": 33.7,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -45912,7 +45949,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 505,
+      "chrono_index": 506,
       "canonical_score": 23.6,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -45980,7 +46017,7 @@
         "score": 1680
       },
       "alternative_videos": [],
-      "chrono_index": 523,
+      "chrono_index": 524,
       "canonical_score": 18.7,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46050,7 +46087,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 519,
+      "chrono_index": 520,
       "canonical_score": 14.5,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46126,7 +46163,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 533,
+      "chrono_index": 534,
       "canonical_score": 27.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46197,7 +46234,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 530,
+      "chrono_index": 531,
       "canonical_score": 20.7,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46272,7 +46309,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 545,
+      "chrono_index": 546,
       "canonical_score": 24.7,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46335,7 +46372,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 549,
+      "chrono_index": 550,
       "canonical_score": 14.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46408,7 +46445,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 557,
+      "chrono_index": 558,
       "canonical_score": 8.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46485,7 +46522,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 561,
+      "chrono_index": 562,
       "canonical_score": 17.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46587,7 +46624,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 563,
+      "chrono_index": 564,
       "canonical_score": 27.9,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46688,7 +46725,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 569,
+      "chrono_index": 570,
       "canonical_score": 22.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46757,7 +46794,7 @@
         "score": 1880
       },
       "alternative_videos": [],
-      "chrono_index": 567,
+      "chrono_index": 568,
       "canonical_score": 20.7,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46840,7 +46877,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 584,
+      "chrono_index": 585,
       "canonical_score": 26.1,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46914,7 +46951,7 @@
         "score": 4000
       },
       "alternative_videos": [],
-      "chrono_index": 576,
+      "chrono_index": 577,
       "canonical_score": 30.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -46985,7 +47022,7 @@
         "score": 4000
       },
       "alternative_videos": [],
-      "chrono_index": 577,
+      "chrono_index": 578,
       "canonical_score": 28.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47039,7 +47076,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 583,
+      "chrono_index": 584,
       "canonical_score": 10.1,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47141,7 +47178,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 604,
+      "chrono_index": 605,
       "canonical_score": 80.6,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47244,7 +47281,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 605,
+      "chrono_index": 606,
       "canonical_score": 80.6,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47320,7 +47357,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 591,
+      "chrono_index": 592,
       "canonical_score": 30.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47403,7 +47440,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 601,
+      "chrono_index": 602,
       "canonical_score": 25.5,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47481,7 +47518,7 @@
         "score": 1810
       },
       "alternative_videos": [],
-      "chrono_index": 613,
+      "chrono_index": 614,
       "canonical_score": 30.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47572,7 +47609,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 612,
+      "chrono_index": 613,
       "canonical_score": 19.6,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47668,7 +47705,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 618,
+      "chrono_index": 619,
       "canonical_score": 24.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47756,7 +47793,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 617,
+      "chrono_index": 618,
       "canonical_score": 18.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47825,7 +47862,7 @@
         "score": 2800
       },
       "alternative_videos": [],
-      "chrono_index": 628,
+      "chrono_index": 629,
       "canonical_score": 31.9,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47909,7 +47946,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 639,
+      "chrono_index": 640,
       "canonical_score": 76.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -47984,7 +48021,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 637,
+      "chrono_index": 638,
       "canonical_score": 26.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48072,7 +48109,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 642,
+      "chrono_index": 643,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
       "canonical_score": 12.6,
@@ -48157,7 +48194,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 666,
+      "chrono_index": 667,
       "canonical_score": 27.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48261,7 +48298,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 665,
+      "chrono_index": 666,
       "canonical_score": 34.1,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48351,7 +48388,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 667,
+      "chrono_index": 668,
       "canonical_score": 23.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48428,7 +48465,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 668,
+      "chrono_index": 669,
       "canonical_score": 20.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48497,7 +48534,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 676,
+      "chrono_index": 677,
       "canonical_score": 26.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48587,7 +48624,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 691,
+      "chrono_index": 692,
       "canonical_score": 20.3,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48654,7 +48691,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 690,
+      "chrono_index": 691,
       "canonical_score": 15.0,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48730,7 +48767,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 696,
+      "chrono_index": 697,
       "canonical_score": 10.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48814,7 +48851,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 700,
+      "chrono_index": 701,
       "canonical_score": 18.6,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -48870,7 +48907,7 @@
         "score": 3600
       },
       "alternative_videos": [],
-      "chrono_index": 702,
+      "chrono_index": 703,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
       "canonical_score": 12.8,
@@ -48932,7 +48969,7 @@
         "score": 840
       },
       "alternative_videos": [],
-      "chrono_index": 704,
+      "chrono_index": 705,
       "canonical_score": 12.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -49127,7 +49164,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 593,
+      "chrono_index": 594,
       "canonical_score": 2941.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -49784,7 +49821,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 586,
+      "chrono_index": 587,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -49920,7 +49957,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 496,
+      "chrono_index": 497,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -50056,7 +50093,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 497,
+      "chrono_index": 498,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -51571,7 +51608,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 643,
+      "chrono_index": 644,
       "canonical_score": 1682.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -51676,7 +51713,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 659,
+      "chrono_index": 660,
       "canonical_score": 1682.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -51781,7 +51818,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 660,
+      "chrono_index": 661,
       "canonical_score": 1682.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -51936,7 +51973,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 692,
+      "chrono_index": 693,
       "canonical_score": 1601.4,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -53367,7 +53404,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 703,
+      "chrono_index": 704,
       "canonical_score": 1272.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -53472,7 +53509,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 553,
+      "chrono_index": 554,
       "canonical_score": 1272.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -53619,7 +53656,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 543,
+      "chrono_index": 544,
       "canonical_score": 1165.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -54345,7 +54382,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 565,
+      "chrono_index": 566,
       "canonical_score": 1054.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -54503,7 +54540,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 653,
+      "chrono_index": 654,
       "canonical_score": 1049.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -54653,7 +54690,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 651,
+      "chrono_index": 652,
       "canonical_score": 1049.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -54934,7 +54971,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 592,
+      "chrono_index": 593,
       "canonical_score": 1038.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -55798,7 +55835,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 598,
+      "chrono_index": 599,
       "canonical_score": 832.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -56053,7 +56090,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 587,
+      "chrono_index": 588,
       "canonical_score": 826.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -56166,7 +56203,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 526,
+      "chrono_index": 527,
       "canonical_score": 826.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -56288,7 +56325,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 527,
+      "chrono_index": 528,
       "canonical_score": 826.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -56733,7 +56770,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 633,
+      "chrono_index": 634,
       "canonical_score": 751.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -56883,7 +56920,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 588,
+      "chrono_index": 589,
       "canonical_score": 734.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -57616,7 +57653,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 599,
+      "chrono_index": 600,
       "canonical_score": 709.3,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -57879,7 +57916,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 669,
+      "chrono_index": 670,
       "canonical_score": 701.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -58317,7 +58354,7 @@
         "score": 4200
       },
       "alternative_videos": [],
-      "chrono_index": 546,
+      "chrono_index": 547,
       "canonical_score": 635.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -58731,7 +58768,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 648,
+      "chrono_index": 649,
       "canonical_score": 627.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -58860,7 +58897,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 474,
+      "chrono_index": 475,
       "canonical_score": 627.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -59224,7 +59261,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 607,
+      "chrono_index": 608,
       "canonical_score": 623.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -59861,7 +59898,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 556,
+      "chrono_index": 557,
       "canonical_score": 622.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -60468,7 +60505,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 645,
+      "chrono_index": 646,
       "canonical_score": 602.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -60615,7 +60652,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 697,
+      "chrono_index": 698,
       "canonical_score": 601.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -60761,7 +60798,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 490,
+      "chrono_index": 491,
       "canonical_score": 601.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -61065,7 +61102,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 695,
+      "chrono_index": 696,
       "canonical_score": 594.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -61667,7 +61704,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 647,
+      "chrono_index": 648,
       "canonical_score": 522.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -61984,7 +62021,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 524,
+      "chrono_index": 525,
       "canonical_score": 513.7,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -62388,7 +62425,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 597,
+      "chrono_index": 598,
       "canonical_score": 504.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -62542,7 +62579,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 674,
+      "chrono_index": 675,
       "canonical_score": 504.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -62678,7 +62715,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 705,
+      "chrono_index": 706,
       "canonical_score": 504.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -62788,7 +62825,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 541,
+      "chrono_index": 542,
       "canonical_score": 504.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -62939,7 +62976,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 694,
+      "chrono_index": 695,
       "canonical_score": 497.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -63421,7 +63458,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 589,
+      "chrono_index": 590,
       "canonical_score": 484.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -63545,7 +63582,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 701,
+      "chrono_index": 702,
       "canonical_score": 466.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -63653,7 +63690,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 673,
+      "chrono_index": 674,
       "canonical_score": 466.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -64019,7 +64056,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 608,
+      "chrono_index": 609,
       "canonical_score": 450.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -64385,7 +64422,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 629,
+      "chrono_index": 630,
       "canonical_score": 450.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -64750,7 +64787,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 698,
+      "chrono_index": 699,
       "canonical_score": 450.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66491,7 +66528,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 664,
+      "chrono_index": 665,
       "canonical_score": 376.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66614,7 +66651,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 566,
+      "chrono_index": 567,
       "canonical_score": 376.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66728,7 +66765,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 693,
+      "chrono_index": 694,
       "canonical_score": 375.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66826,7 +66863,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 501,
+      "chrono_index": 502,
       "canonical_score": 375.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66977,7 +67014,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 542,
+      "chrono_index": 543,
       "canonical_score": 363.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -68022,7 +68059,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 682,
+      "chrono_index": 683,
       "canonical_score": 326.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -68309,7 +68346,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 518,
+      "chrono_index": 519,
       "canonical_score": 320.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -69256,7 +69293,7 @@
       ],
       "opening_line": "בכל שנה בסתו גיורא הרוח המטורפת בגני",
       "year": "1979",
-      "album_group": "יהודית רביץ",
+      "album_group": "נחמה הנדל",
       "album_track_number": "",
       "dual_role": "additional_performance",
       "roles": [
@@ -69328,19 +69365,28 @@
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
       "selected_video": {
-        "video_id": "YgYyQjI4UeY",
-        "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
-        "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
-        "channel": "שיר עד - Shir Ad",
-        "duration": "3:50",
-        "description": "יהודית רביץ (יהודית רביץ)",
+        "video_id": "lxr0_Ey9-vM",
+        "url": "https://www.youtube.com/watch?v=lxr0_Ey9-vM",
+        "video_title": "בכל שנה בסתיו גיורא",
+        "channel": "Nechama Hendel - Topic",
+        "duration": "3:46",
+        "description": "Provided to YouTube by NMC United Entertainment Ltd · נחמה הנדל · מתוך האלבום: נחמה הנדל (1979)",
         "tier": "2_album_original",
         "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "יהודית רביץ",
-        "matched_album": "יהודית רביץ",
-        "score": 3200
+        "matched_performer": "נחמה הנדל",
+        "matched_album": "נחמה הנדל (1979)",
+        "score": 4500
       },
       "alternative_videos": [
+        {
+          "video_id": "MQOaZBQeo6U",
+          "url": "https://www.youtube.com/watch?v=MQOaZBQeo6U",
+          "video_title": "אסתר שמיר- בכל שנה בסתיו",
+          "channel": "morke mor",
+          "duration": "3:56",
+          "views": "",
+          "source": "same_song_performance"
+        },
         {
           "video_id": "OS9uUlfBrbA",
           "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
@@ -69348,7 +69394,16 @@
           "channel": "רוחמה רז - הערוץ הרשמי",
           "duration": "3:27",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "YY8vUjMWzEc",
+          "url": "https://www.youtube.com/watch?v=YY8vUjMWzEc",
+          "video_title": "בכל שנה בסתיו, גיורא",
+          "channel": "נעמי שמר - Topic",
+          "duration": "3:02",
+          "views": "",
+          "source": "same_song_performance"
         },
         {
           "video_id": "6d8Bkb1IQNo",
@@ -69360,6 +69415,136 @@
           "source": "direct_alternative"
         },
         {
+          "video_id": "YgYyQjI4UeY",
+          "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
+          "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
+          "channel": "שיר עד - Shir Ad",
+          "duration": "3:50",
+          "views": "",
+          "source": "same_song_performance"
+        }
+      ],
+      "chrono_index": 473,
+      "canonical_score": 279.6,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 23,
+      "ver_idx": 3,
+      "ver_total": 5
+    },
+    {
+      "index": 582,
+      "title": "בכל שנה בסתיו גיורא",
+      "alt_titles": [
+        "בכל שנה בסתיו, גיורא",
+        "בכל שנה בסתו גיורא"
+      ],
+      "opening_line": "בכל שנה בסתו גיורא הרוח המטורפת בגני",
+      "year": "1980",
+      "album_group": "נפתלי – תקליט לזכרו של נפתלי פורת",
+      "album_track_number": "",
+      "dual_role": "additional_performance",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043490205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4912"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1006545",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "נעמי שמר",
+        "אסתר שמיר",
+        "רוחמה רז",
+        "יהודית רביץ",
+        "נחמה (הלנה) הנדל",
+        "מיטל טרבלסי",
+        "להקת חיל חינוך",
+        "אורה זיטנר",
+        "עדי כהן",
+        "רבקה רז"
+      ],
+      "catalog_albums": [
+        "2 נעמי שמר אסיף",
+        "נעמי שמר על כל אלה",
+        "1 כי האדם עץ השדה מס",
+        "1 שירת נעמי דיסק",
+        "2 שירים לזכר הנופלים",
+        "אל בורות המים",
+        "הרוח החושך המים",
+        "סימני דרך",
+        "עמותת הורז",
+        "יהורם גאון - בעלייתי שם יפתי (1977)",
+        "נעמי שמר - אל בורות המים (1982)",
+        "אל בורות המים = El Borot Hamayim",
+        "אסיף",
+        "האוסף השלם: 100 שירים נבחרים",
+        "סימני דרך = Road Signs",
+        "נעמי שמר - אסיף",
+        "הספרייה הלאומית"
+      ],
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "selected_video": {
+        "video_id": "OS9uUlfBrbA",
+        "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
+        "video_title": "בכל שנה בסתיו גיורא - רוחמה רז (1980)",
+        "channel": "רוחמה רז - הערוץ הרשמי",
+        "duration": "3:27",
+        "description": "שיעורי פיתוח קול עם הזמרת רוחמה רז - 054-2336118 https://youtu.be/7_9K-xiTCPE?si=qoqFlOiKDF3zSuv7 מילים ולחן: נעמי שמר עיבוד ...",
+        "tier": "2_album_original",
+        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+        "matched_performer": "רוחמה רז",
+        "matched_album": "נפתלי – תקליט לזכרו של נפתלי פורת (1980)",
+        "score": 1711
+      },
+      "alternative_videos": [
+        {
+          "video_id": "MQOaZBQeo6U",
+          "url": "https://www.youtube.com/watch?v=MQOaZBQeo6U",
+          "video_title": "אסתר שמיר- בכל שנה בסתיו",
+          "channel": "morke mor",
+          "duration": "3:56",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "lxr0_Ey9-vM",
+          "url": "https://www.youtube.com/watch?v=lxr0_Ey9-vM",
+          "video_title": "בכל שנה בסתיו גיורא",
+          "channel": "Nechama Hendel - Topic",
+          "duration": "3:46",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
           "video_id": "YY8vUjMWzEc",
           "url": "https://www.youtube.com/watch?v=YY8vUjMWzEc",
           "video_title": "בכל שנה בסתיו, גיורא",
@@ -69367,18 +69552,184 @@
           "duration": "3:02",
           "views": "",
           "source": "same_song_performance"
+        },
+        {
+          "video_id": "6d8Bkb1IQNo",
+          "url": "https://www.youtube.com/watch?v=6d8Bkb1IQNo",
+          "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | ביצוע: נעמי שמר, 1982 - Naomi Shemer",
+          "channel": "שיר עד - Shir Ad",
+          "duration": "2:58",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "YgYyQjI4UeY",
+          "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
+          "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
+          "channel": "שיר עד - Shir Ad",
+          "duration": "3:50",
+          "views": "",
+          "source": "same_song_performance"
         }
       ],
-      "chrono_index": 479,
+      "chrono_index": 490,
       "canonical_score": 279.6,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "acum_versions_count": 23,
-      "ver_idx": 3,
-      "ver_total": 3
+      "ver_idx": 4,
+      "ver_total": 5
     },
     {
-      "index": 582,
+      "index": 583,
+      "title": "בכל שנה בסתיו גיורא",
+      "alt_titles": [
+        "בכל שנה בסתיו, גיורא",
+        "בכל שנה בסתו גיורא"
+      ],
+      "opening_line": "בכל שנה בסתו גיורא הרוח המטורפת בגני",
+      "year": "",
+      "album_group": "סינגל / ביצוע בודד",
+      "album_track_number": "",
+      "dual_role": "additional_performance",
+      "roles": [
+        "author",
+        "composer",
+        "performer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043490205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4912"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1006545",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "wikipedia",
+        "shironet",
+        "acum",
+        "stereo_ve_mono",
+        "discogs",
+        "musicbrainz",
+        "nli"
+      ],
+      "catalog_performers": [
+        "נעמי שמר",
+        "אסתר שמיר",
+        "רוחמה רז",
+        "יהודית רביץ",
+        "נחמה (הלנה) הנדל",
+        "מיטל טרבלסי",
+        "להקת חיל חינוך",
+        "אורה זיטנר",
+        "עדי כהן",
+        "רבקה רז"
+      ],
+      "catalog_albums": [
+        "2 נעמי שמר אסיף",
+        "נעמי שמר על כל אלה",
+        "1 כי האדם עץ השדה מס",
+        "1 שירת נעמי דיסק",
+        "2 שירים לזכר הנופלים",
+        "אל בורות המים",
+        "הרוח החושך המים",
+        "סימני דרך",
+        "עמותת הורז",
+        "יהורם גאון - בעלייתי שם יפתי (1977)",
+        "נעמי שמר - אל בורות המים (1982)",
+        "אל בורות המים = El Borot Hamayim",
+        "אסיף",
+        "האוסף השלם: 100 שירים נבחרים",
+        "סימני דרך = Road Signs",
+        "נעמי שמר - אסיף",
+        "הספרייה הלאומית"
+      ],
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "selected_video": {
+        "video_id": "YgYyQjI4UeY",
+        "url": "https://www.youtube.com/watch?v=YgYyQjI4UeY",
+        "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | שירה: יהודית רביץ - Yehudit Ravitz",
+        "channel": "שיר עד - Shir Ad",
+        "duration": "3:50",
+        "description": "יהודית רביץ (ארכיון הספרייה הלאומית / שיר עד)",
+        "tier": "4_original_performance",
+        "tier_label": "4. ביצוע מקורי",
+        "matched_performer": "יהודית רביץ",
+        "matched_album": "",
+        "score": 3200
+      },
+      "alternative_videos": [
+        {
+          "video_id": "MQOaZBQeo6U",
+          "url": "https://www.youtube.com/watch?v=MQOaZBQeo6U",
+          "video_title": "אסתר שמיר- בכל שנה בסתיו",
+          "channel": "morke mor",
+          "duration": "3:56",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "lxr0_Ey9-vM",
+          "url": "https://www.youtube.com/watch?v=lxr0_Ey9-vM",
+          "video_title": "בכל שנה בסתיו גיורא",
+          "channel": "Nechama Hendel - Topic",
+          "duration": "3:46",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "OS9uUlfBrbA",
+          "url": "https://www.youtube.com/watch?v=OS9uUlfBrbA",
+          "video_title": "בכל שנה בסתיו גיורא - רוחמה רז (1980)",
+          "channel": "רוחמה רז - הערוץ הרשמי",
+          "duration": "3:27",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "YY8vUjMWzEc",
+          "url": "https://www.youtube.com/watch?v=YY8vUjMWzEc",
+          "video_title": "בכל שנה בסתיו, גיורא",
+          "channel": "נעמי שמר - Topic",
+          "duration": "3:02",
+          "views": "",
+          "source": "same_song_performance"
+        },
+        {
+          "video_id": "6d8Bkb1IQNo",
+          "url": "https://www.youtube.com/watch?v=6d8Bkb1IQNo",
+          "video_title": "שיר עד - בכל שנה בסתיו גיורא - מילים ולחן: נעמי שמר | ביצוע: נעמי שמר, 1982 - Naomi Shemer",
+          "channel": "שיר עד - Shir Ad",
+          "duration": "2:58",
+          "views": "",
+          "source": "direct_alternative"
+        }
+      ],
+      "chrono_index": 707,
+      "canonical_score": 279.6,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 23,
+      "ver_idx": 5,
+      "ver_total": 5
+    },
+    {
+      "index": 584,
       "title": "איילת אהבים",
       "alt_titles": [
         "אילת אהבים"
@@ -69563,7 +69914,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 656,
+      "chrono_index": 657,
       "canonical_score": 272.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -69573,7 +69924,7 @@
       "ver_total": 3
     },
     {
-      "index": 583,
+      "index": 585,
       "title": "איילת אהבים",
       "alt_titles": [
         "אילת אהבים"
@@ -69740,7 +70091,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 547,
+      "chrono_index": 548,
       "canonical_score": 272.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -69751,7 +70102,7 @@
       "matched_performer": "אריק איינשטיין ויהודית רביץ"
     },
     {
-      "index": 584,
+      "index": 586,
       "title": "זמר",
       "alt_titles": [
         "לך ועליך"
@@ -69874,7 +70225,7 @@
       "ver_total": 3
     },
     {
-      "index": 585,
+      "index": 587,
       "title": "זמר",
       "alt_titles": [
         "לך ועליך"
@@ -69987,7 +70338,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 594,
+      "chrono_index": 595,
       "canonical_score": 268.7,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -69997,7 +70348,7 @@
       "ver_total": 3
     },
     {
-      "index": 586,
+      "index": 588,
       "title": "מה שלומך אחות",
       "alt_titles": [
         "מה שלומך אחות הבוקר מה שלומך אחות"
@@ -70113,7 +70464,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 578,
+      "chrono_index": 579,
       "canonical_score": 266.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -70123,7 +70474,7 @@
       "ver_total": 2
     },
     {
-      "index": 587,
+      "index": 589,
       "title": "הלילה הולך בשדרות",
       "alt_titles": [
         "הלילה הלך בשדרות"
@@ -70270,7 +70621,7 @@
       "ver_total": 3
     },
     {
-      "index": 588,
+      "index": 590,
       "title": "בגני נטעתיך",
       "alt_titles": [
         "בגני"
@@ -70418,7 +70769,7 @@
       "ver_total": 5
     },
     {
-      "index": 589,
+      "index": 591,
       "title": "בגני נטעתיך",
       "alt_titles": [
         "בגני"
@@ -70566,7 +70917,7 @@
       "ver_total": 5
     },
     {
-      "index": 590,
+      "index": 592,
       "title": "בגני נטעתיך",
       "alt_titles": [
         "בגני"
@@ -70714,7 +71065,7 @@
       "ver_total": 5
     },
     {
-      "index": 591,
+      "index": 593,
       "title": "בגני נטעתיך",
       "alt_titles": [
         "בגני"
@@ -70862,7 +71213,7 @@
       "ver_total": 5
     },
     {
-      "index": 592,
+      "index": 594,
       "title": "מיכאל",
       "alt_titles": [],
       "opening_line": "חכיתי חכיתי בכיתי בכיתי ומי לא בא מיכאל",
@@ -70992,7 +71343,7 @@
       "ver_total": 3
     },
     {
-      "index": 593,
+      "index": 595,
       "title": "מיכאל",
       "alt_titles": [],
       "opening_line": "חכיתי חכיתי בכיתי בכיתי ומי לא בא מיכאל",
@@ -71112,7 +71463,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 657,
+      "chrono_index": 658,
       "canonical_score": 254.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -71122,7 +71473,7 @@
       "ver_total": 3
     },
     {
-      "index": 594,
+      "index": 596,
       "title": "בדמייך חיי",
       "alt_titles": [
         "מלים העתיקות נותנות בי כח",
@@ -71215,7 +71566,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 685,
+      "chrono_index": 686,
       "canonical_score": 238.3,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -71225,7 +71576,7 @@
       "dual_role": "additional_performance"
     },
     {
-      "index": 595,
+      "index": 597,
       "title": "החייל שלי חזר",
       "alt_titles": [
         "החיל שלי חזר",
@@ -71366,7 +71717,7 @@
       "ver_total": 3
     },
     {
-      "index": 596,
+      "index": 598,
       "title": "הופה היי",
       "alt_titles": [
         "הופה הי",
@@ -71513,7 +71864,7 @@
       "ver_total": 4
     },
     {
-      "index": 597,
+      "index": 599,
       "title": "הופה היי",
       "alt_titles": [
         "הופה הי",
@@ -71660,7 +72011,7 @@
       "ver_total": 4
     },
     {
-      "index": 598,
+      "index": 600,
       "title": "הופה היי",
       "alt_titles": [
         "הופה הי",
@@ -71807,7 +72158,7 @@
       "ver_total": 4
     },
     {
-      "index": 599,
+      "index": 601,
       "title": "שלום כיתה א'",
       "alt_titles": [
         "שלום כיתה א",
@@ -71921,7 +72272,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 655,
+      "chrono_index": 656,
       "canonical_score": 216.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -71930,7 +72281,7 @@
       "ver_total": 3
     },
     {
-      "index": 600,
+      "index": 602,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -72066,7 +72417,7 @@
       "ver_total": 3
     },
     {
-      "index": 601,
+      "index": 603,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -72192,7 +72543,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 644,
+      "chrono_index": 645,
       "canonical_score": 212.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -72202,7 +72553,7 @@
       "ver_total": 3
     },
     {
-      "index": 602,
+      "index": 604,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -72353,7 +72704,7 @@
       "ver_total": 3
     },
     {
-      "index": 603,
+      "index": 605,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -72504,7 +72855,7 @@
       "ver_total": 3
     },
     {
-      "index": 604,
+      "index": 606,
       "title": "יש לי חבר",
       "alt_titles": [
         "אצא לי לטייל על כל ארץ ישראל",
@@ -72627,7 +72978,7 @@
       "ver_total": 2
     },
     {
-      "index": 605,
+      "index": 607,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -72781,7 +73132,7 @@
       "ver_total": 4
     },
     {
-      "index": 606,
+      "index": 608,
       "title": "הכול בגלל מסמר",
       "alt_titles": [
         "Alla fiera dell'est",
@@ -72944,7 +73295,7 @@
       "ver_total": 4
     },
     {
-      "index": 607,
+      "index": 609,
       "title": "יובל",
       "alt_titles": [],
       "opening_line": "מי שאוהב אוהב מי ששונא שונא",
@@ -73050,7 +73401,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 677,
+      "chrono_index": 678,
       "canonical_score": 198.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -73060,7 +73411,7 @@
       "ver_total": 3
     },
     {
-      "index": 608,
+      "index": 610,
       "title": "יובל",
       "alt_titles": [],
       "opening_line": "מי שאוהב אוהב מי ששונא שונא",
@@ -73166,7 +73517,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 679,
+      "chrono_index": 680,
       "canonical_score": 198.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -73176,7 +73527,7 @@
       "ver_total": 3
     },
     {
-      "index": 609,
+      "index": 611,
       "title": "מר נרקיס",
       "alt_titles": [],
       "opening_line": "יום ששי בצהרים דוקא בשעה טובה",
@@ -73310,7 +73661,7 @@
       "ver_total": 2
     },
     {
-      "index": 610,
+      "index": 612,
       "title": "שיר נולד",
       "alt_titles": [
         "שיר נולד הקשיבו שיר נולד הלילה"
@@ -73430,7 +73781,7 @@
       "ver_total": 2
     },
     {
-      "index": 611,
+      "index": 613,
       "title": "המעיל",
       "alt_titles": [
         "חברים שלי עשו לי מעיל"
@@ -73533,7 +73884,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 689,
+      "chrono_index": 690,
       "canonical_score": 178.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -73543,7 +73894,7 @@
       "ver_total": 2
     },
     {
-      "index": 612,
+      "index": 614,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -73676,7 +74027,7 @@
       "ver_total": 3
     },
     {
-      "index": 613,
+      "index": 615,
       "title": "קרן יער",
       "alt_titles": [
         "קרן סהר",
@@ -73799,7 +74150,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 595,
+      "chrono_index": 596,
       "canonical_score": 167.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -73809,7 +74160,7 @@
       "ver_total": 3
     },
     {
-      "index": 614,
+      "index": 616,
       "title": "אחותי רוחמה",
       "alt_titles": [
         "אחותי רחמה",
@@ -73928,7 +74279,7 @@
       "matched_performer": "להקת האירוסים"
     },
     {
-      "index": 615,
+      "index": 617,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -74030,7 +74381,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 640,
+      "chrono_index": 641,
       "canonical_score": 155.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -74040,7 +74391,7 @@
       "ver_total": 3
     },
     {
-      "index": 616,
+      "index": 618,
       "title": "שנה טובה",
       "alt_titles": [],
       "opening_line": "על הדשא טל וגשם ושנה טובה",
@@ -74142,7 +74493,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 641,
+      "chrono_index": 642,
       "canonical_score": 155.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -74152,7 +74503,7 @@
       "ver_total": 3
     },
     {
-      "index": 617,
+      "index": 619,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -74288,7 +74639,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 548,
+      "chrono_index": 549,
       "canonical_score": 151.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -74298,7 +74649,7 @@
       "ver_total": 3
     },
     {
-      "index": 618,
+      "index": 620,
       "title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -74399,7 +74750,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 649,
+      "chrono_index": 650,
       "canonical_score": 147.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -74409,7 +74760,7 @@
       "ver_total": 2
     },
     {
-      "index": 619,
+      "index": 621,
       "title": "עקידת יצחק",
       "alt_titles": [
         "עקדת יצחק"
@@ -74532,7 +74883,7 @@
       "ver_total": 2
     },
     {
-      "index": 620,
+      "index": 622,
       "title": "נצא השדה",
       "alt_titles": [
         "נצאה השדה",
@@ -74652,7 +75003,7 @@
       "ver_total": 2
     },
     {
-      "index": 621,
+      "index": 623,
       "title": "משנכנס אדר",
       "alt_titles": [
         "כשנכנס אדר"
@@ -74770,7 +75121,7 @@
       "matched_performer": "צילה דגן"
     },
     {
-      "index": 622,
+      "index": 624,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -74883,7 +75234,7 @@
       "ver_total": 2
     },
     {
-      "index": 623,
+      "index": 625,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -74998,7 +75349,7 @@
       "ver_total": 3
     },
     {
-      "index": 624,
+      "index": 626,
       "title": "אל תשאלו אותי",
       "alt_titles": [],
       "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
@@ -75113,7 +75464,7 @@
       "ver_total": 3
     },
     {
-      "index": 625,
+      "index": 627,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -75227,7 +75578,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 506,
+      "chrono_index": 507,
       "canonical_score": 47.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -75237,7 +75588,7 @@
       "ver_total": 3
     },
     {
-      "index": 626,
+      "index": 628,
       "title": "דוגרת",
       "alt_titles": [
         "הדוגרת",
@@ -75361,7 +75712,7 @@
       "ver_total": 3
     },
     {
-      "index": 627,
+      "index": 629,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -75476,7 +75827,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 646,
+      "chrono_index": 647,
       "canonical_score": 45.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -75485,7 +75836,7 @@
       "ver_total": 2
     },
     {
-      "index": 628,
+      "index": 630,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -75597,7 +75948,7 @@
       "ver_total": 2
     },
     {
-      "index": 629,
+      "index": 631,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -75696,7 +76047,7 @@
       "ver_total": 2
     },
     {
-      "index": 630,
+      "index": 632,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -75835,7 +76186,7 @@
       "ver_total": 3
     },
     {
-      "index": 631,
+      "index": 633,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -75967,7 +76318,7 @@
       "ver_total": 3
     },
     {
-      "index": 632,
+      "index": 634,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -76083,7 +76434,7 @@
       "ver_total": 2
     },
     {
-      "index": 633,
+      "index": 635,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -76218,7 +76569,7 @@
       "ver_total": 2
     },
     {
-      "index": 634,
+      "index": 636,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -76312,7 +76663,7 @@
       "ver_total": 2
     },
     {
-      "index": 635,
+      "index": 637,
       "title": "מסעות בנימין מטודלה",
       "alt_titles": [],
       "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
@@ -76419,7 +76770,7 @@
       "ver_total": 2
     },
     {
-      "index": 636,
+      "index": 638,
       "title": "אהבת אשתקד",
       "alt_titles": [],
       "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
@@ -76499,7 +76850,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 609,
+      "chrono_index": 610,
       "canonical_score": 100.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -76509,7 +76860,7 @@
       "ver_total": 2
     },
     {
-      "index": 637,
+      "index": 639,
       "title": "גיא",
       "alt_titles": [],
       "opening_line": "גיא אתה ואני ודי אני ואתה",
@@ -76617,7 +76968,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 652,
+      "chrono_index": 653,
       "canonical_score": 142.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -76627,7 +76978,7 @@
       "ver_total": 2
     },
     {
-      "index": 638,
+      "index": 640,
       "title": "שיר הבר",
       "alt_titles": [
         "טנגו",
@@ -76743,7 +77094,7 @@
       "ver_total": 2
     },
     {
-      "index": 639,
+      "index": 641,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -76879,7 +77230,7 @@
       "ver_total": 3
     },
     {
-      "index": 640,
+      "index": 642,
       "title": "רב האור והתכלת",
       "alt_titles": [],
       "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
@@ -77024,7 +77375,7 @@
       "ver_total": 3
     },
     {
-      "index": 641,
+      "index": 643,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -77145,7 +77496,7 @@
       "ver_total": 3
     },
     {
-      "index": 642,
+      "index": 644,
       "title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -77266,7 +77617,7 @@
       "ver_total": 3
     },
     {
-      "index": 643,
+      "index": 645,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -77400,7 +77751,7 @@
       "ver_total": 5
     },
     {
-      "index": 644,
+      "index": 646,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -77534,7 +77885,7 @@
       "ver_total": 5
     },
     {
-      "index": 645,
+      "index": 647,
       "title": "אופליה",
       "alt_titles": [
         "לא כדאי, אופליה",
@@ -77668,7 +78019,7 @@
       "ver_total": 5
     },
     {
-      "index": 646,
+      "index": 648,
       "title": "בלילה שכזה",
       "alt_titles": [
         "לילה שכזה"
@@ -77786,7 +78137,7 @@
       "ver_total": 3
     },
     {
-      "index": 647,
+      "index": 649,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -77913,7 +78264,7 @@
       "ver_total": 5
     },
     {
-      "index": 648,
+      "index": 650,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -78040,7 +78391,7 @@
       "ver_total": 5
     },
     {
-      "index": 649,
+      "index": 651,
       "title": "יום ה בשבוע",
       "alt_titles": [
         "יום ח' בשבוע",
@@ -78158,7 +78509,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 515,
+      "chrono_index": 516,
       "canonical_score": 55.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -78167,7 +78518,7 @@
       "ver_total": 5
     },
     {
-      "index": 650,
+      "index": 652,
       "title": "קפה שחור",
       "alt_titles": [],
       "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
@@ -78285,7 +78636,7 @@
       "ver_total": 2
     },
     {
-      "index": 651,
+      "index": 653,
       "title": "מתי",
       "alt_titles": [
         "הם בלבד"
@@ -78398,7 +78749,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 596,
+      "chrono_index": 597,
       "canonical_score": 86.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -78407,7 +78758,7 @@
       "ver_total": 3
     },
     {
-      "index": 652,
+      "index": 654,
       "title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -78506,7 +78857,7 @@
       "ver_total": 3
     },
     {
-      "index": 653,
+      "index": 655,
       "title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -78605,7 +78956,7 @@
       "ver_total": 3
     },
     {
-      "index": 654,
+      "index": 656,
       "title": "מה אמרו הציפורים",
       "alt_titles": [
         "מה אמרו הצפרים",
@@ -78730,7 +79081,7 @@
       "ver_total": 3
     },
     {
-      "index": 655,
+      "index": 657,
       "title": "יפעת",
       "alt_titles": [],
       "opening_line": "עיר זרה ורוח בפנים על העיר חופה של עננים",
@@ -78828,7 +79179,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 494,
+      "chrono_index": 495,
       "canonical_score": 97.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -78838,7 +79189,7 @@
       "ver_total": 2
     },
     {
-      "index": 656,
+      "index": 658,
       "title": "את הכי הכי",
       "alt_titles": [],
       "opening_line": "את הכי הכי אסור שתברחי",
@@ -78924,7 +79275,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 499,
+      "chrono_index": 500,
       "canonical_score": 43.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -78934,7 +79285,7 @@
       "ver_total": 2
     },
     {
-      "index": 657,
+      "index": 659,
       "title": "שיר ערש למקרים מיוחדים",
       "alt_titles": [
         "נומי בת",
@@ -79041,7 +79392,7 @@
       "ver_total": 2
     },
     {
-      "index": 658,
+      "index": 660,
       "title": "והוא יושיענו",
       "alt_titles": [
         "והוא יושיעני",
@@ -79168,7 +79519,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 624,
+      "chrono_index": 625,
       "canonical_score": 71.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -79178,7 +79529,7 @@
       "ver_total": 3
     },
     {
-      "index": 659,
+      "index": 661,
       "title": "והוא יושיענו",
       "alt_titles": [
         "והוא יושיעני",
@@ -79305,7 +79656,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 625,
+      "chrono_index": 626,
       "canonical_score": 71.3,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -79315,7 +79666,7 @@
       "ver_total": 3
     },
     {
-      "index": 660,
+      "index": 662,
       "title": "מי ידליק",
       "alt_titles": [
         "הולכים בחשך אור גדול יראו",
@@ -79426,7 +79777,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 675,
+      "chrono_index": 676,
       "canonical_score": 104.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -79436,7 +79787,7 @@
       "ver_total": 2
     },
     {
-      "index": 661,
+      "index": 663,
       "title": "אקטואליה",
       "alt_titles": [
         "הורה אלפיים",
@@ -79539,7 +79890,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 621,
+      "chrono_index": 622,
       "canonical_score": 181.5,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
@@ -79549,7 +79900,7 @@
       "ver_total": 2
     },
     {
-      "index": 662,
+      "index": 664,
       "title": "מגדל בודד",
       "alt_titles": [],
       "opening_line": "מגדל בודד בלילה אורו נודד בלילה",
@@ -79637,7 +79988,7 @@
       "ver_total": 2
     },
     {
-      "index": 663,
+      "index": 665,
       "title": "בא הגדוד",
       "alt_titles": [
         "הגיע גדוד אל המושב באנו אל המושב"
@@ -79721,7 +80072,7 @@
       "ver_total": 2
     },
     {
-      "index": 664,
+      "index": 666,
       "title": "חפש את האישה",
       "alt_titles": [
         "חפש את האשה"
@@ -79805,7 +80156,7 @@
       "ver_total": 2
     },
     {
-      "index": 665,
+      "index": 667,
       "title": "אחינו הקטן",
       "alt_titles": [
         "בקיץ בקיץ אחינו הקטן",
@@ -79924,7 +80275,7 @@
       "ver_total": 4
     },
     {
-      "index": 666,
+      "index": 668,
       "title": "אחינו הקטן",
       "alt_titles": [
         "בקיץ בקיץ אחינו הקטן",
@@ -80043,7 +80394,7 @@
       "ver_total": 4
     },
     {
-      "index": 667,
+      "index": 669,
       "title": "רכבת הברית",
       "alt_titles": [],
       "opening_line": "הו מה זה בא קרב לו הנה",
@@ -80136,7 +80487,7 @@
       "ver_total": 3
     },
     {
-      "index": 668,
+      "index": 670,
       "title": "רכבת הברית",
       "alt_titles": [],
       "opening_line": "הו מה זה בא קרב לו הנה",
@@ -80229,7 +80580,7 @@
       "ver_total": 3
     },
     {
-      "index": 669,
+      "index": 671,
       "title": "קיצור החדשות",
       "alt_titles": [
         "קצור החדשות",
@@ -80308,7 +80659,7 @@
       "ver_total": 2
     },
     {
-      "index": 670,
+      "index": 672,
       "title": "קרנבל",
       "alt_titles": [],
       "opening_line": "שוב נתבים זקוקים לשמים כבר הרקיע הפך",
@@ -80387,7 +80738,7 @@
       "ver_total": 2
     },
     {
-      "index": 671,
+      "index": 673,
       "title": "רומנס בכפר",
       "alt_titles": [
         "ערב טוב"
@@ -80462,7 +80813,7 @@
       "ver_total": 2
     },
     {
-      "index": 672,
+      "index": 674,
       "title": "ט\"ו באב",
       "alt_titles": [
         "טו באב"
@@ -80536,7 +80887,7 @@
       "ver_total": 3
     },
     {
-      "index": 673,
+      "index": 675,
       "title": "ט\"ו באב",
       "alt_titles": [
         "טו באב"
@@ -80611,7 +80962,7 @@
       "ver_total": 3
     },
     {
-      "index": 674,
+      "index": 676,
       "title": "שיר עם סיאמי",
       "alt_titles": [
         "באה הדבורה",
@@ -80697,7 +81048,7 @@
       "ver_total": 2
     },
     {
-      "index": 675,
+      "index": 677,
       "title": "אוכל אדם",
       "alt_titles": [
         "אוכל-אדם"
@@ -80787,7 +81138,7 @@
       "ver_total": 2
     },
     {
-      "index": 676,
+      "index": 678,
       "title": "מדם בלוזון המרגלת",
       "alt_titles": [
         "מדאם בלוזון המרגלת",
@@ -80897,7 +81248,7 @@
       "ver_total": 3
     },
     {
-      "index": 677,
+      "index": 679,
       "title": "סוף העולם",
       "alt_titles": [
         "סוף העולם אמצע המדבר שם הכל שעמום"
@@ -80981,7 +81332,7 @@
       "ver_total": 2
     },
     {
-      "index": 678,
+      "index": 680,
       "title": "שיר פורח",
       "alt_titles": [],
       "opening_line": "שוב פורח החצב וזה סימן שבא הסתיו",
@@ -81048,7 +81399,7 @@
       "ver_total": 2
     },
     {
-      "index": 679,
+      "index": 681,
       "title": "אותלו",
       "alt_titles": [
         "ג'ורג'יה אלבמה מיסיסיפי",
@@ -81165,7 +81516,7 @@
       "ver_total": 3
     },
     {
-      "index": 680,
+      "index": 682,
       "title": "אותלו",
       "alt_titles": [
         "ג'ורג'יה אלבמה מיסיסיפי",
@@ -81281,7 +81632,7 @@
       "ver_total": 3
     },
     {
-      "index": 681,
+      "index": 683,
       "title": "המכשפות",
       "alt_titles": [
         "מחשיכה ועד קריאת הגבר"
@@ -81396,7 +81747,7 @@
       "ver_total": 4
     },
     {
-      "index": 682,
+      "index": 684,
       "title": "המכשפות",
       "alt_titles": [
         "מחשיכה ועד קריאת הגבר"
@@ -81511,7 +81862,7 @@
       "ver_total": 4
     },
     {
-      "index": 683,
+      "index": 685,
       "title": "שיר הליצן",
       "alt_titles": [
         "הליצן"
@@ -81595,7 +81946,7 @@
       "ver_total": 2
     },
     {
-      "index": 684,
+      "index": 686,
       "title": "כפות רגליך לבנות",
       "alt_titles": [
         "שיר כפות רגלייך",
@@ -81700,7 +82051,7 @@
       "ver_total": 2
     },
     {
-      "index": 685,
+      "index": 687,
       "title": "תחביב מיוחד במינו",
       "alt_titles": [
         "אני מגדלת בעל"
@@ -81794,7 +82145,7 @@
       "ver_total": 2
     },
     {
-      "index": 686,
+      "index": 688,
       "title": "העוזרת של זרש",
       "alt_titles": [],
       "opening_line": "כאשר הגברת זרש מזומנת לקוקטיל אז נשארת",
@@ -81873,7 +82224,7 @@
       "ver_total": 2
     },
     {
-      "index": 687,
+      "index": 689,
       "title": "מותי בא לי פתע",
       "alt_titles": [],
       "opening_line": "מותי בא לי פתע כאחד האדם ידעתי כי קרב",
@@ -81953,7 +82304,7 @@
       "matched_performer": "זמרי הלהקות הצבאיות (גל\"צ)"
     },
     {
-      "index": 688,
+      "index": 690,
       "title": "הכתר השרביט והגלימה",
       "alt_titles": [],
       "opening_line": "התזמורת בצליליה מרעימה וזהו זה",
@@ -82017,7 +82368,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 558,
+      "chrono_index": 559,
       "canonical_score": 8.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82028,7 +82379,7 @@
       "matched_performer": "משה בקר (הופעה חיה, 1984)"
     },
     {
-      "index": 689,
+      "index": 691,
       "title": "שלג בצפת",
       "alt_titles": [
         "כאן בצפת",
@@ -82112,7 +82463,7 @@
       "ver_total": 2
     },
     {
-      "index": 690,
+      "index": 692,
       "title": "מנגנות ויואלדי",
       "alt_titles": [
         "מנגנות ויולדי",
@@ -82188,7 +82539,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 671,
+      "chrono_index": 672,
       "canonical_score": 27.4,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82198,7 +82549,7 @@
       "ver_total": 2
     },
     {
-      "index": 691,
+      "index": 693,
       "title": "לא ביאליק",
       "alt_titles": [],
       "opening_line": "אני אכניס אותך תחת כנפי",
@@ -82279,7 +82630,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 670,
+      "chrono_index": 671,
       "canonical_score": 23.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82289,7 +82640,7 @@
       "ver_total": 2
     },
     {
-      "index": 692,
+      "index": 694,
       "title": "אילן",
       "alt_titles": [],
       "opening_line": "",
@@ -82347,7 +82698,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 699,
+      "chrono_index": 700,
       "canonical_score": 15.0,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82357,7 +82708,7 @@
       "ver_total": 2
     },
     {
-      "index": 693,
+      "index": 695,
       "title": "הטיול הקטן",
       "alt_titles": [
         "לטיול יצאנו"
@@ -82493,7 +82844,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 688,
+      "chrono_index": 689,
       "canonical_score": 629.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -82503,7 +82854,7 @@
       "ver_total": 5
     },
     {
-      "index": 694,
+      "index": 696,
       "title": "אני גיטרה",
       "alt_titles": [],
       "opening_line": "אני גיטרה הרוח מנגן עלי",
@@ -82617,7 +82968,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 661,
+      "chrono_index": 662,
       "canonical_score": 1682.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82626,7 +82977,7 @@
       "ver_total": 6
     },
     {
-      "index": 695,
+      "index": 697,
       "title": "אני גיטרה",
       "alt_titles": [],
       "opening_line": "אני גיטרה הרוח מנגן עלי",
@@ -82740,7 +83091,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 662,
+      "chrono_index": 663,
       "canonical_score": 1682.2,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -82749,7 +83100,7 @@
       "ver_total": 6
     },
     {
-      "index": 696,
+      "index": 698,
       "title": "וולס להגנת הצומח",
       "alt_titles": [
         "ואלס להגנת הצומח",
@@ -82912,7 +83263,7 @@
       "ver_total": 6
     },
     {
-      "index": 697,
+      "index": 699,
       "title": "ירושלים של זהב",
       "alt_titles": [
         "דער קילער ווינט ווי וויין איז",
@@ -83097,7 +83448,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 634,
+      "chrono_index": 635,
       "canonical_score": 2941.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -83106,7 +83457,7 @@
       "ver_total": 7
     },
     {
-      "index": 698,
+      "index": 700,
       "title": "על כל אלה",
       "alt_titles": [
         "על כל אלה (על הדבש ועל העוקץ)",
@@ -83269,7 +83620,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 622,
+      "chrono_index": 623,
       "canonical_score": 2280.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -83278,7 +83629,7 @@
       "ver_total": 6
     },
     {
-      "index": 699,
+      "index": 701,
       "title": "עוד לא אהבתי די",
       "alt_titles": [
         "לא אהבתי די"
@@ -83450,7 +83801,7 @@
       "ver_total": 6
     },
     {
-      "index": 700,
+      "index": 702,
       "title": "שבחי מעוז",
       "alt_titles": [
         "מעוז צור",
@@ -83618,7 +83969,7 @@
       "ver_total": 4
     },
     {
-      "index": 701,
+      "index": 703,
       "title": "אלף בית",
       "alt_titles": [
         "אלף - אוהל",
@@ -83790,7 +84141,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 507,
+      "chrono_index": 508,
       "canonical_score": 522.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -83800,7 +84151,7 @@
       "ver_total": 5
     },
     {
-      "index": 702,
+      "index": 704,
       "title": "שלומית בונה סוכה",
       "alt_titles": [
         "שלומית בונה סוכת שלום",
@@ -83952,7 +84303,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 631,
+      "chrono_index": 632,
       "canonical_score": 751.9,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -83961,7 +84312,7 @@
       "ver_total": 5
     },
     {
-      "index": 703,
+      "index": 705,
       "title": "בראש השנה",
       "alt_titles": [
         "בראש  השנה",
@@ -84107,7 +84458,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 632,
+      "chrono_index": 633,
       "canonical_score": 611.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -84117,7 +84468,7 @@
       "ver_total": 4
     },
     {
-      "index": 704,
+      "index": 706,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -84254,7 +84605,7 @@
       "ver_total": 3
     },
     {
-      "index": 705,
+      "index": 707,
       "title": "מחרוזת שירי אביב",
       "alt_titles": [
         "אביב",
@@ -84311,7 +84662,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 636,
+      "chrono_index": 637,
       "canonical_score": 8.8,
       "canonical_layer": 3,
       "canonical_layer_label": "שכבה ג': פנינים נדירות וארכיון",
@@ -84321,7 +84672,7 @@
       "ver_total": 2
     },
     {
-      "index": 706,
+      "index": 708,
       "title": "סביבון סב סב",
       "alt_titles": [
         "באנו חושך לגרש",
@@ -84400,7 +84751,7 @@
       "acum_versions_count": 497
     },
     {
-      "index": 707,
+      "index": 709,
       "title": "כחול ים המים, ימך אילת כפליים",
       "alt_titles": [],
       "opening_line": "כחול ים המים ימך אילת כפליים",
@@ -84434,7 +84785,7 @@
       "chrono_index": null
     },
     {
-      "index": 708,
+      "index": 710,
       "title": "אנחנו נוער האיחוד",
       "alt_titles": [],
       "opening_line": "אנחנו נוער האיחוד כולם ביחד וגם לחוד",
@@ -84480,7 +84831,7 @@
       "chrono_index": null
     },
     {
-      "index": 709,
+      "index": 711,
       "title": "מקי הסכינאי",
       "alt_titles": [
         "מקי סכינאי",
@@ -84528,7 +84879,7 @@
       "chrono_index": null
     },
     {
-      "index": 710,
+      "index": 712,
       "title": "בואה נא",
       "alt_titles": [],
       "opening_line": "שוב נצעד יד ביד לא תלך דודי",
@@ -84571,7 +84922,7 @@
       "chrono_index": null
     },
     {
-      "index": 711,
+      "index": 713,
       "title": "כף",
       "alt_titles": [],
       "opening_line": "",
@@ -84611,7 +84962,7 @@
       "chrono_index": null
     },
     {
-      "index": 712,
+      "index": 714,
       "title": "עת דודים",
       "alt_titles": [
         "כף עת דודים וחן באה סוף סוף"
@@ -84655,7 +85006,7 @@
       "chrono_index": null
     },
     {
-      "index": 713,
+      "index": 715,
       "title": "שיר על כפר בדרום",
       "alt_titles": [
         "שממה וחוחים ושמים שממה ומישור"
@@ -84691,7 +85042,7 @@
       "chrono_index": null
     },
     {
-      "index": 714,
+      "index": 716,
       "title": "מדינת נדמה לי",
       "alt_titles": [
         "וכששרו איזה פלא על המון במות בידור"
@@ -84729,7 +85080,7 @@
       "chrono_index": null
     },
     {
-      "index": 715,
+      "index": 717,
       "title": "כל דבר פריו נותן",
       "alt_titles": [
         "כל דבר נותן פריו",
@@ -84776,7 +85127,7 @@
       "chrono_index": null
     },
     {
-      "index": 716,
+      "index": 718,
       "title": "שיר הפעמון",
       "alt_titles": [
         "כבר שש כבר בוקר כבר אור אפור"
@@ -84814,7 +85165,7 @@
       "chrono_index": null
     },
     {
-      "index": 717,
+      "index": 719,
       "title": "רביעייה",
       "alt_titles": [
         "קוארטט",
@@ -84854,7 +85205,7 @@
       "chrono_index": null
     },
     {
-      "index": 718,
+      "index": 720,
       "title": "מקהלת ילדי החייל",
       "alt_titles": [
         "מקהלת ילדי החיל"
@@ -84897,7 +85248,7 @@
       "chrono_index": null
     },
     {
-      "index": 719,
+      "index": 721,
       "title": "עבדולו אהוב שלי בלילות קראת לי",
       "alt_titles": [],
       "opening_line": "",
@@ -84937,7 +85288,7 @@
       "chrono_index": null
     },
     {
-      "index": 720,
+      "index": 722,
       "title": "מרק של שום",
       "alt_titles": [],
       "opening_line": "",
@@ -84972,7 +85323,7 @@
       "chrono_index": null
     },
     {
-      "index": 721,
+      "index": 723,
       "title": "הילדה איילת",
       "alt_titles": [
         "הילדה אילת",
@@ -85011,7 +85362,7 @@
       "chrono_index": null
     },
     {
-      "index": 722,
+      "index": 724,
       "title": "שם חם ויפת",
       "alt_titles": [],
       "opening_line": "נעים מאוד שמי שם ושמי הוא חם",
@@ -85071,7 +85422,7 @@
       "chrono_index": null
     },
     {
-      "index": 723,
+      "index": 725,
       "title": "ניר מה לבן",
       "alt_titles": [
         "ניר מה לבן הוא ודיו מה שחורה",
@@ -85119,7 +85470,7 @@
       "chrono_index": null
     },
     {
-      "index": 724,
+      "index": 726,
       "title": "צבעים",
       "alt_titles": [
         "שיר לצבעים"
@@ -85171,7 +85522,7 @@
       "chrono_index": null
     },
     {
-      "index": 725,
+      "index": 727,
       "title": "שיר חוק חינוך חובה",
       "alt_titles": [
         "וביום הראשון בבוקר כשהשמש תצחק טובה"
@@ -85208,7 +85559,7 @@
       "chrono_index": null
     },
     {
-      "index": 726,
+      "index": 728,
       "title": "יום זה יום יולד בו שיר",
       "alt_titles": [
         "יום זה יולד בו שיר",
@@ -85271,7 +85622,7 @@
       "chrono_index": null
     },
     {
-      "index": 727,
+      "index": 729,
       "title": "לא פעם בקיץ",
       "alt_titles": [],
       "opening_line": "",
@@ -85307,7 +85658,7 @@
       "chrono_index": null
     },
     {
-      "index": 728,
+      "index": 730,
       "title": "שמות המקומות",
       "alt_titles": [
         "שמותיהם של מקומות"
@@ -85342,7 +85693,7 @@
       "chrono_index": null
     },
     {
-      "index": 729,
+      "index": 731,
       "title": "שיר חדש",
       "alt_titles": [],
       "opening_line": "שירו להשם שיר חדש",
@@ -85375,7 +85726,7 @@
       "chrono_index": null
     },
     {
-      "index": 730,
+      "index": 732,
       "title": "בלוז ללויה",
       "alt_titles": [],
       "opening_line": "עצר את על השעונים ואת הטלפון נתק",
@@ -85408,7 +85759,7 @@
       "chrono_index": null
     },
     {
-      "index": 731,
+      "index": 733,
       "title": "פלוגת יסמין",
       "alt_titles": [],
       "opening_line": "פלוגת יסמין עוטפת חקי",
@@ -85464,7 +85815,7 @@
       "chrono_index": null
     },
     {
-      "index": 732,
+      "index": 734,
       "title": "א\"ב של הבריאות",
       "alt_titles": [],
       "opening_line": "",
@@ -85499,7 +85850,7 @@
       "chrono_index": null
     },
     {
-      "index": 733,
+      "index": 735,
       "title": "אוי שמה שמה ישנו נחל ועל הנחל שם גשר יש",
       "alt_titles": [
         "אוי דארטן... איבער דעם וואסערל"
@@ -85534,7 +85885,7 @@
       "chrono_index": null
     },
     {
-      "index": 734,
+      "index": 736,
       "title": "אופרטה",
       "alt_titles": [
         "אותלו ודסדמונה"
@@ -85569,7 +85920,7 @@
       "chrono_index": null
     },
     {
-      "index": 735,
+      "index": 737,
       "title": "אחד אפס",
       "alt_titles": [],
       "opening_line": "",
@@ -85602,7 +85953,7 @@
       "chrono_index": null
     },
     {
-      "index": 736,
+      "index": 738,
       "title": "אחרי השיעורים",
       "alt_titles": [],
       "opening_line": "אחרי השיעורים רכבת ארכה",
@@ -85635,7 +85986,7 @@
       "chrono_index": null
     },
     {
-      "index": 737,
+      "index": 739,
       "title": "אל הכפר",
       "alt_titles": [],
       "opening_line": "",
@@ -85669,7 +86020,7 @@
       "chrono_index": null
     },
     {
-      "index": 738,
+      "index": 740,
       "title": "אשכבה",
       "alt_titles": [],
       "opening_line": "",
@@ -85704,7 +86055,7 @@
       "chrono_index": null
     },
     {
-      "index": 739,
+      "index": 741,
       "title": "בדירתי הלא גדולה אשר ברחוב אמיל זולא",
       "alt_titles": [],
       "opening_line": "",
@@ -85737,7 +86088,7 @@
       "chrono_index": null
     },
     {
-      "index": 740,
+      "index": 742,
       "title": "בוקר בגן",
       "alt_titles": [],
       "opening_line": "",
@@ -85770,7 +86121,7 @@
       "chrono_index": null
     },
     {
-      "index": 741,
+      "index": 743,
       "title": "בים בם בום",
       "alt_titles": [],
       "opening_line": "",
@@ -85824,7 +86175,7 @@
       "chrono_index": null
     },
     {
-      "index": 742,
+      "index": 744,
       "title": "בירח שבט",
       "alt_titles": [],
       "opening_line": "בירח שבט שמזלו הוא דלי",
@@ -85860,7 +86211,7 @@
       "chrono_index": null
     },
     {
-      "index": 743,
+      "index": 745,
       "title": "בכל דור ודור",
       "alt_titles": [],
       "opening_line": "",
@@ -85895,7 +86246,7 @@
       "chrono_index": null
     },
     {
-      "index": 744,
+      "index": 746,
       "title": "בקול הזה",
       "alt_titles": [],
       "opening_line": "",
@@ -85931,7 +86282,7 @@
       "chrono_index": null
     },
     {
-      "index": 745,
+      "index": 747,
       "title": "ברחוב בתל-אביב",
       "alt_titles": [],
       "opening_line": "",
@@ -85964,7 +86315,7 @@
       "chrono_index": null
     },
     {
-      "index": 746,
+      "index": 748,
       "title": "ברכת הפרדה לנחל עז",
       "alt_titles": [],
       "opening_line": "שירה של חג עודה פועמת",
@@ -85999,7 +86350,7 @@
       "chrono_index": null
     },
     {
-      "index": 747,
+      "index": 749,
       "title": "דבורת הדבש",
       "alt_titles": [],
       "opening_line": "דבורת הדבש היא גם מלכה וגם פועלת",
@@ -86034,7 +86385,7 @@
       "chrono_index": null
     },
     {
-      "index": 748,
+      "index": 750,
       "title": "האדון אופה",
       "alt_titles": [
         "אדון אופה"
@@ -86072,7 +86423,7 @@
       "chrono_index": null
     },
     {
-      "index": 749,
+      "index": 751,
       "title": "הבובה הצטננה",
       "alt_titles": [],
       "opening_line": "",
@@ -86110,7 +86461,7 @@
       "chrono_index": null
     },
     {
-      "index": 750,
+      "index": 752,
       "title": "הד",
       "alt_titles": [
         "זכר אזכר מעברים נצבו הרים כנד"
@@ -86147,7 +86498,7 @@
       "chrono_index": null
     },
     {
-      "index": 751,
+      "index": 753,
       "title": "הולדת השיר",
       "alt_titles": [],
       "opening_line": "",
@@ -86180,7 +86531,7 @@
       "chrono_index": null
     },
     {
-      "index": 752,
+      "index": 754,
       "title": "הלילה השנים עשר",
       "alt_titles": [],
       "opening_line": "",
@@ -86216,7 +86567,7 @@
       "chrono_index": null
     },
     {
-      "index": 753,
+      "index": 755,
       "title": "הנחל זורם",
       "alt_titles": [],
       "opening_line": "",
@@ -86249,7 +86600,7 @@
       "chrono_index": null
     },
     {
-      "index": 754,
+      "index": 756,
       "title": "העולם העגול",
       "alt_titles": [
         "העולם עגול",
@@ -86285,7 +86636,7 @@
       "chrono_index": null
     },
     {
-      "index": 755,
+      "index": 757,
       "title": "העסקן",
       "alt_titles": [],
       "opening_line": "הוא אמר לי בואי נערוך חוג בית יחד",
@@ -86320,7 +86671,7 @@
       "chrono_index": null
     },
     {
-      "index": 756,
+      "index": 758,
       "title": "וריאציות על קורל",
       "alt_titles": [],
       "opening_line": "",
@@ -86356,7 +86707,7 @@
       "chrono_index": null
     },
     {
-      "index": 757,
+      "index": 759,
       "title": "זמר עם",
       "alt_titles": [],
       "opening_line": "",
@@ -86389,7 +86740,7 @@
       "chrono_index": null
     },
     {
-      "index": 758,
+      "index": 760,
       "title": "זמרת האש",
       "alt_titles": [],
       "opening_line": "",
@@ -86424,7 +86775,7 @@
       "chrono_index": null
     },
     {
-      "index": 759,
+      "index": 761,
       "title": "חופש",
       "alt_titles": [],
       "opening_line": "",
@@ -86460,7 +86811,7 @@
       "chrono_index": null
     },
     {
-      "index": 760,
+      "index": 762,
       "title": "לשנה הבאה בירושלים",
       "alt_titles": [],
       "opening_line": "",
@@ -86504,7 +86855,7 @@
       "chrono_index": null
     },
     {
-      "index": 761,
+      "index": 763,
       "title": "מטריות שרבורג",
       "alt_titles": [],
       "opening_line": "",
@@ -86538,7 +86889,7 @@
       "chrono_index": null
     },
     {
-      "index": 762,
+      "index": 764,
       "title": "מכתב אל איש צבא המצולם מגבו",
       "alt_titles": [],
       "opening_line": "שלום גב אמרתי אל לבי",
@@ -86571,7 +86922,7 @@
       "chrono_index": null
     },
     {
-      "index": 763,
+      "index": 765,
       "title": "מרבה רגלים",
       "alt_titles": [],
       "opening_line": "",
@@ -86606,7 +86957,7 @@
       "chrono_index": null
     },
     {
-      "index": 764,
+      "index": 766,
       "title": "משחק",
       "alt_titles": [],
       "opening_line": "",
@@ -86639,7 +86990,7 @@
       "chrono_index": null
     },
     {
-      "index": 765,
+      "index": 767,
       "title": "סוסון קטן",
       "alt_titles": [],
       "opening_line": "ידע ידעתי סוסון קטן",
@@ -86672,7 +87023,7 @@
       "chrono_index": null
     },
     {
-      "index": 766,
+      "index": 768,
       "title": "סופת ליל חורף",
       "alt_titles": [],
       "opening_line": "",
@@ -86707,7 +87058,7 @@
       "chrono_index": null
     },
     {
-      "index": 767,
+      "index": 769,
       "title": "סטניסלא",
       "alt_titles": [],
       "opening_line": "אין מקום לשחוק ואין מקום גם לבני",
@@ -86740,7 +87091,7 @@
       "chrono_index": null
     },
     {
-      "index": 768,
+      "index": 770,
       "title": "על החכה",
       "alt_titles": [],
       "opening_line": "ענן שחור שט בשמים",
@@ -86775,7 +87126,7 @@
       "chrono_index": null
     },
     {
-      "index": 769,
+      "index": 771,
       "title": "פורה ומעכה",
       "alt_titles": [],
       "opening_line": "תאנה חנטה פגיה והפתי משתגע",
@@ -86809,7 +87160,7 @@
       "chrono_index": null
     },
     {
-      "index": 770,
+      "index": 772,
       "title": "פלאי פלאים",
       "alt_titles": [
         "פלאי פלאים נבקע ענן טיפות טיפות"
@@ -86846,7 +87197,7 @@
       "chrono_index": null
     },
     {
-      "index": 771,
+      "index": 773,
       "title": "פרשת וינשל",
       "alt_titles": [],
       "opening_line": "",
@@ -86879,7 +87230,7 @@
       "chrono_index": null
     },
     {
-      "index": 772,
+      "index": 774,
       "title": "ציפורים נודדות",
       "alt_titles": [],
       "opening_line": "",
@@ -86915,7 +87266,7 @@
       "chrono_index": null
     },
     {
-      "index": 773,
+      "index": 775,
       "title": "צפון",
       "alt_titles": [],
       "opening_line": "",
@@ -86949,7 +87300,7 @@
       "chrono_index": null
     },
     {
-      "index": 774,
+      "index": 776,
       "title": "צרות נהדרות",
       "alt_titles": [
         "אוי איך שאני בצרות"
@@ -86992,7 +87343,7 @@
       "chrono_index": null
     },
     {
-      "index": 775,
+      "index": 777,
       "title": "קומה אחא סבה סב",
       "alt_titles": [],
       "opening_line": "",
@@ -87025,7 +87376,7 @@
       "chrono_index": null
     },
     {
-      "index": 776,
+      "index": 778,
       "title": "שבעים שנה לדבר",
       "alt_titles": [],
       "opening_line": "",
@@ -87058,7 +87409,7 @@
       "chrono_index": null
     },
     {
-      "index": 777,
+      "index": 779,
       "title": "שיח נקבות",
       "alt_titles": [],
       "opening_line": "שלי איננו מציאה גדולה אולי להיפך",
@@ -87091,7 +87442,7 @@
       "chrono_index": null
     },
     {
-      "index": 778,
+      "index": 780,
       "title": "שיר אקטואלי",
       "alt_titles": [],
       "opening_line": "",
@@ -87126,7 +87477,7 @@
       "chrono_index": null
     },
     {
-      "index": 779,
+      "index": 781,
       "title": "שיר הכלולות",
       "alt_titles": [],
       "opening_line": "קול דודים וקול כלות קול כנור ומקהלות",
@@ -87159,7 +87510,7 @@
       "chrono_index": null
     },
     {
-      "index": 780,
+      "index": 782,
       "title": "שיר הרועה",
       "alt_titles": [],
       "opening_line": "היה היה רועה ואפילו עז לא היתה לו",
@@ -87194,7 +87545,7 @@
       "chrono_index": null
     },
     {
-      "index": 781,
+      "index": 783,
       "title": "שיר לא רציני יצאתי לדרכי",
       "alt_titles": [
         "שיר לא רציני",
@@ -87231,7 +87582,7 @@
       "chrono_index": null
     },
     {
-      "index": 782,
+      "index": 784,
       "title": "שיר לגפן",
       "alt_titles": [],
       "opening_line": "",
@@ -87265,7 +87616,7 @@
       "chrono_index": null
     },
     {
-      "index": 783,
+      "index": 785,
       "title": "שיר לנטשה",
       "alt_titles": [],
       "opening_line": "דו דה זאת נטשה חמודה רה רה ילדתי התעוררה",
@@ -87298,7 +87649,7 @@
       "chrono_index": null
     },
     {
-      "index": 784,
+      "index": 786,
       "title": "שירו לי שירו לי הוי כלי זמר ולי נגון",
       "alt_titles": [
         "דער נייער שער",
@@ -87336,7 +87687,7 @@
       "chrono_index": null
     },
     {
-      "index": 785,
+      "index": 787,
       "title": "שלום אידה נודל",
       "alt_titles": [],
       "opening_line": "נולדנו באותה שנה ולאותו העם",
@@ -87379,7 +87730,7 @@
       "chrono_index": null
     },
     {
-      "index": 786,
+      "index": 788,
       "title": "שלוש פעמים איל",
       "alt_titles": [],
       "opening_line": "",
