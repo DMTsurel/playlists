@@ -284,12 +284,6 @@ https://www.youtube.com/watch?v=zV4aK_XyPW8
 https://www.youtube.com/watch?v=wO3U1xG7Um0
 #EXTINF:168,נעמי שמר - אחרי השקיעה בשדה (1967)
 https://www.youtube.com/watch?v=EFIwG44Egek
-#EXTINF:150,חוה אלברשטיין והפלטינה - שיר נולד (1974)
-https://www.youtube.com/watch?v=yzSOpEPUXWw
-#EXTINF:154,נעמי שמר - המעיל (2002)
-https://www.youtube.com/watch?v=2MUXbKJVRZo
-#EXTINF:151,יהורם גאון - קרן יער (1969)
-https://www.youtube.com/watch?v=Okj7fK4VSOA
 #EXTINF:180,הגשש החיוור - אחותי רוחמה (1977)
 https://www.youtube.com/watch?v=vVQ0Xmtb9_Q
 #EXTINF:225,צילה דגן - על הדרך עץ עומד (1975)
@@ -480,6 +474,8 @@ https://www.youtube.com/watch?v=eGrPQv3g9ps
 https://www.youtube.com/watch?v=A1BCQuWuvTE
 #EXTINF:96,נעמי שמר - מתי (1968)
 https://www.youtube.com/watch?v=2GD7HJfapWM
+#EXTINF:151,יהורם גאון - קרן יער (1969)
+https://www.youtube.com/watch?v=Okj7fK4VSOA
 #EXTINF:154,הדודאים - כל הדרך חזרה (1967)
 https://www.youtube.com/watch?v=oNZG3NUzB3U
 #EXTINF:174,אילנה רובינא - עוד חוזר הניגון (1970)
@@ -510,6 +506,8 @@ https://www.youtube.com/watch?v=OFBBD-EuEfA
 https://www.youtube.com/watch?v=6sR4GRdyZZ8
 #EXTINF:231,יוסי בנאי - מרגו (1974)
 https://www.youtube.com/watch?v=yEG2trB0IxU
+#EXTINF:150,חוה אלברשטיין והפלטינה - שיר נולד (1974)
+https://www.youtube.com/watch?v=yzSOpEPUXWw
 #EXTINF:133,יהורם גאון - בעלייתי שם יפתי (1977)
 https://www.youtube.com/watch?v=X0EHaEth0TQ
 #EXTINF:114,רוחמה רז וצוות הווי פיקוד המרכז - בזכותם (1976)
@@ -566,6 +564,8 @@ https://www.youtube.com/watch?v=AoGcmpu5D4Y
 https://www.youtube.com/watch?v=iz3Et-1Ywe8
 #EXTINF:269,דודו אלהרר - המנגן (2001)
 https://www.youtube.com/watch?v=IWaGaO6VD4c
+#EXTINF:154,נעמי שמר - המעיל (2002)
+https://www.youtube.com/watch?v=2MUXbKJVRZo
 #EXTINF:231,ריקה זראי - מגדל בודד (1955)
 https://www.youtube.com/watch?v=GZW3RhiQeyY
 #EXTINF:66,להקת פיקוד המרכז - בא הגדוד (1956)
@@ -1216,14 +1216,6 @@ https://www.youtube.com/watch?v=hDqbO57hnyQ
 https://www.youtube.com/watch?v=EfcKLvzIDRw
 #EXTINF:175,דני גרנות וחבורת בימות (גרסה 2, 1972) - מר נרקיס (1972)
 https://www.youtube.com/watch?v=KvBOUWSO1PM
-#EXTINF:168,עוזי מאירי - שיר נולד (1976)
-https://www.youtube.com/watch?v=vNw21mQVfKM
-#EXTINF:181,נעמי שמר וחבורת "אלף שירים ושיר" - המעיל (2002)
-https://www.youtube.com/watch?v=H9f2NJOxcz0
-#EXTINF:143,שולי נתן - קרן יער (1968)
-https://www.youtube.com/watch?v=P7eGfaq3E_s
-#EXTINF:164,הגבעטרון - קרן יער (1988)
-https://www.youtube.com/watch?v=GyiSOeKOK8s
 #EXTINF:123,להקת האירוסים - אחותי רוחמה (1979)
 https://www.youtube.com/watch?v=DJFWTrj5sO8
 #EXTINF:175,דורית פרקש - שנה טובה (1992)
@@ -1304,12 +1296,18 @@ https://www.youtube.com/watch?v=5-8BIb9KyNk
 https://www.youtube.com/watch?v=_33ng3euFJI
 #EXTINF:186,הגבעטרון - מתי (1988)
 https://www.youtube.com/watch?v=XIs2ZIJ2oZw
+#EXTINF:143,שולי נתן - קרן יער (1968)
+https://www.youtube.com/watch?v=P7eGfaq3E_s
+#EXTINF:164,הגבעטרון - קרן יער (1988)
+https://www.youtube.com/watch?v=GyiSOeKOK8s
 #EXTINF:169,חנן יובל - עוד חוזר הניגון (1970)
 https://www.youtube.com/watch?v=-xNyTz_yvRU
 #EXTINF:226,משתתפי מופע אלתרמן (1977) - עוד חוזר הניגון (1977)
 https://www.youtube.com/watch?v=gsf0t-VihvE
 #EXTINF:155,נעמי שמר - מה אמרו הציפורים (1962)
 https://www.youtube.com/watch?v=jqQTqr1gHEI
+#EXTINF:168,עוזי מאירי - שיר נולד (1976)
+https://www.youtube.com/watch?v=vNw21mQVfKM
 #EXTINF:163,הגשש החיוור - יפעת (1982)
 https://www.youtube.com/watch?v=n2t3bDiJcMk
 #EXTINF:165,הגבעטרון - את הכי הכי (1988)
@@ -1328,6 +1326,8 @@ https://www.youtube.com/watch?v=cXln3eAat5g
 https://www.youtube.com/watch?v=Pk0mm0ly7Og
 #EXTINF:166,אריק לביא - אקטואליה (1991)
 https://www.youtube.com/watch?v=CwORk-NwrQM
+#EXTINF:181,נעמי שמר וחבורת "אלף שירים ושיר" - המעיל (2002)
+https://www.youtube.com/watch?v=H9f2NJOxcz0
 #EXTINF:195,יפה ירקוני - מגדל בודד (1957)
 https://www.youtube.com/watch?v=_JG62QmM-QE
 #EXTINF:104,משתתפי המחזמר חמש חמש (1965) - בא הגדוד (1965)
