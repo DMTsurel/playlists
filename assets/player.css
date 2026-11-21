@@ -831,6 +831,46 @@ tr.album-group-header td {
   padding: 8px 14px;
   border-bottom: 1px solid rgba(245, 158, 11, 0.25);
 }
+tr.album-group-header.is-collapsible {
+  cursor: pointer;
+  user-select: none;
+}
+tr.album-group-header.is-collapsible td {
+  transition: background 0.14s, border-color 0.14s;
+}
+tr.album-group-header.is-collapsible:hover td {
+  background: rgba(30, 41, 59, 0.96);
+}
+tr.album-group-header.is-collapsible:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: -2px;
+}
+tr.album-group-header.is-collapsed td {
+  border-bottom-color: rgba(148, 163, 184, 0.22);
+}
+.section-header-inner {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.section-chevron {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  font-size: 12px;
+  color: var(--gold);
+  transition: transform 0.16s ease, opacity 0.16s ease;
+  flex-shrink: 0;
+}
+tr.album-group-header.is-collapsed .section-chevron {
+  transform: rotate(90deg);
+  opacity: 0.75;
+}
+tr.section-collapsed-row,
+.songs-table tr.section-collapsed-row {
+  display: none !important;
+}
 tr.sub-chapter-header td {
   background: rgba(15, 23, 42, 0.58);
   color: var(--accent);

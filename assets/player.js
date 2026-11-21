@@ -143,6 +143,7 @@ let onePerSongOnly = false;
 let favOnly = false;
 let archAudioOnly = false;
 let exactSongTitle = "";
+const collapsedSections = new Set();
 let currentTab = "yt";
 let isMainPlayerVisible = true;
 let hasUserStartedPlayback = false;
@@ -845,6 +846,7 @@ function clearSingleFilter(kind) {
 
 function resetAllFilters() {
   exactSongTitle = "";
+  collapsedSections.clear();
   document.getElementById("searchInput").value = "";
   updateSearchClearUI("yt");
   document.getElementById("sortSelect").value = "canonical";
@@ -1144,9 +1146,71 @@ function syncBlockJumpHighlight() {
   });
 }
 
+/** Collapse or expand all rows belonging to `sectionKey` in `#songsBody`. */
+function setSectionCollapsed(sectionKey, collapsed, persist = true) {
+  if (!sectionKey) return;
+  if (persist) {
+    if (collapsed) collapsedSections.add(sectionKey);
+    else collapsedSections.delete(sectionKey);
+  }
+  const rows = document.querySelectorAll("#songsBody tr[data-section-key]");
+  rows.forEach(tr => {
+    if (tr.getAttribute("data-section-key") !== sectionKey) return;
+    if (tr.classList.contains("album-group-header")) {
+      tr.classList.toggle("is-collapsed", collapsed);
+      tr.setAttribute("aria-expanded", collapsed ? "false" : "true");
+    } else {
+      tr.classList.toggle("section-collapsed-row", collapsed);
+    }
+  });
+}
+
+/** Toggle a section header's collapsed state, persisting only outside active search. */
+function toggleSectionCollapse(sectionKey) {
+  if (!sectionKey) return;
+  const headers = document.querySelectorAll("#songsBody tr.album-group-header[data-section-key]");
+  let targetHeader = null;
+  for (const h of headers) {
+    if (h.getAttribute("data-section-key") === sectionKey) {
+      targetHeader = h;
+      break;
+    }
+  }
+  if (!targetHeader) return;
+  const nextCollapsed = !targetHeader.classList.contains("is-collapsed");
+  const qVal = (document.getElementById("searchInput")?.value || "").trim();
+  const persist = qVal.length < 2 && !exactSongTitle;
+  setSectionCollapsed(sectionKey, nextCollapsed, persist);
+}
+
+function onSectionHeaderKeydown(ev, sectionKey) {
+  if (ev.key === "Enter" || ev.key === " ") {
+    ev.preventDefault();
+    toggleSectionCollapse(sectionKey);
+  }
+}
+
+function buildCollapsibleSectionHeaderRow(sectionKey, innerHtml, isCollapsed, blockId = "") {
+  const blkAttr = blockId ? ` data-block-header="${esc(blockId)}"` : "";
+  return `
+          <tr class="album-group-header is-collapsible${isCollapsed ? " is-collapsed" : ""}"${blkAttr} data-section-key="${esc(sectionKey)}" role="button" tabindex="0" aria-expanded="${isCollapsed ? "false" : "true"}" onclick="toggleSectionCollapse(this.getAttribute('data-section-key'))" onkeydown="onSectionHeaderKeydown(event, this.getAttribute('data-section-key'))" title="לחץ לקיפול או פתיחה של חלק זה">
+            <td colspan="4">
+              <div class="section-header-inner">
+                <span class="section-chevron" aria-hidden="true">▾</span>
+                <span class="section-header-label">${innerHtml}</span>
+              </div>
+            </td>
+          </tr>
+        `;
+}
+
 function jumpToBlock(blkId) {
   const target = document.querySelector(`tr[data-block-header="${blkId}"]`);
   if (!target) return;
+  const secKey = target.getAttribute("data-section-key");
+  if (secKey && target.classList.contains("is-collapsed")) {
+    setSectionCollapsed(secKey, false, true);
+  }
   const wrap = document.querySelector("#tabYtContent .table-wrap");
   if (wrap && wrap.scrollHeight > wrap.clientHeight + 20 && window.getComputedStyle(wrap).overflowY !== "visible") {
     const th = wrap.querySelector("thead");
@@ -1165,6 +1229,10 @@ function scrollToActiveRow(smooth = true) {
     activeRow = document.querySelector("tr.song-row.active");
   }
   if (activeRow) {
+    if (activeRow.classList.contains("section-collapsed-row")) {
+      const secKey = activeRow.getAttribute("data-section-key");
+      if (secKey) setSectionCollapsed(secKey, false, true);
+    }
     activeRow.scrollIntoView({ behavior: smooth ? "smooth" : "auto", block: smooth ? "center" : "nearest" });
   }
 }
@@ -1455,6 +1523,9 @@ function renderTable(skipSync = false) {
   let lastAlbGroup = null;
   let lastBlockId = null;
   let lastSubChapter = null;
+  let currentSectionKey = "";
+  let isCurrentSectionCollapsed = false;
+  const ignoreCollapsed = (qRaw.length >= 2) || Boolean(exactSongTitle);
   const tbody = document.getElementById("songsBody");
   const htmlRows = [];
   if (filteredSongs.length === 0) {
@@ -1470,35 +1541,43 @@ function renderTable(skipSync = false) {
   filteredSongs.forEach((s, i) => {
     if (sortBy === "canonical" && filteredSongs.length > 1) {
       const bId = s.blk || "p1";
+      currentSectionKey = "blk:" + bId;
+      isCurrentSectionCollapsed = !ignoreCollapsed && collapsedSections.has(currentSectionKey);
       if (bId !== lastBlockId) {
         lastBlockId = bId;
         lastSubChapter = null;
         const bMeta = BLOCK_META[bId] || { label: bId };
-        htmlRows.push(`
-          <tr class="album-group-header" data-block-header="${esc(bId)}">
-            <td colspan="4">${esc(bMeta.label)} <span class="album-group-count">(${blockCounts[bId]} רצועות)</span></td>
-          </tr>
-        `);
+        htmlRows.push(buildCollapsibleSectionHeaderRow(
+          currentSectionKey,
+          `${esc(bMeta.label)} <span class="album-group-count">(${blockCounts[bId]} רצועות)</span>`,
+          isCurrentSectionCollapsed,
+          bId
+        ));
       }
       if (bId === "p2" && s.ch_lbl && s.ch_lbl !== lastSubChapter) {
         lastSubChapter = s.ch_lbl;
         htmlRows.push(`
-          <tr class="sub-chapter-header">
+          <tr class="sub-chapter-header${isCurrentSectionCollapsed ? " section-collapsed-row" : ""}" data-section-key="${esc(currentSectionKey)}">
             <td colspan="4">📁 ${esc(s.ch_lbl)}</td>
           </tr>
         `);
       }
     } else if (sortBy === "albums") {
       const grp = normalizeAlbGrp(s.alb_group);
+      currentSectionKey = "alb:" + grp;
+      isCurrentSectionCollapsed = !ignoreCollapsed && collapsedSections.has(currentSectionKey);
       if (grp !== lastAlbGroup) {
         lastAlbGroup = grp;
         const grpIcon = grp === TV_GRP_NAME ? "📺" : (grp === "סינגלים וביצועים בודדים" ? "🎵" : "💿");
-        htmlRows.push(`
-          <tr class="album-group-header">
-            <td colspan="4">${grpIcon} ${esc(grp)} <span class="album-group-count">(${albumCounts[grp]} רצועות)</span></td>
-          </tr>
-        `);
+        htmlRows.push(buildCollapsibleSectionHeaderRow(
+          currentSectionKey,
+          `${grpIcon} ${esc(grp)} <span class="album-group-count">(${albumCounts[grp]} רצועות)</span>`,
+          isCurrentSectionCollapsed
+        ));
       }
+    } else {
+      currentSectionKey = "";
+      isCurrentSectionCollapsed = false;
     }
     const roleSub = s.role_cat !== "words_and_music" ? `<span class="badge r-${esc(s.role_cat)}">${esc(s.role_label)}</span>` : "";
     const titleAttrEsc = JSON.stringify(s.raw_title).replace(/"/g, "&quot;");
@@ -1520,8 +1599,9 @@ function renderTable(skipSync = false) {
     const openingContextHtml = (hasSearchQ && s.opening_line && !titleMatched && !metaMatched)
       ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
       : "";
+    const secKeyAttr = currentSectionKey ? ` data-section-key="${esc(currentSectionKey)}"` : "";
     htmlRows.push(`
-    <tr class="song-row ${i === currentIndex ? "active" : ""}" tabindex="0" onclick="playSongAt(${i}, false)" onkeydown="onSongRowKeydown(event, ${i})">
+    <tr class="song-row ${i === currentIndex ? "active" : ""}${isCurrentSectionCollapsed ? " section-collapsed-row" : ""}"${secKeyAttr} tabindex="0" onclick="playSongAt(${i}, false)" onkeydown="onSongRowKeydown(event, ${i})">
       <td class="row-num">
         <div><span class="playing-ind">▶</span>${i + 1}</div>
         ${subNumHtml}
