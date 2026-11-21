@@ -1390,7 +1390,7 @@ function renderTable(skipSync = false) {
       ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
       : "";
     htmlRows.push(`
-    <tr class="song-row ${i === currentIndex ? "active" : ""} ${s.ver_total > 1 ? "multi-ver-row" : ""}" tabindex="0" onclick="playSongAt(${i}, false)" onkeydown="onSongRowKeydown(event, ${i})">
+    <tr class="song-row ${i === currentIndex ? "active" : ""}" tabindex="0" onclick="playSongAt(${i}, false)" onkeydown="onSongRowKeydown(event, ${i})">
       <td class="row-num">
         <div><span class="playing-ind">▶</span>${i + 1}</div>
         ${subNumHtml}

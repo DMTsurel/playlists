@@ -333,10 +333,8 @@ body {
     padding: 10px 8px;
     border-bottom: 1px solid var(--border);
   }
-  .songs-table tr.song-row.active { border-right: 3px solid var(--gold); }
-  .songs-table tr.song-row.multi-ver-row:not(.active) { border-right: 3px solid rgba(56, 189, 248, 0.38); }
-  .songs-table tr.song-row.active td:first-child,
-  .songs-table tr.song-row.multi-ver-row:not(.active) td:first-child { border-right: none; }
+  .songs-table tr.song-row.active { box-shadow: inset -3px 0 0 var(--gold); }
+  .songs-table tr.song-row.active td:first-child { box-shadow: none; }
   .songs-table tr.song-row td,
   .archive-table tr:not(.empty-row) td {
     display: block;
@@ -795,7 +793,7 @@ mark.search-hl {
 .table-wrap::-webkit-scrollbar-thumb { background: rgba(148, 163, 184, 0.22); border-radius: 999px; }
 .table-wrap::-webkit-scrollbar-thumb:hover { background: rgba(148, 163, 184, 0.38); }
 
-table { width: 100%; border-collapse: collapse; font-size: 13.5px; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 13.5px; }
 th, td {
   padding: 10px 12px;
   border-bottom: 1px solid var(--border);
@@ -814,7 +812,8 @@ th {
   position: sticky;
   top: 0;
   background: var(--card-solid);
-  z-index: 2;
+  z-index: 4;
+  box-shadow: 0 1px 0 var(--border-strong);
 }
 tr.song-row { cursor: pointer; transition: background 0.12s; }
 tr.song-row:hover { background: var(--card-hover); }
@@ -822,10 +821,7 @@ tr.song-row.active {
   background: rgba(245, 158, 11, 0.13);
 }
 tr.song-row.active td:first-child {
-  border-right: 3px solid var(--gold);
-}
-tr.song-row.multi-ver-row:not(.active) td:first-child {
-  border-right: 3px solid rgba(56, 189, 248, 0.38);
+  box-shadow: inset -3px 0 0 var(--gold);
 }
 tr.album-group-header td {
   background: rgba(15, 23, 42, 0.92);
@@ -834,7 +830,6 @@ tr.album-group-header td {
   font-size: 13px;
   padding: 8px 14px;
   border-bottom: 1px solid rgba(245, 158, 11, 0.25);
-  border-top: 1px solid rgba(245, 158, 11, 0.18);
 }
 tr.sub-chapter-header td {
   background: rgba(15, 23, 42, 0.58);
@@ -843,7 +838,6 @@ tr.sub-chapter-header td {
   font-size: 12px;
   padding: 6px 18px;
   border-bottom: 1px solid rgba(56, 189, 248, 0.18);
-  border-top: 1px solid rgba(56, 189, 248, 0.12);
 }
 .album-group-count {
   color: var(--muted);
