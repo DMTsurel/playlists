@@ -162,6 +162,7 @@ SOURCE_CONFIDENCE: dict[str, int] = {
     "desc_album": 74,
     "publish_date_contemporary": 65,
     "original_inherited": 55,
+    "unverified_inherited": 50,
     "existing_curated": 50,
 }
 
@@ -208,6 +209,45 @@ def is_compilation_album(text: str, extra_keywords: tuple[str, ...] = ()) -> boo
     low = str(text).lower()
     kws = COMPILATION_ALBUM_KEYWORDS + tuple(extra_keywords or ())
     return any(kw.lower() in low for kw in kws if kw)
+
+
+def matches_reissue_rerecording_album(
+    rules: list[dict[str, Any]],
+    perf: str,
+    vtitle: str,
+    channel: str,
+    desc: str,
+    song_year: int | None = None,
+) -> str | None:
+    """Return reason string if video matches a known late re-recording/reissue album rule."""
+    if not rules:
+        return None
+    perf_blob = f"{perf} {vtitle} {channel} {desc}".lower()
+    title_desc_blob = f"{vtitle} {desc}".lower()
+    label_blob = f"{channel} {desc}".lower()
+    for rule in rules:
+        if not isinstance(rule, dict):
+            continue
+        max_sy = rule.get("max_original_song_year")
+        if max_sy is not None and song_year is not None and song_year > int(max_sy):
+            continue
+        p_req = rule.get("performer_contains")
+        if p_req:
+            p_list = [p_req] if isinstance(p_req, str) else list(p_req)
+            if not any(str(tok).lower() in perf_blob for tok in p_list if tok):
+                continue
+        a_req = rule.get("album_or_desc_contains")
+        if a_req:
+            a_list = [a_req] if isinstance(a_req, str) else list(a_req)
+            if not any(str(tok).lower() in title_desc_blob for tok in a_list if tok):
+                continue
+        l_req = rule.get("label_contains")
+        if l_req:
+            l_list = [l_req] if isinstance(l_req, str) else list(l_req)
+            if not any(str(tok).lower() in label_blob for tok in l_list if tok):
+                continue
+        return str(rule.get("reason") or "Reissue/re-recording album")
+    return None
 
 
 def _strip_lifespans_and_song_years(text: str, song_title: str) -> str:
@@ -896,27 +936,26 @@ def verify_composer_years(
                 if old_rec == sy and old_rec:
                     cleared_cover_rows.append({"index": idx, "title": title, "vid": vid, "perf": sel.get("matched_performer", ""), "old_yr": old_rec})
         elif dual == "original_performance" or ver_total == 1:
-            if existing_valid:
+            if existing_valid and existing_valid != sy:
                 new_rec = existing_valid
-                new_src = "original_inherited" if existing_valid == sy else "existing_curated"
+                new_src = "existing_curated"
+            elif existing_valid and old_src in ("existing_curated", "unverified_inherited", "original_inherited"):
+                new_rec = existing_valid
+                new_src = "unverified_inherited" if existing_valid == sy else "existing_curated"
             elif sy:
                 new_rec = sy
-                new_src = "original_inherited"
+                new_src = "unverified_inherited"
             else:
                 new_rec = ""
                 new_src = ""
         else:
-            # Non-cover additional or creator performance with no direct evidence
-            if existing_valid and existing_valid != sy:
-                new_rec = existing_valid
-                new_src = "existing_curated"
-            elif existing_valid and old_src == "existing_curated":
+            # Non-cover additional or creator performance with no direct evidence: never inherit song_year
+            if (existing_valid and existing_valid != sy) or (existing_valid and old_src == "existing_curated"):
                 new_rec = existing_valid
                 new_src = "existing_curated"
             else:
-                # Avoid unverified copied song years on single-perfs when existing year just mirrored song_year
-                new_rec = existing_valid if existing_valid else ""
-                new_src = "original_inherited" if new_rec else ""
+                new_rec = ""
+                new_src = ""
 
         if new_src:
             resolved_by_src[new_src] = resolved_by_src.get(new_src, 0) + 1

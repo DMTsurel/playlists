@@ -6,7 +6,7 @@ import json
 import re
 from typing import Any
 
-from core.artists import ACUM_PERFORMER_EXACT_MAP
+from core.artists import ACUM_PERFORMER_EXACT_MAP, check_performer_year_anachronism
 from core.config import ComposerConfig, load_composer, load_overrides
 from core.hebrew import has_bad_keyword, norm_heb, parse_duration_seconds
 from core.ranking import partition_matched_blocks
@@ -14,6 +14,7 @@ from core.year_verifier import (
     TRUSTED_COVER_YEAR_SOURCES,
     extract_authoritative_desc_years,
     extract_explicit_title_years,
+    matches_reissue_rerecording_album,
     merge_compilation_keywords,
 )
 
@@ -157,10 +158,13 @@ def audit_composer(slug: str) -> dict[str, Any]:
 
     bad_ids: dict[str, str] = ov.get("bad_video_ids") or {}
     qa_exceptions: dict[str, Any] = ov.get("qa_allow_exceptions") or {}
+    approved_iconic: dict[str, Any] = ov.get("approved_iconic_primaries") or {}
+    reissue_rules: list[dict[str, Any]] = list(ov.get("reissue_rerecording_albums") or [])
     trim_bounds: dict[str, Any] = ov.get("video_trim_bounds") or {}
     comp_kws = merge_compilation_keywords(ov)
     strict_perf_only = bool(ov.get("performance_only_strict_creator_match", True))
     excluded_norm = {norm_heb(x) for x in (ov.get("excluded_normalized_songs") or []) if norm_heb(x)}
+    creator_tiers = set(cfg.creator_performance_tiers)
 
     meta_videos: dict[str, Any] = {}
     if cfg.metadata_backup_json.exists():
@@ -176,6 +180,18 @@ def audit_composer(slug: str) -> dict[str, Any]:
     def _is_allowed_exception(code: str, vid: str) -> bool:
         code_map = qa_exceptions.get(code)
         return isinstance(code_map, dict) and bool(vid) and vid in code_map
+
+    def _is_approved_iconic(song_title: str, video_id: str) -> bool:
+        if not video_id:
+            return False
+        if video_id in approved_iconic:
+            return True
+        spec = approved_iconic.get(song_title)
+        if isinstance(spec, str):
+            return spec == video_id
+        if isinstance(spec, dict):
+            return spec.get("video_id") == video_id
+        return False
 
     matched = [it for it in playlist if it.get("selected_video")]
     unmatched = [it for it in playlist if not it.get("selected_video")]
@@ -448,6 +464,28 @@ def audit_composer(slug: str) -> dict[str, Any]:
                     )
                 )
 
+            if rec_yr_num is not None:
+                anach_reason = check_performer_year_anachronism(perf, rec_yr_num)
+                if anach_reason:
+                    warnings.append(_issue("PERFORMER_DEBUT_ANACHRONISM", idx, title, vid, anach_reason))
+
+            reissue_reason = matches_reissue_rerecording_album(
+                reissue_rules, perf, full_title, channel, full_desc, song_yr_num
+            )
+            if reissue_reason:
+                warnings.append(_issue("REISSUE_RERECORDING_ALBUM", idx, title, vid, reissue_reason))
+
+            if (not is_primary) and (not is_tail) and yr_src in ("original_inherited", "unverified_inherited"):
+                warnings.append(
+                    _issue(
+                        "NON_PRIMARY_INHERITED_YEAR",
+                        idx,
+                        title,
+                        vid,
+                        f"Non-primary entry has inherited year_source='{yr_src}' ({rec_yr_str})",
+                    )
+                )
+
     _check_primary_pairing(primary_items, cfg, warnings)
 
     # Same-song duplicate recording & original-vs-cover year checks across matched entries
@@ -504,6 +542,63 @@ def audit_composer(slug: str) -> dict[str, Any]:
                                 title,
                                 x["selected_video"]["video_id"],
                                 f"Original recording_year={orig_yr} > earliest other version year {min_other_yr}",
+                            )
+                        )
+
+        prim0 = group[0]
+        prim0_vid = (prim0.get("selected_video") or {}).get("video_id", "")
+        if id(prim0) in primary_keys and prim0_vid:
+            p0_yr = _parse_year(prim0.get("recording_year") if "recording_year" in prim0 else prim0.get("year"))
+            p0_perf = (prim0.get("selected_video") or {}).get("matched_performer", "")
+            earlier_others: list[tuple[int, dict[str, Any]]] = []
+            for x in group[1:]:
+                if any(
+                    w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
+                    for w in _NON_CLIP_SUBSTRINGS
+                ):
+                    continue
+                xy = _parse_year(x.get("recording_year") if "recording_year" in x else x.get("year"))
+                if xy is not None and p0_yr is not None and xy < p0_yr:
+                    earlier_others.append((xy, x))
+            if (
+                earlier_others
+                and not _is_approved_iconic(title, prim0_vid)
+                and not _is_allowed_exception("ORIGINAL_LATER_THAN_OTHER", prim0_vid)
+            ):
+                min_yr, min_x = min(earlier_others, key=lambda t: t[0])
+                min_perf = (min_x.get("selected_video") or {}).get("matched_performer", "")
+                warnings.append(
+                    _issue(
+                        "PRIMARY_NOT_EARLIEST",
+                        prim0.get("index"),
+                        title,
+                        prim0_vid,
+                        f"Primary ({p0_perf}, {p0_yr}) is later than #{min_x.get('index')} ({min_perf}, {min_yr})",
+                    )
+                )
+
+            p0_src = str(prim0.get("year_source") or "").strip()
+            if (
+                prim0.get("tier") not in creator_tiers
+                and p0_src in ("", "original_inherited", "unverified_inherited")
+                and not _is_approved_iconic(title, prim0_vid)
+            ):
+                creator_albs = [
+                    x
+                    for x in group[1:]
+                    if x.get("tier") in ("1_album_naomi", "1_album_creator")
+                ]
+                if creator_albs:
+                    cr_x = creator_albs[0]
+                    cr_yr = _parse_year(cr_x.get("recording_year") if "recording_year" in cr_x else cr_x.get("year"))
+                    if p0_yr is None or (cr_yr is not None and cr_yr <= p0_yr + 1):
+                        warnings.append(
+                            _issue(
+                                "UNVERIFIED_PRIMARY_BEFORE_CREATOR",
+                                prim0.get("index"),
+                                title,
+                                prim0_vid,
+                                f"Unverified primary ({p0_perf}, src='{p0_src or 'none'}') precedes creator album #{cr_x.get('index')} ({cr_yr})",
                             )
                         )
 

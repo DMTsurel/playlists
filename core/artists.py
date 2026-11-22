@@ -823,3 +823,79 @@ def expand_performer_variants(perf: str) -> list[str]:
                 if rev not in variants:
                     variants.append(rev)
     return variants
+
+
+PERFORMER_DEBUT_YEARS: dict[str, int] = {
+    "דודו זכאי": 1970,
+    "רבקה זוהר": 1968,
+    "להקת חיל האוויר": 1968,
+    "להקת חיל הים": 1968,
+    "חוה אלברשטיין": 1966,
+    "שולי נתן": 1967,
+    "גיתית שובל": 1988,
+    "רונית רולנד": 1995,
+    "רוחמה רז": 1974,
+    "אבי טולדנו": 1968,
+    "שלמה ארצי": 1970,
+    "יהודית רביץ": 1976,
+    "גידי גוב": 1972,
+    "מירי אלוני": 1969,
+    "צילה דגן": 1968,
+    "חבורת בימות": 1972,
+    "הגשש החיוור": 1964,
+    "השלושרים": 1969,
+    "הכל עובר חביבי": 1975,
+    "הפרברים": 1960,
+    "הדודאים": 1957,
+    "התרנגולים": 1961,
+    "בצל ירוק": 1957,
+    "שלישיית גשר הירקון": 1964,
+    "האחיות שמר": 1966,
+    "עפרה חזה": 1974,
+    "ירדנה ארזי": 1972,
+    "שוקולד מנטה מסטיק": 1972,
+    "עוזי חיטמן": 1975,
+    "משה בקר": 1978,
+    "דורית פרקש": 1975,
+    "ריקי גל": 1970,
+    "מרגלית צנעני": 1985,
+    "עופר לוי": 1988,
+    "שרית חדד": 1995,
+    "עידן רייכל": 2002,
+    "אריאל זילבר": 1970,
+    "אביב גפן": 1990,
+    "אחינועם ניני": 1990,
+    "אתי אנקרי": 1990,
+    "מיטל טרבלסי": 1996,
+    "שירי מימון": 2003,
+    "אברהם טל": 1998,
+    "מארינה מקסימיליאן": 2007,
+    "דודו אלהרר": 1971,
+    "נתנאלה": 1973,
+    "חנן יובל": 1967,
+    "יגאל בשן": 1968,
+    "האחים והאחיות": 1971,
+    "לאה לופטין": 1972,
+}
+
+PERFORMER_END_YEARS: dict[str, int] = {
+    "שלישיית גשר הירקון": 1966,
+    "בצל ירוק": 1961,
+    "השלושרים": 1970,
+}
+
+
+def check_performer_year_anachronism(performer: str, rec_year: int) -> str | None:
+    """Return a human-readable reason if `rec_year` falls outside the performer's active career window."""
+    if not performer or rec_year <= 0:
+        return None
+    for artist, debut_yr in PERFORMER_DEBUT_YEARS.items():
+        if artist == "בצל ירוק" and "בצל ירוק 80" in performer:
+            continue
+        if artist in performer and rec_year < debut_yr:
+            return f"recording_year={rec_year} precedes '{artist}' debut ({debut_yr})"
+    if not any(tok in performer for tok in ("איחוד", "אוסף", "הופעה חיה", "80")):
+        for artist, end_yr in PERFORMER_END_YEARS.items():
+            if artist in performer and rec_year > end_yr:
+                return f"recording_year={rec_year} is after '{artist}' disbanded ({end_yr})"
+    return None

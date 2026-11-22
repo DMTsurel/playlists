@@ -25,6 +25,7 @@ from core.year_verifier import (
     extract_authoritative_desc_years,
     extract_explicit_title_years,
     extract_topic_album_year,
+    matches_reissue_rerecording_album,
     merge_compilation_keywords,
 )
 
@@ -121,6 +122,7 @@ class FinderContext:
     creator_surname_tokens: list[str] = field(default_factory=list)
     creator_tie_markers: list[str] = field(default_factory=list)
     active_year_range: tuple[int, int] = (1920, 2030)
+    reissue_rerecording_albums: list[dict[str, Any]] = field(default_factory=list)
 
     @classmethod
     def from_composer(cls, cfg: ComposerConfig, overrides: dict[str, Any]) -> FinderContext:
@@ -169,6 +171,7 @@ class FinderContext:
             creator_surname_tokens=list(cfg.creator_surname_tokens),
             creator_tie_markers=list(cfg.creator_tie_markers),
             active_year_range=cfg.active_year_range,
+            reissue_rerecording_albums=list(overrides.get("reissue_rerecording_albums") or []),
         )
 
 
@@ -815,6 +818,10 @@ def classify_and_score_candidate(
         return None
     if _fails_split_guard(song["title"], vid_title, vid_channel, vid_desc, ctx):
         return None
+    sy_raw = str(song.get("year") or "").strip()
+    sy_int = int(sy_raw) if sy_raw.isdigit() else None
+    if matches_reissue_rerecording_album(ctx.reissue_rerecording_albums, "", vid_title, vid_channel, vid_desc, song_year=sy_int):
+        return None
 
     # 3. Title matching check
     if not cand.get("from_catalog_id"):
@@ -1203,8 +1210,53 @@ def _resolve_recording_year(
     if chosen.get("tier") == "5_cover":
         return 2099, ""
     if is_original_role and song_yr != 2099:
-        return song_yr, "original_inherited"
+        return song_yr, "unverified_inherited"
     return 2099, ""
+
+
+def _should_promote_non_creator_over_creator_album(
+    song: dict[str, Any],
+    orig_cand: dict[str, Any],
+    creator_cand: dict[str, Any],
+    ctx: FinderContext,
+    pizmonet_years: dict[str, str],
+) -> bool:
+    """Only place a non-creator before the creator's canonical album if documented as original or earlier."""
+    if creator_cand.get("tier") != ctx.creator_album_tier:
+        return True
+    known_orig_perfs = ctx.finder_ov.get("primary_original_performers", {}).get(song["title"], [])
+    mp = orig_cand.get("matched_performer") or ""
+    if known_orig_perfs and any(kp in mp for kp in known_orig_perfs):
+        return True
+
+    song_yr = _resolve_song_year(song, ctx, pizmonet_years)
+    orig_yr, orig_alb_idx, _, _, orig_exp = _resolve_chrono_info(
+        song, orig_cand, ctx, pizmonet_years, exclude_creator_solo=True
+    )
+    orig_rec_yr, orig_yr_src = _resolve_recording_year(
+        song,
+        orig_cand,
+        ctx,
+        song_yr,
+        explicit_alb_yr=(orig_yr if orig_exp else (orig_yr if orig_alb_idx != 999 else None)),
+        is_original_role=True,
+    )
+    cr_yr, cr_alb_idx, _, _, cr_exp = _resolve_chrono_info(
+        song, creator_cand, ctx, pizmonet_years, only_creator_solo=True
+    )
+    cr_rec_yr, _ = _resolve_recording_year(
+        song,
+        creator_cand,
+        ctx,
+        song_yr,
+        explicit_alb_yr=(cr_yr if cr_exp else (cr_yr if cr_alb_idx != 999 else None)),
+        is_original_role=False,
+    )
+    if cr_rec_yr == 2099:
+        return True
+    if orig_yr_src not in ("", "original_inherited", "unverified_inherited"):
+        return orig_rec_yr <= cr_rec_yr
+    return False
 
 
 def _resolve_chrono_info(
@@ -1486,6 +1538,16 @@ def find_composer_videos(
         str, tuple[dict[str, Any] | None, dict[str, Any] | None, dict[str, Any] | None, list[dict[str, Any]]]
     ] = {}
 
+    pizmonet_years: dict[str, str] = {}
+    piz_path = cfg.raw_cache_dir / "pizmonet_raw.json"
+    if piz_path.exists():
+        try:
+            for ps in json.loads(piz_path.read_text(encoding="utf-8")).get("songs", []):
+                if ps.get("year"):
+                    pizmonet_years[ps["title"]] = str(ps["year"])
+        except Exception:
+            pass
+
     creator_perf_markers = [cfg.name_he, cfg.creator_acum_reversed_name, cfg.name_en] + ctx.creator_aliases
 
     for s in songs_by_best_score:
@@ -1552,6 +1614,13 @@ def find_composer_videos(
                 orig_cand = max(orig_candidates, key=lambda x: x.get("score", 0))
                 alts.extend(c for c in orig_candidates if c["video_id"] != orig_cand["video_id"])
 
+            if orig_cand and creator_cand and not _should_promote_non_creator_over_creator_album(
+                s, orig_cand, creator_cand, ctx, pizmonet_years
+            ):
+                alts.append(orig_cand)
+                orig_cand = None
+                best_cand = creator_cand
+
             if orig_cand and creator_cand:
                 used_video_ids.add(orig_cand["video_id"])
                 used_video_ids.add(creator_cand["video_id"])
@@ -1577,16 +1646,6 @@ def find_composer_videos(
                 alts = [a for a in cands if a["video_id"] != best_cand["video_id"]]
 
         dual_selection_by_key[key] = (best_cand, orig_cand, creator_cand, alts)
-
-    pizmonet_years: dict[str, str] = {}
-    piz_path = cfg.raw_cache_dir / "pizmonet_raw.json"
-    if piz_path.exists():
-        try:
-            for ps in json.loads(piz_path.read_text(encoding="utf-8")).get("songs", []):
-                if ps.get("year"):
-                    pizmonet_years[ps["title"]] = str(ps["year"])
-        except Exception:
-            pass
 
     playlist_entries: list[dict[str, Any]] = []
     tier_counts: dict[str, int] = {k: 0 for k in ctx.tier_labels}
