@@ -13344,13 +13344,1869 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 159,
+      "chrono_n": 7,
+      "canon_score": 42.7,
+      "acum_v": 57,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מה שיהיה יהיה (1956)",
+      "raw_title": "מה שיהיה יהיה",
+      "alt_titles": [
+        "QUE SERA SERA",
+        "יהי כאשר יהי",
+        "קה סרה סרה"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1956",
+      "rec_year": "1956",
+      "song_year": "1956",
+      "year_src": "original_inherited",
+      "decade": "1950s",
+      "vid": "cD2GgbFD_Yo",
+      "vtitle": "יהי כאשר יהי- Que Sera Sera ג'ינה ג'וי-מילים ריי אוונס  תרגום-נעמי שמר לחן  ג'יי ליוינגסטון",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "2:36",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "ג'ינה ג'וי (תזמורת משה אושרוביץ)",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: ג'יי ליוינגסטון, ריי אוונס)",
+      "co_creators": "מקור: ג'יי ליוינגסטון, ריי אוונס",
+      "opening_line": "את פי אמי שאלתי כך אנא גלי נא סוד מזלי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044280205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #2023362",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2023362"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "La5Iy8nSWbQ",
+          "vtitle": "ג'ינה ג'וי - QUE SERA SERA",
+          "ch": "מקולית",
+          "dur": "2:41",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 160,
+      "chrono_n": 30,
+      "canon_score": 111.8,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "שיר לחג עשור [ביצוע מקורי] (1958)",
+      "raw_title": "שיר לחג עשור",
+      "alt_titles": [
+        "כל הבקר הכנרת לא חדלה לסער"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "canonical_album",
+      "decade": "1950s",
+      "vid": "dgC-AI1O_a8",
+      "vtitle": "שיר לחג עשור",
+      "ch": "Hadudaim - Topic",
+      "dur": "2:08",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "הדודאים",
+      "alb": "צמד הדודאים ב' (#2)",
+      "alb_group": "צמד הדודאים ב'",
+      "alb_trk": 2,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "כל הבקר הכנרת לא חדלה לסעור",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041990205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4728"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033579",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "7OBR056qvqw",
+          "vtitle": "שיר לחג עשור",
+          "ch": "Arik Einstein - Topic",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "-rGr-thBmjs",
+          "vtitle": "שיר לחג עשור - נעמי שמר והדודאים (1968)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xazoWrzDPNY",
+          "vtitle": "נחמה הנדל - שיר לחג עשור",
+          "ch": "משירי ארץ ישראל הישנה והטובה",
+          "dur": "1:47",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "RDTKjKtbdak",
+          "vtitle": "שיר עד - שיר לחג עשור - מילים ולחן: נעמי שמר | ביצוע: הדודאים, 1960 - The Doodaim",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:08",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 161,
+      "chrono_n": 235,
+      "canon_score": 111.8,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "שיר לחג עשור [ביצוע נעמי שמר] (1968)",
+      "raw_title": "שיר לחג עשור",
+      "alt_titles": [
+        "כל הבקר הכנרת לא חדלה לסער"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "-rGr-thBmjs",
+      "vtitle": "שיר לחג עשור - נעמי שמר והדודאים (1968)",
+      "ch": "דוד קריבושי - הערוץ הרשמי",
+      "dur": "3:09",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר והדודאים",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "כל הבקר הכנרת לא חדלה לסעור",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041990205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4728"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033579",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "7OBR056qvqw",
+          "vtitle": "שיר לחג עשור",
+          "ch": "Arik Einstein - Topic",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xazoWrzDPNY",
+          "vtitle": "נחמה הנדל - שיר לחג עשור",
+          "ch": "משירי ארץ ישראל הישנה והטובה",
+          "dur": "1:47",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "RDTKjKtbdak",
+          "vtitle": "שיר עד - שיר לחג עשור - מילים ולחן: נעמי שמר | ביצוע: הדודאים, 1960 - The Doodaim",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:08",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "dgC-AI1O_a8",
+          "vtitle": "שיר לחג עשור",
+          "ch": "Hadudaim - Topic",
+          "dur": "2:08",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 162,
+      "chrono_n": 51,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "יום ה בשבוע [ביצוע מקורי] (1958)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 1,
+      "ver_total": 5,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "mtuSxIIZPqg",
+      "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+      "ch": "Shir ivri",
+      "dur": "5:17",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "רחל אטאס",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 163,
+      "chrono_n": 84,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1960)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 2,
+      "ver_total": 5,
+      "year": "1960",
+      "rec_year": "1960",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "cbNuUKAQMsU",
+      "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+      "ch": "Shir ivri",
+      "dur": "3:12",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "נעמי שמר שרה את יצירותיה (1960)",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 164,
+      "chrono_n": 54,
+      "canon_score": 88.5,
+      "acum_v": 8,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "רוקדת (1958)",
+      "raw_title": "רוקדת",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "original_inherited",
+      "decade": "1950s",
+      "vid": "3oB1QegwRqk",
+      "vtitle": "רוקדת",
+      "ch": "Yafa Yarkoni - Topic",
+      "dur": "4:03",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "יפה ירקוני",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "גרטרוד קראוס באה מארופה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044600205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=7753"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1059843",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1059843"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "YXmX6xUDJYA",
+          "vtitle": "יפה ירקוני רוקדת",
+          "ch": "Israeli Classics קלאסיקה ישראלית",
+          "dur": "4:03",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "nEz0tSEoZkE",
+          "vtitle": "רוקדת מאת נעמי שמר - הגר אנגל",
+          "ch": "הגר אנגל",
+          "dur": "3:41",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "30IWpAtcqcQ",
+          "vtitle": "רוקדת | נעמי שמר | מופע סיום שכבת י עלמא אמונה, ירושלים תשפ\"ה",
+          "ch": "אמונה שטיין חג'אג'",
+          "dur": "5:25",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 165,
+      "chrono_n": 75,
+      "canon_score": 94.7,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מצעד האביב [ביצוע מקורי] (1959)",
+      "raw_title": "מצעד האביב",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1959",
+      "year_src": "stereo_ve_mono",
+      "decade": "1950s",
+      "vid": "9XgKm2xg3iA",
+      "vtitle": "מצעד האביב",
+      "ch": "אריק איינשטיין I פונוקול",
+      "dur": "2:30",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "אריק איינשטיין",
+      "alb": "נעמי שמר - אסיף",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041590205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4536"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1024152",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "czMPX1x-3oc",
+          "vtitle": "אריק איינשטיין ורחל אטאס   מצעד האביב",
+          "ch": "Yoyo Mo",
+          "dur": "2:37",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "g-QWglKhPeI",
+          "vtitle": "יהודית כוכבא  -מצעד האביב- 1968",
+          "ch": "דודי פטימר",
+          "dur": "3:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "KBvQrOKM37k",
+          "vtitle": "מצעד האביב - רחל אטאס אריק אינשטיין ויוסי פרוסט",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:31",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7IEl35CsSaI",
+          "vtitle": "מצעד האביב נעמי שמר",
+          "ch": "Music",
+          "dur": "1:40",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 166,
+      "chrono_n": 79,
+      "canon_score": 94.7,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מצעד האביב [ביצוע נעמי שמר] (1959)",
+      "raw_title": "מצעד האביב",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1959",
+      "year_src": "original_inherited",
+      "decade": "1950s",
+      "vid": "7IEl35CsSaI",
+      "vtitle": "מצעד האביב נעמי שמר",
+      "ch": "Music",
+      "dur": "1:40",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041590205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4536"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1024152",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "czMPX1x-3oc",
+          "vtitle": "אריק איינשטיין ורחל אטאס   מצעד האביב",
+          "ch": "Yoyo Mo",
+          "dur": "2:37",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "g-QWglKhPeI",
+          "vtitle": "יהודית כוכבא  -מצעד האביב- 1968",
+          "ch": "דודי פטימר",
+          "dur": "3:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "KBvQrOKM37k",
+          "vtitle": "מצעד האביב - רחל אטאס אריק אינשטיין ויוסי פרוסט",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:31",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "9XgKm2xg3iA",
+          "vtitle": "מצעד האביב",
+          "ch": "אריק איינשטיין I פונוקול",
+          "dur": "2:30",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 167,
+      "chrono_n": 74,
+      "canon_score": 71.0,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "קפה שחור [ביצוע מקורי] (1959)",
+      "raw_title": "קפה שחור",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1959",
+      "year_src": "canonical_album",
+      "decade": "1950s",
+      "vid": "38jU5bVcNzo",
+      "vtitle": "שמעון בר - קפה שחור",
+      "ch": "Israphon Music (‫ישראפון‬‎)",
+      "dur": "3:04",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "שמעון בר",
+      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959) (#1)",
+      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
+      "alb_trk": 1,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030703",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Fd_4Rp8_0JE",
+          "vtitle": "שמעון בר -קפה שחור -1966",
+          "ch": "דודי פטימר",
+          "dur": "2:36",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "EZ-UrC1zPds",
+          "vtitle": "קפה שחור - שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:28",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "_33ng3euFJI",
+          "vtitle": "חבורת שירו שיר  - קפה שחור- 1969",
+          "ch": "דודי פטימר",
+          "dur": "2:41",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 168,
+      "chrono_n": 103,
+      "canon_score": 55.6,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "שיר לגדעון (1961)",
+      "raw_title": "שיר לגדעון",
+      "alt_titles": [
+        "זמר לגדעון"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1961",
+      "rec_year": "1961",
+      "song_year": "1961",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "me0k188YXNw",
+      "vtitle": "נחמה הנדל ולהקת הצעירים  זמר לגדעון 1961",
+      "ch": "RaSagi D",
+      "dur": "2:32",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "נחמה הנדל",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "היה אז קיץ בגבולות הבשיל שדה את יבולו",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042220205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4752"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014618",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014618"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "_9ud9gK3VeQ",
+          "vtitle": "זמר לגדעון - נחמה הנדל. מילים ולחן: נעמי שמר",
+          "ch": "Noam .Menashe",
+          "dur": "2:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "bvotjNCIZ1A",
+          "vtitle": "אריק איינשטיין שיר מספר 39 - זמר לגדעון. להקת הצעירים 1961",
+          "ch": "אבי דבש",
+          "dur": "2:34",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "ofjbGMH1zd0",
+          "vtitle": "זמר לגדעון",
+          "ch": "Release - Topic",
+          "dur": "2:28",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 169,
+      "chrono_n": 112,
+      "canon_score": 76.5,
+      "acum_v": 18,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "חיילים יצאו לדרך [ביצוע מקורי] (1962)",
+      "raw_title": "חיילים יצאו לדרך",
+      "alt_titles": [
+        "חילים יצאו לדרך",
+        "חיילים יצאו לדרך למסע רגלי גדול"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "topic_album",
+      "decade": "1960s",
+      "vid": "hSaod2F6TA8",
+      "vtitle": "חיילים יצאו לדרך",
+      "ch": "Lehakat Pikud Merkaz - Topic",
+      "dur": "3:25",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת פיקוד המרכז",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "חילים יצאו לדרך למסע רגלי גדול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042680205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4737"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015350",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "WgIFN0XqvN8",
+          "vtitle": "להקת פיקוד מרכז-חיילים יצאו לדרך.wmv",
+          "ch": "dmeislish",
+          "dur": "3:25",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "vWUodCpYfGc",
+          "vtitle": "חיילים יצאו לדרך",
+          "ch": "Release - Topic",
+          "dur": "3:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "oJMhpR1Wf_M",
+          "vtitle": "חיילים יצאו לדרך [(נעמי שמר) נעמי שמר] - להקת פיקוד המרכז - הגרסה המקורית 1963",
+          "ch": "Adi Kadmon",
+          "dur": "3:26",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "UxWCHV50LoU",
+          "vtitle": "נעמי שמר - חיילים יצאו לדרך / נעמי שמר (1967)",
+          "ch": "Shir ivri",
+          "dur": "2:42",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 170,
+      "chrono_n": 207,
+      "canon_score": 76.5,
+      "acum_v": 18,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "חיילים יצאו לדרך [ביצוע נעמי שמר] (1967)",
+      "raw_title": "חיילים יצאו לדרך",
+      "alt_titles": [
+        "חילים יצאו לדרך",
+        "חיילים יצאו לדרך למסע רגלי גדול"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1967",
+      "rec_year": "1967",
+      "song_year": "1962",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "UxWCHV50LoU",
+      "vtitle": "נעמי שמר - חיילים יצאו לדרך / נעמי שמר (1967)",
+      "ch": "Shir ivri",
+      "dur": "2:42",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "נעמי שמר שרה נעמי שמר",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "חילים יצאו לדרך למסע רגלי גדול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042680205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4737"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015350",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "WgIFN0XqvN8",
+          "vtitle": "להקת פיקוד מרכז-חיילים יצאו לדרך.wmv",
+          "ch": "dmeislish",
+          "dur": "3:25",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "vWUodCpYfGc",
+          "vtitle": "חיילים יצאו לדרך",
+          "ch": "Release - Topic",
+          "dur": "3:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "oJMhpR1Wf_M",
+          "vtitle": "חיילים יצאו לדרך [(נעמי שמר) נעמי שמר] - להקת פיקוד המרכז - הגרסה המקורית 1963",
+          "ch": "Adi Kadmon",
+          "dur": "3:26",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "hSaod2F6TA8",
+          "vtitle": "חיילים יצאו לדרך",
+          "ch": "Lehakat Pikud Merkaz - Topic",
+          "dur": "3:25",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 171,
+      "chrono_n": 116,
+      "canon_score": 40.1,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "ורד בר [ביצוע מקורי] (1962)",
+      "raw_title": "ורד בר",
+      "alt_titles": [
+        "עלמה חיוורת",
+        "עלמה חוורת",
+        "עלמה חורת"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "7e6hGajTOaE",
+      "vtitle": "ורד בר -עלמה חיוורת - הדודאים",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "2:21",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "הדודאים",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: נורברט גלנצברג, פרנסיס למרק)",
+      "co_creators": "מקור: נורברט גלנצברג, פרנסיס למרק",
+      "opening_line": "על חזה עלמה חוורת שמתי ורד ורד בר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491370205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=32326"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1042504",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "-givWJMymhs",
+          "vtitle": "ורד בר",
+          "ch": "נעמי שמר - Topic",
+          "dur": "2:33",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "1uRrLed3pZc",
+          "vtitle": "\"ורד בר\" שרה נעמי שמר",
+          "ch": "ללי שמר",
+          "dur": "2:33",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 172,
+      "chrono_n": 516,
+      "canon_score": 40.1,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "ורד בר [ביצוע נעמי שמר] (1982)",
+      "raw_title": "ורד בר",
+      "alt_titles": [
+        "עלמה חיוורת",
+        "עלמה חוורת",
+        "עלמה חורת"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1982",
+      "rec_year": "1982",
+      "song_year": "1962",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "1uRrLed3pZc",
+      "vtitle": "\"ורד בר\" שרה נעמי שמר",
+      "ch": "ללי שמר",
+      "dur": "2:33",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "אל בורות המים (נעמי שמר) (#12)",
+      "alb_group": "אל בורות המים (נעמי שמר)",
+      "alb_trk": 12,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: נורברט גלנצברג, פרנסיס למרק)",
+      "co_creators": "מקור: נורברט גלנצברג, פרנסיס למרק",
+      "opening_line": "על חזה עלמה חוורת שמתי ורד ורד בר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491370205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=32326"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1042504",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "-givWJMymhs",
+          "vtitle": "ורד בר",
+          "ch": "נעמי שמר - Topic",
+          "dur": "2:33",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7e6hGajTOaE",
+          "vtitle": "ורד בר -עלמה חיוורת - הדודאים",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 173,
+      "chrono_n": 311,
+      "canon_score": 75.5,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מה אמרו הציפורים [ביצוע מקורי] (1972)",
+      "raw_title": "מה אמרו הציפורים",
+      "alt_titles": [
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1962",
+      "year_src": "existing_curated",
+      "decade": "1970s",
+      "vid": "UeP8K2lXml8",
+      "vtitle": "מה אמרו - סולנית: מיכל פרס",
+      "ch": "Lehakat Geisot Hashirion - Topic",
+      "dur": "3:01",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת גייסות השריון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מה אמרו הציפורים הנודדות",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "jqQTqr1gHEI",
+          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+          "ch": "Shir Yafe",
+          "dur": "2:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cV-WsBBOwto",
+          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 174,
+      "chrono_n": 113,
+      "canon_score": 75.5,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
+      "raw_title": "מה אמרו הציפורים",
+      "alt_titles": [
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "cV-WsBBOwto",
+      "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+      "ch": "שיר עד - Shir Ad",
+      "dur": "2:23",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר (לחן 1)",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מה אמרו הציפורים הנודדות",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "jqQTqr1gHEI",
+          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+          "ch": "Shir Yafe",
+          "dur": "2:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "UeP8K2lXml8",
+          "vtitle": "מה אמרו - סולנית: מיכל פרס",
+          "ch": "Lehakat Geisot Hashirion - Topic",
+          "dur": "3:01",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 175,
+      "chrono_n": 126,
+      "canon_score": 91.2,
+      "acum_v": 21,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "הטיול הגדול [ביצוע מקורי] (1963)",
+      "raw_title": "הטיול הגדול",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1963",
+      "rec_year": "1963",
+      "song_year": "1963",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "g-477LqGTr4",
+      "vtitle": "הטיול הגדול",
+      "ch": "Release - Topic",
+      "dur": "2:55",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת הנח\"ל",
+      "alb": "שמש במדבר (להקת הנח\"ל) (#7)",
+      "alb_group": "שמש במדבר (להקת הנח\"ל)",
+      "alb_trk": 7,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042080205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4683"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1010694",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010694"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Po8BzNZK6nc",
+          "vtitle": "שיר עד - הטיול הגדול - מילים ולחן: נעמי שמר | ביצוע: להקת הנח\"ל, 1963 - Nahal Variety Group",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "3:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "VAR7BSSWmpw",
+          "vtitle": "שיר ישראלי - רון בכר - הטיול הגדול  - להקת הנח\"ל  מילים ולחן: נעמי שמר",
+          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "dur": "3:26",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "z-dJVu6Es6M",
+          "vtitle": "מיקי קם - הטיול הגדול",
+          "ch": "Eyatn",
+          "dur": "3:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "rh0oGPJbf5M",
+          "vtitle": "החתול שמיל עם נעמי שמר - הטיול הגדול",
+          "ch": "סימה",
+          "dur": "3:42",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 176,
+      "chrono_n": 133,
+      "canon_score": 91.2,
+      "acum_v": 21,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "הטיול הגדול [ביצוע נעמי שמר] (1963)",
+      "raw_title": "הטיול הגדול",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1963",
+      "rec_year": "1963",
+      "song_year": "1963",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "rh0oGPJbf5M",
+      "vtitle": "החתול שמיל עם נעמי שמר - הטיול הגדול",
+      "ch": "סימה",
+      "dur": "3:42",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042080205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4683"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1010694",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010694"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Po8BzNZK6nc",
+          "vtitle": "שיר עד - הטיול הגדול - מילים ולחן: נעמי שמר | ביצוע: להקת הנח\"ל, 1963 - Nahal Variety Group",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "3:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "VAR7BSSWmpw",
+          "vtitle": "שיר ישראלי - רון בכר - הטיול הגדול  - להקת הנח\"ל  מילים ולחן: נעמי שמר",
+          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "dur": "3:26",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "z-dJVu6Es6M",
+          "vtitle": "מיקי קם - הטיול הגדול",
+          "ch": "Eyatn",
+          "dur": "3:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "g-477LqGTr4",
+          "vtitle": "הטיול הגדול",
+          "ch": "Release - Topic",
+          "dur": "2:55",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 177,
+      "chrono_n": 125,
+      "canon_score": 81.9,
+      "acum_v": 13,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "עוד לא אכלנו (1963)",
+      "raw_title": "עוד לא אכלנו",
+      "alt_titles": [
+        "שיר האוכל"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1963",
+      "rec_year": "1963",
+      "song_year": "1963",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "CMhfrA5uDjE",
+      "vtitle": "עוד לא אכלנו",
+      "ch": "Release - Topic",
+      "dur": "2:57",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת הנח\"ל",
+      "alb": "שמש במדבר (להקת הנח\"ל) (#6)",
+      "alb_group": "שמש במדבר (להקת הנח\"ל)",
+      "alb_trk": 6,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אמר מי שאמר וטעמיו היו אתו",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042150205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4696"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1032990",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032990"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "0oHBUo9nsMc",
+          "vtitle": "עוד לא אכלנו | להקת הנח\"ל עם אתי עמית | \"שמש במדבר\" משירי נעמי שמר",
+          "ch": "אתי עמית - הערוץ הרשמי",
+          "dur": "3:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "ErnaHqEOZ8Y",
+          "vtitle": "להקת הנח''ל - עוד לא אכלנו [(נעמי שמר) נעמי שמר] - הקלטת-האלבום המקורית, 1963",
+          "ch": "Adi Kadmon",
+          "dur": "3:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "ZUUwM3kBOU8",
+          "vtitle": "להקת הנח\"ל - עוד לא אכלנו שום דבר",
+          "ch": "Guy Alon",
+          "dur": "2:59",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 178,
+      "chrono_n": 135,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "זהירות בונים כאן [ביצוע מקורי] (1964)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1964",
+      "rec_year": "1964",
+      "song_year": "1964",
+      "year_src": "topic_album",
+      "decade": "1960s",
+      "vid": "0pdyuulvbzo",
+      "vtitle": "זהירות בונים",
+      "ch": "Lehakat Pikud Tsafon - Topic",
+      "dur": "2:49",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת פיקוד הצפון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "OLQITmFP3Xo",
+          "vtitle": "נעמי שמר - זהירות בונים כאן",
+          "ch": "כאן | מוזיקה",
+          "dur": "1:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "aXSNLtcdytU",
+          "vtitle": "זהירות בונים",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "2:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "gDx__MbfRP4",
+          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
+          "ch": "קובי אשרת - הערוץ הרשמי ",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 179,
+      "chrono_n": 348,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "זהירות בונים כאן [ביצוע נעמי שמר] (1973)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1973",
+      "rec_year": "1973",
+      "song_year": "1964",
+      "year_src": "archive_desc",
+      "decade": "1970s",
+      "vid": "OLQITmFP3Xo",
+      "vtitle": "נעמי שמר - זהירות בונים כאן",
+      "ch": "כאן | מוזיקה",
+      "dur": "1:23",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "0pdyuulvbzo",
+          "vtitle": "זהירות בונים",
+          "ch": "Lehakat Pikud Tsafon - Topic",
+          "dur": "2:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "aXSNLtcdytU",
+          "vtitle": "זהירות בונים",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "2:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "gDx__MbfRP4",
+          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
+          "ch": "קובי אשרת - הערוץ הרשמי ",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 180,
+      "chrono_n": 146,
+      "canon_score": 59.1,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "לכבודך [ביצוע מקורי] (1964)",
+      "raw_title": "לכבודך",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1964",
+      "rec_year": "1964",
+      "song_year": "1964",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "UtixqreayIo",
+      "vtitle": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
+      "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+      "dur": "3:06",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שלישיית גשר הירקון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "הוא אמר צבעתי בשלכת את העיר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042350205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4755"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1020790",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "eGrPQv3g9ps",
+          "vtitle": "נעמי שמר - לכבודך",
+          "ch": "נעמי שמר - Topic",
+          "dur": "2:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "B7iAxPEf2Gk",
+          "vtitle": "לכבודך",
+          "ch": "חיה קורן",
+          "dur": "2:44",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7VNoK5e4kDQ",
+          "vtitle": "לכבודך - נעמי שמר (1968)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "2:52",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 181,
+      "chrono_n": 212,
+      "canon_score": 59.1,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "לכבודך [ביצוע נעמי שמר] (1967)",
+      "raw_title": "לכבודך",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1967",
+      "rec_year": "1967",
+      "song_year": "1964",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "eGrPQv3g9ps",
+      "vtitle": "נעמי שמר - לכבודך",
+      "ch": "נעמי שמר - Topic",
+      "dur": "2:52",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "נעמי שמר שרה נעמי שמר (ירושלים של זהב) (#8)",
+      "alb_group": "נעמי שמר שרה נעמי שמר (ירושלים של זהב)",
+      "alb_trk": 8,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "הוא אמר צבעתי בשלכת את העיר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042350205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4755"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1020790",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "UtixqreayIo",
+          "vtitle": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
+          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
+          "dur": "3:06",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "B7iAxPEf2Gk",
+          "vtitle": "לכבודך",
+          "ch": "חיה קורן",
+          "dur": "2:44",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7VNoK5e4kDQ",
+          "vtitle": "לכבודך - נעמי שמר (1968)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "2:52",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 182,
+      "chrono_n": 168,
+      "canon_score": 47.2,
+      "acum_v": 9,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: סינגלים ולהקות צבאיות — שנות ה־50 וראשית ה־60 (1956–1965)",
+      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1965",
+      "rec_year": "1965",
+      "song_year": "1965",
+      "year_src": "manual_verified",
+      "decade": "1960s",
+      "vid": "vbG5B1wswQc",
+      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
+      "ch": "דוד אסף",
+      "dur": "3:40",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון בר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "s8KBMzwFJmA",
+          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:41",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "nugnCFc2e54",
+          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "4:00",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 183,
       "chrono_n": 20,
       "canon_score": 92.2,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "שיר הבר [ביצוע מקורי] (1958)",
       "raw_title": "שיר הבר",
       "alt_titles": [
@@ -13423,14 +15279,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 160,
+      "n": 184,
       "chrono_n": 38,
       "canon_score": 112.3,
       "acum_v": 14,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "רב האור והתכלת [ביצוע מקורי] (1958)",
       "raw_title": "רב האור והתכלת",
       "alt_titles": [],
@@ -13511,14 +15367,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 161,
+      "n": 185,
       "chrono_n": 23,
       "canon_score": 125.5,
       "acum_v": 23,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "סמוך על התרנגול [ביצוע מקורי] (1958)",
       "raw_title": "סמוך על התרנגול",
       "alt_titles": [
@@ -13590,14 +15446,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 162,
+      "n": 186,
       "chrono_n": 152,
       "canon_score": 60.6,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "אופליה [ביצוע מקורי] (1964)",
       "raw_title": "אופליה",
       "alt_titles": [
@@ -13682,14 +15538,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 163,
+      "n": 187,
       "chrono_n": 159,
       "canon_score": 60.6,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "אופליה [ביצוע נעמי שמר] (1965)",
       "raw_title": "אופליה",
       "alt_titles": [
@@ -13774,14 +15630,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 164,
+      "n": 188,
       "chrono_n": 153,
       "canon_score": 48.9,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "בלילה שכזה [ביצוע מקורי] (1964)",
       "raw_title": "בלילה שכזה",
       "alt_titles": [
@@ -13857,14 +15713,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 165,
+      "n": 189,
       "chrono_n": 154,
       "canon_score": 48.9,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "בלילה שכזה [ביצוע נעמי שמר] (1964)",
       "raw_title": "בלילה שכזה",
       "alt_titles": [
@@ -13940,14 +15796,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 166,
+      "n": 190,
       "chrono_n": 177,
       "canon_score": 43.9,
       "acum_v": 16,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "אשרוק לי שיר עליז (1966)",
       "raw_title": "אשרוק לי שיר עליז",
       "alt_titles": [
@@ -14010,14 +15866,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 167,
+      "n": 191,
       "chrono_n": 178,
       "canon_score": 36.8,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "אדון ומלך (1966)",
       "raw_title": "אדון ומלך",
       "alt_titles": [],
@@ -14062,14 +15918,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 168,
+      "n": 192,
       "chrono_n": 179,
       "canon_score": 37.4,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "אקרא שלום (1966)",
       "raw_title": "אקרא שלום",
       "alt_titles": [
@@ -14117,14 +15973,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 169,
+      "n": 193,
       "chrono_n": 180,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "חידתיות (1966)",
       "raw_title": "חידתיות",
       "alt_titles": [
@@ -14171,14 +16027,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 170,
+      "n": 194,
       "chrono_n": 181,
       "canon_score": 37.4,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "להתוודע (1966)",
       "raw_title": "להתוודע",
       "alt_titles": [
@@ -14227,14 +16083,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 171,
+      "n": 195,
       "chrono_n": 182,
       "canon_score": 36.6,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "בצל ובאופל (1966)",
       "raw_title": "בצל ובאופל",
       "alt_titles": [],
@@ -14279,14 +16135,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 172,
+      "n": 196,
       "chrono_n": 183,
       "canon_score": 37.2,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "שפחה שפחה (1966)",
       "raw_title": "שפחה שפחה",
       "alt_titles": [],
@@ -14331,14 +16187,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 173,
+      "n": 197,
       "chrono_n": 184,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "דבר מה נפלא כל כך (1966)",
       "raw_title": "דבר מה נפלא כל כך",
       "alt_titles": [
@@ -14385,14 +16241,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 174,
+      "n": 198,
       "chrono_n": 186,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "בחלום (1966)",
       "raw_title": "בחלום",
       "alt_titles": [],
@@ -14437,14 +16293,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 175,
+      "n": 199,
       "chrono_n": 187,
       "canon_score": 37.0,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "משל סיאמי (1966)",
       "raw_title": "משל סיאמי",
       "alt_titles": [
@@ -14492,14 +16348,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 176,
+      "n": 200,
       "chrono_n": 188,
       "canon_score": 38.1,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
       "title": "הנרקוד (1966)",
       "raw_title": "הנרקוד",
       "alt_titles": [
@@ -14547,1862 +16403,6 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 177,
-      "chrono_n": 7,
-      "canon_score": 42.7,
-      "acum_v": 57,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מה שיהיה יהיה (1956)",
-      "raw_title": "מה שיהיה יהיה",
-      "alt_titles": [
-        "QUE SERA SERA",
-        "יהי כאשר יהי",
-        "קה סרה סרה"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1956",
-      "rec_year": "1956",
-      "song_year": "1956",
-      "year_src": "original_inherited",
-      "decade": "1950s",
-      "vid": "cD2GgbFD_Yo",
-      "vtitle": "יהי כאשר יהי- Que Sera Sera ג'ינה ג'וי-מילים ריי אוונס  תרגום-נעמי שמר לחן  ג'יי ליוינגסטון",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "2:36",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "ג'ינה ג'וי (תזמורת משה אושרוביץ)",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: ג'יי ליוינגסטון, ריי אוונס)",
-      "co_creators": "מקור: ג'יי ליוינגסטון, ריי אוונס",
-      "opening_line": "את פי אמי שאלתי כך אנא גלי נא סוד מזלי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044280205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #2023362",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2023362"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "La5Iy8nSWbQ",
-          "vtitle": "ג'ינה ג'וי - QUE SERA SERA",
-          "ch": "מקולית",
-          "dur": "2:41",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 178,
-      "chrono_n": 30,
-      "canon_score": 111.8,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "שיר לחג עשור [ביצוע מקורי] (1958)",
-      "raw_title": "שיר לחג עשור",
-      "alt_titles": [
-        "כל הבקר הכנרת לא חדלה לסער"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "dgC-AI1O_a8",
-      "vtitle": "שיר לחג עשור",
-      "ch": "Hadudaim - Topic",
-      "dur": "2:08",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "הדודאים",
-      "alb": "צמד הדודאים ב' (#2)",
-      "alb_group": "צמד הדודאים ב'",
-      "alb_trk": 2,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כל הבקר הכנרת לא חדלה לסעור",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041990205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4728"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "7OBR056qvqw",
-          "vtitle": "שיר לחג עשור",
-          "ch": "Arik Einstein - Topic",
-          "dur": "3:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "-rGr-thBmjs",
-          "vtitle": "שיר לחג עשור - נעמי שמר והדודאים (1968)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "3:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xazoWrzDPNY",
-          "vtitle": "נחמה הנדל - שיר לחג עשור",
-          "ch": "משירי ארץ ישראל הישנה והטובה",
-          "dur": "1:47",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "RDTKjKtbdak",
-          "vtitle": "שיר עד - שיר לחג עשור - מילים ולחן: נעמי שמר | ביצוע: הדודאים, 1960 - The Doodaim",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:08",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 179,
-      "chrono_n": 235,
-      "canon_score": 111.8,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "שיר לחג עשור [ביצוע נעמי שמר] (1968)",
-      "raw_title": "שיר לחג עשור",
-      "alt_titles": [
-        "כל הבקר הכנרת לא חדלה לסער"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "-rGr-thBmjs",
-      "vtitle": "שיר לחג עשור - נעמי שמר והדודאים (1968)",
-      "ch": "דוד קריבושי - הערוץ הרשמי",
-      "dur": "3:09",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר והדודאים",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כל הבקר הכנרת לא חדלה לסעור",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041990205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4728"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "7OBR056qvqw",
-          "vtitle": "שיר לחג עשור",
-          "ch": "Arik Einstein - Topic",
-          "dur": "3:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xazoWrzDPNY",
-          "vtitle": "נחמה הנדל - שיר לחג עשור",
-          "ch": "משירי ארץ ישראל הישנה והטובה",
-          "dur": "1:47",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "RDTKjKtbdak",
-          "vtitle": "שיר עד - שיר לחג עשור - מילים ולחן: נעמי שמר | ביצוע: הדודאים, 1960 - The Doodaim",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:08",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "dgC-AI1O_a8",
-          "vtitle": "שיר לחג עשור",
-          "ch": "Hadudaim - Topic",
-          "dur": "2:08",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 180,
-      "chrono_n": 51,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "יום ה בשבוע [ביצוע מקורי] (1958)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 1,
-      "ver_total": 5,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "mtuSxIIZPqg",
-      "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-      "ch": "Shir ivri",
-      "dur": "5:17",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "רחל אטאס",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 181,
-      "chrono_n": 84,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1960)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 2,
-      "ver_total": 5,
-      "year": "1960",
-      "rec_year": "1960",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "cbNuUKAQMsU",
-      "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-      "ch": "Shir ivri",
-      "dur": "3:12",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "נעמי שמר שרה את יצירותיה (1960)",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 182,
-      "chrono_n": 54,
-      "canon_score": 88.5,
-      "acum_v": 8,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "רוקדת (1958)",
-      "raw_title": "רוקדת",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "original_inherited",
-      "decade": "1950s",
-      "vid": "3oB1QegwRqk",
-      "vtitle": "רוקדת",
-      "ch": "Yafa Yarkoni - Topic",
-      "dur": "4:03",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "יפה ירקוני",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גרטרוד קראוס באה מארופה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044600205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=7753"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1059843",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1059843"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "YXmX6xUDJYA",
-          "vtitle": "יפה ירקוני רוקדת",
-          "ch": "Israeli Classics קלאסיקה ישראלית",
-          "dur": "4:03",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "nEz0tSEoZkE",
-          "vtitle": "רוקדת מאת נעמי שמר - הגר אנגל",
-          "ch": "הגר אנגל",
-          "dur": "3:41",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "30IWpAtcqcQ",
-          "vtitle": "רוקדת | נעמי שמר | מופע סיום שכבת י עלמא אמונה, ירושלים תשפ\"ה",
-          "ch": "אמונה שטיין חג'אג'",
-          "dur": "5:25",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 183,
-      "chrono_n": 75,
-      "canon_score": 94.7,
-      "acum_v": 24,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מצעד האביב [ביצוע מקורי] (1959)",
-      "raw_title": "מצעד האביב",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1959",
-      "year_src": "stereo_ve_mono",
-      "decade": "1950s",
-      "vid": "9XgKm2xg3iA",
-      "vtitle": "מצעד האביב",
-      "ch": "אריק איינשטיין I פונוקול",
-      "dur": "2:30",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אריק איינשטיין",
-      "alb": "נעמי שמר - אסיף",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041590205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4536"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1024152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "czMPX1x-3oc",
-          "vtitle": "אריק איינשטיין ורחל אטאס   מצעד האביב",
-          "ch": "Yoyo Mo",
-          "dur": "2:37",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "g-QWglKhPeI",
-          "vtitle": "יהודית כוכבא  -מצעד האביב- 1968",
-          "ch": "דודי פטימר",
-          "dur": "3:11",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "KBvQrOKM37k",
-          "vtitle": "מצעד האביב - רחל אטאס אריק אינשטיין ויוסי פרוסט",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:31",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7IEl35CsSaI",
-          "vtitle": "מצעד האביב נעמי שמר",
-          "ch": "Music",
-          "dur": "1:40",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 184,
-      "chrono_n": 79,
-      "canon_score": 94.7,
-      "acum_v": 24,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מצעד האביב [ביצוע נעמי שמר] (1959)",
-      "raw_title": "מצעד האביב",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1959",
-      "year_src": "original_inherited",
-      "decade": "1950s",
-      "vid": "7IEl35CsSaI",
-      "vtitle": "מצעד האביב נעמי שמר",
-      "ch": "Music",
-      "dur": "1:40",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אם יבשו שלוליות ואם פרחו הפרדסים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041590205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4536"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1024152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "czMPX1x-3oc",
-          "vtitle": "אריק איינשטיין ורחל אטאס   מצעד האביב",
-          "ch": "Yoyo Mo",
-          "dur": "2:37",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "g-QWglKhPeI",
-          "vtitle": "יהודית כוכבא  -מצעד האביב- 1968",
-          "ch": "דודי פטימר",
-          "dur": "3:11",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "KBvQrOKM37k",
-          "vtitle": "מצעד האביב - רחל אטאס אריק אינשטיין ויוסי פרוסט",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:31",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "9XgKm2xg3iA",
-          "vtitle": "מצעד האביב",
-          "ch": "אריק איינשטיין I פונוקול",
-          "dur": "2:30",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 185,
-      "chrono_n": 74,
-      "canon_score": 71.0,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "קפה שחור [ביצוע מקורי] (1959)",
-      "raw_title": "קפה שחור",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1959",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "38jU5bVcNzo",
-      "vtitle": "שמעון בר - קפה שחור",
-      "ch": "Israphon Music (‫ישראפון‬‎)",
-      "dur": "3:04",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "שמעון בר",
-      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959) (#1)",
-      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
-      "alb_trk": 1,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030703",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Fd_4Rp8_0JE",
-          "vtitle": "שמעון בר -קפה שחור -1966",
-          "ch": "דודי פטימר",
-          "dur": "2:36",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "EZ-UrC1zPds",
-          "vtitle": "קפה שחור - שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:28",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "_33ng3euFJI",
-          "vtitle": "חבורת שירו שיר  - קפה שחור- 1969",
-          "ch": "דודי פטימר",
-          "dur": "2:41",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 186,
-      "chrono_n": 103,
-      "canon_score": 55.6,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "שיר לגדעון (1961)",
-      "raw_title": "שיר לגדעון",
-      "alt_titles": [
-        "זמר לגדעון"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1961",
-      "rec_year": "1961",
-      "song_year": "1961",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "me0k188YXNw",
-      "vtitle": "נחמה הנדל ולהקת הצעירים  זמר לגדעון 1961",
-      "ch": "RaSagi D",
-      "dur": "2:32",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "נחמה הנדל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "היה אז קיץ בגבולות הבשיל שדה את יבולו",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042220205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4752"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1014618",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014618"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "_9ud9gK3VeQ",
-          "vtitle": "זמר לגדעון - נחמה הנדל. מילים ולחן: נעמי שמר",
-          "ch": "Noam .Menashe",
-          "dur": "2:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "bvotjNCIZ1A",
-          "vtitle": "אריק איינשטיין שיר מספר 39 - זמר לגדעון. להקת הצעירים 1961",
-          "ch": "אבי דבש",
-          "dur": "2:34",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "ofjbGMH1zd0",
-          "vtitle": "זמר לגדעון",
-          "ch": "Release - Topic",
-          "dur": "2:28",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 187,
-      "chrono_n": 112,
-      "canon_score": 76.5,
-      "acum_v": 18,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "חיילים יצאו לדרך [ביצוע מקורי] (1962)",
-      "raw_title": "חיילים יצאו לדרך",
-      "alt_titles": [
-        "חילים יצאו לדרך",
-        "חיילים יצאו לדרך למסע רגלי גדול"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "topic_album",
-      "decade": "1960s",
-      "vid": "hSaod2F6TA8",
-      "vtitle": "חיילים יצאו לדרך",
-      "ch": "Lehakat Pikud Merkaz - Topic",
-      "dur": "3:25",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת פיקוד המרכז",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "חילים יצאו לדרך למסע רגלי גדול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042680205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4737"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "WgIFN0XqvN8",
-          "vtitle": "להקת פיקוד מרכז-חיילים יצאו לדרך.wmv",
-          "ch": "dmeislish",
-          "dur": "3:25",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "vWUodCpYfGc",
-          "vtitle": "חיילים יצאו לדרך",
-          "ch": "Release - Topic",
-          "dur": "3:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "oJMhpR1Wf_M",
-          "vtitle": "חיילים יצאו לדרך [(נעמי שמר) נעמי שמר] - להקת פיקוד המרכז - הגרסה המקורית 1963",
-          "ch": "Adi Kadmon",
-          "dur": "3:26",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "UxWCHV50LoU",
-          "vtitle": "נעמי שמר - חיילים יצאו לדרך / נעמי שמר (1967)",
-          "ch": "Shir ivri",
-          "dur": "2:42",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 188,
-      "chrono_n": 207,
-      "canon_score": 76.5,
-      "acum_v": 18,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "חיילים יצאו לדרך [ביצוע נעמי שמר] (1967)",
-      "raw_title": "חיילים יצאו לדרך",
-      "alt_titles": [
-        "חילים יצאו לדרך",
-        "חיילים יצאו לדרך למסע רגלי גדול"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1967",
-      "rec_year": "1967",
-      "song_year": "1962",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "UxWCHV50LoU",
-      "vtitle": "נעמי שמר - חיילים יצאו לדרך / נעמי שמר (1967)",
-      "ch": "Shir ivri",
-      "dur": "2:42",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "נעמי שמר שרה נעמי שמר",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "חילים יצאו לדרך למסע רגלי גדול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042680205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4737"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "WgIFN0XqvN8",
-          "vtitle": "להקת פיקוד מרכז-חיילים יצאו לדרך.wmv",
-          "ch": "dmeislish",
-          "dur": "3:25",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "vWUodCpYfGc",
-          "vtitle": "חיילים יצאו לדרך",
-          "ch": "Release - Topic",
-          "dur": "3:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "oJMhpR1Wf_M",
-          "vtitle": "חיילים יצאו לדרך [(נעמי שמר) נעמי שמר] - להקת פיקוד המרכז - הגרסה המקורית 1963",
-          "ch": "Adi Kadmon",
-          "dur": "3:26",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "hSaod2F6TA8",
-          "vtitle": "חיילים יצאו לדרך",
-          "ch": "Lehakat Pikud Merkaz - Topic",
-          "dur": "3:25",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 189,
-      "chrono_n": 116,
-      "canon_score": 40.1,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "ורד בר [ביצוע מקורי] (1962)",
-      "raw_title": "ורד בר",
-      "alt_titles": [
-        "עלמה חיוורת",
-        "עלמה חוורת",
-        "עלמה חורת"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "7e6hGajTOaE",
-      "vtitle": "ורד בר -עלמה חיוורת - הדודאים",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "2:21",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "הדודאים",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: נורברט גלנצברג, פרנסיס למרק)",
-      "co_creators": "מקור: נורברט גלנצברג, פרנסיס למרק",
-      "opening_line": "על חזה עלמה חוורת שמתי ורד ורד בר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491370205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=32326"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1042504",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "-givWJMymhs",
-          "vtitle": "ורד בר",
-          "ch": "נעמי שמר - Topic",
-          "dur": "2:33",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "1uRrLed3pZc",
-          "vtitle": "\"ורד בר\" שרה נעמי שמר",
-          "ch": "ללי שמר",
-          "dur": "2:33",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 190,
-      "chrono_n": 516,
-      "canon_score": 40.1,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "ורד בר [ביצוע נעמי שמר] (1982)",
-      "raw_title": "ורד בר",
-      "alt_titles": [
-        "עלמה חיוורת",
-        "עלמה חוורת",
-        "עלמה חורת"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1982",
-      "rec_year": "1982",
-      "song_year": "1962",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "1uRrLed3pZc",
-      "vtitle": "\"ורד בר\" שרה נעמי שמר",
-      "ch": "ללי שמר",
-      "dur": "2:33",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "אל בורות המים (נעמי שמר) (#12)",
-      "alb_group": "אל בורות המים (נעמי שמר)",
-      "alb_trk": 12,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: נורברט גלנצברג, פרנסיס למרק)",
-      "co_creators": "מקור: נורברט גלנצברג, פרנסיס למרק",
-      "opening_line": "על חזה עלמה חוורת שמתי ורד ורד בר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491370205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=32326"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1042504",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "-givWJMymhs",
-          "vtitle": "ורד בר",
-          "ch": "נעמי שמר - Topic",
-          "dur": "2:33",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7e6hGajTOaE",
-          "vtitle": "ורד בר -עלמה חיוורת - הדודאים",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 191,
-      "chrono_n": 311,
-      "canon_score": 75.5,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מה אמרו הציפורים [ביצוע מקורי] (1972)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1962",
-      "year_src": "existing_curated",
-      "decade": "1970s",
-      "vid": "UeP8K2lXml8",
-      "vtitle": "מה אמרו - סולנית: מיכל פרס",
-      "ch": "Lehakat Geisot Hashirion - Topic",
-      "dur": "3:01",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת גייסות השריון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "jqQTqr1gHEI",
-          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-          "ch": "Shir Yafe",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cV-WsBBOwto",
-          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 192,
-      "chrono_n": 113,
-      "canon_score": 75.5,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "cV-WsBBOwto",
-      "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "2:23",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (לחן 1)",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "jqQTqr1gHEI",
-          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-          "ch": "Shir Yafe",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "UeP8K2lXml8",
-          "vtitle": "מה אמרו - סולנית: מיכל פרס",
-          "ch": "Lehakat Geisot Hashirion - Topic",
-          "dur": "3:01",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 193,
-      "chrono_n": 126,
-      "canon_score": 91.2,
-      "acum_v": 21,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "הטיול הגדול [ביצוע מקורי] (1963)",
-      "raw_title": "הטיול הגדול",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1963",
-      "rec_year": "1963",
-      "song_year": "1963",
-      "year_src": "canonical_album",
-      "decade": "1960s",
-      "vid": "g-477LqGTr4",
-      "vtitle": "הטיול הגדול",
-      "ch": "Release - Topic",
-      "dur": "2:55",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת הנח\"ל",
-      "alb": "שמש במדבר (להקת הנח\"ל) (#7)",
-      "alb_group": "שמש במדבר (להקת הנח\"ל)",
-      "alb_trk": 7,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042080205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4683"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1010694",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010694"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Po8BzNZK6nc",
-          "vtitle": "שיר עד - הטיול הגדול - מילים ולחן: נעמי שמר | ביצוע: להקת הנח\"ל, 1963 - Nahal Variety Group",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "3:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "VAR7BSSWmpw",
-          "vtitle": "שיר ישראלי - רון בכר - הטיול הגדול  - להקת הנח\"ל  מילים ולחן: נעמי שמר",
-          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "dur": "3:26",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "z-dJVu6Es6M",
-          "vtitle": "מיקי קם - הטיול הגדול",
-          "ch": "Eyatn",
-          "dur": "3:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "rh0oGPJbf5M",
-          "vtitle": "החתול שמיל עם נעמי שמר - הטיול הגדול",
-          "ch": "סימה",
-          "dur": "3:42",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 194,
-      "chrono_n": 133,
-      "canon_score": 91.2,
-      "acum_v": 21,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "הטיול הגדול [ביצוע נעמי שמר] (1963)",
-      "raw_title": "הטיול הגדול",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1963",
-      "rec_year": "1963",
-      "song_year": "1963",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "rh0oGPJbf5M",
-      "vtitle": "החתול שמיל עם נעמי שמר - הטיול הגדול",
-      "ch": "סימה",
-      "dur": "3:42",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "יצאנו בבקר אלול לצעוד ארבעים קילומטר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042080205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4683"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1010694",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010694"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Po8BzNZK6nc",
-          "vtitle": "שיר עד - הטיול הגדול - מילים ולחן: נעמי שמר | ביצוע: להקת הנח\"ל, 1963 - Nahal Variety Group",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "3:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "VAR7BSSWmpw",
-          "vtitle": "שיר ישראלי - רון בכר - הטיול הגדול  - להקת הנח\"ל  מילים ולחן: נעמי שמר",
-          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "dur": "3:26",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "z-dJVu6Es6M",
-          "vtitle": "מיקי קם - הטיול הגדול",
-          "ch": "Eyatn",
-          "dur": "3:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "g-477LqGTr4",
-          "vtitle": "הטיול הגדול",
-          "ch": "Release - Topic",
-          "dur": "2:55",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 195,
-      "chrono_n": 125,
-      "canon_score": 81.9,
-      "acum_v": 13,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "עוד לא אכלנו (1963)",
-      "raw_title": "עוד לא אכלנו",
-      "alt_titles": [
-        "שיר האוכל"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1963",
-      "rec_year": "1963",
-      "song_year": "1963",
-      "year_src": "canonical_album",
-      "decade": "1960s",
-      "vid": "CMhfrA5uDjE",
-      "vtitle": "עוד לא אכלנו",
-      "ch": "Release - Topic",
-      "dur": "2:57",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת הנח\"ל",
-      "alb": "שמש במדבר (להקת הנח\"ל) (#6)",
-      "alb_group": "שמש במדבר (להקת הנח\"ל)",
-      "alb_trk": 6,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אמר מי שאמר וטעמיו היו אתו",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042150205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4696"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1032990",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032990"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "0oHBUo9nsMc",
-          "vtitle": "עוד לא אכלנו | להקת הנח\"ל עם אתי עמית | \"שמש במדבר\" משירי נעמי שמר",
-          "ch": "אתי עמית - הערוץ הרשמי",
-          "dur": "3:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "ErnaHqEOZ8Y",
-          "vtitle": "להקת הנח''ל - עוד לא אכלנו [(נעמי שמר) נעמי שמר] - הקלטת-האלבום המקורית, 1963",
-          "ch": "Adi Kadmon",
-          "dur": "3:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "ZUUwM3kBOU8",
-          "vtitle": "להקת הנח\"ל - עוד לא אכלנו שום דבר",
-          "ch": "Guy Alon",
-          "dur": "2:59",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 196,
-      "chrono_n": 135,
-      "canon_score": 106.5,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "זהירות בונים כאן [ביצוע מקורי] (1964)",
-      "raw_title": "זהירות בונים כאן",
-      "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
-      ],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1964",
-      "rec_year": "1964",
-      "song_year": "1964",
-      "year_src": "topic_album",
-      "decade": "1960s",
-      "vid": "0pdyuulvbzo",
-      "vtitle": "זהירות בונים",
-      "ch": "Lehakat Pikud Tsafon - Topic",
-      "dur": "2:49",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת פיקוד הצפון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "OLQITmFP3Xo",
-          "vtitle": "נעמי שמר - זהירות בונים כאן",
-          "ch": "כאן | מוזיקה",
-          "dur": "1:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "aXSNLtcdytU",
-          "vtitle": "זהירות בונים",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "2:11",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "gDx__MbfRP4",
-          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
-          "ch": "קובי אשרת - הערוץ הרשמי ",
-          "dur": "3:01",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 197,
-      "chrono_n": 348,
-      "canon_score": 106.5,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "זהירות בונים כאן [ביצוע נעמי שמר] (1973)",
-      "raw_title": "זהירות בונים כאן",
-      "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1973",
-      "rec_year": "1973",
-      "song_year": "1964",
-      "year_src": "archive_desc",
-      "decade": "1970s",
-      "vid": "OLQITmFP3Xo",
-      "vtitle": "נעמי שמר - זהירות בונים כאן",
-      "ch": "כאן | מוזיקה",
-      "dur": "1:23",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "0pdyuulvbzo",
-          "vtitle": "זהירות בונים",
-          "ch": "Lehakat Pikud Tsafon - Topic",
-          "dur": "2:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "aXSNLtcdytU",
-          "vtitle": "זהירות בונים",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "2:11",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "gDx__MbfRP4",
-          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
-          "ch": "קובי אשרת - הערוץ הרשמי ",
-          "dur": "3:01",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 198,
-      "chrono_n": 146,
-      "canon_score": 59.1,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "לכבודך [ביצוע מקורי] (1964)",
-      "raw_title": "לכבודך",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1964",
-      "rec_year": "1964",
-      "song_year": "1964",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "UtixqreayIo",
-      "vtitle": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
-      "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-      "dur": "3:06",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שלישיית גשר הירקון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "הוא אמר צבעתי בשלכת את העיר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042350205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4755"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1020790",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "eGrPQv3g9ps",
-          "vtitle": "נעמי שמר - לכבודך",
-          "ch": "נעמי שמר - Topic",
-          "dur": "2:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "B7iAxPEf2Gk",
-          "vtitle": "לכבודך",
-          "ch": "חיה קורן",
-          "dur": "2:44",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7VNoK5e4kDQ",
-          "vtitle": "לכבודך - נעמי שמר (1968)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "2:52",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 199,
-      "chrono_n": 212,
-      "canon_score": 59.1,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "לכבודך [ביצוע נעמי שמר] (1967)",
-      "raw_title": "לכבודך",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1967",
-      "rec_year": "1967",
-      "song_year": "1964",
-      "year_src": "canonical_album",
-      "decade": "1960s",
-      "vid": "eGrPQv3g9ps",
-      "vtitle": "נעמי שמר - לכבודך",
-      "ch": "נעמי שמר - Topic",
-      "dur": "2:52",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "נעמי שמר שרה נעמי שמר (ירושלים של זהב) (#8)",
-      "alb_group": "נעמי שמר שרה נעמי שמר (ירושלים של זהב)",
-      "alb_trk": 8,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "הוא אמר צבעתי בשלכת את העיר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042350205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4755"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1020790",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "UtixqreayIo",
-          "vtitle": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
-          "ch": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "dur": "3:06",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "B7iAxPEf2Gk",
-          "vtitle": "לכבודך",
-          "ch": "חיה קורן",
-          "dur": "2:44",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7VNoK5e4kDQ",
-          "vtitle": "לכבודך - נעמי שמר (1968)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "2:52",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 200,
-      "chrono_n": 168,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
-      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1965)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1965",
-      "rec_year": "1965",
-      "song_year": "1965",
-      "year_src": "manual_verified",
-      "decade": "1960s",
-      "vid": "vbG5B1wswQc",
-      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
-      "ch": "דוד אסף",
-      "dur": "3:40",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון בר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "s8KBMzwFJmA",
-          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:41",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "nugnCFc2e54",
-          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "4:00",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
       "n": 201,
       "chrono_n": 194,
       "canon_score": 32.8,
@@ -16410,7 +16410,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "הללויה (1966)",
       "raw_title": "הללויה",
       "alt_titles": [],
@@ -16462,7 +16462,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "חליל מקנה-סוף [ביצוע נעמי שמר] (1973)",
       "raw_title": "חליל מקנה-סוף",
       "alt_titles": [
@@ -16554,7 +16554,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "כל הדרך חזרה (1967)",
       "raw_title": "כל הדרך חזרה",
       "alt_titles": [],
@@ -16621,7 +16621,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "עקידת יצחק [ביצוע מקורי] (1967)",
       "raw_title": "עקידת יצחק",
       "alt_titles": [
@@ -16704,7 +16704,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "אל תשאלו אותי [ביצוע מקורי] (1967)",
       "raw_title": "אל תשאלו אותי",
       "alt_titles": [],
@@ -16778,7 +16778,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "מתי [ביצוע מקורי] (1968)",
       "raw_title": "מתי",
       "alt_titles": [
@@ -16861,7 +16861,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "ch_lbl": "פרק 4: שלהי שנות ה־60 — האחיות שמר ואלבום הסולו הראשון (1966–1968)",
       "title": "מתי [ביצוע נעמי שמר] (1968)",
       "raw_title": "מתי",
       "alt_titles": [
@@ -16944,7 +16944,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "עוד חוזר הניגון [ביצוע מקורי] (1970)",
       "raw_title": "עוד חוזר הניגון",
       "alt_titles": [
@@ -17016,7 +17016,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "בתכול השמים (1970)",
       "raw_title": "בתכול השמים",
       "alt_titles": [
@@ -17079,7 +17079,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "האם השלישית (1970)",
       "raw_title": "האם השלישית",
       "alt_titles": [],
@@ -17153,7 +17153,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "אסוני הצעיר (1971)",
       "raw_title": "אסוני הצעיר",
       "alt_titles": [],
@@ -17213,7 +17213,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "אין ויש (1972)",
       "raw_title": "אין ויש",
       "alt_titles": [],
@@ -17287,7 +17287,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "שש עשרה (1972)",
       "raw_title": "שש עשרה",
       "alt_titles": [],
@@ -17361,7 +17361,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "בארץ להד\"ם [ביצוע מקורי] (1972)",
       "raw_title": "בארץ להד\"ם",
       "alt_titles": [
@@ -17431,7 +17431,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "אנשים יפים [ביצוע מקורי] (1972)",
       "raw_title": "אנשים יפים",
       "alt_titles": [],
@@ -17498,7 +17498,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "ברברה [ביצוע מקורי] (1972)",
       "raw_title": "ברברה",
       "alt_titles": [],
@@ -17572,7 +17572,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "ברברה [ביצוע נעמי שמר] (1981)",
       "raw_title": "ברברה",
       "alt_titles": [],
@@ -17646,7 +17646,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "שיר ערש למקרים מיוחדים [ביצוע: רבקה מיכאלי] (1990)",
       "raw_title": "שיר ערש למקרים מיוחדים",
       "alt_titles": [
@@ -17716,7 +17716,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "החטא השביעי (1973)",
       "raw_title": "החטא השביעי",
       "alt_titles": [
@@ -17792,7 +17792,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "ch_lbl": "פרק 5: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "שיר נולד [ביצוע מקורי] (1974)",
       "raw_title": "שיר נולד",
       "alt_titles": [
@@ -17868,7 +17868,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "לאיש חסדי (1974)",
       "raw_title": "לאיש חסדי",
       "alt_titles": [
@@ -17937,7 +17937,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "נשים נשים (1974)",
       "raw_title": "נשים נשים",
       "alt_titles": [],
@@ -18011,7 +18011,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "אין אהבות שמחות (1974)",
       "raw_title": "אין אהבות שמחות",
       "alt_titles": [
@@ -18080,7 +18080,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "לא אבקש את ידך (1974)",
       "raw_title": "לא אבקש את ידך",
       "alt_titles": [
@@ -18158,7 +18158,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "הצוואה (1974)",
       "raw_title": "הצוואה",
       "alt_titles": [
@@ -18235,7 +18235,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
+      "ch_lbl": "פרק 6: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "מרגו (1974)",
       "raw_title": "מרגו",
       "alt_titles": [
@@ -18311,7 +18311,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "גדי קטן [ביצוע מקורי] (1973)",
       "raw_title": "גדי קטן",
       "alt_titles": [
@@ -18388,7 +18388,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "נגיד [ביצוע מקורי] (1975)",
       "raw_title": "נגיד",
       "alt_titles": [],
@@ -18476,7 +18476,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "שיר הכזבים [ביצוע מקורי] (1975)",
       "raw_title": "שיר הכזבים",
       "alt_titles": [
@@ -18538,7 +18538,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "לנוע ולנדוד [ביצוע מקורי] (1975)",
       "raw_title": "לנוע ולנדוד",
       "alt_titles": [],
@@ -18612,7 +18612,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "משנכנס אדר [ביצוע מקורי] (1975)",
       "raw_title": "משנכנס אדר",
       "alt_titles": [
@@ -18681,7 +18681,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "נצא השדה [ביצוע מקורי] (1975)",
       "raw_title": "נצא השדה",
       "alt_titles": [
@@ -18758,7 +18758,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "נר ראשון של חנוכה [ביצוע מקורי] (1977)",
       "raw_title": "נר ראשון של חנוכה",
       "alt_titles": [
@@ -18850,7 +18850,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "בזכותם (1976)",
       "raw_title": "בזכותם",
       "alt_titles": [
@@ -18930,7 +18930,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "שיר לכת (1976)",
       "raw_title": "שיר לכת",
       "alt_titles": [
@@ -18984,7 +18984,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "בעלייתי שם יפתי (1977)",
       "raw_title": "בעלייתי שם יפתי",
       "alt_titles": [
@@ -19054,7 +19054,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "כריש (1978)",
       "raw_title": "כריש",
       "alt_titles": [
@@ -19132,7 +19132,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "ch_lbl": "פרק 7: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "למה צחקה מיכל (2005)",
       "raw_title": "למה צחקה מיכל",
       "alt_titles": [],
@@ -19192,7 +19192,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "תן כתף [ביצוע מקורי] (1981)",
       "raw_title": "תן כתף",
       "alt_titles": [
@@ -19275,7 +19275,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "תן כתף [ביצוע נעמי שמר] (1981)",
       "raw_title": "תן כתף",
       "alt_titles": [
@@ -19358,7 +19358,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "את הכי הכי [ביצוע מקורי] (1981)",
       "raw_title": "את הכי הכי",
       "alt_titles": [],
@@ -19425,7 +19425,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "יפעת [ביצוע מקורי] (1982)",
       "raw_title": "יפעת",
       "alt_titles": [],
@@ -19499,7 +19499,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "פרדס חנה בשבת (1983)",
       "raw_title": "פרדס חנה בשבת",
       "alt_titles": [],
@@ -19559,7 +19559,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "אל תלכי מכאן (1984)",
       "raw_title": "אל תלכי מכאן",
       "alt_titles": [
@@ -19640,7 +19640,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "התחדשות אחרת (1985)",
       "raw_title": "התחדשות אחרת",
       "alt_titles": [],
@@ -19714,7 +19714,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "לאורך הטיילת (1985)",
       "raw_title": "לאורך הטיילת",
       "alt_titles": [
@@ -19769,7 +19769,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "ch_lbl": "פרק 8: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "ליבבתיני (1986)",
       "raw_title": "ליבבתיני",
       "alt_titles": [
@@ -19838,7 +19838,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "גג (1987)",
       "raw_title": "גג",
       "alt_titles": [],
@@ -19898,7 +19898,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "ילדה ברבור (1987)",
       "raw_title": "ילדה ברבור",
       "alt_titles": [
@@ -19974,7 +19974,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "פרלוד (1987)",
       "raw_title": "פרלוד",
       "alt_titles": [
@@ -20028,7 +20028,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "אהבת אשתקד [ביצוע מקורי] (1987)",
       "raw_title": "אהבת אשתקד",
       "alt_titles": [],
@@ -20088,7 +20088,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "תות (1987)",
       "raw_title": "תות",
       "alt_titles": [
@@ -20157,7 +20157,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "גיא [ביצוע מקורי] (1987)",
       "raw_title": "גיא",
       "alt_titles": [],
@@ -20231,7 +20231,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "חפצים אישיים (1987)",
       "raw_title": "חפצים אישיים",
       "alt_titles": [
@@ -20300,7 +20300,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "בראשון לספטמבר (1987)",
       "raw_title": "בראשון לספטמבר",
       "alt_titles": [],
@@ -20374,7 +20374,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "ch_lbl": "פרק 9: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
       "title": "עלי שלכת (1989)",
       "raw_title": "עלי שלכת",
       "alt_titles": [],
@@ -20441,7 +20441,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "אחר קציר (1988)",
       "raw_title": "אחר קציר",
       "alt_titles": [],
@@ -20515,7 +20515,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "על ראש שמחתי (1988)",
       "raw_title": "על ראש שמחתי",
       "alt_titles": [],
@@ -20589,7 +20589,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "ילד רע תל אביב (1988)",
       "raw_title": "ילד רע תל אביב",
       "alt_titles": [
@@ -20643,7 +20643,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "עוד מעט מסך (1989)",
       "raw_title": "עוד מעט מסך",
       "alt_titles": [
@@ -20698,7 +20698,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "אישה על החוף (1989)",
       "raw_title": "אישה על החוף",
       "alt_titles": [
@@ -20774,7 +20774,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "מוזיקה (1989)",
       "raw_title": "מוזיקה",
       "alt_titles": [
@@ -20836,7 +20836,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "בניך מרחוק (1990)",
       "raw_title": "בניך מרחוק",
       "alt_titles": [
@@ -20914,7 +20914,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "למבדה על החוף (1990)",
       "raw_title": "למבדה על החוף",
       "alt_titles": [
@@ -20969,7 +20969,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "והוא יושיענו [ביצוע מקורי] (1991)",
       "raw_title": "והוא יושיענו",
       "alt_titles": [
@@ -21059,7 +21059,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "לחם האוהבים (1991)",
       "raw_title": "לחם האוהבים",
       "alt_titles": [
@@ -21137,7 +21137,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "אקטואליה [ביצוע נעמי שמר] (2000)",
       "raw_title": "אקטואליה",
       "alt_titles": [
@@ -21214,7 +21214,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "עיר ואם (1992)",
       "raw_title": "עיר ואם",
       "alt_titles": [],
@@ -21288,7 +21288,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "שנה טובה [ביצוע מקורי] (1992)",
       "raw_title": "שנה טובה",
       "alt_titles": [],
@@ -21362,7 +21362,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "מי ידליק [ביצוע מקורי] (1998)",
       "raw_title": "מי ידליק",
       "alt_titles": [
@@ -21447,7 +21447,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "יובל [ביצוע מקורי] (1998)",
       "raw_title": "יובל",
       "alt_titles": [],
@@ -21521,7 +21521,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "המנגן (2001)",
       "raw_title": "המנגן",
       "alt_titles": [
@@ -21576,7 +21576,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "ch_lbl": "פרק 10: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "המעיל [ביצוע מקורי] (2002)",
       "raw_title": "המעיל",
       "alt_titles": [
@@ -46892,6 +46892,529 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 638,
+      "chrono_n": 52,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע: להקת פיקוד המרכז] (1958)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 3,
+      "ver_total": 5,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "Pxm7UgJ1JiE",
+      "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+      "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+      "dur": "3:39",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "להקת פיקוד המרכז",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 639,
+      "chrono_n": 65,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע: שמעון בר] (1959)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 4,
+      "ver_total": 5,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "qblckfTw1Rk",
+      "vtitle": "שמעון בר - יום ח' בשבוע (1959)",
+      "ch": "אוצר הזמר העברי",
+      "dur": "4:12",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון בר",
+      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
+      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 640,
+      "chrono_n": 489,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1981)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 5,
+      "ver_total": 5,
+      "year": "1981",
+      "rec_year": "1981",
+      "song_year": "1958",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "5-8BIb9KyNk",
+      "vtitle": "יום ח' בשבוע",
+      "ch": "נעמי שמר - Topic",
+      "dur": "4:20",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "על הדבש ועל העוקץ (נעמי שמר) (#10)",
+      "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
+      "alb_trk": 10,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 641,
+      "chrono_n": 268,
+      "canon_score": 71.0,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "קפה שחור [ביצוע: חבורת שירו שיר] (1969)",
+      "raw_title": "קפה שחור",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1969",
+      "rec_year": "1969",
+      "song_year": "1959",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "_33ng3euFJI",
+      "vtitle": "חבורת שירו שיר - קפה שחור (1969)",
+      "ch": "Shir ivri",
+      "dur": "2:41",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "חבורת שירו שיר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030703",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Fd_4Rp8_0JE",
+          "vtitle": "שמעון בר -קפה שחור -1966",
+          "ch": "דודי פטימר",
+          "dur": "2:36",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "EZ-UrC1zPds",
+          "vtitle": "קפה שחור - שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:28",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "38jU5bVcNzo",
+          "vtitle": "שמעון בר - קפה שחור",
+          "ch": "Israphon Music (‫ישראפון‬‎)",
+          "dur": "3:04",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 642,
+      "chrono_n": 114,
+      "canon_score": 75.5,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
+      "raw_title": "מה אמרו הציפורים",
+      "alt_titles": [
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "jqQTqr1gHEI",
+      "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+      "ch": "Shir Yafe",
+      "dur": "2:35",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מה אמרו הציפורים הנודדות",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "UeP8K2lXml8",
+          "vtitle": "מה אמרו - סולנית: מיכל פרס",
+          "ch": "Lehakat Geisot Hashirion - Topic",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cV-WsBBOwto",
+          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 643,
+      "chrono_n": 211,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "זהירות בונים כאן [ביצוע: חוה אלברשטיין] (1967)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1967",
+      "rec_year": "1967",
+      "song_year": "1964",
+      "year_src": "manual_verified",
+      "decade": "1960s",
+      "vid": "RoUjcDIWqwc",
+      "vtitle": "זהירות בונים כאן חוה אלברשטיין 1967",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "2:11",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "חוה אלברשטיין",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": []
+    },
+    {
+      "n": 644,
+      "chrono_n": 725,
+      "canon_score": 47.2,
+      "acum_v": 9,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מסעות בנימין מטודלה [ביצוע: אילי גורליצקי] (שיר מ־1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "",
+      "rec_year": "",
+      "song_year": "1965",
+      "year_src": "",
+      "decade": "unknown",
+      "vid": "T9Q-EXevnts",
+      "vtitle": "אילי גורליצקי -  מסעות בנימין מטודלה",
+      "ch": "Guy Alon",
+      "dur": "3:18",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "אילי גורליצקי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "IQBW2N3zcnc",
+          "vtitle": "אילי גורליצקי - מסעות בנימין מטודלה",
+          "ch": "סימה",
+          "dur": "3:08",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 645,
       "chrono_n": 21,
       "canon_score": 92.2,
       "acum_v": 7,
@@ -46971,7 +47494,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 639,
+      "n": 646,
       "chrono_n": 39,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47059,7 +47582,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 640,
+      "n": 647,
       "chrono_n": 157,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47154,7 +47677,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 641,
+      "n": 648,
       "chrono_n": 64,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47233,7 +47756,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 642,
+      "n": 649,
       "chrono_n": 22,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47312,7 +47835,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 643,
+      "n": 650,
       "chrono_n": 139,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -47404,7 +47927,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 644,
+      "n": 651,
       "chrono_n": 243,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -47496,7 +48019,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 645,
+      "n": 652,
       "chrono_n": 176,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -47588,7 +48111,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 646,
+      "n": 653,
       "chrono_n": 242,
       "canon_score": 48.9,
       "acum_v": 7,
@@ -47667,529 +48190,6 @@ window.PLAYLIST_DATA = {
           "ch": "שיר עד - Shir Ad",
           "dur": "3:43",
           "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 647,
-      "chrono_n": 52,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע: להקת פיקוד המרכז] (1958)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 3,
-      "ver_total": 5,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "Pxm7UgJ1JiE",
-      "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-      "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-      "dur": "3:39",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 648,
-      "chrono_n": 65,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע: שמעון בר] (1959)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 4,
-      "ver_total": 5,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "qblckfTw1Rk",
-      "vtitle": "שמעון בר - יום ח' בשבוע (1959)",
-      "ch": "אוצר הזמר העברי",
-      "dur": "4:12",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון בר",
-      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
-      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 649,
-      "chrono_n": 489,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1981)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 5,
-      "ver_total": 5,
-      "year": "1981",
-      "rec_year": "1981",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "5-8BIb9KyNk",
-      "vtitle": "יום ח' בשבוע",
-      "ch": "נעמי שמר - Topic",
-      "dur": "4:20",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "על הדבש ועל העוקץ (נעמי שמר) (#10)",
-      "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
-      "alb_trk": 10,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 650,
-      "chrono_n": 268,
-      "canon_score": 71.0,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "קפה שחור [ביצוע: חבורת שירו שיר] (1969)",
-      "raw_title": "קפה שחור",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1969",
-      "rec_year": "1969",
-      "song_year": "1959",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "_33ng3euFJI",
-      "vtitle": "חבורת שירו שיר - קפה שחור (1969)",
-      "ch": "Shir ivri",
-      "dur": "2:41",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "חבורת שירו שיר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030703",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Fd_4Rp8_0JE",
-          "vtitle": "שמעון בר -קפה שחור -1966",
-          "ch": "דודי פטימר",
-          "dur": "2:36",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "EZ-UrC1zPds",
-          "vtitle": "קפה שחור - שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:28",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "38jU5bVcNzo",
-          "vtitle": "שמעון בר - קפה שחור",
-          "ch": "Israphon Music (‫ישראפון‬‎)",
-          "dur": "3:04",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 651,
-      "chrono_n": 114,
-      "canon_score": 75.5,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "jqQTqr1gHEI",
-      "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-      "ch": "Shir Yafe",
-      "dur": "2:35",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "UeP8K2lXml8",
-          "vtitle": "מה אמרו - סולנית: מיכל פרס",
-          "ch": "Lehakat Geisot Hashirion - Topic",
-          "dur": "3:01",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cV-WsBBOwto",
-          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 652,
-      "chrono_n": 211,
-      "canon_score": 106.5,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "זהירות בונים כאן [ביצוע: חוה אלברשטיין] (1967)",
-      "raw_title": "זהירות בונים כאן",
-      "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1967",
-      "rec_year": "1967",
-      "song_year": "1964",
-      "year_src": "manual_verified",
-      "decade": "1960s",
-      "vid": "RoUjcDIWqwc",
-      "vtitle": "זהירות בונים כאן חוה אלברשטיין 1967",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "2:11",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "חוה אלברשטיין",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
-        }
-      ],
-      "alts": []
-    },
-    {
-      "n": 653,
-      "chrono_n": 725,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מסעות בנימין מטודלה [ביצוע: אילי גורליצקי] (שיר מ־1965)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "",
-      "rec_year": "",
-      "song_year": "1965",
-      "year_src": "",
-      "decade": "unknown",
-      "vid": "T9Q-EXevnts",
-      "vtitle": "אילי גורליצקי -  מסעות בנימין מטודלה",
-      "ch": "Guy Alon",
-      "dur": "3:18",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אילי גורליצקי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "IQBW2N3zcnc",
-          "vtitle": "אילי גורליצקי - מסעות בנימין מטודלה",
-          "ch": "סימה",
-          "dur": "3:08",
-          "src": "direct_alternative"
         }
       ]
     },
