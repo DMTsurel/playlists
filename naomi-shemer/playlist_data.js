@@ -16242,6 +16242,55 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 198,
+      "chrono_n": 185,
+      "canon_score": 30.6,
+      "acum_v": 1,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: הצגות ומחזות זמר — \"חמש חמש\", \"שייקספיר איננו\" ו\"המלך ואני\" (1958–1966)",
+      "title": "שלא נהיה ברברים (1966)",
+      "raw_title": "שלא נהיה ברברים",
+      "alt_titles": [
+        "WESTERN PEOPLE FUNN"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1966",
+      "rec_year": "1966",
+      "song_year": "1966",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "e1c2MjdU9T8",
+      "vtitle": "שלא נהיה ברברים",
+      "ch": "Release - Topic",
+      "dur": "1:25",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משתתפי המחזמר המלך ואני",
+      "alb": "המלך ואני (הפקת גיורא גודיק) (#9)",
+      "alb_group": "המלך ואני (הפקת גיורא גודיק)",
+      "alb_trk": 9,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: ריצ'רד רוג'רס)",
+      "co_creators": "מקור: ריצ'רד רוג'רס",
+      "opening_line": "",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990033736900205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #2326683",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2326683"
+        }
+      ],
+      "alts": []
+    },
+    {
+      "n": 199,
       "chrono_n": 186,
       "canon_score": 36.7,
       "acum_v": 1,
@@ -16293,7 +16342,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 199,
+      "n": 200,
       "chrono_n": 187,
       "canon_score": 37.0,
       "acum_v": 1,
@@ -16348,7 +16397,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 200,
+      "n": 201,
       "chrono_n": 188,
       "canon_score": 38.1,
       "acum_v": 1,
@@ -16403,7 +16452,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 201,
+      "n": 202,
       "chrono_n": 194,
       "canon_score": 32.8,
       "acum_v": 18,
@@ -16455,7 +16504,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 202,
+      "n": 203,
       "chrono_n": 349,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -16547,7 +16596,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 203,
+      "n": 204,
       "chrono_n": 233,
       "canon_score": 98.9,
       "acum_v": 1,
@@ -16614,7 +16663,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 204,
+      "n": 205,
       "chrono_n": 223,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -16697,7 +16746,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 205,
+      "n": 206,
       "chrono_n": 221,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -16771,7 +16820,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 206,
+      "n": 207,
       "chrono_n": 258,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -16854,7 +16903,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 207,
+      "n": 208,
       "chrono_n": 259,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -16937,7 +16986,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 208,
+      "n": 209,
       "chrono_n": 287,
       "canon_score": 126.7,
       "acum_v": 5,
@@ -17009,7 +17058,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 209,
+      "n": 210,
       "chrono_n": 285,
       "canon_score": 97.5,
       "acum_v": 4,
@@ -17072,7 +17121,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 210,
+      "n": 211,
       "chrono_n": 286,
       "canon_score": 116.5,
       "acum_v": 3,
@@ -17146,7 +17195,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 211,
+      "n": 212,
       "chrono_n": 300,
       "canon_score": 89.4,
       "acum_v": 3,
@@ -17206,7 +17255,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 212,
+      "n": 213,
       "chrono_n": 324,
       "canon_score": 93.3,
       "acum_v": 9,
@@ -17280,7 +17329,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 213,
+      "n": 214,
       "chrono_n": 326,
       "canon_score": 196.6,
       "acum_v": 11,
@@ -17354,7 +17403,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 214,
+      "n": 215,
       "chrono_n": 328,
       "canon_score": 243.2,
       "acum_v": 50,
@@ -17424,7 +17473,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 215,
+      "n": 216,
       "chrono_n": 330,
       "canon_score": 42.7,
       "acum_v": 5,
@@ -17491,7 +17540,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 216,
+      "n": 217,
       "chrono_n": 342,
       "canon_score": 47.3,
       "acum_v": 1,
@@ -17565,7 +17614,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 217,
+      "n": 218,
       "chrono_n": 492,
       "canon_score": 47.3,
       "acum_v": 1,
@@ -17639,7 +17688,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 218,
+      "n": 219,
       "chrono_n": 602,
       "canon_score": 101.7,
       "acum_v": 6,
@@ -17709,7 +17758,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 219,
+      "n": 220,
       "chrono_n": 351,
       "canon_score": 126.1,
       "acum_v": 12,
@@ -17785,7 +17834,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 220,
+      "n": 221,
       "chrono_n": 362,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -17861,7 +17910,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 221,
+      "n": 222,
       "chrono_n": 371,
       "canon_score": 79.2,
       "acum_v": 1,
@@ -17930,7 +17979,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 222,
+      "n": 223,
       "chrono_n": 370,
       "canon_score": 27.3,
       "acum_v": 1,
@@ -18004,7 +18053,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 223,
+      "n": 224,
       "chrono_n": 363,
       "canon_score": 39.0,
       "acum_v": 2,
@@ -18073,7 +18122,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 224,
+      "n": 225,
       "chrono_n": 364,
       "canon_score": 28.9,
       "acum_v": 1,
@@ -18151,7 +18200,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 225,
+      "n": 226,
       "chrono_n": 365,
       "canon_score": 34.8,
       "acum_v": 1,
@@ -18228,7 +18277,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 226,
+      "n": 227,
       "chrono_n": 369,
       "canon_score": 29.3,
       "acum_v": 1,
@@ -18304,7 +18353,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 227,
+      "n": 228,
       "chrono_n": 358,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -18381,7 +18430,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 228,
+      "n": 229,
       "chrono_n": 391,
       "canon_score": 212.9,
       "acum_v": 17,
@@ -18469,7 +18518,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 229,
+      "n": 230,
       "chrono_n": 398,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -18531,7 +18580,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 230,
+      "n": 231,
       "chrono_n": 394,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -18605,7 +18654,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 231,
+      "n": 232,
       "chrono_n": 390,
       "canon_score": 76.5,
       "acum_v": 16,
@@ -18674,7 +18723,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 232,
+      "n": 233,
       "chrono_n": 392,
       "canon_score": 108.2,
       "acum_v": 8,
@@ -18751,7 +18800,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 233,
+      "n": 234,
       "chrono_n": 453,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -18843,7 +18892,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 234,
+      "n": 235,
       "chrono_n": 426,
       "canon_score": 51.0,
       "acum_v": 7,
@@ -18923,7 +18972,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 235,
+      "n": 236,
       "chrono_n": 410,
       "canon_score": 37.3,
       "acum_v": 3,
@@ -18977,7 +19026,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 236,
+      "n": 237,
       "chrono_n": 450,
       "canon_score": 143.6,
       "acum_v": 14,
@@ -19047,7 +19096,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 237,
+      "n": 238,
       "chrono_n": 469,
       "canon_score": 25.5,
       "acum_v": 3,
@@ -19125,7 +19174,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 238,
+      "n": 239,
       "chrono_n": 680,
       "canon_score": 107.6,
       "acum_v": 22,
@@ -19185,7 +19234,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 239,
+      "n": 240,
       "chrono_n": 511,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -19268,7 +19317,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 240,
+      "n": 241,
       "chrono_n": 512,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -19351,7 +19400,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 241,
+      "n": 242,
       "chrono_n": 506,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -19418,7 +19467,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 242,
+      "n": 243,
       "chrono_n": 523,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -19492,7 +19541,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 243,
+      "n": 244,
       "chrono_n": 532,
       "canon_score": 79.0,
       "acum_v": 4,
@@ -19552,7 +19601,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 244,
+      "n": 245,
       "chrono_n": 538,
       "canon_score": 108.0,
       "acum_v": 3,
@@ -19633,7 +19682,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 245,
+      "n": 246,
       "chrono_n": 547,
       "canon_score": 133.8,
       "acum_v": 11,
@@ -19707,7 +19756,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 246,
+      "n": 247,
       "chrono_n": 548,
       "canon_score": 88.8,
       "acum_v": 4,
@@ -19762,7 +19811,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 247,
+      "n": 248,
       "chrono_n": 554,
       "canon_score": 82.5,
       "acum_v": 3,
@@ -19831,7 +19880,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 248,
+      "n": 249,
       "chrono_n": 560,
       "canon_score": 96.5,
       "acum_v": 4,
@@ -19891,7 +19940,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 249,
+      "n": 250,
       "chrono_n": 561,
       "canon_score": 93.0,
       "acum_v": 5,
@@ -19967,7 +20016,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 250,
+      "n": 251,
       "chrono_n": 562,
       "canon_score": 39.4,
       "acum_v": 4,
@@ -20021,7 +20070,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 251,
+      "n": 252,
       "chrono_n": 563,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -20081,7 +20130,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 252,
+      "n": 253,
       "chrono_n": 564,
       "canon_score": 176.0,
       "acum_v": 12,
@@ -20150,7 +20199,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 253,
+      "n": 254,
       "chrono_n": 567,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -20224,7 +20273,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 254,
+      "n": 255,
       "chrono_n": 568,
       "canon_score": 87.6,
       "acum_v": 2,
@@ -20293,7 +20342,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 255,
+      "n": 256,
       "chrono_n": 569,
       "canon_score": 153.5,
       "acum_v": 6,
@@ -20367,7 +20416,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 256,
+      "n": 257,
       "chrono_n": 601,
       "canon_score": 25.1,
       "acum_v": 1,
@@ -20434,7 +20483,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 257,
+      "n": 258,
       "chrono_n": 587,
       "canon_score": 44.1,
       "acum_v": 3,
@@ -20508,7 +20557,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 258,
+      "n": 259,
       "chrono_n": 592,
       "canon_score": 137.7,
       "acum_v": 13,
@@ -20582,7 +20631,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 259,
+      "n": 260,
       "chrono_n": 591,
       "canon_score": 24.0,
       "acum_v": 2,
@@ -20636,7 +20685,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 260,
+      "n": 261,
       "chrono_n": 600,
       "canon_score": 83.9,
       "acum_v": 3,
@@ -20691,7 +20740,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 261,
+      "n": 262,
       "chrono_n": 597,
       "canon_score": 27.9,
       "acum_v": 1,
@@ -20767,7 +20816,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 262,
+      "n": 263,
       "chrono_n": 596,
       "canon_score": 32.4,
       "acum_v": 1,
@@ -20829,7 +20878,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 263,
+      "n": 264,
       "chrono_n": 604,
       "canon_score": 53.8,
       "acum_v": 12,
@@ -20907,7 +20956,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 264,
+      "n": 265,
       "chrono_n": 607,
       "canon_score": 46.0,
       "acum_v": 46,
@@ -20962,7 +21011,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 265,
+      "n": 266,
       "chrono_n": 612,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -21052,7 +21101,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 266,
+      "n": 267,
       "chrono_n": 614,
       "canon_score": 151.4,
       "acum_v": 13,
@@ -21130,7 +21179,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 267,
+      "n": 268,
       "chrono_n": 665,
       "canon_score": 181.5,
       "acum_v": 14,
@@ -21207,7 +21256,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 268,
+      "n": 269,
       "chrono_n": 624,
       "canon_score": 124.1,
       "acum_v": 11,
@@ -21281,7 +21330,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 269,
+      "n": 270,
       "chrono_n": 622,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -21355,7 +21404,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 270,
+      "n": 271,
       "chrono_n": 662,
       "canon_score": 104.2,
       "acum_v": 11,
@@ -21440,7 +21489,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 271,
+      "n": 272,
       "chrono_n": 660,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -21514,7 +21563,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 272,
+      "n": 273,
       "chrono_n": 669,
       "canon_score": 144.0,
       "acum_v": 7,
@@ -21569,7 +21618,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 273,
+      "n": 274,
       "chrono_n": 672,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -21645,7 +21694,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 274,
+      "n": 275,
       "chrono_n": 1,
       "canon_score": 22.9,
       "acum_v": 2,
@@ -21712,7 +21761,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 275,
+      "n": 276,
       "chrono_n": 2,
       "canon_score": 17.7,
       "acum_v": 2,
@@ -21769,7 +21818,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 276,
+      "n": 277,
       "chrono_n": 4,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -21811,7 +21860,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 277,
+      "n": 278,
       "chrono_n": 5,
       "canon_score": 18.7,
       "acum_v": 1,
@@ -21864,7 +21913,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 278,
+      "n": 279,
       "chrono_n": 8,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -21928,7 +21977,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 279,
+      "n": 280,
       "chrono_n": 6,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -21970,7 +22019,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 280,
+      "n": 281,
       "chrono_n": 9,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -22017,7 +22066,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 281,
+      "n": 282,
       "chrono_n": 12,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -22061,7 +22110,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 282,
+      "n": 283,
       "chrono_n": 11,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -22103,7 +22152,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 283,
+      "n": 284,
       "chrono_n": 16,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -22190,7 +22239,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 284,
+      "n": 285,
       "chrono_n": 18,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -22277,7 +22326,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 285,
+      "n": 286,
       "chrono_n": 55,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -22344,7 +22393,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 286,
+      "n": 287,
       "chrono_n": 56,
       "canon_score": 20.6,
       "acum_v": 1,
@@ -22402,7 +22451,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 287,
+      "n": 288,
       "chrono_n": 25,
       "canon_score": 18.5,
       "acum_v": 3,
@@ -22449,7 +22498,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 288,
+      "n": 289,
       "chrono_n": 35,
       "canon_score": 28.6,
       "acum_v": 5,
@@ -22504,7 +22553,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 289,
+      "n": 290,
       "chrono_n": 26,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -22561,7 +22610,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 290,
+      "n": 291,
       "chrono_n": 49,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -22620,7 +22669,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 291,
+      "n": 292,
       "chrono_n": 53,
       "canon_score": 14.6,
       "acum_v": 1,
@@ -22682,7 +22731,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 292,
+      "n": 293,
       "chrono_n": 24,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -22729,7 +22778,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 293,
+      "n": 294,
       "chrono_n": 44,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -22771,7 +22820,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 294,
+      "n": 295,
       "chrono_n": 45,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -22816,7 +22865,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 295,
+      "n": 296,
       "chrono_n": 40,
       "canon_score": 20.3,
       "acum_v": 1,
@@ -22868,7 +22917,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 296,
+      "n": 297,
       "chrono_n": 42,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -22913,7 +22962,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 297,
+      "n": 298,
       "chrono_n": 48,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -22957,7 +23006,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 298,
+      "n": 299,
       "chrono_n": 41,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -22999,7 +23048,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 299,
+      "n": 300,
       "chrono_n": 43,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -23043,7 +23092,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 300,
+      "n": 301,
       "chrono_n": 28,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -23088,7 +23137,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 301,
+      "n": 302,
       "chrono_n": 77,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -23157,7 +23206,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 302,
+      "n": 303,
       "chrono_n": 78,
       "canon_score": 38.9,
       "acum_v": 1,
@@ -23212,7 +23261,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 303,
+      "n": 304,
       "chrono_n": 96,
       "canon_score": 20.9,
       "acum_v": 5,
@@ -23271,7 +23320,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 304,
+      "n": 305,
       "chrono_n": 89,
       "canon_score": 35.4,
       "acum_v": 2,
@@ -23335,7 +23384,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 305,
+      "n": 306,
       "chrono_n": 93,
       "canon_score": 19.6,
       "acum_v": 2,
@@ -23392,7 +23441,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 306,
+      "n": 307,
       "chrono_n": 94,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -23439,7 +23488,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 307,
+      "n": 308,
       "chrono_n": 90,
       "canon_score": 20.3,
       "acum_v": 1,
@@ -23488,7 +23537,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 308,
+      "n": 309,
       "chrono_n": 95,
       "canon_score": 26.3,
       "acum_v": 1,
@@ -23537,7 +23586,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 309,
+      "n": 310,
       "chrono_n": 106,
       "canon_score": 28.1,
       "acum_v": 1,
@@ -23599,7 +23648,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 310,
+      "n": 311,
       "chrono_n": 105,
       "canon_score": 8.1,
       "acum_v": 1,
@@ -23643,7 +23692,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 311,
+      "n": 312,
       "chrono_n": 104,
       "canon_score": 8.1,
       "acum_v": 1,
@@ -23687,7 +23736,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 312,
+      "n": 313,
       "chrono_n": 124,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -23765,7 +23814,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 313,
+      "n": 314,
       "chrono_n": 130,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -23843,7 +23892,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 314,
+      "n": 315,
       "chrono_n": 120,
       "canon_score": 15.0,
       "acum_v": 1,
@@ -23914,7 +23963,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 315,
+      "n": 316,
       "chrono_n": 121,
       "canon_score": 14.6,
       "acum_v": 1,
@@ -23971,7 +24020,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 316,
+      "n": 317,
       "chrono_n": 122,
       "canon_score": 14.6,
       "acum_v": 1,
@@ -24028,7 +24077,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 317,
+      "n": 318,
       "chrono_n": 131,
       "canon_score": 12.9,
       "acum_v": 1,
@@ -24078,7 +24127,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 318,
+      "n": 319,
       "chrono_n": 123,
       "canon_score": 14.3,
       "acum_v": 1,
@@ -24127,7 +24176,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 319,
+      "n": 320,
       "chrono_n": 129,
       "canon_score": 14.2,
       "acum_v": 1,
@@ -24174,7 +24223,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 320,
+      "n": 321,
       "chrono_n": 140,
       "canon_score": 44.6,
       "acum_v": 7,
@@ -24260,7 +24309,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 321,
+      "n": 322,
       "chrono_n": 137,
       "canon_score": 42.4,
       "acum_v": 2,
@@ -24343,7 +24392,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 322,
+      "n": 323,
       "chrono_n": 173,
       "canon_score": 42.4,
       "acum_v": 2,
@@ -24426,7 +24475,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 323,
+      "n": 324,
       "chrono_n": 151,
       "canon_score": 33.6,
       "acum_v": 4,
@@ -24488,7 +24537,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 324,
+      "n": 325,
       "chrono_n": 144,
       "canon_score": 10.7,
       "acum_v": 2,
@@ -24530,7 +24579,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 325,
+      "n": 326,
       "chrono_n": 148,
       "canon_score": 8.4,
       "acum_v": 1,
@@ -24580,7 +24629,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 326,
+      "n": 327,
       "chrono_n": 142,
       "canon_score": 20.5,
       "acum_v": 1,
@@ -24638,7 +24687,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 327,
+      "n": 328,
       "chrono_n": 175,
       "canon_score": 20.5,
       "acum_v": 1,
@@ -24696,7 +24745,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 328,
+      "n": 329,
       "chrono_n": 145,
       "canon_score": 8.3,
       "acum_v": 1,
@@ -24738,7 +24787,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 329,
+      "n": 330,
       "chrono_n": 147,
       "canon_score": 14.2,
       "acum_v": 1,
@@ -24787,7 +24836,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 330,
+      "n": 331,
       "chrono_n": 166,
       "canon_score": 104.2,
       "acum_v": 9,
@@ -24864,7 +24913,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 331,
+      "n": 332,
       "chrono_n": 164,
       "canon_score": 22.8,
       "acum_v": 1,
@@ -24919,7 +24968,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 332,
+      "n": 333,
       "chrono_n": 167,
       "canon_score": 22.7,
       "acum_v": 2,
@@ -24979,7 +25028,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 333,
+      "n": 334,
       "chrono_n": 162,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -25037,7 +25086,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 334,
+      "n": 335,
       "chrono_n": 161,
       "canon_score": 16.7,
       "acum_v": 2,
@@ -25115,7 +25164,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 335,
+      "n": 336,
       "chrono_n": 163,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -25157,7 +25206,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 336,
+      "n": 337,
       "chrono_n": 165,
       "canon_score": 14.0,
       "acum_v": 1,
@@ -25215,7 +25264,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 337,
+      "n": 338,
       "chrono_n": 193,
       "canon_score": 13.3,
       "acum_v": 1,
@@ -25264,7 +25313,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 338,
+      "n": 339,
       "chrono_n": 201,
       "canon_score": 19.3,
       "acum_v": 1,
@@ -25311,7 +25360,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 339,
+      "n": 340,
       "chrono_n": 195,
       "canon_score": 6.3,
       "acum_v": 0,
@@ -25353,7 +25402,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 340,
+      "n": 341,
       "chrono_n": 192,
       "canon_score": 20.6,
       "acum_v": 1,
@@ -25413,7 +25462,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 341,
+      "n": 342,
       "chrono_n": 198,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -25453,55 +25502,6 @@ window.PLAYLIST_DATA = {
           "source": "nli",
           "label": "הספרייה הלאומית (עוד חוזר הניגון מס' 56 א')",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL997011900165005171/NLI"
-        }
-      ],
-      "alts": []
-    },
-    {
-      "n": 342,
-      "chrono_n": 185,
-      "canon_score": 30.6,
-      "acum_v": 1,
-      "layer": 3,
-      "layer_label": "שכבה ג': פנינים נדירות וארכיון",
-      "blk": "p3",
-      "ch_lbl": "",
-      "title": "שלא נהיה ברברים (1966)",
-      "raw_title": "שלא נהיה ברברים",
-      "alt_titles": [
-        "WESTERN PEOPLE FUNN"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1966",
-      "rec_year": "1966",
-      "song_year": "1966",
-      "year_src": "canonical_album",
-      "decade": "1960s",
-      "vid": "e1c2MjdU9T8",
-      "vtitle": "שלא נהיה ברברים",
-      "ch": "Release - Topic",
-      "dur": "1:25",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר המלך ואני",
-      "alb": "המלך ואני (הפקת גיורא גודיק) (#9)",
-      "alb_group": "המלך ואני (הפקת גיורא גודיק)",
-      "alb_trk": 9,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: ריצ'רד רוג'רס)",
-      "co_creators": "מקור: ריצ'רד רוג'רס",
-      "opening_line": "",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990033736900205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #2326683",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2326683"
         }
       ],
       "alts": []
