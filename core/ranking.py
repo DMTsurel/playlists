@@ -196,12 +196,28 @@ def rank_composer_playlist(
             new_e1.extend(e1_by_song[t])
     new_e1.extend(extra_non_p1_e1)
 
+    p2_order: list[str] = list(dict.fromkeys(it["title"] for it in blocks["p2"]))
+    p2_set = set(p2_order)
+    e2_by_song: dict[str, list[dict[str, Any]]] = {}
+    extra_non_p2_e2: list[dict[str, Any]] = []
+    for it in blocks["e2"]:
+        t = it["title"]
+        if t in p2_set:
+            e2_by_song.setdefault(t, []).append(it)
+        else:
+            extra_non_p2_e2.append(it)
+    new_e2: list[dict[str, Any]] = []
+    for t in p2_order:
+        if t in e2_by_song:
+            new_e2.extend(e2_by_song[t])
+    new_e2.extend(extra_non_p2_e2)
+
     new_matched = (
         new_p1
         + blocks["p2"]
         + blocks["p3"]
         + new_e1
-        + blocks["e2"]
+        + new_e2
         + blocks["e3"]
         + blocks["tail"]
         + blocks["tv"]

@@ -12,7 +12,7 @@ window.PLAYLIST_DATA = {
   "songs": [
     {
       "n": 1,
-      "chrono_n": 224,
+      "chrono_n": 225,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -106,7 +106,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 2,
-      "chrono_n": 223,
+      "chrono_n": 224,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -207,7 +207,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 3,
-      "chrono_n": 502,
+      "chrono_n": 501,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -298,7 +298,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 4,
-      "chrono_n": 503,
+      "chrono_n": 502,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -389,7 +389,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 5,
-      "chrono_n": 356,
+      "chrono_n": 357,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -484,7 +484,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 6,
-      "chrono_n": 354,
+      "chrono_n": 355,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -579,7 +579,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 7,
-      "chrono_n": 455,
+      "chrono_n": 456,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -676,7 +676,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 8,
-      "chrono_n": 644,
+      "chrono_n": 643,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -750,7 +750,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 9,
-      "chrono_n": 415,
+      "chrono_n": 416,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -835,7 +835,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 10,
-      "chrono_n": 496,
+      "chrono_n": 495,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -920,7 +920,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 11,
-      "chrono_n": 282,
+      "chrono_n": 283,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -1019,7 +1019,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 12,
-      "chrono_n": 492,
+      "chrono_n": 491,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -1118,7 +1118,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 13,
-      "chrono_n": 238,
+      "chrono_n": 239,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -1210,7 +1210,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 14,
-      "chrono_n": 574,
+      "chrono_n": 573,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -1309,7 +1309,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 15,
-      "chrono_n": 543,
+      "chrono_n": 542,
       "canon_score": 1272.9,
       "acum_v": 66,
       "layer": 1,
@@ -1392,7 +1392,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 16,
-      "chrono_n": 544,
+      "chrono_n": 543,
       "canon_score": 1272.9,
       "acum_v": 66,
       "layer": 1,
@@ -1475,7 +1475,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 17,
-      "chrono_n": 499,
+      "chrono_n": 498,
       "canon_score": 1165.2,
       "acum_v": 82,
       "layer": 1,
@@ -1646,7 +1646,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 19,
-      "chrono_n": 552,
+      "chrono_n": 551,
       "canon_score": 1054.8,
       "acum_v": 127,
       "layer": 1,
@@ -1727,7 +1727,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 20,
-      "chrono_n": 648,
+      "chrono_n": 647,
       "canon_score": 1049.5,
       "acum_v": 124,
       "layer": 1,
@@ -1812,7 +1812,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 21,
-      "chrono_n": 298,
+      "chrono_n": 299,
       "canon_score": 1042.4,
       "acum_v": 284,
       "layer": 1,
@@ -1897,7 +1897,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 22,
-      "chrono_n": 297,
+      "chrono_n": 298,
       "canon_score": 1042.4,
       "acum_v": 284,
       "layer": 1,
@@ -1982,7 +1982,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 23,
-      "chrono_n": 590,
+      "chrono_n": 589,
       "canon_score": 1038.1,
       "acum_v": 175,
       "layer": 1,
@@ -2140,7 +2140,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 25,
-      "chrono_n": 207,
+      "chrono_n": 208,
       "canon_score": 861.8,
       "acum_v": 162,
       "layer": 1,
@@ -2221,7 +2221,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 26,
-      "chrono_n": 217,
+      "chrono_n": 218,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -2319,7 +2319,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 27,
-      "chrono_n": 448,
+      "chrono_n": 449,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -2412,7 +2412,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 28,
-      "chrono_n": 426,
+      "chrono_n": 427,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -2505,7 +2505,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 29,
-      "chrono_n": 526,
+      "chrono_n": 525,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -2579,7 +2579,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 30,
-      "chrono_n": 461,
+      "chrono_n": 462,
       "canon_score": 756.8,
       "acum_v": 127,
       "layer": 1,
@@ -2669,7 +2669,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 31,
-      "chrono_n": 288,
+      "chrono_n": 289,
       "canon_score": 751.9,
       "acum_v": 111,
       "layer": 1,
@@ -2770,7 +2770,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 32,
-      "chrono_n": 383,
+      "chrono_n": 384,
       "canon_score": 751.9,
       "acum_v": 111,
       "layer": 1,
@@ -2871,7 +2871,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 33,
-      "chrono_n": 218,
+      "chrono_n": 219,
       "canon_score": 734.8,
       "acum_v": 136,
       "layer": 1,
@@ -2950,7 +2950,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 34,
-      "chrono_n": 518,
+      "chrono_n": 517,
       "canon_score": 734.8,
       "acum_v": 136,
       "layer": 1,
@@ -3029,7 +3029,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 35,
-      "chrono_n": 254,
+      "chrono_n": 255,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -3128,7 +3128,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 36,
-      "chrono_n": 252,
+      "chrono_n": 253,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -3227,7 +3227,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 37,
-      "chrono_n": 456,
+      "chrono_n": 457,
       "canon_score": 709.3,
       "acum_v": 82,
       "layer": 1,
@@ -3377,7 +3377,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 39,
-      "chrono_n": 273,
+      "chrono_n": 274,
       "canon_score": 668.6,
       "acum_v": 67,
       "layer": 1,
@@ -3456,7 +3456,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 40,
-      "chrono_n": 276,
+      "chrono_n": 277,
       "canon_score": 668.6,
       "acum_v": 67,
       "layer": 1,
@@ -3625,7 +3625,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 42,
-      "chrono_n": 203,
+      "chrono_n": 204,
       "canon_score": 629.2,
       "acum_v": 65,
       "layer": 1,
@@ -3715,7 +3715,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 43,
-      "chrono_n": 436,
+      "chrono_n": 437,
       "canon_score": 629.2,
       "acum_v": 65,
       "layer": 1,
@@ -3805,7 +3805,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 44,
-      "chrono_n": 476,
+      "chrono_n": 477,
       "canon_score": 627.9,
       "acum_v": 101,
       "layer": 1,
@@ -3890,7 +3890,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 45,
-      "chrono_n": 497,
+      "chrono_n": 496,
       "canon_score": 627.9,
       "acum_v": 101,
       "layer": 1,
@@ -3975,7 +3975,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 46,
-      "chrono_n": 271,
+      "chrono_n": 272,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -4074,7 +4074,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 47,
-      "chrono_n": 265,
+      "chrono_n": 266,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -4173,7 +4173,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 48,
-      "chrono_n": 201,
+      "chrono_n": 202,
       "canon_score": 622.5,
       "acum_v": 2,
       "layer": 1,
@@ -4257,7 +4257,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 49,
-      "chrono_n": 202,
+      "chrono_n": 203,
       "canon_score": 622.5,
       "acum_v": 2,
       "layer": 1,
@@ -4513,7 +4513,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 52,
-      "chrono_n": 340,
+      "chrono_n": 341,
       "canon_score": 611.5,
       "acum_v": 79,
       "layer": 1,
@@ -4611,7 +4611,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 53,
-      "chrono_n": 385,
+      "chrono_n": 386,
       "canon_score": 611.5,
       "acum_v": 79,
       "layer": 1,
@@ -4709,7 +4709,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 54,
-      "chrono_n": 259,
+      "chrono_n": 260,
       "canon_score": 610.2,
       "acum_v": 45,
       "layer": 1,
@@ -4786,7 +4786,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 55,
-      "chrono_n": 293,
+      "chrono_n": 294,
       "canon_score": 610.2,
       "acum_v": 45,
       "layer": 1,
@@ -4863,7 +4863,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 56,
-      "chrono_n": 392,
+      "chrono_n": 393,
       "canon_score": 602.8,
       "acum_v": 41,
       "layer": 1,
@@ -4949,7 +4949,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 57,
-      "chrono_n": 353,
+      "chrono_n": 354,
       "canon_score": 601.1,
       "acum_v": 72,
       "layer": 1,
@@ -5037,7 +5037,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 58,
-      "chrono_n": 519,
+      "chrono_n": 518,
       "canon_score": 601.1,
       "acum_v": 72,
       "layer": 1,
@@ -5125,7 +5125,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 59,
-      "chrono_n": 446,
+      "chrono_n": 447,
       "canon_score": 594.8,
       "acum_v": 92,
       "layer": 1,
@@ -5210,7 +5210,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 60,
-      "chrono_n": 521,
+      "chrono_n": 520,
       "canon_score": 594.8,
       "acum_v": 92,
       "layer": 1,
@@ -5372,7 +5372,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 62,
-      "chrono_n": 541,
+      "chrono_n": 540,
       "canon_score": 538.7,
       "acum_v": 59,
       "layer": 1,
@@ -5442,7 +5442,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 63,
-      "chrono_n": 395,
+      "chrono_n": 396,
       "canon_score": 522.8,
       "acum_v": 95,
       "layer": 1,
@@ -5544,7 +5544,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 64,
-      "chrono_n": 229,
+      "chrono_n": 230,
       "canon_score": 521.8,
       "acum_v": 94,
       "layer": 1,
@@ -5620,7 +5620,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 65,
-      "chrono_n": 219,
+      "chrono_n": 220,
       "canon_score": 513.7,
       "acum_v": 39,
       "layer": 1,
@@ -5773,7 +5773,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 67,
-      "chrono_n": 294,
+      "chrono_n": 295,
       "canon_score": 504.9,
       "acum_v": 90,
       "layer": 1,
@@ -5865,7 +5865,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 68,
-      "chrono_n": 531,
+      "chrono_n": 530,
       "canon_score": 504.0,
       "acum_v": 58,
       "layer": 1,
@@ -5946,7 +5946,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 69,
-      "chrono_n": 322,
+      "chrono_n": 323,
       "canon_score": 497.8,
       "acum_v": 73,
       "layer": 1,
@@ -6037,7 +6037,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 70,
-      "chrono_n": 487,
+      "chrono_n": 486,
       "canon_score": 489.9,
       "acum_v": 73,
       "layer": 1,
@@ -6125,7 +6125,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 71,
-      "chrono_n": 501,
+      "chrono_n": 500,
       "canon_score": 489.9,
       "acum_v": 73,
       "layer": 1,
@@ -6304,7 +6304,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 73,
-      "chrono_n": 515,
+      "chrono_n": 514,
       "canon_score": 484.8,
       "acum_v": 80,
       "layer": 1,
@@ -6395,7 +6395,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 74,
-      "chrono_n": 374,
+      "chrono_n": 375,
       "canon_score": 472.6,
       "acum_v": 61,
       "layer": 1,
@@ -6469,7 +6469,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 75,
-      "chrono_n": 654,
+      "chrono_n": 653,
       "canon_score": 466.0,
       "acum_v": 39,
       "layer": 1,
@@ -6644,7 +6644,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 77,
-      "chrono_n": 427,
+      "chrono_n": 428,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -6742,7 +6742,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 78,
-      "chrono_n": 308,
+      "chrono_n": 309,
       "canon_score": 446.8,
       "acum_v": 66,
       "layer": 1,
@@ -6915,7 +6915,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 80,
-      "chrono_n": 205,
+      "chrono_n": 206,
       "canon_score": 418.2,
       "acum_v": 83,
       "layer": 1,
@@ -7018,7 +7018,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 81,
-      "chrono_n": 337,
+      "chrono_n": 338,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -7097,7 +7097,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 82,
-      "chrono_n": 228,
+      "chrono_n": 229,
       "canon_score": 409.4,
       "acum_v": 1,
       "layer": 1,
@@ -7169,7 +7169,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 83,
-      "chrono_n": 488,
+      "chrono_n": 487,
       "canon_score": 376.2,
       "acum_v": 66,
       "layer": 1,
@@ -7231,7 +7231,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 84,
-      "chrono_n": 622,
+      "chrono_n": 621,
       "canon_score": 376.2,
       "acum_v": 66,
       "layer": 1,
@@ -7307,7 +7307,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 85,
-      "chrono_n": 504,
+      "chrono_n": 503,
       "canon_score": 375.6,
       "acum_v": 22,
       "layer": 1,
@@ -7395,7 +7395,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 86,
-      "chrono_n": 489,
+      "chrono_n": 488,
       "canon_score": 364.0,
       "acum_v": 50,
       "layer": 1,
@@ -7659,7 +7659,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 89,
-      "chrono_n": 547,
+      "chrono_n": 546,
       "canon_score": 349.9,
       "acum_v": 34,
       "layer": 1,
@@ -7908,7 +7908,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 92,
-      "chrono_n": 208,
+      "chrono_n": 209,
       "canon_score": 337.8,
       "acum_v": 48,
       "layer": 1,
@@ -8096,7 +8096,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 94,
-      "chrono_n": 306,
+      "chrono_n": 307,
       "canon_score": 329.1,
       "acum_v": 16,
       "layer": 1,
@@ -8260,7 +8260,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 96,
-      "chrono_n": 482,
+      "chrono_n": 481,
       "canon_score": 320.0,
       "acum_v": 11,
       "layer": 1,
@@ -8341,7 +8341,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 97,
-      "chrono_n": 498,
+      "chrono_n": 497,
       "canon_score": 320.0,
       "acum_v": 11,
       "layer": 1,
@@ -8520,7 +8520,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 99,
-      "chrono_n": 226,
+      "chrono_n": 227,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -8601,7 +8601,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 100,
-      "chrono_n": 221,
+      "chrono_n": 222,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -8689,7 +8689,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 101,
-      "chrono_n": 190,
+      "chrono_n": 191,
       "canon_score": 297.6,
       "acum_v": 41,
       "layer": 1,
@@ -8773,7 +8773,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 102,
-      "chrono_n": 216,
+      "chrono_n": 217,
       "canon_score": 297.6,
       "acum_v": 41,
       "layer": 1,
@@ -8864,7 +8864,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 103,
-      "chrono_n": 420,
+      "chrono_n": 421,
       "canon_score": 292.5,
       "acum_v": 32,
       "layer": 1,
@@ -8948,7 +8948,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 104,
-      "chrono_n": 520,
+      "chrono_n": 519,
       "canon_score": 292.5,
       "acum_v": 32,
       "layer": 1,
@@ -9199,7 +9199,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 107,
-      "chrono_n": 462,
+      "chrono_n": 463,
       "canon_score": 279.6,
       "acum_v": 23,
       "layer": 1,
@@ -9290,7 +9290,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 108,
-      "chrono_n": 522,
+      "chrono_n": 521,
       "canon_score": 279.6,
       "acum_v": 23,
       "layer": 1,
@@ -9381,7 +9381,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 109,
-      "chrono_n": 336,
+      "chrono_n": 337,
       "canon_score": 276.1,
       "acum_v": 26,
       "layer": 1,
@@ -9531,7 +9531,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 111,
-      "chrono_n": 195,
+      "chrono_n": 196,
       "canon_score": 268.7,
       "acum_v": 41,
       "layer": 1,
@@ -9608,7 +9608,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 112,
-      "chrono_n": 560,
+      "chrono_n": 559,
       "canon_score": 266.2,
       "acum_v": 30,
       "layer": 1,
@@ -9684,7 +9684,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 113,
-      "chrono_n": 532,
+      "chrono_n": 531,
       "canon_score": 263.9,
       "acum_v": 29,
       "layer": 1,
@@ -9919,7 +9919,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 116,
-      "chrono_n": 196,
+      "chrono_n": 197,
       "canon_score": 254.6,
       "acum_v": 42,
       "layer": 1,
@@ -10016,7 +10016,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 117,
-      "chrono_n": 262,
+      "chrono_n": 263,
       "canon_score": 254.1,
       "acum_v": 27,
       "layer": 1,
@@ -10253,7 +10253,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 120,
-      "chrono_n": 669,
+      "chrono_n": 668,
       "canon_score": 238.3,
       "acum_v": 19,
       "layer": 1,
@@ -10331,7 +10331,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 121,
-      "chrono_n": 198,
+      "chrono_n": 199,
       "canon_score": 228.3,
       "acum_v": 23,
       "layer": 1,
@@ -10415,7 +10415,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 122,
-      "chrono_n": 215,
+      "chrono_n": 216,
       "canon_score": 228.3,
       "acum_v": 23,
       "layer": 1,
@@ -10599,7 +10599,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 124,
-      "chrono_n": 542,
+      "chrono_n": 541,
       "canon_score": 217.5,
       "acum_v": 25,
       "layer": 1,
@@ -10675,7 +10675,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 125,
-      "chrono_n": 558,
+      "chrono_n": 557,
       "canon_score": 217.5,
       "acum_v": 25,
       "layer": 1,
@@ -10751,7 +10751,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 126,
-      "chrono_n": 472,
+      "chrono_n": 473,
       "canon_score": 216.9,
       "acum_v": 25,
       "layer": 1,
@@ -10832,7 +10832,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 127,
-      "chrono_n": 505,
+      "chrono_n": 504,
       "canon_score": 216.2,
       "acum_v": 25,
       "layer": 1,
@@ -10915,7 +10915,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 128,
-      "chrono_n": 506,
+      "chrono_n": 505,
       "canon_score": 216.2,
       "acum_v": 25,
       "layer": 1,
@@ -10998,7 +10998,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 129,
-      "chrono_n": 454,
+      "chrono_n": 455,
       "canon_score": 212.0,
       "acum_v": 23,
       "layer": 1,
@@ -11076,7 +11076,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 130,
-      "chrono_n": 188,
+      "chrono_n": 189,
       "canon_score": 211.9,
       "acum_v": 41,
       "layer": 1,
@@ -11160,7 +11160,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 131,
-      "chrono_n": 214,
+      "chrono_n": 215,
       "canon_score": 211.9,
       "acum_v": 41,
       "layer": 1,
@@ -11244,7 +11244,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 132,
-      "chrono_n": 394,
+      "chrono_n": 395,
       "canon_score": 205.3,
       "acum_v": 35,
       "layer": 1,
@@ -11418,7 +11418,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 134,
-      "chrono_n": 204,
+      "chrono_n": 205,
       "canon_score": 201.4,
       "acum_v": 27,
       "layer": 1,
@@ -11515,7 +11515,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 135,
-      "chrono_n": 387,
+      "chrono_n": 388,
       "canon_score": 200.4,
       "acum_v": 22,
       "layer": 1,
@@ -11592,7 +11592,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 136,
-      "chrono_n": 375,
+      "chrono_n": 376,
       "canon_score": 200.4,
       "acum_v": 22,
       "layer": 1,
@@ -11758,7 +11758,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 138,
-      "chrono_n": 343,
+      "chrono_n": 344,
       "canon_score": 198.1,
       "acum_v": 40,
       "layer": 1,
@@ -11847,7 +11847,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 139,
-      "chrono_n": 331,
+      "chrono_n": 332,
       "canon_score": 197.2,
       "acum_v": 23,
       "layer": 1,
@@ -12002,7 +12002,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 141,
-      "chrono_n": 209,
+      "chrono_n": 210,
       "canon_score": 192.0,
       "acum_v": 30,
       "layer": 1,
@@ -12083,7 +12083,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 142,
-      "chrono_n": 270,
+      "chrono_n": 271,
       "canon_score": 167.1,
       "acum_v": 14,
       "layer": 1,
@@ -12167,7 +12167,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 143,
-      "chrono_n": 450,
+      "chrono_n": 451,
       "canon_score": 158.8,
       "acum_v": 28,
       "layer": 1,
@@ -12244,7 +12244,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 144,
-      "chrono_n": 403,
+      "chrono_n": 404,
       "canon_score": 157.8,
       "acum_v": 149,
       "layer": 1,
@@ -12328,7 +12328,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 145,
-      "chrono_n": 509,
+      "chrono_n": 508,
       "canon_score": 147.0,
       "acum_v": 21,
       "layer": 1,
@@ -12390,7 +12390,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 146,
-      "chrono_n": 335,
+      "chrono_n": 336,
       "canon_score": 117.2,
       "acum_v": 12,
       "layer": 1,
@@ -12464,7 +12464,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 147,
-      "chrono_n": 321,
+      "chrono_n": 322,
       "canon_score": 83.0,
       "acum_v": 14,
       "layer": 1,
@@ -12541,7 +12541,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 148,
-      "chrono_n": 477,
+      "chrono_n": 478,
       "canon_score": 71.6,
       "acum_v": 12,
       "layer": 1,
@@ -12599,7 +12599,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "בגינה [ביצוע מקורי] (1956)",
       "raw_title": "בגינה",
       "alt_titles": [
@@ -12658,13 +12658,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 150,
-      "chrono_n": 358,
+      "chrono_n": 359,
       "canon_score": 38.4,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "בגינה [ביצוע נעמי שמר] (1974)",
       "raw_title": "בגינה",
       "alt_titles": [
@@ -12729,7 +12729,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "אשכולית [ביצוע מקורי] (1958)",
       "raw_title": "אשכולית",
       "alt_titles": [
@@ -12793,13 +12793,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 152,
-      "chrono_n": 359,
+      "chrono_n": 360,
       "canon_score": 42.8,
       "acum_v": 5,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "אשכולית [ביצוע נעמי שמר] (1974)",
       "raw_title": "אשכולית",
       "alt_titles": [
@@ -12869,7 +12869,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "שבת [ביצוע מקורי] (1958)",
       "raw_title": "שבת",
       "alt_titles": [
@@ -12946,7 +12946,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "בקיץ [ביצוע מקורי] (1958)",
       "raw_title": "בקיץ",
       "alt_titles": [],
@@ -13006,7 +13006,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "שיר ערש לצבעים [ביצוע מקורי] (1959)",
       "raw_title": "שיר ערש לצבעים",
       "alt_titles": [
@@ -13084,13 +13084,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 156,
-      "chrono_n": 345,
+      "chrono_n": 346,
       "canon_score": 70.9,
       "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "שיר ערש לצבעים [ביצוע נעמי שמר] (1973)",
       "raw_title": "שיר ערש לצבעים",
       "alt_titles": [
@@ -13174,7 +13174,7 @@ window.PLAYLIST_DATA = {
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "כיצד שוברים חמסין [ביצוע מקורי] (1964)",
       "raw_title": "כיצד שוברים חמסין",
       "alt_titles": [],
@@ -13256,13 +13256,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 158,
-      "chrono_n": 381,
+      "chrono_n": 382,
       "canon_score": 67.8,
       "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
+      "ch_lbl": "פרק 1: שירים מכנרת והקלטות הילדים הראשונות (1956–1964)",
       "title": "כיצד שוברים חמסין [ביצוע נעמי שמר] (1975)",
       "raw_title": "כיצד שוברים חמסין",
       "alt_titles": [],
@@ -13344,1572 +13344,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 159,
-      "chrono_n": 357,
-      "canon_score": 48.3,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 1: שירים מכנרת והקלטות ילדים (1956–1993)",
-      "title": "גדי קטן [ביצוע מקורי] (1973)",
-      "raw_title": "גדי קטן",
-      "alt_titles": [
-        "הגדי",
-        "גדי"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1973",
-      "rec_year": "1973",
-      "song_year": "1973",
-      "year_src": "archive_desc",
-      "decade": "1970s",
-      "vid": "yKAUdNGyVpA",
-      "vtitle": "נעמי שמר - גדי קטן",
-      "ch": "כאן | מוזיקה",
-      "dur": "1:55",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גדי קטן גדי קטן גדי צחור קטן",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045140205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23534"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1041964",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Yd3_uDW6i4w",
-          "vtitle": "גדי קטן",
-          "ch": "דודו זכאי - Topic",
-          "dur": "2:00",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "rB1MfQi3_Dg",
-          "vtitle": "גדי אחד - נעמי שמר",
-          "ch": "נעמי שמר - יש לי חבר",
-          "dur": "2:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "NZMFqOhoPSk",
-          "vtitle": "נעמי שמר - גדי אחד",
-          "ch": "IBA Classics",
-          "dur": "1:59",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 160,
-      "chrono_n": 348,
-      "canon_score": 210.3,
-      "acum_v": 24,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "",
-      "title": "חליל מקנה-סוף [ביצוע נעמי שמר] (1973)",
-      "raw_title": "חליל מקנה-סוף",
-      "alt_titles": [
-        "חליל מקנה סוף",
-        "ידידי עשה חליל לי מקנה ירוק של סוף",
-        "ידידי עשה חליל לי מקנה ירק של סוף"
-      ],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1973",
-      "rec_year": "1973",
-      "song_year": "1967",
-      "year_src": "archive_desc",
-      "decade": "1970s",
-      "vid": "04AcSZS8K3s",
-      "vtitle": "נעמי שמר - חליל מקנה סוף",
-      "ch": "כאן | מוזיקה",
-      "dur": "4:10",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "wP2eXGYKT0w",
-          "vtitle": "נתנאלה חליל מקנה סוף",
-          "ch": "נוסטלגיה ישראלית",
-          "dur": "2:02",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "blJooo_JcHA",
-          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
-          "ch": "רוחמה רז - הערוץ הרשמי",
-          "dur": "2:15",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "kYitjm6rqM4",
-          "vtitle": "חליל מקנה סוף - שולי נתן",
-          "ch": "שולי נתן - הערוץ הרשמי",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JAY_uZjqmIA",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Netanela - Topic",
-          "dur": "2:02",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "qrvKQtQgb2s",
-          "vtitle": "חליל מקנה סוף",
-          "ch": "Shuly Natan - Topic",
-          "dur": "1:58",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 161,
-      "chrono_n": 390,
-      "canon_score": 212.9,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "",
-      "title": "נגיד [ביצוע מקורי] (1975)",
-      "raw_title": "נגיד",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 4,
-      "year": "1975",
-      "rec_year": "1975",
-      "song_year": "1975",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "pjCtGobuuSE",
-      "vtitle": "נגיד",
-      "ch": "נעמי שמר - Topic",
-      "dur": "3:01",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "כיצד שוברים חמסין (נעמי שמר) (#2)",
-      "alb_group": "כיצד שוברים חמסין (נעמי שמר)",
-      "alb_trk": 2,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "נגיד שאני הולכת לטיול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042460205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5891"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1024853",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "oPxh0QBVT8U",
-          "vtitle": "נגיד - נעמי שמר",
-          "ch": "נעמי שמר - יש לי חבר",
-          "dur": "2:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "d6Yyk06UoeU",
-          "vtitle": "נגיד",
-          "ch": "tvmusiceducation",
-          "dur": "3:10",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "XteReGQom40",
-          "vtitle": "נגיד - דורית ראובני | מתוך \"כל שירי נעמי שמר לילדים\"",
-          "ch": "דורית ראובני - Dorit Reuveni",
-          "dur": "2:40",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xI2m7tKJ40E",
-          "vtitle": "אצלנו בפסנתר -2- נגיד (1993)",
-          "ch": "ילדות ישראלית",
-          "dur": "2:19",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "W6iBl_lvP1s",
-          "vtitle": "נגיד - שושיק שני ונועה לביא",
-          "ch": "אריק לביא Arik Lavie",
-          "dur": "1:53",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 162,
-      "chrono_n": 397,
-      "canon_score": 45.0,
-      "acum_v": 50,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "",
-      "title": "שיר הכזבים [ביצוע מקורי] (1975)",
-      "raw_title": "שיר הכזבים",
-      "alt_titles": [
-        "לא היו דברים מעולם"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1975",
-      "rec_year": "1975",
-      "song_year": "1975",
-      "year_src": "stereo_ve_mono",
-      "decade": "1970s",
-      "vid": "RqHN-so83M4",
-      "vtitle": "שיר הכזבים",
-      "ch": "נעמי שמר - Topic",
-      "dur": "2:23",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "נעמי שמר שרה לילדים ועודד תאומי עושה להם הצגות (#15)",
-      "alb_group": "נעמי שמר שרה לילדים ועודד תאומי עושה להם הצגות",
-      "alb_trk": 15,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "פעם עוזי ואבנר רצו לראות אם קש בוער",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041830205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5894"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033137",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033137"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Omn_wSe-dKU",
-          "vtitle": "אצלנו בפסנתר -3- שיר הכזבים (1993)",
-          "ch": "ילדות ישראלית",
-          "dur": "2:12",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 163,
-      "chrono_n": 393,
-      "canon_score": 64.3,
-      "acum_v": 8,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "",
-      "title": "לנוע ולנדוד [ביצוע מקורי] (1975)",
-      "raw_title": "לנוע ולנדוד",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1975",
-      "rec_year": "1975",
-      "song_year": "1975",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "2o1uo7sstSI",
-      "vtitle": "לנוע ולנדוד",
-      "ch": "נעמי שמר - Topic",
-      "dur": "2:40",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "כיצד שוברים חמסין (נעמי שמר) (#5)",
-      "alb_group": "כיצד שוברים חמסין (נעמי שמר)",
-      "alb_trk": 5,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנו שובבים רגלינו קלילות",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042520205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5893"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021093",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021093"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "nFRHaySAOQA",
-          "vtitle": "לנוע ולנדוד (feat. אורי ביתן)",
-          "ch": "יעל ארנון ורד",
-          "dur": "1:15",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "1hX3rZjdZNY",
-          "vtitle": "נעמי שמר - לנוע ולנדוד",
-          "ch": "כאן | מוזיקה",
-          "dur": "3:54",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "i9KzXu-Nhx0",
-          "vtitle": "לנוע ולנדוד - דורית ראובני | מתוך \"כל שירי נעמי שמר לילדים\"",
-          "ch": "דורית ראובני - Dorit Reuveni",
-          "dur": "3:02",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 164,
-      "chrono_n": 452,
-      "canon_score": 151.9,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "",
-      "title": "נר ראשון של חנוכה [ביצוע מקורי] (1977)",
-      "raw_title": "נר ראשון של חנוכה",
-      "alt_titles": [
-        "נר ראשון של חנכה",
-        "נר ראשון של חנוכה לי יאיר בחשכה",
-        "אורים שבחלון לי מוסרים דרישת שלום"
-      ],
-      "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1977",
-      "rec_year": "1977",
-      "song_year": "1977",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "E3V70DpK_EI",
-      "vtitle": "נר ראשון של חנוכה",
-      "ch": "נעמי שמר - Topic",
-      "dur": "2:33",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "הטיול הקטן – כל שירי נעמי שמר לילדים",
-      "alb_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "VtH6NkAXl20",
-          "vtitle": "נעמי שמר נר ראשון של חנוכה",
-          "ch": "נוסטלגיה ישראלית",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "EN9teQUDlPI",
-          "vtitle": "נר ראשון של חנוכה",
-          "ch": "Release - Topic",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "a49WH6PKzKY",
-          "vtitle": "נר ראשון של חנוכה",
-          "ch": "Release - Topic",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "mpPxqJrum-M",
-          "vtitle": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
-          "ch": "ללי שמר",
-          "dur": "7:33",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "YYVengVA5V8",
-          "vtitle": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
-          "ch": "נתן דטנר",
-          "dur": "26:41",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 165,
-      "chrono_n": 193,
-      "canon_score": 32.8,
-      "acum_v": 18,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "הללויה (1966)",
-      "raw_title": "הללויה",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1966",
-      "rec_year": "1966",
-      "song_year": "1966",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "EikdgimAjd8",
-      "vtitle": "האחיות שמר- הללויה- 1966",
-      "ch": "דודי פטימר",
-      "dur": "2:26",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "האחיות שמר",
-      "alb": "רביעיית האחיות שמר (#3)",
-      "alb_group": "רביעיית האחיות שמר",
-      "alb_trk": 3,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: דב זלצר, נחלת הכלל)",
-      "co_creators": "מקור: דב זלצר, נחלת הכלל",
-      "opening_line": "אם בשבת אחים יחד הללויה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037492500205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=27055"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1011507",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011507"
-        }
-      ],
-      "alts": []
-    },
-    {
-      "n": 166,
-      "chrono_n": 323,
-      "canon_score": 93.3,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "אין ויש (1972)",
-      "raw_title": "אין ויש",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "video_title",
-      "decade": "1970s",
-      "vid": "gU6tE4TqExI",
-      "vtitle": "אין ויש - חבורת בימות (קליפ מקורי, 1972)",
-      "ch": "דני גרנות - הערוץ הרשמי",
-      "dur": "2:03",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#2)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 2,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "לנו אין נהרות אדירים וגשם בקיץ",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041850205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5874"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1002130",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002130"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "JUVV06GzaFE",
-          "vtitle": "אין ויש",
-          "ch": "Release - Topic",
-          "dur": "2:06",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "uUo873ymQEM",
-          "vtitle": "אין ויש  חבורת בימות - סולנים רותי בן אברהם ואמיר גינת- מילים ולחן נעמי שמר עיבוד גיל אלדמע 1972",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:06",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "wC-K0MvdHMo",
-          "vtitle": "אין ויש חבורת בימות",
-          "ch": "krechevsky",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 167,
-      "chrono_n": 325,
-      "canon_score": 196.6,
-      "acum_v": 11,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "שש עשרה (1972)",
-      "raw_title": "שש עשרה",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "yXzElXsHH38",
-      "vtitle": "שש עשרה",
-      "ch": "Release - Topic",
-      "dur": "2:28",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#4)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 4,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "בסנדלים על גשר הירקון",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041880205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5879"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1035607",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035607"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "GiOkPiYPVRc",
-          "vtitle": "חבורת בימות - שש עשרה",
-          "ch": "Guy Alon",
-          "dur": "2:28",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "0gqJ8FBhn4M",
-          "vtitle": "חבורת בימות - שש עשרה",
-          "ch": "בוא שיר עברי",
-          "dur": "2:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Wbk32r_YIhI",
-          "vtitle": "שש עשרה(בסנדלים על גשר הירקון)- לימור שפירא",
-          "ch": "Limor Shapira",
-          "dur": "2:24",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 168,
-      "chrono_n": 327,
-      "canon_score": 243.2,
-      "acum_v": 50,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "בארץ להד\"ם [ביצוע מקורי] (1972)",
-      "raw_title": "בארץ להד\"ם",
-      "alt_titles": [
-        "ארץ להד\"ם",
-        "להד\"ם"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "ZLzkd2ui6PM",
-      "vtitle": "בארץ להד\"ם",
-      "ch": "Release - Topic",
-      "dur": "2:55",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#6)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 6,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "בארץ להדם נשמע תמיד הדם של נבל וקתרוס",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042040205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=530"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1005435",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "vxQcorAdAXA",
-          "vtitle": "בארץ להד\"ם",
-          "ch": "Hakol Over Habibi - Topic",
-          "dur": "4:03",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xGM5dCnBYgI",
-          "vtitle": "Land of Lahadam - בארץ להד\"ם",
-          "ch": "ElinoarMoav",
-          "dur": "3:39",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 169,
-      "chrono_n": 329,
-      "canon_score": 42.7,
-      "acum_v": 5,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "אנשים יפים [ביצוע מקורי] (1972)",
-      "raw_title": "אנשים יפים",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "doXUEtdMaxc",
-      "vtitle": "אנשים יפים",
-      "ch": "Release - Topic",
-      "dur": "3:22",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#9)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 9,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ליל שבת אחרי עשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042920205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5878"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1004294",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "RsAt9yPbA1U",
-          "vtitle": "אנשים יפים - מירי אלוני וחבורת בימות  Miri Aloni",
-          "ch": "מירי אלוני - Miri Aloni",
-          "dur": "3:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "chuU4lFZ5iA",
-          "vtitle": "אנשים יפים - מירי אלוני (מנחה: אהוד מנור, מתוך \"שרים בצוותא\")",
-          "ch": "מירי אלוני - Miri Aloni",
-          "dur": "5:09",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 170,
-      "chrono_n": 478,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1979)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1979",
-      "rec_year": "1979",
-      "song_year": "1979",
-      "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "wIFDo3qiS9c",
-      "vtitle": "הגשש החיוור - מסעות בנימין מטודלה - Hagashash - Masaot Binyamin Mitudela",
-      "ch": "מאוצר הסרטיה והתקליטיה",
-      "dur": "4:21",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "הגשש החיוור",
-      "alb": "הגשש החיוור בשירי נעמי שמר (#8)",
-      "alb_group": "הגשש החיוור בשירי נעמי שמר",
-      "alb_trk": 8,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "s8KBMzwFJmA",
-          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:41",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "vbG5B1wswQc",
-          "vtitle": "שמעון בר - מסעות בנימין מטודלה",
-          "ch": "דוד אסף",
-          "dur": "3:40",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "nugnCFc2e54",
-          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "4:00",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 171,
-      "chrono_n": 681,
-      "canon_score": 107.6,
-      "acum_v": 22,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "למה צחקה מיכל (2005)",
-      "raw_title": "למה צחקה מיכל",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "2005",
-      "rec_year": "2005",
-      "song_year": "1979",
-      "year_src": "manual_verified",
-      "decade": "1990s+",
-      "vid": "hdskywcJSMo",
-      "vtitle": "למה צחקה מיכל",
-      "ch": "Gitit Shoval - Topic",
-      "dur": "2:50",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "גיתית שובל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 11,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כשהחג היה בארץ והשמש בערה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042640205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5643"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021005",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021005"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "lSMMHqqi5CU",
-          "vtitle": "האחים אסנר \"למה צחקה מיכל\" מתוך מופע מחווה לשירי הגששים",
-          "ch": "האחים אסנר - הערוץ הרשמי",
-          "dur": "2:30",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 172,
-      "chrono_n": 561,
-      "canon_score": 96.5,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "גג (1987)",
-      "raw_title": "גג",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "bzLl7TH_VxQ",
-      "vtitle": "גג",
-      "ch": "Release - Topic",
-      "dur": "2:49",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#1)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 1,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גנוב על העיר הזאת נעול עליה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041970205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9973"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1007940",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007940"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "cWMfskVNFcc",
-          "vtitle": "גג משה בקר מילים ולחן: נעמי שמר",
-          "ch": "Илья Фрейдкин",
-          "dur": "2:49",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 173,
-      "chrono_n": 562,
-      "canon_score": 93.0,
-      "acum_v": 5,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "ילדה ברבור (1987)",
-      "raw_title": "ילדה ברבור",
-      "alt_titles": [
-        "ילדה-ברבור"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "9aIw7qJAOA4",
-      "vtitle": "ילדה ברבור מאת נעמי שמר שר משה בקר",
-      "ch": "ללי שמר",
-      "dur": "3:33",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#2)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 2,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ילדה ברבור היא בת דקה או שתים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042370205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9972"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1017303",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017303"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "zHmm0bb_x5c",
-          "vtitle": "ילדה - ברבור",
-          "ch": "Release - Topic",
-          "dur": "3:39",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "OtVM_4uGMwQ",
-          "vtitle": "משה בקר- ילדה ברבור-שמיניות באויר עם דליק",
-          "ch": "tishrei24",
-          "dur": "3:36",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xfRydK85HOQ",
-          "vtitle": "ילדה ברבור - שחר שמאי",
-          "ch": "Shachar Shamai",
-          "dur": "2:47",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 174,
-      "chrono_n": 563,
-      "canon_score": 39.4,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "פרלוד (1987)",
-      "raw_title": "פרלוד",
-      "alt_titles": [
-        "פרילוד"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "sgMLsWRX7SI",
-      "vtitle": "פרלוד",
-      "ch": "Release - Topic",
-      "dur": "3:22",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#3)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 3,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אם זה תורה להסתלק היא לא תעשה מזה ענין",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042340205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18406"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1029366",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029366"
-        }
-      ],
-      "alts": []
-    },
-    {
-      "n": 175,
-      "chrono_n": 564,
-      "canon_score": 100.7,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "אהבת אשתקד [ביצוע מקורי] (1987)",
-      "raw_title": "אהבת אשתקד",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "VaztQIe75Ns",
-      "vtitle": "אהבת אשתקד",
-      "ch": "Release - Topic",
-      "dur": "3:48",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#4)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 4,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042070205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6554"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1000832",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "U3xSpmrTgXc",
-          "vtitle": "אהבת אשתקד",
-          "ch": "Haparvarim - Topic",
-          "dur": "3:21",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 176,
-      "chrono_n": 565,
-      "canon_score": 176.0,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "תות (1987)",
-      "raw_title": "תות",
-      "alt_titles": [
-        "אם את רוצה לגרום לי נחת"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "KO7lZhbeFDs",
-      "vtitle": "תות",
-      "ch": "Release - Topic",
-      "dur": "3:02",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#5)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 5,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אם את רוצה לגרם לי נחת",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043070205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9277"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1035854",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035854"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "PZ-0RpojGSQ",
-          "vtitle": "משה בקר תות שדה 1986",
-          "ch": "דודי פטימר",
-          "dur": "3:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "XezJi9pRfz8",
-          "vtitle": "״נעמי שמר״- תות שדה רמת השרון",
-          "ch": "InbariG",
-          "dur": "2:32",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 177,
-      "chrono_n": 568,
-      "canon_score": 142.8,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "גיא [ביצוע מקורי] (1987)",
-      "raw_title": "גיא",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "PXL8ltjFDCk",
-      "vtitle": "גיא",
-      "ch": "Release - Topic",
-      "dur": "2:27",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#9)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 9,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גיא אתה ואני ודי אני ואתה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043880205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5076"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1008075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "9Zve4BWzx-Q",
-          "vtitle": "משה בקר- גיא",
-          "ch": "כאן | מוזיקה",
-          "dur": "2:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "CSjnGcglVJI",
-          "vtitle": "אצלנו בפסנתר -6- גיא",
-          "ch": "Release - Topic",
-          "dur": "2:19",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "KXAdKoWGyAY",
-          "vtitle": "גיא בן 60 \"אורלי עשתה לי את הפתעת חיי'\" // 'גיא' מאת נעמי שמר",
-          "ch": "אורלי וגיא הערוץ הרשמי",
-          "dur": "2:44",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 178,
-      "chrono_n": 569,
-      "canon_score": 87.6,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "חפצים אישיים (1987)",
-      "raw_title": "חפצים אישיים",
-      "alt_titles": [
-        "קלידים הלבנים והשחורים את מגע ידה הקל זוכרים"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "gpo_GVko6OA",
-      "vtitle": "חפצים אישיים",
-      "ch": "Release - Topic",
-      "dur": "3:32",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#10)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 10,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "הקלידים הלבנים והשחורים את מגע ידה הקל זוכרים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042380205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9971"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015795",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015795"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "7CZgDVpwcuc",
-          "vtitle": "חפצים אישיים - משה בקר | מתוך האלבום \"חפצים אישיים\"",
-          "ch": "משה בקר Moshe Beker",
-          "dur": "3:32",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "lFtgAzIbKs0",
-          "vtitle": "חפצים אישיים מאת נעמי שמר שרה תמר גלעדי , פסנתר: רמי הראל",
-          "ch": "ללי שמר",
-          "dur": "3:27",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 179,
-      "chrono_n": 570,
-      "canon_score": 153.5,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "בראשון לספטמבר (1987)",
-      "raw_title": "בראשון לספטמבר",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1987",
-      "rec_year": "1987",
-      "song_year": "1987",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "nz7sT486EYw",
-      "vtitle": "בראשון לספטמבר",
-      "ch": "Release - Topic",
-      "dur": "4:20",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "חפצים אישיים (משה בקר) (#11)",
-      "alb_group": "חפצים אישיים (משה בקר)",
-      "alb_trk": 11,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "בראשון לספטמבר אלף תשע מאות ששים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042550205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4333"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1061917",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1061917"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "bDfiOaZjRcg",
-          "vtitle": "בראשון לספטמבר - משה בקר",
-          "ch": "נחום יערי - הנשר הירוק",
-          "dur": "4:29",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "8BidJ7Q8V-A",
-          "vtitle": "בראשון לספטמבר-משה בקר",
-          "ch": "tishrei24",
-          "dur": "5:01",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "taTMkde0CE8",
-          "vtitle": "בראשון לספטמבר | משה בקר (ביצוע מחודש, 2007) | סולו",
-          "ch": "משה בקר Moshe Beker",
-          "dur": "4:59",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 180,
-      "chrono_n": 602,
-      "canon_score": 25.1,
-      "acum_v": 1,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 3: אלבומי נעמי שמר ומשה בקר — חפצים אישיים (1987) ותות (1989)",
-      "title": "עלי שלכת (1989)",
-      "raw_title": "עלי שלכת",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1989",
-      "rec_year": "1989",
-      "song_year": "1989",
-      "year_src": "original_inherited",
-      "decade": "1980s",
-      "vid": "ut3moC4G-QI",
-      "vtitle": "עלי שלכת | משה בקר | סולו",
-      "ch": "משה בקר Moshe Beker",
-      "dur": "3:28",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משה בקר",
-      "alb": "סולו",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
-      "opening_line": "עוד מהלכת הרוח בגן עוד מספר אגדות השושן",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990038397030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=19912"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1058418",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1058418"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "m2Lv1L50zPI",
-          "vtitle": "עלי שלכת משה בקר",
-          "ch": "tishrei24",
-          "dur": "3:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "q4mJlne1l-A",
-          "vtitle": "משה בקר - עלי שלכת .",
-          "ch": "חיים ברליאה",
-          "dur": "3:40",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 181,
       "chrono_n": 20,
       "canon_score": 92.2,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "שיר הבר [ביצוע מקורי] (1958)",
       "raw_title": "שיר הבר",
       "alt_titles": [
@@ -14982,14 +13423,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 182,
+      "n": 160,
       "chrono_n": 38,
       "canon_score": 112.3,
       "acum_v": 14,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "רב האור והתכלת [ביצוע מקורי] (1958)",
       "raw_title": "רב האור והתכלת",
       "alt_titles": [],
@@ -15070,14 +13511,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 183,
+      "n": 161,
       "chrono_n": 23,
       "canon_score": 125.5,
       "acum_v": 23,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "סמוך על התרנגול [ביצוע מקורי] (1958)",
       "raw_title": "סמוך על התרנגול",
       "alt_titles": [
@@ -15149,14 +13590,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 184,
+      "n": 162,
       "chrono_n": 152,
       "canon_score": 60.6,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "אופליה [ביצוע מקורי] (1964)",
       "raw_title": "אופליה",
       "alt_titles": [
@@ -15241,14 +13682,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 185,
+      "n": 163,
       "chrono_n": 159,
       "canon_score": 60.6,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "אופליה [ביצוע נעמי שמר] (1965)",
       "raw_title": "אופליה",
       "alt_titles": [
@@ -15333,14 +13774,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 186,
+      "n": 164,
       "chrono_n": 153,
       "canon_score": 48.9,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "בלילה שכזה [ביצוע מקורי] (1964)",
       "raw_title": "בלילה שכזה",
       "alt_titles": [
@@ -15416,14 +13857,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 187,
+      "n": 165,
       "chrono_n": 154,
       "canon_score": 48.9,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "בלילה שכזה [ביצוע נעמי שמר] (1964)",
       "raw_title": "בלילה שכזה",
       "alt_titles": [
@@ -15499,14 +13940,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 188,
-      "chrono_n": 176,
+      "n": 166,
+      "chrono_n": 177,
       "canon_score": 43.9,
       "acum_v": 16,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "אשרוק לי שיר עליז (1966)",
       "raw_title": "אשרוק לי שיר עליז",
       "alt_titles": [
@@ -15569,14 +14010,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 189,
-      "chrono_n": 177,
+      "n": 167,
+      "chrono_n": 178,
       "canon_score": 36.8,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "אדון ומלך (1966)",
       "raw_title": "אדון ומלך",
       "alt_titles": [],
@@ -15621,14 +14062,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 190,
-      "chrono_n": 178,
+      "n": 168,
+      "chrono_n": 179,
       "canon_score": 37.4,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "אקרא שלום (1966)",
       "raw_title": "אקרא שלום",
       "alt_titles": [
@@ -15676,14 +14117,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 191,
-      "chrono_n": 179,
+      "n": 169,
+      "chrono_n": 180,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "חידתיות (1966)",
       "raw_title": "חידתיות",
       "alt_titles": [
@@ -15730,14 +14171,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 192,
-      "chrono_n": 180,
+      "n": 170,
+      "chrono_n": 181,
       "canon_score": 37.4,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "להתוודע (1966)",
       "raw_title": "להתוודע",
       "alt_titles": [
@@ -15786,14 +14227,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 193,
-      "chrono_n": 181,
+      "n": 171,
+      "chrono_n": 182,
       "canon_score": 36.6,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "בצל ובאופל (1966)",
       "raw_title": "בצל ובאופל",
       "alt_titles": [],
@@ -15838,14 +14279,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 194,
-      "chrono_n": 182,
+      "n": 172,
+      "chrono_n": 183,
       "canon_score": 37.2,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "שפחה שפחה (1966)",
       "raw_title": "שפחה שפחה",
       "alt_titles": [],
@@ -15890,14 +14331,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 195,
-      "chrono_n": 183,
+      "n": 173,
+      "chrono_n": 184,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "דבר מה נפלא כל כך (1966)",
       "raw_title": "דבר מה נפלא כל כך",
       "alt_titles": [
@@ -15944,14 +14385,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 196,
-      "chrono_n": 185,
+      "n": 174,
+      "chrono_n": 186,
       "canon_score": 36.7,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "בחלום (1966)",
       "raw_title": "בחלום",
       "alt_titles": [],
@@ -15996,14 +14437,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 197,
-      "chrono_n": 186,
+      "n": 175,
+      "chrono_n": 187,
       "canon_score": 37.0,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "משל סיאמי (1966)",
       "raw_title": "משל סיאמי",
       "alt_titles": [
@@ -16051,14 +14492,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 198,
-      "chrono_n": 187,
+      "n": 176,
+      "chrono_n": 188,
       "canon_score": 38.1,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 4: הצגות ומחזות זמר — חמש חמש (1958), שייקספיר איננו (1964) והמלך ואני (1966)",
+      "ch_lbl": "פרק 2: הצגות ומחזות זמר מוקדמים — חמש חמש, שייקספיר איננו והמלך ואני (1958–1966)",
       "title": "הנרקוד (1966)",
       "raw_title": "הנרקוד",
       "alt_titles": [
@@ -16106,14 +14547,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 199,
+      "n": 177,
       "chrono_n": 7,
       "canon_score": 42.7,
       "acum_v": 57,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "מה שיהיה יהיה (1956)",
       "raw_title": "מה שיהיה יהיה",
       "alt_titles": [
@@ -16165,14 +14606,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 200,
+      "n": 178,
       "chrono_n": 30,
       "canon_score": 111.8,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "שיר לחג עשור [ביצוע מקורי] (1958)",
       "raw_title": "שיר לחג עשור",
       "alt_titles": [
@@ -16248,14 +14689,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 201,
-      "chrono_n": 234,
+      "n": 179,
+      "chrono_n": 235,
       "canon_score": 111.8,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "שיר לחג עשור [ביצוע נעמי שמר] (1968)",
       "raw_title": "שיר לחג עשור",
       "alt_titles": [
@@ -16331,14 +14772,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 202,
+      "n": 180,
       "chrono_n": 51,
       "canon_score": 55.1,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "יום ה בשבוע [ביצוע מקורי] (1958)",
       "raw_title": "יום ה בשבוע",
       "alt_titles": [
@@ -16416,14 +14857,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 203,
+      "n": 181,
       "chrono_n": 84,
       "canon_score": 55.1,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "יום ה בשבוע [ביצוע נעמי שמר] (1960)",
       "raw_title": "יום ה בשבוע",
       "alt_titles": [
@@ -16501,14 +14942,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 204,
+      "n": 182,
       "chrono_n": 54,
       "canon_score": 88.5,
       "acum_v": 8,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "רוקדת (1958)",
       "raw_title": "רוקדת",
       "alt_titles": [],
@@ -16575,14 +15016,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 205,
+      "n": 183,
       "chrono_n": 75,
       "canon_score": 94.7,
       "acum_v": 24,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "מצעד האביב [ביצוע מקורי] (1959)",
       "raw_title": "מצעד האביב",
       "alt_titles": [],
@@ -16656,14 +15097,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 206,
+      "n": 184,
       "chrono_n": 79,
       "canon_score": 94.7,
       "acum_v": 24,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "מצעד האביב [ביצוע נעמי שמר] (1959)",
       "raw_title": "מצעד האביב",
       "alt_titles": [],
@@ -16737,14 +15178,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 207,
+      "n": 185,
       "chrono_n": 74,
       "canon_score": 71.0,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "קפה שחור [ביצוע מקורי] (1959)",
       "raw_title": "קפה שחור",
       "alt_titles": [],
@@ -16811,14 +15252,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 208,
+      "n": 186,
       "chrono_n": 103,
       "canon_score": 55.6,
       "acum_v": 6,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "שיר לגדעון (1961)",
       "raw_title": "שיר לגדעון",
       "alt_titles": [
@@ -16887,14 +15328,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 209,
+      "n": 187,
       "chrono_n": 112,
       "canon_score": 76.5,
       "acum_v": 18,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "חיילים יצאו לדרך [ביצוע מקורי] (1962)",
       "raw_title": "חיילים יצאו לדרך",
       "alt_titles": [
@@ -16971,14 +15412,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 210,
-      "chrono_n": 206,
+      "n": 188,
+      "chrono_n": 207,
       "canon_score": 76.5,
       "acum_v": 18,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "חיילים יצאו לדרך [ביצוע נעמי שמר] (1967)",
       "raw_title": "חיילים יצאו לדרך",
       "alt_titles": [
@@ -17055,14 +15496,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 211,
+      "n": 189,
       "chrono_n": 116,
       "canon_score": 40.1,
       "acum_v": 2,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "ורד בר [ביצוע מקורי] (1962)",
       "raw_title": "ורד בר",
       "alt_titles": [
@@ -17126,14 +15567,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 212,
-      "chrono_n": 517,
+      "n": 190,
+      "chrono_n": 516,
       "canon_score": 40.1,
       "acum_v": 2,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "ורד בר [ביצוע נעמי שמר] (1982)",
       "raw_title": "ורד בר",
       "alt_titles": [
@@ -17197,170 +15638,170 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 213,
-      "chrono_n": 135,
-      "canon_score": 106.5,
-      "acum_v": 12,
+      "n": 191,
+      "chrono_n": 311,
+      "canon_score": 75.5,
+      "acum_v": 17,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
-      "title": "זהירות בונים כאן [ביצוע מקורי] (1964)",
-      "raw_title": "זהירות בונים כאן",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "מה אמרו הציפורים [ביצוע מקורי] (1972)",
+      "raw_title": "מה אמרו הציפורים",
       "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
       ],
       "ver_idx": 1,
       "ver_total": 3,
-      "year": "1964",
-      "rec_year": "1964",
-      "song_year": "1964",
-      "year_src": "topic_album",
-      "decade": "1960s",
-      "vid": "0pdyuulvbzo",
-      "vtitle": "זהירות בונים",
-      "ch": "Lehakat Pikud Tsafon - Topic",
-      "dur": "2:49",
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1962",
+      "year_src": "existing_curated",
+      "decade": "1970s",
+      "vid": "UeP8K2lXml8",
+      "vtitle": "מה אמרו - סולנית: מיכל פרס",
+      "ch": "Lehakat Geisot Hashirion - Topic",
+      "dur": "3:01",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת פיקוד הצפון",
+      "perf": "להקת גייסות השריון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "opening_line": "מה אמרו הציפורים הנודדות",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
         }
       ],
       "alts": [
         {
-          "vid": "OLQITmFP3Xo",
-          "vtitle": "נעמי שמר - זהירות בונים כאן",
-          "ch": "כאן | מוזיקה",
-          "dur": "1:23",
+          "vid": "jqQTqr1gHEI",
+          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+          "ch": "Shir Yafe",
+          "dur": "2:35",
           "src": "direct_alternative"
         },
         {
-          "vid": "aXSNLtcdytU",
-          "vtitle": "זהירות בונים",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "2:11",
+          "vid": "cV-WsBBOwto",
+          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:23",
           "src": "direct_alternative"
         },
         {
-          "vid": "gDx__MbfRP4",
-          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
-          "ch": "קובי אשרת - הערוץ הרשמי ",
-          "dur": "3:01",
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
           "src": "direct_alternative"
         }
       ]
     },
     {
-      "n": 214,
-      "chrono_n": 347,
-      "canon_score": 106.5,
-      "acum_v": 12,
+      "n": 192,
+      "chrono_n": 113,
+      "canon_score": 75.5,
+      "acum_v": 17,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
-      "title": "זהירות בונים כאן [ביצוע נעמי שמר] (1973)",
-      "raw_title": "זהירות בונים כאן",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
+      "raw_title": "מה אמרו הציפורים",
       "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
       ],
       "ver_idx": 2,
       "ver_total": 3,
-      "year": "1973",
-      "rec_year": "1973",
-      "song_year": "1964",
-      "year_src": "archive_desc",
-      "decade": "1970s",
-      "vid": "OLQITmFP3Xo",
-      "vtitle": "נעמי שמר - זהירות בונים כאן",
-      "ch": "כאן | מוזיקה",
-      "dur": "1:23",
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "cV-WsBBOwto",
+      "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+      "ch": "שיר עד - Shir Ad",
+      "dur": "2:23",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
+      "perf": "נעמי שמר (לחן 1)",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "opening_line": "מה אמרו הציפורים הנודדות",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
         }
       ],
       "alts": [
         {
-          "vid": "0pdyuulvbzo",
-          "vtitle": "זהירות בונים",
-          "ch": "Lehakat Pikud Tsafon - Topic",
-          "dur": "2:49",
+          "vid": "jqQTqr1gHEI",
+          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+          "ch": "Shir Yafe",
+          "dur": "2:35",
           "src": "direct_alternative"
         },
         {
-          "vid": "aXSNLtcdytU",
-          "vtitle": "זהירות בונים",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "2:11",
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
           "src": "direct_alternative"
         },
         {
-          "vid": "gDx__MbfRP4",
-          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
-          "ch": "קובי אשרת - הערוץ הרשמי ",
+          "vid": "UeP8K2lXml8",
+          "vtitle": "מה אמרו - סולנית: מיכל פרס",
+          "ch": "Lehakat Geisot Hashirion - Topic",
           "dur": "3:01",
-          "src": "direct_alternative"
+          "src": "same_song_performance"
         }
       ]
     },
     {
-      "n": 215,
+      "n": 193,
       "chrono_n": 126,
       "canon_score": 91.2,
       "acum_v": 21,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "הטיול הגדול [ביצוע מקורי] (1963)",
       "raw_title": "הטיול הגדול",
       "alt_titles": [],
@@ -17434,14 +15875,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 216,
+      "n": 194,
       "chrono_n": 133,
       "canon_score": 91.2,
       "acum_v": 21,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "הטיול הגדול [ביצוע נעמי שמר] (1963)",
       "raw_title": "הטיול הגדול",
       "alt_titles": [],
@@ -17515,14 +15956,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 217,
+      "n": 195,
       "chrono_n": 125,
       "canon_score": 81.9,
       "acum_v": 13,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "עוד לא אכלנו (1963)",
       "raw_title": "עוד לא אכלנו",
       "alt_titles": [
@@ -17591,14 +16032,170 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 218,
+      "n": 196,
+      "chrono_n": 135,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "זהירות בונים כאן [ביצוע מקורי] (1964)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1964",
+      "rec_year": "1964",
+      "song_year": "1964",
+      "year_src": "topic_album",
+      "decade": "1960s",
+      "vid": "0pdyuulvbzo",
+      "vtitle": "זהירות בונים",
+      "ch": "Lehakat Pikud Tsafon - Topic",
+      "dur": "2:49",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "להקת פיקוד הצפון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "OLQITmFP3Xo",
+          "vtitle": "נעמי שמר - זהירות בונים כאן",
+          "ch": "כאן | מוזיקה",
+          "dur": "1:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "aXSNLtcdytU",
+          "vtitle": "זהירות בונים",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "2:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "gDx__MbfRP4",
+          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
+          "ch": "קובי אשרת - הערוץ הרשמי ",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 197,
+      "chrono_n": 348,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "זהירות בונים כאן [ביצוע נעמי שמר] (1973)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1973",
+      "rec_year": "1973",
+      "song_year": "1964",
+      "year_src": "archive_desc",
+      "decade": "1970s",
+      "vid": "OLQITmFP3Xo",
+      "vtitle": "נעמי שמר - זהירות בונים כאן",
+      "ch": "כאן | מוזיקה",
+      "dur": "1:23",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "0pdyuulvbzo",
+          "vtitle": "זהירות בונים",
+          "ch": "Lehakat Pikud Tsafon - Topic",
+          "dur": "2:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "aXSNLtcdytU",
+          "vtitle": "זהירות בונים",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "2:11",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "gDx__MbfRP4",
+          "vtitle": "זהירות בונים כאן - להקת פיקוד צפון (1964)",
+          "ch": "קובי אשרת - הערוץ הרשמי ",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 198,
       "chrono_n": 146,
       "canon_score": 59.1,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "לכבודך [ביצוע מקורי] (1964)",
       "raw_title": "לכבודך",
       "alt_titles": [],
@@ -17665,14 +16262,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 219,
-      "chrono_n": 211,
+      "n": 199,
+      "chrono_n": 212,
       "canon_score": 59.1,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "לכבודך [ביצוע נעמי שמר] (1967)",
       "raw_title": "לכבודך",
       "alt_titles": [],
@@ -17739,180 +16336,225 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 220,
-      "chrono_n": 257,
-      "canon_score": 86.2,
-      "acum_v": 7,
+      "n": 200,
+      "chrono_n": 168,
+      "canon_score": 47.2,
+      "acum_v": 9,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
-      "title": "מתי [ביצוע מקורי] (1968)",
-      "raw_title": "מתי",
-      "alt_titles": [
-        "הם בלבד"
-      ],
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
       "ver_idx": 1,
-      "ver_total": 3,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1968",
-      "year_src": "canonical_album",
+      "ver_total": 2,
+      "year": "1965",
+      "rec_year": "1965",
+      "song_year": "1965",
+      "year_src": "manual_verified",
       "decade": "1960s",
-      "vid": "A1BCQuWuvTE",
-      "vtitle": "מתי",
-      "ch": "Release - Topic",
-      "dur": "1:46",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "שולי נתן",
-      "alb": "שולי נתן שרה נעמי שמר (#8)",
-      "alb_group": "שולי נתן שרה נעמי שמר",
-      "alb_trk": 8,
+      "vid": "vbG5B1wswQc",
+      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
+      "ch": "דוד אסף",
+      "dur": "3:40",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון בר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
       "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
-      "co_creators": "מילים: רחל המשוררת",
-      "opening_line": "הם בלבד נותרו לי",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
         }
       ],
       "alts": [
         {
-          "vid": "2GD7HJfapWM",
-          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:36",
+          "vid": "s8KBMzwFJmA",
+          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:41",
           "src": "direct_alternative"
         },
         {
-          "vid": "QyyIeR3CFuk",
-          "vtitle": "נעמי שמר - מתי",
-          "ch": "סימה",
-          "dur": "4:24",
+          "vid": "nugnCFc2e54",
+          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "4:00",
           "src": "direct_alternative"
-        },
-        {
-          "vid": "04e7PQhn-vY",
-          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:54",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "XIs2ZIJ2oZw",
-          "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
-          "ch": "הגבעטרון | האלבומים הגדולים",
-          "dur": "3:06",
-          "src": "same_song_performance"
         }
       ]
     },
     {
-      "n": 221,
-      "chrono_n": 258,
-      "canon_score": 86.2,
-      "acum_v": 7,
+      "n": 201,
+      "chrono_n": 194,
+      "canon_score": 32.8,
+      "acum_v": 18,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
-      "title": "מתי [ביצוע נעמי שמר] (1968)",
-      "raw_title": "מתי",
-      "alt_titles": [
-        "הם בלבד"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1968",
-      "year_src": "canonical_album",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "הללויה (1966)",
+      "raw_title": "הללויה",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1966",
+      "rec_year": "1966",
+      "song_year": "1966",
+      "year_src": "video_title",
       "decade": "1960s",
-      "vid": "2GD7HJfapWM",
-      "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "1:36",
+      "vid": "EikdgimAjd8",
+      "vtitle": "האחיות שמר- הללויה- 1966",
+      "ch": "דודי פטימר",
+      "dur": "2:26",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "האחיות שמר",
+      "alb": "רביעיית האחיות שמר (#3)",
+      "alb_group": "רביעיית האחיות שמר",
+      "alb_trk": 3,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: דב זלצר, נחלת הכלל)",
+      "co_creators": "מקור: דב זלצר, נחלת הכלל",
+      "opening_line": "אם בשבת אחים יחד הללויה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037492500205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=27055"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1011507",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011507"
+        }
+      ],
+      "alts": []
+    },
+    {
+      "n": 202,
+      "chrono_n": 349,
+      "canon_score": 210.3,
+      "acum_v": 24,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "חליל מקנה-סוף [ביצוע נעמי שמר] (1973)",
+      "raw_title": "חליל מקנה-סוף",
+      "alt_titles": [
+        "חליל מקנה סוף",
+        "ידידי עשה חליל לי מקנה ירוק של סוף",
+        "ידידי עשה חליל לי מקנה ירק של סוף"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1973",
+      "rec_year": "1973",
+      "song_year": "1967",
+      "year_src": "archive_desc",
+      "decade": "1970s",
+      "vid": "04AcSZS8K3s",
+      "vtitle": "נעמי שמר - חליל מקנה סוף",
+      "ch": "כאן | מוזיקה",
+      "dur": "4:10",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
       "perf": "נעמי שמר",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
-      "co_creators": "מילים: רחל המשוררת",
-      "opening_line": "הם בלבד נותרו לי",
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ידידי עשה חליל לי מקנה ירק של סוף",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041840205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4729"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+          "label": "אקו\"ם #1015555",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
         }
       ],
       "alts": [
         {
-          "vid": "A1BCQuWuvTE",
-          "vtitle": "מתי",
-          "ch": "Release - Topic",
-          "dur": "",
+          "vid": "wP2eXGYKT0w",
+          "vtitle": "נתנאלה חליל מקנה סוף",
+          "ch": "נוסטלגיה ישראלית",
+          "dur": "2:02",
           "src": "direct_alternative"
         },
         {
-          "vid": "QyyIeR3CFuk",
-          "vtitle": "נעמי שמר - מתי",
-          "ch": "סימה",
-          "dur": "4:24",
+          "vid": "blJooo_JcHA",
+          "vtitle": "חליל מקנה סוף - רוחמה רז (1977)",
+          "ch": "רוחמה רז - הערוץ הרשמי",
+          "dur": "2:15",
           "src": "direct_alternative"
         },
         {
-          "vid": "04e7PQhn-vY",
-          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:54",
+          "vid": "kYitjm6rqM4",
+          "vtitle": "חליל מקנה סוף - שולי נתן",
+          "ch": "שולי נתן - הערוץ הרשמי",
+          "dur": "2:07",
           "src": "direct_alternative"
         },
         {
-          "vid": "XIs2ZIJ2oZw",
-          "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
-          "ch": "הגבעטרון | האלבומים הגדולים",
-          "dur": "3:06",
+          "vid": "JAY_uZjqmIA",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Netanela - Topic",
+          "dur": "2:02",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "qrvKQtQgb2s",
+          "vtitle": "חליל מקנה סוף",
+          "ch": "Shuly Natan - Topic",
+          "dur": "1:58",
           "src": "same_song_performance"
         }
       ]
     },
     {
-      "n": 222,
-      "chrono_n": 232,
+      "n": 203,
+      "chrono_n": 233,
       "canon_score": 98.9,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 5: סינגלים ולהקות צבאיות — שנות ה-50 וה-60",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "כל הדרך חזרה (1967)",
       "raw_title": "כל הדרך חזרה",
       "alt_titles": [],
@@ -17972,14 +16614,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 223,
-      "chrono_n": 222,
+      "n": 204,
+      "chrono_n": 223,
       "canon_score": 144.9,
       "acum_v": 17,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "עקידת יצחק [ביצוע מקורי] (1967)",
       "raw_title": "עקידת יצחק",
       "alt_titles": [
@@ -18055,14 +16697,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 224,
-      "chrono_n": 220,
+      "n": 205,
+      "chrono_n": 221,
       "canon_score": 60.2,
       "acum_v": 6,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
       "title": "אל תשאלו אותי [ביצוע מקורי] (1967)",
       "raw_title": "אל תשאלו אותי",
       "alt_titles": [],
@@ -18129,14 +16771,180 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 225,
-      "chrono_n": 286,
+      "n": 206,
+      "chrono_n": 258,
+      "canon_score": 86.2,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "מתי [ביצוע מקורי] (1968)",
+      "raw_title": "מתי",
+      "alt_titles": [
+        "הם בלבד"
+      ],
+      "ver_idx": 1,
+      "ver_total": 3,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1968",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "A1BCQuWuvTE",
+      "vtitle": "מתי",
+      "ch": "Release - Topic",
+      "dur": "1:46",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "שולי נתן",
+      "alb": "שולי נתן שרה נעמי שמר (#8)",
+      "alb_group": "שולי נתן שרה נעמי שמר",
+      "alb_trk": 8,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
+      "co_creators": "מילים: רחל המשוררת",
+      "opening_line": "הם בלבד נותרו לי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1321493",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "2GD7HJfapWM",
+          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:36",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "QyyIeR3CFuk",
+          "vtitle": "נעמי שמר - מתי",
+          "ch": "סימה",
+          "dur": "4:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "04e7PQhn-vY",
+          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:54",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "XIs2ZIJ2oZw",
+          "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
+          "ch": "הגבעטרון | האלבומים הגדולים",
+          "dur": "3:06",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 207,
+      "chrono_n": 259,
+      "canon_score": 86.2,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 3: סינגלים, להקות צבאיות וראשית הסולו — שנות ה־50 וה־60 (1956–1968)",
+      "title": "מתי [ביצוע נעמי שמר] (1968)",
+      "raw_title": "מתי",
+      "alt_titles": [
+        "הם בלבד"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1968",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "2GD7HJfapWM",
+      "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+      "ch": "שיר עד - Shir Ad",
+      "dur": "1:36",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
+      "co_creators": "מילים: רחל המשוררת",
+      "opening_line": "הם בלבד נותרו לי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1321493",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "A1BCQuWuvTE",
+          "vtitle": "מתי",
+          "ch": "Release - Topic",
+          "dur": "",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "QyyIeR3CFuk",
+          "vtitle": "נעמי שמר - מתי",
+          "ch": "סימה",
+          "dur": "4:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "04e7PQhn-vY",
+          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:54",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "XIs2ZIJ2oZw",
+          "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
+          "ch": "הגבעטרון | האלבומים הגדולים",
+          "dur": "3:06",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 208,
+      "chrono_n": 287,
       "canon_score": 126.7,
       "acum_v": 5,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "עוד חוזר הניגון [ביצוע מקורי] (1970)",
       "raw_title": "עוד חוזר הניגון",
       "alt_titles": [
@@ -18201,14 +17009,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 226,
-      "chrono_n": 284,
+      "n": 209,
+      "chrono_n": 285,
       "canon_score": 97.5,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "בתכול השמים (1970)",
       "raw_title": "בתכול השמים",
       "alt_titles": [
@@ -18264,14 +17072,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 227,
-      "chrono_n": 285,
+      "n": 210,
+      "chrono_n": 286,
       "canon_score": 116.5,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "האם השלישית (1970)",
       "raw_title": "האם השלישית",
       "alt_titles": [],
@@ -18338,14 +17146,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 228,
-      "chrono_n": 299,
+      "n": 211,
+      "chrono_n": 300,
       "canon_score": 89.4,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "אסוני הצעיר (1971)",
       "raw_title": "אסוני הצעיר",
       "alt_titles": [],
@@ -18398,170 +17206,299 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 229,
-      "chrono_n": 310,
-      "canon_score": 75.5,
-      "acum_v": 17,
+      "n": 212,
+      "chrono_n": 324,
+      "canon_score": 93.3,
+      "acum_v": 9,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
-      "title": "מה אמרו הציפורים [ביצוע מקורי] (1972)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "אין ויש (1972)",
+      "raw_title": "אין ויש",
+      "alt_titles": [],
       "ver_idx": 1,
-      "ver_total": 3,
+      "ver_total": 1,
       "year": "1972",
       "rec_year": "1972",
-      "song_year": "1962",
-      "year_src": "existing_curated",
+      "song_year": "1972",
+      "year_src": "video_title",
       "decade": "1970s",
-      "vid": "UeP8K2lXml8",
-      "vtitle": "מה אמרו - סולנית: מיכל פרס",
-      "ch": "Lehakat Geisot Hashirion - Topic",
-      "dur": "3:01",
+      "vid": "gU6tE4TqExI",
+      "vtitle": "אין ויש - חבורת בימות (קליפ מקורי, 1972)",
+      "ch": "דני גרנות - הערוץ הרשמי",
+      "dur": "2:03",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת גייסות השריון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
+      "perf": "חבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#2)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 2,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
+      "opening_line": "לנו אין נהרות אדירים וגשם בקיץ",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041850205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5874"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+          "label": "אקו\"ם #1002130",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002130"
         }
       ],
       "alts": [
         {
-          "vid": "jqQTqr1gHEI",
-          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-          "ch": "Shir Yafe",
-          "dur": "2:35",
+          "vid": "JUVV06GzaFE",
+          "vtitle": "אין ויש",
+          "ch": "Release - Topic",
+          "dur": "2:06",
           "src": "direct_alternative"
         },
         {
-          "vid": "cV-WsBBOwto",
-          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
+          "vid": "uUo873ymQEM",
+          "vtitle": "אין ויש  חבורת בימות - סולנים רותי בן אברהם ואמיר גינת- מילים ולחן נעמי שמר עיבוד גיל אלדמע 1972",
           "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
+          "dur": "2:06",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "wC-K0MvdHMo",
+          "vtitle": "אין ויש חבורת בימות",
+          "ch": "krechevsky",
+          "dur": "2:07",
           "src": "direct_alternative"
         }
       ]
     },
     {
-      "n": 230,
-      "chrono_n": 113,
-      "canon_score": 75.5,
-      "acum_v": 17,
+      "n": 213,
+      "chrono_n": 326,
+      "canon_score": 196.6,
+      "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
-      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "cV-WsBBOwto",
-      "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "2:23",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (לחן 1)",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "שש עשרה (1972)",
+      "raw_title": "שש עשרה",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "yXzElXsHH38",
+      "vtitle": "שש עשרה",
+      "ch": "Release - Topic",
+      "dur": "2:28",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "חבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#4)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 4,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
+      "opening_line": "בסנדלים על גשר הירקון",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041880205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5879"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+          "label": "אקו\"ם #1035607",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035607"
         }
       ],
       "alts": [
         {
-          "vid": "jqQTqr1gHEI",
-          "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-          "ch": "Shir Yafe",
-          "dur": "2:35",
+          "vid": "GiOkPiYPVRc",
+          "vtitle": "חבורת בימות - שש עשרה",
+          "ch": "Guy Alon",
+          "dur": "2:28",
           "src": "direct_alternative"
         },
         {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
+          "vid": "0gqJ8FBhn4M",
+          "vtitle": "חבורת בימות - שש עשרה",
+          "ch": "בוא שיר עברי",
+          "dur": "2:24",
           "src": "direct_alternative"
         },
         {
-          "vid": "UeP8K2lXml8",
-          "vtitle": "מה אמרו - סולנית: מיכל פרס",
-          "ch": "Lehakat Geisot Hashirion - Topic",
-          "dur": "3:01",
-          "src": "same_song_performance"
+          "vid": "Wbk32r_YIhI",
+          "vtitle": "שש עשרה(בסנדלים על גשר הירקון)- לימור שפירא",
+          "ch": "Limor Shapira",
+          "dur": "2:24",
+          "src": "direct_alternative"
         }
       ]
     },
     {
-      "n": 231,
-      "chrono_n": 341,
+      "n": 214,
+      "chrono_n": 328,
+      "canon_score": 243.2,
+      "acum_v": 50,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "בארץ להד\"ם [ביצוע מקורי] (1972)",
+      "raw_title": "בארץ להד\"ם",
+      "alt_titles": [
+        "ארץ להד\"ם",
+        "להד\"ם"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "ZLzkd2ui6PM",
+      "vtitle": "בארץ להד\"ם",
+      "ch": "Release - Topic",
+      "dur": "2:55",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "חבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#6)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 6,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "בארץ להדם נשמע תמיד הדם של נבל וקתרוס",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042040205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=530"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1005435",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "vxQcorAdAXA",
+          "vtitle": "בארץ להד\"ם",
+          "ch": "Hakol Over Habibi - Topic",
+          "dur": "4:03",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xGM5dCnBYgI",
+          "vtitle": "Land of Lahadam - בארץ להד\"ם",
+          "ch": "ElinoarMoav",
+          "dur": "3:39",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 215,
+      "chrono_n": 330,
+      "canon_score": 42.7,
+      "acum_v": 5,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "אנשים יפים [ביצוע מקורי] (1972)",
+      "raw_title": "אנשים יפים",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "doXUEtdMaxc",
+      "vtitle": "אנשים יפים",
+      "ch": "Release - Topic",
+      "dur": "3:22",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "חבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#9)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 9,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ליל שבת אחרי עשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042920205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5878"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1004294",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "RsAt9yPbA1U",
+          "vtitle": "אנשים יפים - מירי אלוני וחבורת בימות  Miri Aloni",
+          "ch": "מירי אלוני - Miri Aloni",
+          "dur": "3:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "chuU4lFZ5iA",
+          "vtitle": "אנשים יפים - מירי אלוני (מנחה: אהוד מנור, מתוך \"שרים בצוותא\")",
+          "ch": "מירי אלוני - Miri Aloni",
+          "dur": "5:09",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 216,
+      "chrono_n": 342,
       "canon_score": 47.3,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "ברברה [ביצוע מקורי] (1972)",
       "raw_title": "ברברה",
       "alt_titles": [],
@@ -18628,14 +17565,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 232,
-      "chrono_n": 493,
+      "n": 217,
+      "chrono_n": 492,
       "canon_score": 47.3,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "ברברה [ביצוע נעמי שמר] (1981)",
       "raw_title": "ברברה",
       "alt_titles": [],
@@ -18702,14 +17639,84 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 233,
-      "chrono_n": 350,
+      "n": 218,
+      "chrono_n": 602,
+      "canon_score": 101.7,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "שיר ערש למקרים מיוחדים [ביצוע: רבקה מיכאלי] (1990)",
+      "raw_title": "שיר ערש למקרים מיוחדים",
+      "alt_titles": [
+        "נומי בת",
+        "שיר ערש"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1990",
+      "rec_year": "1990",
+      "song_year": "1972",
+      "year_src": "existing_curated",
+      "decade": "1990s+",
+      "vid": "pPE_eIQYtgY",
+      "vtitle": "רבקה מיכאלי - שיר ערש למקרים מיוחדים",
+      "ch": "Eyatn",
+      "dur": "2:09",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "רבקה מיכאלי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "נומי נומי בת חלונות כבר האפילו",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042320205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=40273"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033859",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "tpe1wARxPSs",
+          "vtitle": "שיר ערש למקרים מיוחדים מאת נעמי שמר, שר עוזי מאירי מחבורת בימות, 1972",
+          "ch": "ללי שמר",
+          "dur": "2:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qiWrcnMr02g",
+          "vtitle": "שיר ערש למקרים מיוחדים",
+          "ch": "Noa Levin",
+          "dur": "1:45",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 219,
+      "chrono_n": 351,
       "canon_score": 126.1,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
       "title": "החטא השביעי (1973)",
       "raw_title": "החטא השביעי",
       "alt_titles": [
@@ -18778,14 +17785,90 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 234,
-      "chrono_n": 370,
+      "n": 220,
+      "chrono_n": 362,
+      "canon_score": 188.1,
+      "acum_v": 33,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 4: ראשית שנות ה־70 — סינגלים וחבורת בימות (1970–1974)",
+      "title": "שיר נולד [ביצוע מקורי] (1974)",
+      "raw_title": "שיר נולד",
+      "alt_titles": [
+        "שיר נולד הקשיבו שיר נולד הלילה"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1974",
+      "rec_year": "1974",
+      "song_year": "1974",
+      "year_src": "original_inherited",
+      "decade": "1970s",
+      "vid": "yzSOpEPUXWw",
+      "vtitle": "חוה אלברשטיין והפלטינה - שיר נולד",
+      "ch": "Chava Alberstein - חוה אלברשטיין",
+      "dur": "2:30",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "חוה אלברשטיין והפלטינה",
+      "alb": "חוה אלברשטיין והפלטינה (1974)",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "שיר נולד הקשיבו שיר נולד הלילה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042750205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5873"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033739",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "vNw21mQVfKM",
+          "vtitle": "שיר נולד",
+          "ch": "Uzi meiri - Topic",
+          "dur": "2:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "kdH54d52ryk",
+          "vtitle": "שיר נולד",
+          "ch": "Ariel Horowitz - Topic",
+          "dur": "3:05",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Vs6H2agknmE",
+          "vtitle": "שיר נולד",
+          "ch": "Uzi meiri - Topic",
+          "dur": "2:48",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 221,
+      "chrono_n": 371,
       "canon_score": 79.2,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "לאיש חסדי (1974)",
       "raw_title": "לאיש חסדי",
       "alt_titles": [
@@ -18847,14 +17930,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 235,
-      "chrono_n": 369,
+      "n": 222,
+      "chrono_n": 370,
       "canon_score": 27.3,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "נשים נשים (1974)",
       "raw_title": "נשים נשים",
       "alt_titles": [],
@@ -18921,14 +18004,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 236,
-      "chrono_n": 362,
+      "n": 223,
+      "chrono_n": 363,
       "canon_score": 39.0,
       "acum_v": 2,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "אין אהבות שמחות (1974)",
       "raw_title": "אין אהבות שמחות",
       "alt_titles": [
@@ -18990,14 +18073,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 237,
-      "chrono_n": 363,
+      "n": 224,
+      "chrono_n": 364,
       "canon_score": 28.9,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "לא אבקש את ידך (1974)",
       "raw_title": "לא אבקש את ידך",
       "alt_titles": [
@@ -19068,14 +18151,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 238,
-      "chrono_n": 364,
+      "n": 225,
+      "chrono_n": 365,
       "canon_score": 34.8,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "הצוואה (1974)",
       "raw_title": "הצוואה",
       "alt_titles": [
@@ -19145,14 +18228,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 239,
-      "chrono_n": 368,
+      "n": 226,
+      "chrono_n": 369,
       "canon_score": 29.3,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 5: יוסי בנאי שר ברסאנס — אין אהבות שמחות (1974)",
       "title": "מרגו (1974)",
       "raw_title": "מרגו",
       "alt_titles": [
@@ -19221,90 +18304,315 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 240,
-      "chrono_n": 361,
-      "canon_score": 188.1,
-      "acum_v": 33,
+      "n": 227,
+      "chrono_n": 358,
+      "canon_score": 48.3,
+      "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
-      "title": "שיר נולד [ביצוע מקורי] (1974)",
-      "raw_title": "שיר נולד",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "גדי קטן [ביצוע מקורי] (1973)",
+      "raw_title": "גדי קטן",
       "alt_titles": [
-        "שיר נולד הקשיבו שיר נולד הלילה"
+        "הגדי",
+        "גדי"
       ],
       "ver_idx": 1,
       "ver_total": 2,
-      "year": "1974",
-      "rec_year": "1974",
-      "song_year": "1974",
-      "year_src": "original_inherited",
+      "year": "1973",
+      "rec_year": "1973",
+      "song_year": "1973",
+      "year_src": "archive_desc",
       "decade": "1970s",
-      "vid": "yzSOpEPUXWw",
-      "vtitle": "חוה אלברשטיין והפלטינה - שיר נולד",
-      "ch": "Chava Alberstein - חוה אלברשטיין",
-      "dur": "2:30",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "חוה אלברשטיין והפלטינה",
-      "alb": "חוה אלברשטיין והפלטינה (1974)",
+      "vid": "yKAUdNGyVpA",
+      "vtitle": "נעמי שמר - גדי קטן",
+      "ch": "כאן | מוזיקה",
+      "dur": "1:55",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "שיר נולד הקשיבו שיר נולד הלילה",
+      "opening_line": "גדי קטן גדי קטן גדי צחור קטן",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042750205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045140205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5873"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23534"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1033739",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
+          "label": "אקו\"ם #1041964",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
         }
       ],
       "alts": [
         {
-          "vid": "vNw21mQVfKM",
-          "vtitle": "שיר נולד",
-          "ch": "Uzi meiri - Topic",
-          "dur": "2:48",
+          "vid": "Yd3_uDW6i4w",
+          "vtitle": "גדי קטן",
+          "ch": "דודו זכאי - Topic",
+          "dur": "2:00",
           "src": "direct_alternative"
         },
         {
-          "vid": "kdH54d52ryk",
-          "vtitle": "שיר נולד",
-          "ch": "Ariel Horowitz - Topic",
-          "dur": "3:05",
+          "vid": "rB1MfQi3_Dg",
+          "vtitle": "גדי אחד - נעמי שמר",
+          "ch": "נעמי שמר - יש לי חבר",
+          "dur": "2:12",
           "src": "direct_alternative"
         },
         {
-          "vid": "Vs6H2agknmE",
-          "vtitle": "שיר נולד",
-          "ch": "Uzi meiri - Topic",
-          "dur": "2:48",
+          "vid": "NZMFqOhoPSk",
+          "vtitle": "נעמי שמר - גדי אחד",
+          "ch": "IBA Classics",
+          "dur": "1:59",
           "src": "direct_alternative"
         }
       ]
     },
     {
-      "n": 241,
-      "chrono_n": 389,
+      "n": 228,
+      "chrono_n": 391,
+      "canon_score": 212.9,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "נגיד [ביצוע מקורי] (1975)",
+      "raw_title": "נגיד",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 4,
+      "year": "1975",
+      "rec_year": "1975",
+      "song_year": "1975",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "pjCtGobuuSE",
+      "vtitle": "נגיד",
+      "ch": "נעמי שמר - Topic",
+      "dur": "3:01",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "כיצד שוברים חמסין (נעמי שמר) (#2)",
+      "alb_group": "כיצד שוברים חמסין (נעמי שמר)",
+      "alb_trk": 2,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "נגיד שאני הולכת לטיול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042460205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5891"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1024853",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "oPxh0QBVT8U",
+          "vtitle": "נגיד - נעמי שמר",
+          "ch": "נעמי שמר - יש לי חבר",
+          "dur": "2:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "d6Yyk06UoeU",
+          "vtitle": "נגיד",
+          "ch": "tvmusiceducation",
+          "dur": "3:10",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "XteReGQom40",
+          "vtitle": "נגיד - דורית ראובני | מתוך \"כל שירי נעמי שמר לילדים\"",
+          "ch": "דורית ראובני - Dorit Reuveni",
+          "dur": "2:40",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xI2m7tKJ40E",
+          "vtitle": "אצלנו בפסנתר -2- נגיד (1993)",
+          "ch": "ילדות ישראלית",
+          "dur": "2:19",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "W6iBl_lvP1s",
+          "vtitle": "נגיד - שושיק שני ונועה לביא",
+          "ch": "אריק לביא Arik Lavie",
+          "dur": "1:53",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 229,
+      "chrono_n": 398,
+      "canon_score": 45.0,
+      "acum_v": 50,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "שיר הכזבים [ביצוע מקורי] (1975)",
+      "raw_title": "שיר הכזבים",
+      "alt_titles": [
+        "לא היו דברים מעולם"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1975",
+      "rec_year": "1975",
+      "song_year": "1975",
+      "year_src": "stereo_ve_mono",
+      "decade": "1970s",
+      "vid": "RqHN-so83M4",
+      "vtitle": "שיר הכזבים",
+      "ch": "נעמי שמר - Topic",
+      "dur": "2:23",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "נעמי שמר שרה לילדים ועודד תאומי עושה להם הצגות (#15)",
+      "alb_group": "נעמי שמר שרה לילדים ועודד תאומי עושה להם הצגות",
+      "alb_trk": 15,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "פעם עוזי ואבנר רצו לראות אם קש בוער",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041830205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5894"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033137",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033137"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Omn_wSe-dKU",
+          "vtitle": "אצלנו בפסנתר -3- שיר הכזבים (1993)",
+          "ch": "ילדות ישראלית",
+          "dur": "2:12",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 230,
+      "chrono_n": 394,
+      "canon_score": 64.3,
+      "acum_v": 8,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "לנוע ולנדוד [ביצוע מקורי] (1975)",
+      "raw_title": "לנוע ולנדוד",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1975",
+      "rec_year": "1975",
+      "song_year": "1975",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "2o1uo7sstSI",
+      "vtitle": "לנוע ולנדוד",
+      "ch": "נעמי שמר - Topic",
+      "dur": "2:40",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "כיצד שוברים חמסין (נעמי שמר) (#5)",
+      "alb_group": "כיצד שוברים חמסין (נעמי שמר)",
+      "alb_trk": 5,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנו שובבים רגלינו קלילות",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042520205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5893"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1021093",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021093"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "nFRHaySAOQA",
+          "vtitle": "לנוע ולנדוד (feat. אורי ביתן)",
+          "ch": "יעל ארנון ורד",
+          "dur": "1:15",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "1hX3rZjdZNY",
+          "vtitle": "נעמי שמר - לנוע ולנדוד",
+          "ch": "כאן | מוזיקה",
+          "dur": "3:54",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "i9KzXu-Nhx0",
+          "vtitle": "לנוע ולנדוד - דורית ראובני | מתוך \"כל שירי נעמי שמר לילדים\"",
+          "ch": "דורית ראובני - Dorit Reuveni",
+          "dur": "3:02",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 231,
+      "chrono_n": 390,
       "canon_score": 76.5,
       "acum_v": 16,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "משנכנס אדר [ביצוע מקורי] (1975)",
       "raw_title": "משנכנס אדר",
       "alt_titles": [
@@ -19366,14 +18674,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 242,
-      "chrono_n": 391,
+      "n": 232,
+      "chrono_n": 392,
       "canon_score": 108.2,
       "acum_v": 8,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "נצא השדה [ביצוע מקורי] (1975)",
       "raw_title": "נצא השדה",
       "alt_titles": [
@@ -19443,84 +18751,106 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 243,
-      "chrono_n": 449,
-      "canon_score": 143.6,
-      "acum_v": 14,
+      "n": 233,
+      "chrono_n": 453,
+      "canon_score": 151.9,
+      "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
-      "title": "בעלייתי שם יפתי (1977)",
-      "raw_title": "בעלייתי שם יפתי",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "נר ראשון של חנוכה [ביצוע מקורי] (1977)",
+      "raw_title": "נר ראשון של חנוכה",
       "alt_titles": [
-        "יללת הרוח",
-        "בעליתי שם יפתי"
+        "נר ראשון של חנכה",
+        "נר ראשון של חנוכה לי יאיר בחשכה",
+        "אורים שבחלון לי מוסרים דרישת שלום"
       ],
       "ver_idx": 1,
-      "ver_total": 1,
+      "ver_total": 3,
       "year": "1977",
       "rec_year": "1977",
       "song_year": "1977",
-      "year_src": "stereo_ve_mono",
+      "year_src": "canonical_album",
       "decade": "1970s",
-      "vid": "X0EHaEth0TQ",
-      "vtitle": "יהורם גאון    בעלייתי שם יפתי חדש",
-      "ch": "YehoramGaonOfficial",
-      "dur": "2:13",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "יהורם גאון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
+      "vid": "E3V70DpK_EI",
+      "vtitle": "נר ראשון של חנוכה",
+      "ch": "נעמי שמר - Topic",
+      "dur": "2:33",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "הטיול הקטן – כל שירי נעמי שמר לילדים",
+      "alb_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
       "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: שאול טשרניחובסקי",
-      "co_creators": "מילים: שאול טשרניחובסקי",
-      "opening_line": "יללת רוח לא תנוח בארבה אאזינה",
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "נר ראשון של חנכה לי יאיר בחשכה",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042810205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042510205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9544"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4332"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1007202",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007202"
+          "label": "אקו\"ם #1025630",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
         }
       ],
       "alts": [
         {
-          "vid": "PWJ9TTeBRcE",
-          "vtitle": "יהורם גאון - בעליתי שם יפתי",
-          "ch": "מוזיקה ישראלית",
-          "dur": "2:18",
+          "vid": "VtH6NkAXl20",
+          "vtitle": "נעמי שמר נר ראשון של חנוכה",
+          "ch": "נוסטלגיה ישראלית",
+          "dur": "2:35",
           "src": "direct_alternative"
         },
         {
-          "vid": "VEoPAsTSqYY",
-          "vtitle": "יהורם גאון   בעלייתי שם יפתי",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:07",
+          "vid": "EN9teQUDlPI",
+          "vtitle": "נר ראשון של חנוכה",
+          "ch": "Release - Topic",
+          "dur": "2:35",
           "src": "direct_alternative"
+        },
+        {
+          "vid": "a49WH6PKzKY",
+          "vtitle": "נר ראשון של חנוכה",
+          "ch": "Release - Topic",
+          "dur": "2:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "mpPxqJrum-M",
+          "vtitle": "נעמי שמר בפסטיבל שירי ילדים מס' 15 עם השיר \"נר ראשון של חנוכה\" (1984)",
+          "ch": "ללי שמר",
+          "dur": "7:33",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "YYVengVA5V8",
+          "vtitle": "החתול שמיל עם נתן דטנר – תוכנית מלאה לחג החנוכה עם נעמי שמר",
+          "ch": "נתן דטנר",
+          "dur": "26:41",
+          "src": "same_song_performance"
         }
       ]
     },
     {
-      "n": 244,
-      "chrono_n": 425,
+      "n": 234,
+      "chrono_n": 426,
       "canon_score": 51.0,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "בזכותם (1976)",
       "raw_title": "בזכותם",
       "alt_titles": [
@@ -19593,14 +18923,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 245,
-      "chrono_n": 409,
+      "n": 235,
+      "chrono_n": 410,
       "canon_score": 37.3,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "שיר לכת (1976)",
       "raw_title": "שיר לכת",
       "alt_titles": [
@@ -19647,14 +18977,84 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 246,
-      "chrono_n": 468,
+      "n": 236,
+      "chrono_n": 450,
+      "canon_score": 143.6,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "בעלייתי שם יפתי (1977)",
+      "raw_title": "בעלייתי שם יפתי",
+      "alt_titles": [
+        "יללת הרוח",
+        "בעליתי שם יפתי"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1977",
+      "rec_year": "1977",
+      "song_year": "1977",
+      "year_src": "stereo_ve_mono",
+      "decade": "1970s",
+      "vid": "X0EHaEth0TQ",
+      "vtitle": "יהורם גאון    בעלייתי שם יפתי חדש",
+      "ch": "YehoramGaonOfficial",
+      "dur": "2:13",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "יהורם גאון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: שאול טשרניחובסקי",
+      "co_creators": "מילים: שאול טשרניחובסקי",
+      "opening_line": "יללת רוח לא תנוח בארבה אאזינה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042810205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9544"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1007202",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007202"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "PWJ9TTeBRcE",
+          "vtitle": "יהורם גאון - בעליתי שם יפתי",
+          "ch": "מוזיקה ישראלית",
+          "dur": "2:18",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "VEoPAsTSqYY",
+          "vtitle": "יהורם גאון   בעלייתי שם יפתי",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:07",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 237,
+      "chrono_n": 469,
       "canon_score": 25.5,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 6: סינגלים, שאנסונים ולהקות צבאיות — שנות ה-70",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
       "title": "כריש (1978)",
       "raw_title": "כריש",
       "alt_titles": [
@@ -19725,88 +19125,74 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 247,
-      "chrono_n": 524,
-      "canon_score": 97.3,
-      "acum_v": 6,
+      "n": 238,
+      "chrono_n": 680,
+      "canon_score": 107.6,
+      "acum_v": 22,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
-      "title": "יפעת [ביצוע מקורי] (1982)",
-      "raw_title": "יפעת",
+      "ch_lbl": "פרק 6: אלבום הילדים \"כיצד שוברים חמסין\" וסוף שנות ה־70 (1973–1979)",
+      "title": "למה צחקה מיכל (2005)",
+      "raw_title": "למה צחקה מיכל",
       "alt_titles": [],
       "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1982",
-      "rec_year": "1982",
-      "song_year": "1982",
-      "year_src": "streaming_api",
-      "decade": "1980s",
-      "vid": "cmQ9upI0aG8",
-      "vtitle": "יגאל בשן - יפעת",
-      "ch": "יגאל בשן - הערוץ הרשמי",
-      "dur": "3:25",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "יגאל בשן",
+      "ver_total": 1,
+      "year": "2005",
+      "rec_year": "2005",
+      "song_year": "1979",
+      "year_src": "manual_verified",
+      "decade": "1990s+",
+      "vid": "hdskywcJSMo",
+      "vtitle": "למה צחקה מיכל",
+      "ch": "Gitit Shoval - Topic",
+      "dur": "2:50",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "גיתית שובל",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
+      "alb_trk": 11,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "עיר זרה ורוח בפנים על העיר חופה של עננים",
+      "opening_line": "כשהחג היה בארץ והשמש בערה",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043770205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042640205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5120"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5643"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1017661",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017661"
+          "label": "אקו\"ם #1021005",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021005"
         }
       ],
       "alts": [
         {
-          "vid": "n2t3bDiJcMk",
-          "vtitle": "הגשש החיוור - יפעת",
-          "ch": "הגשש החיוור",
-          "dur": "2:43",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "zqdwsdAZax8",
-          "vtitle": "מחרוזת יגאל בשן יאיר גמליאל יפעת וזוהר",
-          "ch": "יאיר גמליאל",
-          "dur": "1:51",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "tGT0eZmkp9c",
-          "vtitle": "יפעת מאת נעמי שמר שרה תמר גלעדי, כנרת 2015",
-          "ch": "ללי שמר",
-          "dur": "3:43",
+          "vid": "lSMMHqqi5CU",
+          "vtitle": "האחים אסנר \"למה צחקה מיכל\" מתוך מופע מחווה לשירי הגששים",
+          "ch": "האחים אסנר - הערוץ הרשמי",
+          "dur": "2:30",
           "src": "direct_alternative"
         }
       ]
     },
     {
-      "n": 248,
-      "chrono_n": 512,
+      "n": 239,
+      "chrono_n": 511,
       "canon_score": 53.3,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "תן כתף [ביצוע מקורי] (1981)",
       "raw_title": "תן כתף",
       "alt_titles": [
@@ -19882,14 +19268,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 249,
-      "chrono_n": 513,
+      "n": 240,
+      "chrono_n": 512,
       "canon_score": 53.3,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "תן כתף [ביצוע נעמי שמר] (1981)",
       "raw_title": "תן כתף",
       "alt_titles": [
@@ -19965,14 +19351,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 250,
-      "chrono_n": 507,
+      "n": 241,
+      "chrono_n": 506,
       "canon_score": 43.2,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "את הכי הכי [ביצוע מקורי] (1981)",
       "raw_title": "את הכי הכי",
       "alt_titles": [],
@@ -20032,14 +19418,88 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 251,
-      "chrono_n": 533,
+      "n": 242,
+      "chrono_n": 523,
+      "canon_score": 97.3,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
+      "title": "יפעת [ביצוע מקורי] (1982)",
+      "raw_title": "יפעת",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1982",
+      "rec_year": "1982",
+      "song_year": "1982",
+      "year_src": "streaming_api",
+      "decade": "1980s",
+      "vid": "cmQ9upI0aG8",
+      "vtitle": "יגאל בשן - יפעת",
+      "ch": "יגאל בשן - הערוץ הרשמי",
+      "dur": "3:25",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "יגאל בשן",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "עיר זרה ורוח בפנים על העיר חופה של עננים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043770205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5120"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1017661",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017661"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "n2t3bDiJcMk",
+          "vtitle": "הגשש החיוור - יפעת",
+          "ch": "הגשש החיוור",
+          "dur": "2:43",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "zqdwsdAZax8",
+          "vtitle": "מחרוזת יגאל בשן יאיר גמליאל יפעת וזוהר",
+          "ch": "יאיר גמליאל",
+          "dur": "1:51",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "tGT0eZmkp9c",
+          "vtitle": "יפעת מאת נעמי שמר שרה תמר גלעדי, כנרת 2015",
+          "ch": "ללי שמר",
+          "dur": "3:43",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 243,
+      "chrono_n": 532,
       "canon_score": 79.0,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "פרדס חנה בשבת (1983)",
       "raw_title": "פרדס חנה בשבת",
       "alt_titles": [],
@@ -20092,14 +19552,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 252,
-      "chrono_n": 539,
+      "n": 244,
+      "chrono_n": 538,
       "canon_score": 108.0,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "אל תלכי מכאן (1984)",
       "raw_title": "אל תלכי מכאן",
       "alt_titles": [
@@ -20173,14 +19633,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 253,
-      "chrono_n": 548,
+      "n": 245,
+      "chrono_n": 547,
       "canon_score": 133.8,
       "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "התחדשות אחרת (1985)",
       "raw_title": "התחדשות אחרת",
       "alt_titles": [],
@@ -20247,14 +19707,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 254,
-      "chrono_n": 549,
+      "n": 246,
+      "chrono_n": 548,
       "canon_score": 88.8,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "לאורך הטיילת (1985)",
       "raw_title": "לאורך הטיילת",
       "alt_titles": [
@@ -20302,14 +19762,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 255,
-      "chrono_n": 555,
+      "n": 247,
+      "chrono_n": 554,
       "canon_score": 82.5,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 7: ראשית שנות ה־80 — סינגלים והרכבים (1981–1986)",
       "title": "ליבבתיני (1986)",
       "raw_title": "ליבבתיני",
       "alt_titles": [
@@ -20371,14 +19831,617 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
+      "n": 248,
+      "chrono_n": 560,
+      "canon_score": 96.5,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "גג (1987)",
+      "raw_title": "גג",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "bzLl7TH_VxQ",
+      "vtitle": "גג",
+      "ch": "Release - Topic",
+      "dur": "2:49",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#1)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 1,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "גנוב על העיר הזאת נעול עליה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041970205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9973"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1007940",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007940"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "cWMfskVNFcc",
+          "vtitle": "גג משה בקר מילים ולחן: נעמי שמר",
+          "ch": "Илья Фрейдкин",
+          "dur": "2:49",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 249,
+      "chrono_n": 561,
+      "canon_score": 93.0,
+      "acum_v": 5,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "ילדה ברבור (1987)",
+      "raw_title": "ילדה ברבור",
+      "alt_titles": [
+        "ילדה-ברבור"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "9aIw7qJAOA4",
+      "vtitle": "ילדה ברבור מאת נעמי שמר שר משה בקר",
+      "ch": "ללי שמר",
+      "dur": "3:33",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#2)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 2,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ילדה ברבור היא בת דקה או שתים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042370205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9972"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1017303",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017303"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "zHmm0bb_x5c",
+          "vtitle": "ילדה - ברבור",
+          "ch": "Release - Topic",
+          "dur": "3:39",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "OtVM_4uGMwQ",
+          "vtitle": "משה בקר- ילדה ברבור-שמיניות באויר עם דליק",
+          "ch": "tishrei24",
+          "dur": "3:36",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xfRydK85HOQ",
+          "vtitle": "ילדה ברבור - שחר שמאי",
+          "ch": "Shachar Shamai",
+          "dur": "2:47",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 250,
+      "chrono_n": 562,
+      "canon_score": 39.4,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "פרלוד (1987)",
+      "raw_title": "פרלוד",
+      "alt_titles": [
+        "פרילוד"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "sgMLsWRX7SI",
+      "vtitle": "פרלוד",
+      "ch": "Release - Topic",
+      "dur": "3:22",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#3)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 3,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אם זה תורה להסתלק היא לא תעשה מזה ענין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042340205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18406"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1029366",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029366"
+        }
+      ],
+      "alts": []
+    },
+    {
+      "n": 251,
+      "chrono_n": 563,
+      "canon_score": 100.7,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "אהבת אשתקד [ביצוע מקורי] (1987)",
+      "raw_title": "אהבת אשתקד",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "VaztQIe75Ns",
+      "vtitle": "אהבת אשתקד",
+      "ch": "Release - Topic",
+      "dur": "3:48",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#4)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 4,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042070205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6554"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1000832",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "U3xSpmrTgXc",
+          "vtitle": "אהבת אשתקד",
+          "ch": "Haparvarim - Topic",
+          "dur": "3:21",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 252,
+      "chrono_n": 564,
+      "canon_score": 176.0,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "תות (1987)",
+      "raw_title": "תות",
+      "alt_titles": [
+        "אם את רוצה לגרום לי נחת"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "KO7lZhbeFDs",
+      "vtitle": "תות",
+      "ch": "Release - Topic",
+      "dur": "3:02",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#5)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 5,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אם את רוצה לגרם לי נחת",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043070205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9277"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1035854",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035854"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "PZ-0RpojGSQ",
+          "vtitle": "משה בקר תות שדה 1986",
+          "ch": "דודי פטימר",
+          "dur": "3:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "XezJi9pRfz8",
+          "vtitle": "״נעמי שמר״- תות שדה רמת השרון",
+          "ch": "InbariG",
+          "dur": "2:32",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 253,
+      "chrono_n": 567,
+      "canon_score": 142.8,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "גיא [ביצוע מקורי] (1987)",
+      "raw_title": "גיא",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "PXL8ltjFDCk",
+      "vtitle": "גיא",
+      "ch": "Release - Topic",
+      "dur": "2:27",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#9)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 9,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "גיא אתה ואני ודי אני ואתה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043880205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5076"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1008075",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "9Zve4BWzx-Q",
+          "vtitle": "משה בקר- גיא",
+          "ch": "כאן | מוזיקה",
+          "dur": "2:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "CSjnGcglVJI",
+          "vtitle": "אצלנו בפסנתר -6- גיא",
+          "ch": "Release - Topic",
+          "dur": "2:19",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "KXAdKoWGyAY",
+          "vtitle": "גיא בן 60 \"אורלי עשתה לי את הפתעת חיי'\" // 'גיא' מאת נעמי שמר",
+          "ch": "אורלי וגיא הערוץ הרשמי",
+          "dur": "2:44",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 254,
+      "chrono_n": 568,
+      "canon_score": 87.6,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "חפצים אישיים (1987)",
+      "raw_title": "חפצים אישיים",
+      "alt_titles": [
+        "קלידים הלבנים והשחורים את מגע ידה הקל זוכרים"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "gpo_GVko6OA",
+      "vtitle": "חפצים אישיים",
+      "ch": "Release - Topic",
+      "dur": "3:32",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#10)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 10,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "הקלידים הלבנים והשחורים את מגע ידה הקל זוכרים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042380205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=9971"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015795",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015795"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "7CZgDVpwcuc",
+          "vtitle": "חפצים אישיים - משה בקר | מתוך האלבום \"חפצים אישיים\"",
+          "ch": "משה בקר Moshe Beker",
+          "dur": "3:32",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "lFtgAzIbKs0",
+          "vtitle": "חפצים אישיים מאת נעמי שמר שרה תמר גלעדי , פסנתר: רמי הראל",
+          "ch": "ללי שמר",
+          "dur": "3:27",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 255,
+      "chrono_n": 569,
+      "canon_score": 153.5,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "בראשון לספטמבר (1987)",
+      "raw_title": "בראשון לספטמבר",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1987",
+      "rec_year": "1987",
+      "song_year": "1987",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "nz7sT486EYw",
+      "vtitle": "בראשון לספטמבר",
+      "ch": "Release - Topic",
+      "dur": "4:20",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "חפצים אישיים (משה בקר) (#11)",
+      "alb_group": "חפצים אישיים (משה בקר)",
+      "alb_trk": 11,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "בראשון לספטמבר אלף תשע מאות ששים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042550205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4333"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1061917",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1061917"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "bDfiOaZjRcg",
+          "vtitle": "בראשון לספטמבר - משה בקר",
+          "ch": "נחום יערי - הנשר הירוק",
+          "dur": "4:29",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "8BidJ7Q8V-A",
+          "vtitle": "בראשון לספטמבר-משה בקר",
+          "ch": "tishrei24",
+          "dur": "5:01",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "taTMkde0CE8",
+          "vtitle": "בראשון לספטמבר | משה בקר (ביצוע מחודש, 2007) | סולו",
+          "ch": "משה בקר Moshe Beker",
+          "dur": "4:59",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
       "n": 256,
-      "chrono_n": 588,
+      "chrono_n": 601,
+      "canon_score": 25.1,
+      "acum_v": 1,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 8: נעמי שמר ומשה בקר — \"חפצים אישיים\" ו\"תות\" (1987–1989)",
+      "title": "עלי שלכת (1989)",
+      "raw_title": "עלי שלכת",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1989",
+      "rec_year": "1989",
+      "song_year": "1989",
+      "year_src": "original_inherited",
+      "decade": "1980s",
+      "vid": "ut3moC4G-QI",
+      "vtitle": "עלי שלכת | משה בקר | סולו",
+      "ch": "משה בקר Moshe Beker",
+      "dur": "3:28",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משה בקר",
+      "alb": "סולו",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "translation",
+      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
+      "co_creators": "מקור: יוסף קוסמה",
+      "opening_line": "עוד מהלכת הרוח בגן עוד מספר אגדות השושן",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990038397030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=19912"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1058418",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1058418"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "m2Lv1L50zPI",
+          "vtitle": "עלי שלכת משה בקר",
+          "ch": "tishrei24",
+          "dur": "3:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "q4mJlne1l-A",
+          "vtitle": "משה בקר - עלי שלכת .",
+          "ch": "חיים ברליאה",
+          "dur": "3:40",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 257,
+      "chrono_n": 587,
       "canon_score": 44.1,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "אחר קציר (1988)",
       "raw_title": "אחר קציר",
       "alt_titles": [],
@@ -20445,14 +20508,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 257,
-      "chrono_n": 593,
+      "n": 258,
+      "chrono_n": 592,
       "canon_score": 137.7,
       "acum_v": 13,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "על ראש שמחתי (1988)",
       "raw_title": "על ראש שמחתי",
       "alt_titles": [],
@@ -20519,14 +20582,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 258,
-      "chrono_n": 592,
+      "n": 259,
+      "chrono_n": 591,
       "canon_score": 24.0,
       "acum_v": 2,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "ילד רע תל אביב (1988)",
       "raw_title": "ילד רע תל אביב",
       "alt_titles": [
@@ -20573,14 +20636,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 259,
-      "chrono_n": 601,
+      "n": 260,
+      "chrono_n": 600,
       "canon_score": 83.9,
       "acum_v": 3,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "עוד מעט מסך (1989)",
       "raw_title": "עוד מעט מסך",
       "alt_titles": [
@@ -20628,14 +20691,14 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 260,
-      "chrono_n": 598,
+      "n": 261,
+      "chrono_n": 597,
       "canon_score": 27.9,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "אישה על החוף (1989)",
       "raw_title": "אישה על החוף",
       "alt_titles": [
@@ -20704,14 +20767,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 261,
-      "chrono_n": 597,
+      "n": 262,
+      "chrono_n": 596,
       "canon_score": 32.4,
       "acum_v": 1,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "מוזיקה (1989)",
       "raw_title": "מוזיקה",
       "alt_titles": [
@@ -20766,84 +20829,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 262,
-      "chrono_n": 603,
-      "canon_score": 101.7,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
-      "title": "שיר ערש למקרים מיוחדים [ביצוע: רבקה מיכאלי] (1990)",
-      "raw_title": "שיר ערש למקרים מיוחדים",
-      "alt_titles": [
-        "נומי בת",
-        "שיר ערש"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1990",
-      "rec_year": "1990",
-      "song_year": "1972",
-      "year_src": "existing_curated",
-      "decade": "1990s+",
-      "vid": "pPE_eIQYtgY",
-      "vtitle": "רבקה מיכאלי - שיר ערש למקרים מיוחדים",
-      "ch": "Eyatn",
-      "dur": "2:09",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "רבקה מיכאלי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "נומי נומי בת חלונות כבר האפילו",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042320205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=40273"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033859",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "tpe1wARxPSs",
-          "vtitle": "שיר ערש למקרים מיוחדים מאת נעמי שמר, שר עוזי מאירי מחבורת בימות, 1972",
-          "ch": "ללי שמר",
-          "dur": "2:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qiWrcnMr02g",
-          "vtitle": "שיר ערש למקרים מיוחדים",
-          "ch": "Noa Levin",
-          "dur": "1:45",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
       "n": 263,
-      "chrono_n": 605,
+      "chrono_n": 604,
       "canon_score": 53.8,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "בניך מרחוק (1990)",
       "raw_title": "בניך מרחוק",
       "alt_titles": [
@@ -20915,13 +20908,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 264,
-      "chrono_n": 608,
+      "chrono_n": 607,
       "canon_score": 46.0,
       "acum_v": 46,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "למבדה על החוף (1990)",
       "raw_title": "למבדה על החוף",
       "alt_titles": [
@@ -20970,13 +20963,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 265,
-      "chrono_n": 613,
+      "chrono_n": 612,
       "canon_score": 71.3,
       "acum_v": 14,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "והוא יושיענו [ביצוע מקורי] (1991)",
       "raw_title": "והוא יושיענו",
       "alt_titles": [
@@ -21060,13 +21053,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 266,
-      "chrono_n": 615,
+      "chrono_n": 614,
       "canon_score": 151.4,
       "acum_v": 13,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "לחם האוהבים (1991)",
       "raw_title": "לחם האוהבים",
       "alt_titles": [
@@ -21138,13 +21131,90 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 267,
-      "chrono_n": 625,
+      "chrono_n": 665,
+      "canon_score": 181.5,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "p2",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
+      "title": "אקטואליה [ביצוע נעמי שמר] (2000)",
+      "raw_title": "אקטואליה",
+      "alt_titles": [
+        "הורה אלפיים",
+        "הורה 2000"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "2000",
+      "rec_year": "2000",
+      "song_year": "1991",
+      "year_src": "archive_desc",
+      "decade": "1990s+",
+      "vid": "iz3Et-1Ywe8",
+      "vtitle": "אקטואליה מאת נעמי שמר, שרים נעמי שמר, דודו אלהרר, רונית רולנד ורמי הראל",
+      "ch": "ללי שמר",
+      "dur": "3:40",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "יחזקאל בן בוזי יושב לו בג'קוזי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042170205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6989"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1122274",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "bAneNhkf6Jw",
+          "vtitle": "אקטואליה - נעמי שמר",
+          "ch": "דוד אסף",
+          "dur": "2:53",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Xftqfe7eTPw",
+          "vtitle": "מחווה לנעמי שמר בקאמרי - רבקה מיכאלי - אקטואליה",
+          "ch": "יובל אראל",
+          "dur": "2:30",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "CwORk-NwrQM",
+          "vtitle": "אקטואליה - אריק לביא - הקלטה נדירה",
+          "ch": "אריק לביא Arik Lavie",
+          "dur": "2:46",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 268,
+      "chrono_n": 624,
       "canon_score": 124.1,
       "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "עיר ואם (1992)",
       "raw_title": "עיר ואם",
       "alt_titles": [],
@@ -21211,14 +21281,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 268,
-      "chrono_n": 623,
+      "n": 269,
+      "chrono_n": 622,
       "canon_score": 155.2,
       "acum_v": 12,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "שנה טובה [ביצוע מקורי] (1992)",
       "raw_title": "שנה טובה",
       "alt_titles": [],
@@ -21285,14 +21355,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 269,
-      "chrono_n": 663,
+      "n": 270,
+      "chrono_n": 662,
       "canon_score": 104.2,
       "acum_v": 11,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "מי ידליק [ביצוע מקורי] (1998)",
       "raw_title": "מי ידליק",
       "alt_titles": [
@@ -21370,14 +21440,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 270,
-      "chrono_n": 661,
+      "n": 271,
+      "chrono_n": 660,
       "canon_score": 198.9,
       "acum_v": 16,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "יובל [ביצוע מקורי] (1998)",
       "raw_title": "יובל",
       "alt_titles": [],
@@ -21444,91 +21514,14 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 271,
-      "chrono_n": 666,
-      "canon_score": 181.5,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
-      "title": "אקטואליה [ביצוע נעמי שמר] (2000)",
-      "raw_title": "אקטואליה",
-      "alt_titles": [
-        "הורה אלפיים",
-        "הורה 2000"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "2000",
-      "rec_year": "2000",
-      "song_year": "1991",
-      "year_src": "archive_desc",
-      "decade": "1990s+",
-      "vid": "iz3Et-1Ywe8",
-      "vtitle": "אקטואליה מאת נעמי שמר, שרים נעמי שמר, דודו אלהרר, רונית רולנד ורמי הראל",
-      "ch": "ללי שמר",
-      "dur": "3:40",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "יחזקאל בן בוזי יושב לו בג'קוזי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042170205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6989"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1122274",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "bAneNhkf6Jw",
-          "vtitle": "אקטואליה - נעמי שמר",
-          "ch": "דוד אסף",
-          "dur": "2:53",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Xftqfe7eTPw",
-          "vtitle": "מחווה לנעמי שמר בקאמרי - רבקה מיכאלי - אקטואליה",
-          "ch": "יובל אראל",
-          "dur": "2:30",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "CwORk-NwrQM",
-          "vtitle": "אקטואליה - אריק לביא - הקלטה נדירה",
-          "ch": "אריק לביא Arik Lavie",
-          "dur": "2:46",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
       "n": 272,
-      "chrono_n": 670,
+      "chrono_n": 669,
       "canon_score": 144.0,
       "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "פרק 7: סינגלים וביצועים מוכרים — שנות ה-80, ה-90 וה-2000",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "המנגן (2001)",
       "raw_title": "המנגן",
       "alt_titles": [
@@ -21577,13 +21570,13 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 273,
-      "chrono_n": 673,
+      "chrono_n": 672,
       "canon_score": 178.2,
       "acum_v": 8,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "p2",
-      "ch_lbl": "",
+      "ch_lbl": "פרק 9: שלהי שנות ה־80, שנות ה־90 וה־2000 (1988–2002)",
       "title": "המעיל [ביצוע מקורי] (2002)",
       "raw_title": "המעיל",
       "alt_titles": [
@@ -24351,7 +24344,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 322,
-      "chrono_n": 172,
+      "chrono_n": 173,
       "canon_score": 42.4,
       "acum_v": 2,
       "layer": 3,
@@ -24646,7 +24639,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 327,
-      "chrono_n": 174,
+      "chrono_n": 175,
       "canon_score": 20.5,
       "acum_v": 1,
       "layer": 3,
@@ -25223,7 +25216,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 337,
-      "chrono_n": 192,
+      "chrono_n": 193,
       "canon_score": 13.3,
       "acum_v": 1,
       "layer": 3,
@@ -25272,7 +25265,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 338,
-      "chrono_n": 200,
+      "chrono_n": 201,
       "canon_score": 19.3,
       "acum_v": 1,
       "layer": 3,
@@ -25319,7 +25312,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 339,
-      "chrono_n": 194,
+      "chrono_n": 195,
       "canon_score": 6.3,
       "acum_v": 0,
       "layer": 3,
@@ -25361,7 +25354,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 340,
-      "chrono_n": 191,
+      "chrono_n": 192,
       "canon_score": 20.6,
       "acum_v": 1,
       "layer": 3,
@@ -25421,7 +25414,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 341,
-      "chrono_n": 197,
+      "chrono_n": 198,
       "canon_score": 6.1,
       "acum_v": 0,
       "layer": 3,
@@ -25466,7 +25459,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 342,
-      "chrono_n": 184,
+      "chrono_n": 185,
       "canon_score": 30.6,
       "acum_v": 1,
       "layer": 3,
@@ -25515,7 +25508,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 343,
-      "chrono_n": 230,
+      "chrono_n": 231,
       "canon_score": 6.1,
       "acum_v": 0,
       "layer": 3,
@@ -25568,7 +25561,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 344,
-      "chrono_n": 281,
+      "chrono_n": 282,
       "canon_score": 32.0,
       "acum_v": 6,
       "layer": 3,
@@ -25645,7 +25638,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 345,
-      "chrono_n": 256,
+      "chrono_n": 257,
       "canon_score": 24.2,
       "acum_v": 2,
       "layer": 3,
@@ -25719,7 +25712,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 346,
-      "chrono_n": 260,
+      "chrono_n": 261,
       "canon_score": 31.7,
       "acum_v": 2,
       "layer": 3,
@@ -25786,7 +25779,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 347,
-      "chrono_n": 261,
+      "chrono_n": 262,
       "canon_score": 6.3,
       "acum_v": 0,
       "layer": 3,
@@ -25838,7 +25831,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 348,
-      "chrono_n": 263,
+      "chrono_n": 264,
       "canon_score": 14.3,
       "acum_v": 1,
       "layer": 3,
@@ -25887,7 +25880,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 349,
-      "chrono_n": 274,
+      "chrono_n": 275,
       "canon_score": 19.3,
       "acum_v": 1,
       "layer": 3,
@@ -25936,7 +25929,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 350,
-      "chrono_n": 275,
+      "chrono_n": 276,
       "canon_score": 29.1,
       "acum_v": 2,
       "layer": 3,
@@ -26005,7 +25998,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 351,
-      "chrono_n": 296,
+      "chrono_n": 297,
       "canon_score": 29.0,
       "acum_v": 1,
       "layer": 3,
@@ -26057,7 +26050,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 352,
-      "chrono_n": 295,
+      "chrono_n": 296,
       "canon_score": 40.9,
       "acum_v": 1,
       "layer": 3,
@@ -26117,7 +26110,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 353,
-      "chrono_n": 302,
+      "chrono_n": 303,
       "canon_score": 25.3,
       "acum_v": 3,
       "layer": 3,
@@ -26177,7 +26170,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 354,
-      "chrono_n": 300,
+      "chrono_n": 301,
       "canon_score": 31.7,
       "acum_v": 6,
       "layer": 3,
@@ -26242,7 +26235,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 355,
-      "chrono_n": 304,
+      "chrono_n": 305,
       "canon_score": 22.6,
       "acum_v": 2,
       "layer": 3,
@@ -26299,7 +26292,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 356,
-      "chrono_n": 305,
+      "chrono_n": 306,
       "canon_score": 12.7,
       "acum_v": 1,
       "layer": 3,
@@ -26349,7 +26342,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 357,
-      "chrono_n": 307,
+      "chrono_n": 308,
       "canon_score": 24.7,
       "acum_v": 3,
       "layer": 3,
@@ -26411,7 +26404,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 358,
-      "chrono_n": 301,
+      "chrono_n": 302,
       "canon_score": 14.1,
       "acum_v": 1,
       "layer": 3,
@@ -26462,7 +26455,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 359,
-      "chrono_n": 338,
+      "chrono_n": 339,
       "canon_score": 33.9,
       "acum_v": 1,
       "layer": 3,
@@ -26529,7 +26522,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 360,
-      "chrono_n": 328,
+      "chrono_n": 329,
       "canon_score": 50.9,
       "acum_v": 3,
       "layer": 3,
@@ -26596,7 +26589,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 361,
-      "chrono_n": 326,
+      "chrono_n": 327,
       "canon_score": 37.7,
       "acum_v": 5,
       "layer": 3,
@@ -26672,7 +26665,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 362,
-      "chrono_n": 320,
+      "chrono_n": 321,
       "canon_score": 25.2,
       "acum_v": 1,
       "layer": 3,
@@ -26732,7 +26725,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 363,
-      "chrono_n": 324,
+      "chrono_n": 325,
       "canon_score": 39.0,
       "acum_v": 4,
       "layer": 3,
@@ -26803,7 +26796,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 364,
-      "chrono_n": 339,
+      "chrono_n": 340,
       "canon_score": 27.4,
       "acum_v": 1,
       "layer": 3,
@@ -26877,7 +26870,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 365,
-      "chrono_n": 334,
+      "chrono_n": 335,
       "canon_score": 36.1,
       "acum_v": 2,
       "layer": 3,
@@ -26944,7 +26937,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 366,
-      "chrono_n": 342,
+      "chrono_n": 343,
       "canon_score": 18.0,
       "acum_v": 0,
       "layer": 3,
@@ -26998,7 +26991,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 367,
-      "chrono_n": 352,
+      "chrono_n": 353,
       "canon_score": 70.1,
       "acum_v": 2,
       "layer": 3,
@@ -27071,7 +27064,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 368,
-      "chrono_n": 367,
+      "chrono_n": 368,
       "canon_score": 27.9,
       "acum_v": 1,
       "layer": 3,
@@ -27135,7 +27128,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 369,
-      "chrono_n": 371,
+      "chrono_n": 372,
       "canon_score": 58.7,
       "acum_v": 2,
       "layer": 3,
@@ -27187,7 +27180,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 370,
-      "chrono_n": 372,
+      "chrono_n": 373,
       "canon_score": 23.4,
       "acum_v": 2,
       "layer": 3,
@@ -27247,7 +27240,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 371,
-      "chrono_n": 365,
+      "chrono_n": 366,
       "canon_score": 20.4,
       "acum_v": 2,
       "layer": 3,
@@ -27311,7 +27304,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 372,
-      "chrono_n": 373,
+      "chrono_n": 374,
       "canon_score": 28.8,
       "acum_v": 1,
       "layer": 3,
@@ -27387,7 +27380,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 373,
-      "chrono_n": 366,
+      "chrono_n": 367,
       "canon_score": 19.4,
       "acum_v": 1,
       "layer": 3,
@@ -27442,7 +27435,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 374,
-      "chrono_n": 376,
+      "chrono_n": 377,
       "canon_score": 16.2,
       "acum_v": 2,
       "layer": 3,
@@ -27491,7 +27484,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 375,
-      "chrono_n": 402,
+      "chrono_n": 403,
       "canon_score": 14.5,
       "acum_v": 1,
       "layer": 3,
@@ -27550,7 +27543,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 376,
-      "chrono_n": 400,
+      "chrono_n": 401,
       "canon_score": 38.5,
       "acum_v": 9,
       "layer": 3,
@@ -27629,7 +27622,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 377,
-      "chrono_n": 401,
+      "chrono_n": 402,
       "canon_score": 10.2,
       "acum_v": 2,
       "layer": 3,
@@ -27671,7 +27664,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 378,
-      "chrono_n": 309,
+      "chrono_n": 310,
       "canon_score": 27.2,
       "acum_v": 1,
       "layer": 3,
@@ -27728,7 +27721,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 379,
-      "chrono_n": 399,
+      "chrono_n": 400,
       "canon_score": 12.6,
       "acum_v": 1,
       "layer": 3,
@@ -27772,7 +27765,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 380,
-      "chrono_n": 408,
+      "chrono_n": 409,
       "canon_score": 31.2,
       "acum_v": 3,
       "layer": 3,
@@ -27814,7 +27807,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 381,
-      "chrono_n": 411,
+      "chrono_n": 412,
       "canon_score": 34.9,
       "acum_v": 2,
       "layer": 3,
@@ -27865,7 +27858,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 382,
-      "chrono_n": 414,
+      "chrono_n": 415,
       "canon_score": 18.5,
       "acum_v": 0,
       "layer": 3,
@@ -27910,7 +27903,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 383,
-      "chrono_n": 412,
+      "chrono_n": 413,
       "canon_score": 18.5,
       "acum_v": 0,
       "layer": 3,
@@ -27954,7 +27947,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 384,
-      "chrono_n": 416,
+      "chrono_n": 417,
       "canon_score": 18.4,
       "acum_v": 0,
       "layer": 3,
@@ -28000,7 +27993,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 385,
-      "chrono_n": 413,
+      "chrono_n": 414,
       "canon_score": 18.4,
       "acum_v": 0,
       "layer": 3,
@@ -28044,7 +28037,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 386,
-      "chrono_n": 418,
+      "chrono_n": 419,
       "canon_score": 18.4,
       "acum_v": 0,
       "layer": 3,
@@ -28086,7 +28079,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 387,
-      "chrono_n": 419,
+      "chrono_n": 420,
       "canon_score": 12.3,
       "acum_v": 0,
       "layer": 3,
@@ -28133,7 +28126,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 388,
-      "chrono_n": 422,
+      "chrono_n": 423,
       "canon_score": 6.1,
       "acum_v": 0,
       "layer": 3,
@@ -28186,7 +28179,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 389,
-      "chrono_n": 423,
+      "chrono_n": 424,
       "canon_score": 6.1,
       "acum_v": 0,
       "layer": 3,
@@ -28239,7 +28232,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 390,
-      "chrono_n": 421,
+      "chrono_n": 422,
       "canon_score": 6.5,
       "acum_v": 1,
       "layer": 3,
@@ -28285,7 +28278,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 391,
-      "chrono_n": 417,
+      "chrono_n": 418,
       "canon_score": 32.9,
       "acum_v": 1,
       "layer": 3,
@@ -28347,7 +28340,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 392,
-      "chrono_n": 460,
+      "chrono_n": 461,
       "canon_score": 23.6,
       "acum_v": 5,
       "layer": 3,
@@ -28419,7 +28412,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 393,
-      "chrono_n": 457,
+      "chrono_n": 458,
       "canon_score": 20.5,
       "acum_v": 1,
       "layer": 3,
@@ -28470,7 +28463,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 394,
-      "chrono_n": 463,
+      "chrono_n": 464,
       "canon_score": 79.0,
       "acum_v": 0,
       "layer": 3,
@@ -28530,7 +28523,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 395,
-      "chrono_n": 428,
+      "chrono_n": 429,
       "canon_score": 47.8,
       "acum_v": 3,
       "layer": 3,
@@ -28601,7 +28594,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 396,
-      "chrono_n": 467,
+      "chrono_n": 468,
       "canon_score": 8.8,
       "acum_v": 0,
       "layer": 3,
@@ -28654,7 +28647,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 397,
-      "chrono_n": 469,
+      "chrono_n": 470,
       "canon_score": 20.9,
       "acum_v": 1,
       "layer": 3,
@@ -28708,7 +28701,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 398,
-      "chrono_n": 480,
+      "chrono_n": 479,
       "canon_score": 15.5,
       "acum_v": 3,
       "layer": 3,
@@ -28763,7 +28756,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 399,
-      "chrono_n": 481,
+      "chrono_n": 480,
       "canon_score": 19.3,
       "acum_v": 1,
       "layer": 3,
@@ -28812,7 +28805,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 400,
-      "chrono_n": 511,
+      "chrono_n": 510,
       "canon_score": 33.7,
       "acum_v": 3,
       "layer": 3,
@@ -28864,7 +28857,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 401,
-      "chrono_n": 508,
+      "chrono_n": 507,
       "canon_score": 23.6,
       "acum_v": 2,
       "layer": 3,
@@ -28928,7 +28921,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 402,
-      "chrono_n": 494,
+      "chrono_n": 493,
       "canon_score": 18.7,
       "acum_v": 3,
       "layer": 3,
@@ -28977,7 +28970,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 403,
-      "chrono_n": 510,
+      "chrono_n": 509,
       "canon_score": 14.5,
       "acum_v": 1,
       "layer": 3,
@@ -29033,7 +29026,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 404,
-      "chrono_n": 514,
+      "chrono_n": 513,
       "canon_score": 56.8,
       "acum_v": 5,
       "layer": 3,
@@ -29107,7 +29100,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 405,
-      "chrono_n": 528,
+      "chrono_n": 527,
       "canon_score": 27.3,
       "acum_v": 1,
       "layer": 3,
@@ -29162,7 +29155,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 406,
-      "chrono_n": 527,
+      "chrono_n": 526,
       "canon_score": 20.7,
       "acum_v": 1,
       "layer": 3,
@@ -29212,7 +29205,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 407,
-      "chrono_n": 530,
+      "chrono_n": 529,
       "canon_score": 57.3,
       "acum_v": 8,
       "layer": 3,
@@ -29267,7 +29260,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 408,
-      "chrono_n": 529,
+      "chrono_n": 528,
       "canon_score": 39.6,
       "acum_v": 1,
       "layer": 3,
@@ -29332,7 +29325,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 409,
-      "chrono_n": 534,
+      "chrono_n": 533,
       "canon_score": 24.7,
       "acum_v": 2,
       "layer": 3,
@@ -29387,7 +29380,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 410,
-      "chrono_n": 540,
+      "chrono_n": 539,
       "canon_score": 14.3,
       "acum_v": 1,
       "layer": 3,
@@ -29437,7 +29430,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 411,
-      "chrono_n": 553,
+      "chrono_n": 552,
       "canon_score": 8.2,
       "acum_v": 1,
       "layer": 3,
@@ -29494,7 +29487,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 412,
-      "chrono_n": 717,
+      "chrono_n": 716,
       "canon_score": 17.4,
       "acum_v": 2,
       "layer": 3,
@@ -29552,7 +29545,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 413,
-      "chrono_n": 550,
+      "chrono_n": 549,
       "canon_score": 27.9,
       "acum_v": 4,
       "layer": 3,
@@ -29629,7 +29622,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 414,
-      "chrono_n": 556,
+      "chrono_n": 555,
       "canon_score": 22.4,
       "acum_v": 1,
       "layer": 3,
@@ -29705,7 +29698,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 415,
-      "chrono_n": 554,
+      "chrono_n": 553,
       "canon_score": 20.7,
       "acum_v": 1,
       "layer": 3,
@@ -29757,7 +29750,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 416,
-      "chrono_n": 557,
+      "chrono_n": 556,
       "canon_score": 26.1,
       "acum_v": 1,
       "layer": 3,
@@ -29816,7 +29809,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 417,
-      "chrono_n": 566,
+      "chrono_n": 565,
       "canon_score": 30.4,
       "acum_v": 3,
       "layer": 3,
@@ -29870,7 +29863,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 418,
-      "chrono_n": 567,
+      "chrono_n": 566,
       "canon_score": 28.3,
       "acum_v": 2,
       "layer": 3,
@@ -29922,7 +29915,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 419,
-      "chrono_n": 571,
+      "chrono_n": 570,
       "canon_score": 10.1,
       "acum_v": 2,
       "layer": 3,
@@ -29964,7 +29957,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 420,
-      "chrono_n": 594,
+      "chrono_n": 593,
       "canon_score": 80.6,
       "acum_v": 6,
       "layer": 3,
@@ -30038,7 +30031,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 421,
-      "chrono_n": 595,
+      "chrono_n": 594,
       "canon_score": 80.6,
       "acum_v": 6,
       "layer": 3,
@@ -30112,7 +30105,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 422,
-      "chrono_n": 589,
+      "chrono_n": 588,
       "canon_score": 30.3,
       "acum_v": 2,
       "layer": 3,
@@ -30166,7 +30159,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 423,
-      "chrono_n": 591,
+      "chrono_n": 590,
       "canon_score": 25.5,
       "acum_v": 3,
       "layer": 3,
@@ -30229,7 +30222,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 424,
-      "chrono_n": 600,
+      "chrono_n": 599,
       "canon_score": 30.2,
       "acum_v": 5,
       "layer": 3,
@@ -30285,7 +30278,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 425,
-      "chrono_n": 599,
+      "chrono_n": 598,
       "canon_score": 19.6,
       "acum_v": 3,
       "layer": 3,
@@ -30351,7 +30344,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 426,
-      "chrono_n": 607,
+      "chrono_n": 606,
       "canon_score": 24.3,
       "acum_v": 3,
       "layer": 3,
@@ -30425,7 +30418,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 427,
-      "chrono_n": 606,
+      "chrono_n": 605,
       "canon_score": 18.8,
       "acum_v": 3,
       "layer": 3,
@@ -30494,7 +30487,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 428,
-      "chrono_n": 668,
+      "chrono_n": 667,
       "canon_score": 31.9,
       "acum_v": 3,
       "layer": 3,
@@ -30546,7 +30539,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 429,
-      "chrono_n": 626,
+      "chrono_n": 625,
       "canon_score": 76.4,
       "acum_v": 3,
       "layer": 3,
@@ -30609,7 +30602,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 430,
-      "chrono_n": 624,
+      "chrono_n": 623,
       "canon_score": 26.8,
       "acum_v": 4,
       "layer": 3,
@@ -30665,7 +30658,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 431,
-      "chrono_n": 629,
+      "chrono_n": 628,
       "canon_score": 12.6,
       "acum_v": 0,
       "layer": 3,
@@ -30722,7 +30715,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 432,
-      "chrono_n": 640,
+      "chrono_n": 639,
       "canon_score": 57.6,
       "acum_v": 4,
       "layer": 3,
@@ -30784,7 +30777,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 433,
-      "chrono_n": 643,
+      "chrono_n": 642,
       "canon_score": 57.6,
       "acum_v": 4,
       "layer": 3,
@@ -30846,7 +30839,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 434,
-      "chrono_n": 647,
+      "chrono_n": 646,
       "canon_score": 27.4,
       "acum_v": 4,
       "layer": 3,
@@ -30909,7 +30902,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 435,
-      "chrono_n": 649,
+      "chrono_n": 648,
       "canon_score": 34.1,
       "acum_v": 6,
       "layer": 3,
@@ -30983,7 +30976,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 436,
-      "chrono_n": 651,
+      "chrono_n": 650,
       "canon_score": 23.8,
       "acum_v": 2,
       "layer": 3,
@@ -31050,7 +31043,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 437,
-      "chrono_n": 652,
+      "chrono_n": 651,
       "canon_score": 20.8,
       "acum_v": 1,
       "layer": 3,
@@ -31108,7 +31101,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 438,
-      "chrono_n": 659,
+      "chrono_n": 658,
       "canon_score": 26.8,
       "acum_v": 4,
       "layer": 3,
@@ -31160,7 +31153,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 439,
-      "chrono_n": 678,
+      "chrono_n": 677,
       "canon_score": 20.3,
       "acum_v": 2,
       "layer": 3,
@@ -31229,7 +31222,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 440,
-      "chrono_n": 677,
+      "chrono_n": 676,
       "canon_score": 15.0,
       "acum_v": 1,
       "layer": 3,
@@ -31279,7 +31272,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 441,
-      "chrono_n": 695,
+      "chrono_n": 694,
       "canon_score": 10.2,
       "acum_v": 2,
       "layer": 3,
@@ -31339,7 +31332,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 442,
-      "chrono_n": 701,
+      "chrono_n": 700,
       "canon_score": 18.6,
       "acum_v": 2,
       "layer": 3,
@@ -31404,7 +31397,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 443,
-      "chrono_n": 711,
+      "chrono_n": 710,
       "canon_score": 12.8,
       "acum_v": 0,
       "layer": 3,
@@ -31446,7 +31439,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 444,
-      "chrono_n": 712,
+      "chrono_n": 711,
       "canon_score": 12.2,
       "acum_v": 0,
       "layer": 3,
@@ -31495,7 +31488,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 445,
-      "chrono_n": 578,
+      "chrono_n": 577,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31589,7 +31582,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 446,
-      "chrono_n": 249,
+      "chrono_n": 250,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31655,7 +31648,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 447,
-      "chrono_n": 657,
+      "chrono_n": 656,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31721,7 +31714,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 448,
-      "chrono_n": 225,
+      "chrono_n": 226,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31794,7 +31787,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 449,
-      "chrono_n": 248,
+      "chrono_n": 249,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31852,7 +31845,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 450,
-      "chrono_n": 650,
+      "chrono_n": 649,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31910,7 +31903,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 451,
-      "chrono_n": 251,
+      "chrono_n": 252,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -31968,7 +31961,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 452,
-      "chrono_n": 585,
+      "chrono_n": 584,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -32059,7 +32052,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 453,
-      "chrono_n": 704,
+      "chrono_n": 703,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -32122,7 +32115,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 454,
-      "chrono_n": 710,
+      "chrono_n": 709,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -32295,7 +32288,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 457,
-      "chrono_n": 355,
+      "chrono_n": 356,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32390,7 +32383,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 458,
-      "chrono_n": 351,
+      "chrono_n": 352,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32485,7 +32478,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 459,
-      "chrono_n": 349,
+      "chrono_n": 350,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32580,7 +32573,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 460,
-      "chrono_n": 675,
+      "chrono_n": 674,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32640,7 +32633,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 461,
-      "chrono_n": 714,
+      "chrono_n": 713,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32700,7 +32693,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 462,
-      "chrono_n": 458,
+      "chrono_n": 459,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -32797,7 +32790,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 463,
-      "chrono_n": 466,
+      "chrono_n": 467,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -32894,7 +32887,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 464,
-      "chrono_n": 475,
+      "chrono_n": 476,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -32984,7 +32977,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 465,
-      "chrono_n": 723,
+      "chrono_n": 722,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -33046,7 +33039,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 466,
-      "chrono_n": 676,
+      "chrono_n": 675,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -33106,7 +33099,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 467,
-      "chrono_n": 719,
+      "chrono_n": 718,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -33166,7 +33159,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 468,
-      "chrono_n": 708,
+      "chrono_n": 707,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -33226,7 +33219,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 469,
-      "chrono_n": 683,
+      "chrono_n": 682,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -33311,7 +33304,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 470,
-      "chrono_n": 699,
+      "chrono_n": 698,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -33375,7 +33368,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 471,
-      "chrono_n": 672,
+      "chrono_n": 671,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -33439,7 +33432,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 472,
-      "chrono_n": 406,
+      "chrono_n": 407,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -33538,7 +33531,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 473,
-      "chrono_n": 382,
+      "chrono_n": 383,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -33637,7 +33630,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 474,
-      "chrono_n": 705,
+      "chrono_n": 704,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -33800,7 +33793,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 476,
-      "chrono_n": 170,
+      "chrono_n": 171,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -33892,7 +33885,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 477,
-      "chrono_n": 665,
+      "chrono_n": 664,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -33956,7 +33949,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 478,
-      "chrono_n": 707,
+      "chrono_n": 706,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -34020,7 +34013,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 479,
-      "chrono_n": 610,
+      "chrono_n": 609,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -34076,7 +34069,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 480,
-      "chrono_n": 682,
+      "chrono_n": 681,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -34132,7 +34125,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 481,
-      "chrono_n": 715,
+      "chrono_n": 714,
       "canon_score": 1272.9,
       "acum_v": 66,
       "layer": 1,
@@ -34208,7 +34201,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 482,
-      "chrono_n": 684,
+      "chrono_n": 683,
       "canon_score": 1272.9,
       "acum_v": 66,
       "layer": 1,
@@ -34270,7 +34263,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 483,
-      "chrono_n": 483,
+      "chrono_n": 482,
       "canon_score": 1165.2,
       "acum_v": 82,
       "layer": 1,
@@ -34351,7 +34344,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 484,
-      "chrono_n": 290,
+      "chrono_n": 291,
       "canon_score": 1130.8,
       "acum_v": 108,
       "layer": 1,
@@ -34441,7 +34434,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 485,
-      "chrono_n": 379,
+      "chrono_n": 380,
       "canon_score": 1130.8,
       "acum_v": 108,
       "layer": 1,
@@ -34531,7 +34524,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 486,
-      "chrono_n": 516,
+      "chrono_n": 515,
       "canon_score": 1130.8,
       "acum_v": 108,
       "layer": 1,
@@ -34600,7 +34593,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 487,
-      "chrono_n": 725,
+      "chrono_n": 724,
       "canon_score": 1130.8,
       "acum_v": 108,
       "layer": 1,
@@ -34669,7 +34662,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 488,
-      "chrono_n": 546,
+      "chrono_n": 545,
       "canon_score": 1054.8,
       "acum_v": 127,
       "layer": 1,
@@ -34750,7 +34743,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 489,
-      "chrono_n": 642,
+      "chrono_n": 641,
       "canon_score": 1049.5,
       "acum_v": 124,
       "layer": 1,
@@ -34842,7 +34835,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 490,
-      "chrono_n": 641,
+      "chrono_n": 640,
       "canon_score": 1049.5,
       "acum_v": 124,
       "layer": 1,
@@ -34927,7 +34920,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 491,
-      "chrono_n": 713,
+      "chrono_n": 712,
       "canon_score": 1042.4,
       "acum_v": 284,
       "layer": 1,
@@ -35075,7 +35068,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 493,
-      "chrono_n": 199,
+      "chrono_n": 200,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -35173,7 +35166,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 494,
-      "chrono_n": 269,
+      "chrono_n": 270,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -35257,7 +35250,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 495,
-      "chrono_n": 655,
+      "chrono_n": 654,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -35320,7 +35313,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 496,
-      "chrono_n": 691,
+      "chrono_n": 690,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -35383,7 +35376,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 497,
-      "chrono_n": 447,
+      "chrono_n": 448,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -35476,7 +35469,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 498,
-      "chrono_n": 583,
+      "chrono_n": 582,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -35569,7 +35562,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 499,
-      "chrono_n": 716,
+      "chrono_n": 715,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -35634,7 +35627,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 500,
-      "chrono_n": 587,
+      "chrono_n": 586,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -35708,7 +35701,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 501,
-      "chrono_n": 698,
+      "chrono_n": 697,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -35768,7 +35761,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 502,
-      "chrono_n": 706,
+      "chrono_n": 705,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -35835,7 +35828,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 503,
-      "chrono_n": 451,
+      "chrono_n": 452,
       "canon_score": 756.8,
       "acum_v": 127,
       "layer": 1,
@@ -35911,7 +35904,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 504,
-      "chrono_n": 283,
+      "chrono_n": 284,
       "canon_score": 751.9,
       "acum_v": 111,
       "layer": 1,
@@ -36012,7 +36005,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 505,
-      "chrono_n": 618,
+      "chrono_n": 617,
       "canon_score": 751.9,
       "acum_v": 111,
       "layer": 1,
@@ -36106,7 +36099,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 506,
-      "chrono_n": 577,
+      "chrono_n": 576,
       "canon_score": 734.8,
       "acum_v": 136,
       "layer": 1,
@@ -36185,7 +36178,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 507,
-      "chrono_n": 253,
+      "chrono_n": 254,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -36277,7 +36270,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 508,
-      "chrono_n": 317,
+      "chrono_n": 318,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -36376,7 +36369,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 509,
-      "chrono_n": 280,
+      "chrono_n": 281,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -36532,7 +36525,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 511,
-      "chrono_n": 584,
+      "chrono_n": 583,
       "canon_score": 709.3,
       "acum_v": 82,
       "layer": 1,
@@ -36601,7 +36594,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 512,
-      "chrono_n": 268,
+      "chrono_n": 269,
       "canon_score": 701.6,
       "acum_v": 132,
       "layer": 1,
@@ -36682,7 +36675,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 513,
-      "chrono_n": 653,
+      "chrono_n": 652,
       "canon_score": 701.6,
       "acum_v": 132,
       "layer": 1,
@@ -36929,7 +36922,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 516,
-      "chrono_n": 535,
+      "chrono_n": 534,
       "canon_score": 635.5,
       "acum_v": 58,
       "layer": 1,
@@ -36983,7 +36976,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 517,
-      "chrono_n": 435,
+      "chrono_n": 436,
       "canon_score": 629.2,
       "acum_v": 65,
       "layer": 1,
@@ -37073,7 +37066,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 518,
-      "chrono_n": 434,
+      "chrono_n": 435,
       "canon_score": 629.2,
       "acum_v": 65,
       "layer": 1,
@@ -37135,7 +37128,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 519,
-      "chrono_n": 637,
+      "chrono_n": 636,
       "canon_score": 627.9,
       "acum_v": 101,
       "layer": 1,
@@ -37220,7 +37213,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 520,
-      "chrono_n": 604,
+      "chrono_n": 603,
       "canon_score": 627.9,
       "acum_v": 101,
       "layer": 1,
@@ -37284,7 +37277,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 521,
-      "chrono_n": 272,
+      "chrono_n": 273,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -37383,7 +37376,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 522,
-      "chrono_n": 581,
+      "chrono_n": 580,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -37482,7 +37475,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 523,
-      "chrono_n": 266,
+      "chrono_n": 267,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -37581,7 +37574,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 524,
-      "chrono_n": 318,
+      "chrono_n": 319,
       "canon_score": 623.0,
       "acum_v": 83,
       "layer": 1,
@@ -37680,7 +37673,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 525,
-      "chrono_n": 240,
+      "chrono_n": 241,
       "canon_score": 622.0,
       "acum_v": 87,
       "layer": 1,
@@ -37759,7 +37752,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 526,
-      "chrono_n": 537,
+      "chrono_n": 536,
       "canon_score": 622.0,
       "acum_v": 87,
       "layer": 1,
@@ -37838,7 +37831,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 527,
-      "chrono_n": 433,
+      "chrono_n": 434,
       "canon_score": 617.8,
       "acum_v": 93,
       "layer": 1,
@@ -37931,7 +37924,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 528,
-      "chrono_n": 213,
+      "chrono_n": 214,
       "canon_score": 617.8,
       "acum_v": 93,
       "layer": 1,
@@ -37988,7 +37981,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 529,
-      "chrono_n": 386,
+      "chrono_n": 387,
       "canon_score": 611.5,
       "acum_v": 79,
       "layer": 1,
@@ -38086,7 +38079,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 530,
-      "chrono_n": 444,
+      "chrono_n": 445,
       "canon_score": 602.8,
       "acum_v": 41,
       "layer": 1,
@@ -38172,7 +38165,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 531,
-      "chrono_n": 633,
+      "chrono_n": 632,
       "canon_score": 602.8,
       "acum_v": 41,
       "layer": 1,
@@ -38258,7 +38251,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 532,
-      "chrono_n": 697,
+      "chrono_n": 696,
       "canon_score": 601.1,
       "acum_v": 72,
       "layer": 1,
@@ -38346,7 +38339,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 533,
-      "chrono_n": 485,
+      "chrono_n": 484,
       "canon_score": 601.1,
       "acum_v": 72,
       "layer": 1,
@@ -38434,7 +38427,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 534,
-      "chrono_n": 410,
+      "chrono_n": 411,
       "canon_score": 594.8,
       "acum_v": 92,
       "layer": 1,
@@ -38519,7 +38512,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 535,
-      "chrono_n": 690,
+      "chrono_n": 689,
       "canon_score": 594.8,
       "acum_v": 92,
       "layer": 1,
@@ -38604,7 +38597,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 536,
-      "chrono_n": 671,
+      "chrono_n": 670,
       "canon_score": 563.3,
       "acum_v": 86,
       "layer": 1,
@@ -38667,7 +38660,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 537,
-      "chrono_n": 346,
+      "chrono_n": 347,
       "canon_score": 563.3,
       "acum_v": 86,
       "layer": 1,
@@ -38730,7 +38723,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 538,
-      "chrono_n": 239,
+      "chrono_n": 240,
       "canon_score": 563.3,
       "acum_v": 86,
       "layer": 1,
@@ -38785,7 +38778,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 539,
-      "chrono_n": 388,
+      "chrono_n": 389,
       "canon_score": 522.8,
       "acum_v": 95,
       "layer": 1,
@@ -38887,7 +38880,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 540,
-      "chrono_n": 635,
+      "chrono_n": 634,
       "canon_score": 522.8,
       "acum_v": 95,
       "layer": 1,
@@ -38989,7 +38982,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 541,
-      "chrono_n": 396,
+      "chrono_n": 397,
       "canon_score": 522.8,
       "acum_v": 95,
       "layer": 1,
@@ -39091,7 +39084,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 542,
-      "chrono_n": 491,
+      "chrono_n": 490,
       "canon_score": 513.7,
       "acum_v": 39,
       "layer": 1,
@@ -39165,7 +39158,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 543,
-      "chrono_n": 703,
+      "chrono_n": 702,
       "canon_score": 513.7,
       "acum_v": 39,
       "layer": 1,
@@ -39361,7 +39354,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 546,
-      "chrono_n": 582,
+      "chrono_n": 581,
       "canon_score": 504.9,
       "acum_v": 90,
       "layer": 1,
@@ -39453,7 +39446,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 547,
-      "chrono_n": 656,
+      "chrono_n": 655,
       "canon_score": 504.9,
       "acum_v": 90,
       "layer": 1,
@@ -39545,7 +39538,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 548,
-      "chrono_n": 721,
+      "chrono_n": 720,
       "canon_score": 504.0,
       "acum_v": 58,
       "layer": 1,
@@ -39626,7 +39619,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 549,
-      "chrono_n": 700,
+      "chrono_n": 699,
       "canon_score": 504.0,
       "acum_v": 58,
       "layer": 1,
@@ -39686,7 +39679,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 550,
-      "chrono_n": 384,
+      "chrono_n": 385,
       "canon_score": 497.8,
       "acum_v": 73,
       "layer": 1,
@@ -39777,7 +39770,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 551,
-      "chrono_n": 689,
+      "chrono_n": 688,
       "canon_score": 497.8,
       "acum_v": 73,
       "layer": 1,
@@ -39868,7 +39861,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 552,
-      "chrono_n": 484,
+      "chrono_n": 483,
       "canon_score": 489.9,
       "acum_v": 73,
       "layer": 1,
@@ -40047,7 +40040,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 554,
-      "chrono_n": 573,
+      "chrono_n": 572,
       "canon_score": 484.8,
       "acum_v": 80,
       "layer": 1,
@@ -40138,7 +40131,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 555,
-      "chrono_n": 168,
+      "chrono_n": 169,
       "canon_score": 484.8,
       "acum_v": 80,
       "layer": 1,
@@ -40193,7 +40186,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 556,
-      "chrono_n": 709,
+      "chrono_n": 708,
       "canon_score": 466.0,
       "acum_v": 39,
       "layer": 1,
@@ -40270,7 +40263,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 557,
-      "chrono_n": 693,
+      "chrono_n": 692,
       "canon_score": 466.0,
       "acum_v": 39,
       "layer": 1,
@@ -40333,7 +40326,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 558,
-      "chrono_n": 464,
+      "chrono_n": 465,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -40431,7 +40424,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 559,
-      "chrono_n": 572,
+      "chrono_n": 571,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -40529,7 +40522,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 560,
-      "chrono_n": 233,
+      "chrono_n": 234,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -40627,7 +40620,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 561,
-      "chrono_n": 609,
+      "chrono_n": 608,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -40823,7 +40816,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 563,
-      "chrono_n": 696,
+      "chrono_n": 695,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -41410,7 +41403,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 570,
-      "chrono_n": 440,
+      "chrono_n": 441,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -41489,7 +41482,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 571,
-      "chrono_n": 692,
+      "chrono_n": 691,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -41554,7 +41547,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 572,
-      "chrono_n": 685,
+      "chrono_n": 684,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -41619,7 +41612,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 573,
-      "chrono_n": 465,
+      "chrono_n": 466,
       "canon_score": 409.4,
       "acum_v": 1,
       "layer": 1,
@@ -41684,7 +41677,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 574,
-      "chrono_n": 686,
+      "chrono_n": 685,
       "canon_score": 409.4,
       "acum_v": 1,
       "layer": 1,
@@ -41749,7 +41742,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 575,
-      "chrono_n": 523,
+      "chrono_n": 522,
       "canon_score": 376.2,
       "acum_v": 66,
       "layer": 1,
@@ -41825,7 +41818,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 576,
-      "chrono_n": 551,
+      "chrono_n": 550,
       "canon_score": 376.2,
       "acum_v": 66,
       "layer": 1,
@@ -41901,7 +41894,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 577,
-      "chrono_n": 688,
+      "chrono_n": 687,
       "canon_score": 375.6,
       "acum_v": 22,
       "layer": 1,
@@ -41975,7 +41968,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 578,
-      "chrono_n": 720,
+      "chrono_n": 719,
       "canon_score": 375.6,
       "acum_v": 22,
       "layer": 1,
@@ -42035,7 +42028,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 579,
-      "chrono_n": 575,
+      "chrono_n": 574,
       "canon_score": 363.8,
       "acum_v": 43,
       "layer": 1,
@@ -42130,7 +42123,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 580,
-      "chrono_n": 212,
+      "chrono_n": 213,
       "canon_score": 363.8,
       "acum_v": 43,
       "layer": 1,
@@ -42225,7 +42218,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 581,
-      "chrono_n": 278,
+      "chrono_n": 279,
       "canon_score": 363.8,
       "acum_v": 43,
       "layer": 1,
@@ -42397,7 +42390,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 583,
-      "chrono_n": 431,
+      "chrono_n": 432,
       "canon_score": 337.8,
       "acum_v": 48,
       "layer": 1,
@@ -42488,7 +42481,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 584,
-      "chrono_n": 311,
+      "chrono_n": 312,
       "canon_score": 337.8,
       "acum_v": 48,
       "layer": 1,
@@ -42586,7 +42579,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 585,
-      "chrono_n": 237,
+      "chrono_n": 238,
       "canon_score": 333.3,
       "acum_v": 66,
       "layer": 1,
@@ -42676,7 +42669,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 586,
-      "chrono_n": 429,
+      "chrono_n": 430,
       "canon_score": 333.3,
       "acum_v": 66,
       "layer": 1,
@@ -42863,7 +42856,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 588,
-      "chrono_n": 380,
+      "chrono_n": 381,
       "canon_score": 326.8,
       "acum_v": 35,
       "layer": 1,
@@ -42960,7 +42953,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 589,
-      "chrono_n": 664,
+      "chrono_n": 663,
       "canon_score": 326.8,
       "acum_v": 35,
       "layer": 1,
@@ -43057,7 +43050,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 590,
-      "chrono_n": 430,
+      "chrono_n": 431,
       "canon_score": 326.8,
       "acum_v": 35,
       "layer": 1,
@@ -43154,7 +43147,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 591,
-      "chrono_n": 500,
+      "chrono_n": 499,
       "canon_score": 320.0,
       "acum_v": 11,
       "layer": 1,
@@ -43326,7 +43319,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 593,
-      "chrono_n": 377,
+      "chrono_n": 378,
       "canon_score": 315.3,
       "acum_v": 24,
       "layer": 1,
@@ -43480,7 +43473,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 595,
-      "chrono_n": 227,
+      "chrono_n": 228,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -43561,7 +43554,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 596,
-      "chrono_n": 247,
+      "chrono_n": 248,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -43613,7 +43606,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 597,
-      "chrono_n": 722,
+      "chrono_n": 721,
       "canon_score": 297.6,
       "acum_v": 41,
       "layer": 1,
@@ -43676,7 +43669,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 598,
-      "chrono_n": 424,
+      "chrono_n": 425,
       "canon_score": 292.5,
       "acum_v": 32,
       "layer": 1,
@@ -43840,7 +43833,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 600,
-      "chrono_n": 473,
+      "chrono_n": 474,
       "canon_score": 279.6,
       "acum_v": 23,
       "layer": 1,
@@ -43931,7 +43924,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 601,
-      "chrono_n": 486,
+      "chrono_n": 485,
       "canon_score": 279.6,
       "acum_v": 23,
       "layer": 1,
@@ -44113,7 +44106,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 603,
-      "chrono_n": 630,
+      "chrono_n": 629,
       "canon_score": 272.2,
       "acum_v": 1,
       "layer": 1,
@@ -44189,7 +44182,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 604,
-      "chrono_n": 536,
+      "chrono_n": 535,
       "canon_score": 272.2,
       "acum_v": 1,
       "layer": 1,
@@ -44251,7 +44244,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 605,
-      "chrono_n": 243,
+      "chrono_n": 244,
       "canon_score": 272.2,
       "acum_v": 1,
       "layer": 1,
@@ -44305,7 +44298,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 606,
-      "chrono_n": 244,
+      "chrono_n": 245,
       "canon_score": 268.7,
       "acum_v": 41,
       "layer": 1,
@@ -44382,7 +44375,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 607,
-      "chrono_n": 576,
+      "chrono_n": 575,
       "canon_score": 268.7,
       "acum_v": 41,
       "layer": 1,
@@ -44459,7 +44452,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 608,
-      "chrono_n": 559,
+      "chrono_n": 558,
       "canon_score": 266.2,
       "acum_v": 30,
       "layer": 1,
@@ -44535,7 +44528,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 609,
-      "chrono_n": 378,
+      "chrono_n": 379,
       "canon_score": 254.7,
       "acum_v": 31,
       "layer": 1,
@@ -44618,7 +44611,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 610,
-      "chrono_n": 724,
+      "chrono_n": 723,
       "canon_score": 254.7,
       "acum_v": 31,
       "layer": 1,
@@ -44672,7 +44665,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 611,
-      "chrono_n": 245,
+      "chrono_n": 246,
       "canon_score": 254.6,
       "acum_v": 42,
       "layer": 1,
@@ -44769,7 +44762,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 612,
-      "chrono_n": 314,
+      "chrono_n": 315,
       "canon_score": 254.6,
       "acum_v": 42,
       "layer": 1,
@@ -44866,7 +44859,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 613,
-      "chrono_n": 315,
+      "chrono_n": 316,
       "canon_score": 254.6,
       "acum_v": 42,
       "layer": 1,
@@ -44963,7 +44956,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 614,
-      "chrono_n": 246,
+      "chrono_n": 247,
       "canon_score": 254.6,
       "acum_v": 42,
       "layer": 1,
@@ -45060,7 +45053,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 615,
-      "chrono_n": 405,
+      "chrono_n": 406,
       "canon_score": 254.1,
       "acum_v": 27,
       "layer": 1,
@@ -45141,7 +45134,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 616,
-      "chrono_n": 631,
+      "chrono_n": 630,
       "canon_score": 254.1,
       "acum_v": 27,
       "layer": 1,
@@ -45222,7 +45215,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 617,
-      "chrono_n": 694,
+      "chrono_n": 693,
       "canon_score": 238.3,
       "acum_v": 19,
       "layer": 1,
@@ -45286,7 +45279,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 618,
-      "chrono_n": 189,
+      "chrono_n": 190,
       "canon_score": 228.3,
       "acum_v": 23,
       "layer": 1,
@@ -45556,7 +45549,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 621,
-      "chrono_n": 169,
+      "chrono_n": 170,
       "canon_score": 221.0,
       "acum_v": 41,
       "layer": 1,
@@ -45649,7 +45642,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 622,
-      "chrono_n": 636,
+      "chrono_n": 635,
       "canon_score": 216.9,
       "acum_v": 25,
       "layer": 1,
@@ -45728,7 +45721,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 623,
-      "chrono_n": 620,
+      "chrono_n": 619,
       "canon_score": 216.9,
       "acum_v": 25,
       "layer": 1,
@@ -45807,7 +45800,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 624,
-      "chrono_n": 442,
+      "chrono_n": 443,
       "canon_score": 205.3,
       "acum_v": 35,
       "layer": 1,
@@ -46085,7 +46078,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 627,
-      "chrono_n": 332,
+      "chrono_n": 333,
       "canon_score": 197.2,
       "acum_v": 23,
       "layer": 1,
@@ -46166,7 +46159,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 628,
-      "chrono_n": 255,
+      "chrono_n": 256,
       "canon_score": 167.1,
       "acum_v": 14,
       "layer": 1,
@@ -46250,7 +46243,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 629,
-      "chrono_n": 579,
+      "chrono_n": 578,
       "canon_score": 167.1,
       "acum_v": 14,
       "layer": 1,
@@ -46334,7 +46327,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 630,
-      "chrono_n": 474,
+      "chrono_n": 475,
       "canon_score": 158.8,
       "acum_v": 28,
       "layer": 1,
@@ -46411,7 +46404,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 631,
-      "chrono_n": 404,
+      "chrono_n": 405,
       "canon_score": 157.8,
       "acum_v": 149,
       "layer": 1,
@@ -46473,7 +46466,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 632,
-      "chrono_n": 638,
+      "chrono_n": 637,
       "canon_score": 147.0,
       "acum_v": 21,
       "layer": 1,
@@ -46535,7 +46528,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 633,
-      "chrono_n": 360,
+      "chrono_n": 361,
       "canon_score": 44.0,
       "acum_v": 6,
       "layer": 2,
@@ -46612,7 +46605,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 634,
-      "chrono_n": 235,
+      "chrono_n": 236,
       "canon_score": 62.4,
       "acum_v": 15,
       "layer": 2,
@@ -46672,7 +46665,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 635,
-      "chrono_n": 236,
+      "chrono_n": 237,
       "canon_score": 70.9,
       "acum_v": 11,
       "layer": 2,
@@ -46811,7 +46804,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 637,
-      "chrono_n": 432,
+      "chrono_n": 433,
       "canon_score": 67.8,
       "acum_v": 11,
       "layer": 2,
@@ -46899,84 +46892,1310 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 638,
-      "chrono_n": 441,
-      "canon_score": 48.3,
-      "acum_v": 4,
+      "chrono_n": 21,
+      "canon_score": 92.2,
+      "acum_v": 7,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "גדי קטן [ביצוע: דודו זכאי] (1977)",
-      "raw_title": "גדי קטן",
+      "title": "שיר הבר [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
+      "raw_title": "שיר הבר",
       "alt_titles": [
-        "הגדי",
-        "גדי"
+        "טנגו",
+        "אל תספר",
+        "פה נספר על בר במרכז העיר בין כיכר",
+        "פה נספר על בר במרכז העיר בין הככר",
+        "פה נספר על בר במרכז העיר בין הכיכר"
       ],
       "ver_idx": 2,
       "ver_total": 2,
-      "year": "1977",
-      "rec_year": "1977",
-      "song_year": "1973",
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
       "year_src": "canonical_album",
-      "decade": "1970s",
-      "vid": "Yd3_uDW6i4w",
-      "vtitle": "גדי קטן",
-      "ch": "דודו זכאי - Topic",
-      "dur": "2:00",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דודו זכאי",
-      "alb": "הטיול הקטן – כל שירי נעמי שמר לילדים",
-      "alb_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גדי קטן גדי קטן גדי צחור קטן",
+      "decade": "1950s",
+      "vid": "Jzkgm9A3Ooc",
+      "vtitle": "שיר הבר",
+      "ch": "Release - Topic",
+      "dur": "2:38",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משתתפי המחזמר חמש חמש",
+      "alb": "חמש חמש (המחזמר) (#4)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 4,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "פה נספר על בר במרכז העיר בין ככר",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045140205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045330205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23534"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3715"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1041964",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
+          "label": "אקו\"ם #1033018",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033018"
         }
       ],
       "alts": [
         {
-          "vid": "yKAUdNGyVpA",
-          "vtitle": "נעמי שמר - גדי קטן",
-          "ch": "כאן | מוזיקה",
-          "dur": "1:55",
+          "vid": "zPcjPIfxuxs",
+          "vtitle": "שיר הבר -  ריקה זראי",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:21",
           "src": "direct_alternative"
         },
         {
-          "vid": "rB1MfQi3_Dg",
-          "vtitle": "גדי אחד - נעמי שמר",
-          "ch": "נעמי שמר - יש לי חבר",
+          "vid": "2vq22hm-TnI",
+          "vtitle": "ריקה זראי - שיר הבר",
+          "ch": "משירי ארץ ישראל הישנה והטובה",
+          "dur": "2:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7ELxBcSAz34",
+          "vtitle": "ריקה זראי - שיר הבר",
+          "ch": "אבי תדמור",
           "dur": "2:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "NZMFqOhoPSk",
-          "vtitle": "נעמי שמר - גדי אחד",
-          "ch": "IBA Classics",
-          "dur": "1:59",
           "src": "direct_alternative"
         }
       ]
     },
     {
       "n": 639,
-      "chrono_n": 437,
+      "chrono_n": 39,
+      "canon_score": 112.3,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "רב האור והתכלת [ביצוע: ריקה זראי] (1958)",
+      "raw_title": "רב האור והתכלת",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "original_inherited",
+      "decade": "1950s",
+      "vid": "INHBTa-HfSM",
+      "vtitle": "רב האור והתכלת",
+      "ch": "Rika Zarai - Topic",
+      "dur": "1:45",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "ריקה זראי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1031021",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "FQc7zIoG1v4",
+          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "utME2jtCAmY",
+          "vtitle": "רב האור והתכלת - ריקה זראי",
+          "ch": "minad hapizmonim",
+          "dur": "1:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "YIG20uvjBVg",
+          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
+          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "4ApYhj2Mqeo",
+          "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
+          "ch": "israelretro",
+          "dur": "1:23",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "_6La2mK-PqU",
+          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "1:49",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 640,
+      "chrono_n": 157,
+      "canon_score": 112.3,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר חמש חמש (1965)] (1965)",
+      "raw_title": "רב האור והתכלת",
+      "alt_titles": [],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1965",
+      "rec_year": "1965",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "4ApYhj2Mqeo",
+      "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
+      "ch": "israelretro",
+      "dur": "1:23",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "אביבה פז ובנות המחזמר חמש חמש (1965)",
+      "alb": "חמש חמש (המחזמר) (#1)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 1,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1031021",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "tSmg5wveagg",
+          "vtitle": "רב האור והתכלת",
+          "ch": "Release - Topic",
+          "dur": "1:22",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "FQc7zIoG1v4",
+          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "utME2jtCAmY",
+          "vtitle": "רב האור והתכלת - ריקה זראי",
+          "ch": "minad hapizmonim",
+          "dur": "1:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "YIG20uvjBVg",
+          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
+          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "INHBTa-HfSM",
+          "vtitle": "רב האור והתכלת",
+          "ch": "Rika Zarai - Topic",
+          "dur": "1:45",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "_6La2mK-PqU",
+          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "1:49",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 641,
+      "chrono_n": 64,
+      "canon_score": 125.5,
+      "acum_v": 23,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "סמוך על התרנגול [ביצוע: רן ונמה] (1959)",
+      "raw_title": "סמוך על התרנגול",
+      "alt_titles": [
+        "תרנגול בן גבר",
+        "התרנגל",
+        "תרנגל",
+        "שיר התרנגול"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1958",
+      "year_src": "topic_album",
+      "decade": "1950s",
+      "vid": "F25xFwezdxw",
+      "vtitle": "סמוך על התרנגול",
+      "ch": "Ran & Nama - Topic",
+      "dur": "2:27",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "רן ונמה",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "כל היום תרנגול בן גבר התרגש כאפרוח",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041290205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6518"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1036519",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "SqSWmbY3zAk",
+          "vtitle": "סמוך על התרנגול",
+          "ch": "Ran & Nama - Topic",
+          "dur": "2:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "PEamc15DDeY",
+          "vtitle": "ריקה זראי - סמוך על התרנגול",
+          "ch": "אבי תדמור",
+          "dur": "2:08",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "PIqHAidM99g",
+          "vtitle": "שיר התרנגול",
+          "ch": "Release - Topic",
+          "dur": "",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 642,
+      "chrono_n": 22,
+      "canon_score": 125.5,
+      "acum_v": 23,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "סמוך על התרנגול [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
+      "raw_title": "סמוך על התרנגול",
+      "alt_titles": [
+        "תרנגול בן גבר",
+        "התרנגל",
+        "תרנגל",
+        "שיר התרנגול"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "canonical_album",
+      "decade": "1950s",
+      "vid": "PIqHAidM99g",
+      "vtitle": "שיר התרנגול",
+      "ch": "Release - Topic",
+      "dur": "2:18",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משתתפי המחזמר חמש חמש",
+      "alb": "חמש חמש (המחזמר) (#5)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 5,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "כל היום תרנגול בן גבר התרגש כאפרוח",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041290205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6518"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1036519",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "F25xFwezdxw",
+          "vtitle": "סמוך על התרנגול",
+          "ch": "Ran & Nama - Topic",
+          "dur": "2:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "SqSWmbY3zAk",
+          "vtitle": "סמוך על התרנגול",
+          "ch": "Ran & Nama - Topic",
+          "dur": "2:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "PEamc15DDeY",
+          "vtitle": "ריקה זראי - סמוך על התרנגול",
+          "ch": "אבי תדמור",
+          "dur": "2:08",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 643,
+      "chrono_n": 139,
+      "canon_score": 60.6,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אופליה [ביצוע: חוה אלברשטיין] (1964)",
+      "raw_title": "אופליה",
+      "alt_titles": [
+        "לא כדאי, אופליה",
+        "לא כדאי אופליה",
+        "זה לא כדאי אופליה"
+      ],
+      "ver_idx": 3,
+      "ver_total": 5,
+      "year": "1964",
+      "rec_year": "1964",
+      "song_year": "1964",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "EEkIbuhQ9dw",
+      "vtitle": "אופליה",
+      "ch": "Chava Alberstein - חוה אלברשטיין",
+      "dur": "3:49",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "חוה אלברשטיין",
+      "alb": "נעמי שמר - שירי זמר נודד",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1001258",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "CJ8_MISsRxg",
+          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "lXCnVOsgJwo",
+          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "3:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3mL9YO-SW6A",
+          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:45",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3YYVsJ9MGZQ",
+          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
+          "ch": "אוצר הזמר העברי",
+          "dur": "2:29",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "Y5aCrfJLjIM",
+          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:55",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 644,
+      "chrono_n": 243,
+      "canon_score": 60.6,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אופליה [ביצוע: רבקה מיכאלי] (1968)",
+      "raw_title": "אופליה",
+      "alt_titles": [
+        "לא כדאי, אופליה",
+        "לא כדאי אופליה",
+        "זה לא כדאי אופליה"
+      ],
+      "ver_idx": 4,
+      "ver_total": 5,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1964",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "lXCnVOsgJwo",
+      "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
+      "ch": "שיר עד - Shir Ad",
+      "dur": "3:52",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "רבקה מיכאלי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1001258",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "EEkIbuhQ9dw",
+          "vtitle": "אופליה",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "3:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3mL9YO-SW6A",
+          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:45",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3YYVsJ9MGZQ",
+          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
+          "ch": "אוצר הזמר העברי",
+          "dur": "2:29",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "CJ8_MISsRxg",
+          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:27",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "Y5aCrfJLjIM",
+          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:55",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 645,
+      "chrono_n": 176,
+      "canon_score": 60.6,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אופליה [ביצוע נעמי שמר] (1966)",
+      "raw_title": "אופליה",
+      "alt_titles": [
+        "לא כדאי, אופליה",
+        "לא כדאי אופליה",
+        "זה לא כדאי אופליה"
+      ],
+      "ver_idx": 5,
+      "ver_total": 5,
+      "year": "1966",
+      "rec_year": "1966",
+      "song_year": "1964",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "CJ8_MISsRxg",
+      "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
+      "ch": "שיר עד - Shir Ad",
+      "dur": "1:27",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1001258",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "EEkIbuhQ9dw",
+          "vtitle": "אופליה",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "3:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "lXCnVOsgJwo",
+          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "3:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3mL9YO-SW6A",
+          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:45",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "3YYVsJ9MGZQ",
+          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
+          "ch": "אוצר הזמר העברי",
+          "dur": "2:29",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "Y5aCrfJLjIM",
+          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:55",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 646,
+      "chrono_n": 242,
+      "canon_score": 48.9,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "בלילה שכזה [ביצוע: שולה חן וליאור ייני] (1968)",
+      "raw_title": "בלילה שכזה",
+      "alt_titles": [
+        "לילה שכזה"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1964",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "nNMmAneQsLs",
+      "vtitle": "בלילה שכזה - שולה חן וליאור ייני (1968)",
+      "ch": "דוד קריבושי - הערוץ הרשמי",
+      "dur": "2:57",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "שולה חן וליאור ייני",
+      "alb": "הקלטות נדירות",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "בלילה שכזה יצאנו פה בשניים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042250205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4742"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1006786",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006786"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "VsVv0OOIARQ",
+          "vtitle": "שיר עד - בלילה שכזה - מילים ולחן: נעמי שמר | שירה: נעמי שמר ואושיק לוי - Naomi Shemer & Oshik Levi",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:07",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "HLj53ovemjk",
+          "vtitle": "בלילה שכזה | שולה חן וליאור ייני | נעמי שמר, הקלטות נדירות",
+          "ch": "שולה חן  - Shula Chen",
+          "dur": "2:58",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "LftSu4qx638",
+          "vtitle": "בלילה שכזה -שולה חן וליאור ייני",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xypLh9F1IXk",
+          "vtitle": "שיר עד - בלילה שכזה - מילים ולחן: נעמי שמר | שירה: רביעיית \"שייקספיר איננו\", 1964 (הגרסה המקורית)",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "3:43",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 647,
+      "chrono_n": 52,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע: להקת פיקוד המרכז] (1958)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 3,
+      "ver_total": 5,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "Pxm7UgJ1JiE",
+      "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+      "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+      "dur": "3:39",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "להקת פיקוד המרכז",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 648,
+      "chrono_n": 65,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע: שמעון בר] (1959)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 4,
+      "ver_total": 5,
+      "year": "1959",
+      "rec_year": "1959",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "qblckfTw1Rk",
+      "vtitle": "שמעון בר - יום ח' בשבוע (1959)",
+      "ch": "אוצר הזמר העברי",
+      "dur": "4:12",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון בר",
+      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
+      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "5-8BIb9KyNk",
+          "vtitle": "יום ח' בשבוע",
+          "ch": "נעמי שמר - Topic",
+          "dur": "4:20",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 649,
+      "chrono_n": 489,
+      "canon_score": 55.1,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1981)",
+      "raw_title": "יום ה בשבוע",
+      "alt_titles": [
+        "יום ח' בשבוע",
+        "יום ח’ בשבוע",
+        "יום ח׳ בשבוע"
+      ],
+      "ver_idx": 5,
+      "ver_total": 5,
+      "year": "1981",
+      "rec_year": "1981",
+      "song_year": "1958",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "5-8BIb9KyNk",
+      "vtitle": "יום ח' בשבוע",
+      "ch": "נעמי שמר - Topic",
+      "dur": "4:20",
+      "tier": "1_album_naomi",
+      "tier_label": "1. אלבום של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "על הדבש ועל העוקץ (נעמי שמר) (#10)",
+      "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
+      "alb_trk": 10,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1026866",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "mtuSxIIZPqg",
+          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
+          "ch": "Shir ivri",
+          "dur": "5:17",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cbNuUKAQMsU",
+          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
+          "ch": "Shir ivri",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qblckfTw1Rk",
+          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
+          "ch": "Shir ivri",
+          "dur": "4:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Pxm7UgJ1JiE",
+          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "3:39",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 650,
+      "chrono_n": 268,
+      "canon_score": 71.0,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "קפה שחור [ביצוע: חבורת שירו שיר] (1969)",
+      "raw_title": "קפה שחור",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1969",
+      "rec_year": "1969",
+      "song_year": "1959",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "_33ng3euFJI",
+      "vtitle": "חבורת שירו שיר - קפה שחור (1969)",
+      "ch": "Shir ivri",
+      "dur": "2:41",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "חבורת שירו שיר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1030703",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "Fd_4Rp8_0JE",
+          "vtitle": "שמעון בר -קפה שחור -1966",
+          "ch": "דודי פטימר",
+          "dur": "2:36",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "EZ-UrC1zPds",
+          "vtitle": "קפה שחור - שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:28",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "38jU5bVcNzo",
+          "vtitle": "שמעון בר - קפה שחור",
+          "ch": "Israphon Music (‫ישראפון‬‎)",
+          "dur": "3:04",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 651,
+      "chrono_n": 114,
+      "canon_score": 75.5,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
+      "raw_title": "מה אמרו הציפורים",
+      "alt_titles": [
+        "מה אמרו הצפרים",
+        "מה אמרו",
+        "מה אמרו הצפורים"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1962",
+      "rec_year": "1962",
+      "song_year": "1962",
+      "year_src": "original_inherited",
+      "decade": "1960s",
+      "vid": "jqQTqr1gHEI",
+      "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
+      "ch": "Shir Yafe",
+      "dur": "2:35",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "מה אמרו הציפורים הנודדות",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1021731",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "UeP8K2lXml8",
+          "vtitle": "מה אמרו - סולנית: מיכל פרס",
+          "ch": "Lehakat Geisot Hashirion - Topic",
+          "dur": "3:01",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "cV-WsBBOwto",
+          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "JY7Gy9EXjmY",
+          "vtitle": "מה אמרו הציפורים אילנית",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:46",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 652,
+      "chrono_n": 211,
+      "canon_score": 106.5,
+      "acum_v": 12,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "זהירות בונים כאן [ביצוע: חוה אלברשטיין] (1967)",
+      "raw_title": "זהירות בונים כאן",
+      "alt_titles": [
+        "זהירות, בונים!",
+        "זהירות בונים",
+        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1967",
+      "rec_year": "1967",
+      "song_year": "1964",
+      "year_src": "manual_verified",
+      "decade": "1960s",
+      "vid": "RoUjcDIWqwc",
+      "vtitle": "זהירות בונים כאן חוה אלברשטיין 1967",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "2:11",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "חוה אלברשטיין",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1014356",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+        }
+      ],
+      "alts": []
+    },
+    {
+      "n": 653,
+      "chrono_n": 725,
+      "canon_score": 47.2,
+      "acum_v": 9,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מסעות בנימין מטודלה [ביצוע: אילי גורליצקי] (שיר מ־1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "",
+      "rec_year": "",
+      "song_year": "1965",
+      "year_src": "",
+      "decade": "unknown",
+      "vid": "T9Q-EXevnts",
+      "vtitle": "אילי גורליצקי -  מסעות בנימין מטודלה",
+      "ch": "Guy Alon",
+      "dur": "3:18",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "אילי גורליצקי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "IQBW2N3zcnc",
+          "vtitle": "אילי גורליצקי - מסעות בנימין מטודלה",
+          "ch": "סימה",
+          "dur": "3:08",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 654,
+      "chrono_n": 438,
       "canon_score": 210.3,
       "acum_v": 24,
       "layer": 2,
@@ -47067,8 +48286,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 640,
-      "chrono_n": 231,
+      "n": 655,
+      "chrono_n": 232,
       "canon_score": 210.3,
       "acum_v": 24,
       "layer": 2,
@@ -47159,8 +48378,826 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 641,
-      "chrono_n": 443,
+      "n": 656,
+      "chrono_n": 317,
+      "canon_score": 144.9,
+      "acum_v": 17,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "עקידת יצחק [ביצוע: דני גרנות וחבורת בימות] (1972)",
+      "raw_title": "עקידת יצחק",
+      "alt_titles": [
+        "עקדת יצחק"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1967",
+      "year_src": "video_title",
+      "decade": "1970s",
+      "vid": "x0IPLHoV9Yc",
+      "vtitle": "עקידת יצחק - דני גרנות וחבורת בימות (קליפ מקורי, 1972)",
+      "ch": "דני גרנות - הערוץ הרשמי",
+      "dur": "2:33",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "דני גרנות וחבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "קח את בנך את יחידך אשר אהבת",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041800205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4877"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1169860",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1169860"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "p64TXGU2ipM",
+          "vtitle": "\"עקדת יצחק\" מאת נעמי שמר, שרה נעמי שמר, עיבד דויד קריבושי",
+          "ch": "ללי שמר",
+          "dur": "2:16",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "kurpWet0X78",
+          "vtitle": "עקידת יצחק - דני גרנות וחבורת בימות (1972)",
+          "ch": "דני גרנות - הערוץ הרשמי",
+          "dur": "2:39",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "8f3_aSvSgUM",
+          "vtitle": "עקידת יצחק - נעמי שמר (1968)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "2:18",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 657,
+      "chrono_n": 293,
+      "canon_score": 60.2,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אל תשאלו אותי [ביצוע: אילנית] (1971)",
+      "raw_title": "אל תשאלו אותי",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1971",
+      "rec_year": "1971",
+      "song_year": "1967",
+      "year_src": "topic_album",
+      "decade": "1970s",
+      "vid": "YfFNug5ZOac",
+      "vtitle": "אל תשאלו אותי",
+      "ch": "Ilanit - Topic",
+      "dur": "3:29",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "אילנית",
+      "alb": "אילנית (1972) (#2)",
+      "alb_group": "אילנית (1972)",
+      "alb_trk": 2,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043290205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4754"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1002796",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "A9erliXTS6o",
+          "vtitle": "אל תשאלו אותי",
+          "ch": "שולי נתן - הערוץ הרשמי",
+          "dur": "3:05",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "1yWJ61nMV1k",
+          "vtitle": "אל תשאלו אותי-אילנית מילים ולחן נעמי שמר-(האלבום הראשון) 1972",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:51",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "AnWiRbrejHg",
+          "vtitle": "נעמי שמר - אל תשאלו אותי",
+          "ch": "נעמי שמר - Topic",
+          "dur": "3:09",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 658,
+      "chrono_n": 251,
+      "canon_score": 60.2,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אל תשאלו אותי [ביצוע: שולי נתן] (1968)",
+      "raw_title": "אל תשאלו אותי",
+      "alt_titles": [],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1968",
+      "rec_year": "1968",
+      "song_year": "1967",
+      "year_src": "canonical_album",
+      "decade": "1960s",
+      "vid": "A9erliXTS6o",
+      "vtitle": "שולי נתן - אל תשאלו אותי (1968)",
+      "ch": "שולי נתן - הערוץ הרשמי",
+      "dur": "2:37",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "שולי נתן",
+      "alb": "שולי נתן שרה נעמי שמר",
+      "alb_group": "שולי נתן שרה נעמי שמר",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043290205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4754"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1002796",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "YfFNug5ZOac",
+          "vtitle": "אל תשאלו אותי",
+          "ch": "Ilanit - Topic",
+          "dur": "3:29",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "1yWJ61nMV1k",
+          "vtitle": "אל תשאלו אותי-אילנית מילים ולחן נעמי שמר-(האלבום הראשון) 1972",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:51",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "AnWiRbrejHg",
+          "vtitle": "נעמי שמר - אל תשאלו אותי",
+          "ch": "נעמי שמר - Topic",
+          "dur": "3:09",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 659,
+      "chrono_n": 579,
+      "canon_score": 86.2,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מתי [ביצוע: הגבעטרון] (1988)",
+      "raw_title": "מתי",
+      "alt_titles": [
+        "הם בלבד"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1988",
+      "rec_year": "1988",
+      "song_year": "1968",
+      "year_src": "canonical_album",
+      "decade": "1980s",
+      "vid": "XIs2ZIJ2oZw",
+      "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
+      "ch": "הגבעטרון | האלבומים הגדולים",
+      "dur": "3:06",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "הגבעטרון",
+      "alb": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988) (#9)",
+      "alb_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
+      "alb_trk": 9,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
+      "co_creators": "מילים: רחל המשוררת",
+      "opening_line": "הם בלבד נותרו לי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1321493",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "A1BCQuWuvTE",
+          "vtitle": "מתי",
+          "ch": "Release - Topic",
+          "dur": "",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "QyyIeR3CFuk",
+          "vtitle": "נעמי שמר - מתי",
+          "ch": "סימה",
+          "dur": "4:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "04e7PQhn-vY",
+          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:54",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "2GD7HJfapWM",
+          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:36",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 660,
+      "chrono_n": 288,
+      "canon_score": 126.7,
+      "acum_v": 5,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "עוד חוזר הניגון [ביצוע: חנן יובל] (1970)",
+      "raw_title": "עוד חוזר הניגון",
+      "alt_titles": [
+        "עוד חוזר הנגון",
+        "עוד חוזר הניגון שזנחת לשווא"
+      ],
+      "ver_idx": 2,
+      "ver_total": 3,
+      "year": "1970",
+      "rec_year": "1970",
+      "song_year": "1970",
+      "year_src": "original_inherited",
+      "decade": "1970s",
+      "vid": "-xNyTz_yvRU",
+      "vtitle": "חנן יובל - עוד חוזר הניגון (לחן: נעמי שמר)",
+      "ch": "Hanan Yovel - Topic",
+      "dur": "2:49",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "חנן יובל",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עוד חוזר הנגון שזנחת לשוא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044770205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1027164",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "AwA2ynu-DwI",
+          "vtitle": "אילנה רובינא -עוד חוזר הניגון -1970",
+          "ch": "דודי פטימר",
+          "dur": "2:51",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "gsf0t-VihvE",
+          "vtitle": "עוד חוזר הניגון מאת נתן אלתרמן, לחן: נעמי שמר, שרים משתתפי מופע אלתרמן, 1977",
+          "ch": "ללי שמר",
+          "dur": "3:46",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "V2eI7l5c3nc",
+          "vtitle": "עוד חוזר הניגון - אילנה רובינא (1970)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "2:54",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 661,
+      "chrono_n": 439,
+      "canon_score": 126.7,
+      "acum_v": 5,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "עוד חוזר הניגון [ביצוע: משתתפי מופע אלתרמן (1977)] (1977)",
+      "raw_title": "עוד חוזר הניגון",
+      "alt_titles": [
+        "עוד חוזר הנגון",
+        "עוד חוזר הניגון שזנחת לשווא"
+      ],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1977",
+      "rec_year": "1977",
+      "song_year": "1970",
+      "year_src": "video_title",
+      "decade": "1970s",
+      "vid": "gsf0t-VihvE",
+      "vtitle": "עוד חוזר הניגון מאת נתן אלתרמן, לחן: נעמי שמר, שרים משתתפי מופע אלתרמן, 1977",
+      "ch": "ללי שמר",
+      "dur": "3:46",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "משתתפי מופע אלתרמן (1977)",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עוד חוזר הנגון שזנחת לשוא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044770205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1027164",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "AwA2ynu-DwI",
+          "vtitle": "אילנה רובינא -עוד חוזר הניגון -1970",
+          "ch": "דודי פטימר",
+          "dur": "2:51",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "-xNyTz_yvRU",
+          "vtitle": "חנן יובל - עוד חוזר הניגון (נעמי שמר)",
+          "ch": "Guy Alon",
+          "dur": "2:49",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "V2eI7l5c3nc",
+          "vtitle": "עוד חוזר הניגון - אילנה רובינא (1970)",
+          "ch": "דוד קריבושי - הערוץ הרשמי",
+          "dur": "2:54",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 662,
+      "chrono_n": 440,
+      "canon_score": 243.2,
+      "acum_v": 50,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "בארץ להד\"ם [ביצוע: הכל עובר חביבי] (1977)",
+      "raw_title": "בארץ להד\"ם",
+      "alt_titles": [
+        "ארץ להד\"ם",
+        "להד\"ם"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1977",
+      "rec_year": "1977",
+      "song_year": "1972",
+      "year_src": "stereo_ve_mono",
+      "decade": "1970s",
+      "vid": "vxQcorAdAXA",
+      "vtitle": "בארץ להד\"ם",
+      "ch": "Hakol Over Habibi - Topic",
+      "dur": "4:03",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "הכל עובר חביבי",
+      "alb": "שירים שמחוץ להצגה",
+      "alb_group": "שירים שמחוץ להצגה",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "בארץ להדם נשמע תמיד הדם של נבל וקתרוס",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042040205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=530"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1005435",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "ZLzkd2ui6PM",
+          "vtitle": "בארץ להד\"ם",
+          "ch": "Release - Topic",
+          "dur": "2:55",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "xGM5dCnBYgI",
+          "vtitle": "Land of Lahadam - בארץ להד\"ם",
+          "ch": "ElinoarMoav",
+          "dur": "3:39",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 663,
+      "chrono_n": 331,
+      "canon_score": 42.7,
+      "acum_v": 5,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אנשים יפים [ביצוע: מירי אלוני] (1972)",
+      "raw_title": "אנשים יפים",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "original_inherited",
+      "decade": "1970s",
+      "vid": "chuU4lFZ5iA",
+      "vtitle": "אנשים יפים - מירי אלוני (חי מתוך \"שרים בצוותא\")",
+      "ch": "מירי אלוני - Miri Aloni",
+      "dur": "5:09",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "מירי אלוני",
+      "alb": "שרים בצוותא",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "ליל שבת אחרי עשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042920205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5878"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1004294",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "RsAt9yPbA1U",
+          "vtitle": "אנשים יפים - מירי אלוני וחבורת בימות  Miri Aloni",
+          "ch": "מירי אלוני - Miri Aloni",
+          "dur": "3:23",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "doXUEtdMaxc",
+          "vtitle": "אנשים יפים",
+          "ch": "Release - Topic",
+          "dur": "3:22",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 664,
+      "chrono_n": 334,
+      "canon_score": 101.7,
+      "acum_v": 6,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "שיר ערש למקרים מיוחדים [ביצוע מקורי] (1972)",
+      "raw_title": "שיר ערש למקרים מיוחדים",
+      "alt_titles": [
+        "נומי בת",
+        "שיר ערש"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "video_title",
+      "decade": "1970s",
+      "vid": "tpe1wARxPSs",
+      "vtitle": "שיר ערש למקרים מיוחדים - שר עוזי מאירי מחבורת בימות (1972)",
+      "ch": "ללי שמר",
+      "dur": "2:35",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "עוזי מאירי (חבורת בימות)",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#12)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 12,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "נומי נומי בת חלונות כבר האפילו",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042320205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=40273"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033859",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "w8uvk1uQYXg",
+          "vtitle": "שיר ערש למקרים מיוחדים",
+          "ch": "Release - Topic",
+          "dur": "2:42",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "pPE_eIQYtgY",
+          "vtitle": "רבקה מיכאלי - שיר ערש למקרים מיוחדים",
+          "ch": "Eyatn",
+          "dur": "2:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "qiWrcnMr02g",
+          "vtitle": "שיר ערש למקרים מיוחדים",
+          "ch": "Noa Levin",
+          "dur": "1:45",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 665,
+      "chrono_n": 408,
+      "canon_score": 188.1,
+      "acum_v": 33,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "שיר נולד [ביצוע: עוזי מאירי] (1976)",
+      "raw_title": "שיר נולד",
+      "alt_titles": [
+        "שיר נולד הקשיבו שיר נולד הלילה"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1976",
+      "rec_year": "1976",
+      "song_year": "1974",
+      "year_src": "existing_curated",
+      "decade": "1970s",
+      "vid": "vNw21mQVfKM",
+      "vtitle": "שיר נולד",
+      "ch": "Uzi meiri - Topic",
+      "dur": "2:48",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "עוזי מאירי",
+      "alb": "נעמי שמר השירים היפים",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "שיר נולד הקשיבו שיר נולד הלילה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042750205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5873"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033739",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "kdH54d52ryk",
+          "vtitle": "שיר נולד",
+          "ch": "Ariel Horowitz - Topic",
+          "dur": "3:05",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Vs6H2agknmE",
+          "vtitle": "שיר נולד",
+          "ch": "Uzi meiri - Topic",
+          "dur": "2:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "yzSOpEPUXWw",
+          "vtitle": "חוה אלברשטיין והפלטינה - שיר נולד",
+          "ch": "Chava Alberstein - חוה אלברשטיין",
+          "dur": "2:30",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 666,
+      "chrono_n": 442,
+      "canon_score": 48.3,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "גדי קטן [ביצוע: דודו זכאי] (1977)",
+      "raw_title": "גדי קטן",
+      "alt_titles": [
+        "הגדי",
+        "גדי"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1977",
+      "rec_year": "1977",
+      "song_year": "1973",
+      "year_src": "canonical_album",
+      "decade": "1970s",
+      "vid": "Yd3_uDW6i4w",
+      "vtitle": "גדי קטן",
+      "ch": "דודו זכאי - Topic",
+      "dur": "2:00",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "דודו זכאי",
+      "alb": "הטיול הקטן – כל שירי נעמי שמר לילדים",
+      "alb_group": "הטיול הקטן – כל שירי נעמי שמר לילדים",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "גדי קטן גדי קטן גדי צחור קטן",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045140205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=23534"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1041964",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "yKAUdNGyVpA",
+          "vtitle": "נעמי שמר - גדי קטן",
+          "ch": "כאן | מוזיקה",
+          "dur": "1:55",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "rB1MfQi3_Dg",
+          "vtitle": "גדי אחד - נעמי שמר",
+          "ch": "נעמי שמר - יש לי חבר",
+          "dur": "2:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "NZMFqOhoPSk",
+          "vtitle": "נעמי שמר - גדי אחד",
+          "ch": "IBA Classics",
+          "dur": "1:59",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 667,
+      "chrono_n": 444,
       "canon_score": 212.9,
       "acum_v": 17,
       "layer": 2,
@@ -47247,8 +49284,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 642,
-      "chrono_n": 471,
+      "n": 668,
+      "chrono_n": 472,
       "canon_score": 212.9,
       "acum_v": 17,
       "layer": 2,
@@ -47335,8 +49372,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 643,
-      "chrono_n": 632,
+      "n": 669,
+      "chrono_n": 631,
       "canon_score": 212.9,
       "acum_v": 17,
       "layer": 2,
@@ -47423,8 +49460,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 644,
-      "chrono_n": 634,
+      "n": 670,
+      "chrono_n": 633,
       "canon_score": 45.0,
       "acum_v": 50,
       "layer": 2,
@@ -47485,8 +49522,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 645,
-      "chrono_n": 445,
+      "n": 671,
+      "chrono_n": 446,
       "canon_score": 64.3,
       "acum_v": 8,
       "layer": 2,
@@ -47559,8 +49596,154 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 646,
-      "chrono_n": 538,
+      "n": 672,
+      "chrono_n": 399,
+      "canon_score": 76.5,
+      "acum_v": 16,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "משנכנס אדר [ביצוע: צילה דגן] (1975)",
+      "raw_title": "משנכנס אדר",
+      "alt_titles": [
+        "כשנכנס אדר"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1975",
+      "rec_year": "1975",
+      "song_year": "1975",
+      "year_src": "original_inherited",
+      "decade": "1970s",
+      "vid": "ycWudyVJdOU",
+      "vtitle": "כשנכנס אדר",
+      "ch": "Cilla Dagan - Topic",
+      "dur": "1:26",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "צילה דגן",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "בואו ותראו מראה בלתי רגיל כל העיר שוקקת",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042200205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=35091"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1019426",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019426"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "sdlmzqJiT5M",
+          "vtitle": "כשנכנס אדר",
+          "ch": "נעמי שמר - Topic",
+          "dur": "1:29",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "vqa0CZCPi-M",
+          "vtitle": "כשנכנס אדר מאת נעמי שמר - ליווי בצלילונים",
+          "ch": "Yael Eilat",
+          "dur": "1:39",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 673,
+      "chrono_n": 686,
+      "canon_score": 108.2,
+      "acum_v": 8,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "נצא השדה [ביצוע: שולי נתן] (2012)",
+      "raw_title": "נצא השדה",
+      "alt_titles": [
+        "נצאה השדה",
+        "נצא השדה (מתוך שיר השירים)"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "2012",
+      "rec_year": "2012",
+      "song_year": "1975",
+      "year_src": "archive_desc",
+      "decade": "1990s+",
+      "vid": "vAT50nuKMh8",
+      "vtitle": "נצא השדה - שולי נתן",
+      "ch": "שולי נתן - הערוץ הרשמי",
+      "dur": "2:05",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "שולי נתן",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר (עם מסורתי, מן המקורות)",
+      "co_creators": "עם מסורתי, מן המקורות",
+      "opening_line": "נצא השדה נלינה בכפרים",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043130205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5626"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1025585",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025585"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "pZrITCQOtag",
+          "vtitle": "נעמי שמר - נצא השדה",
+          "ch": "כאן | מוזיקה",
+          "dur": "1:33",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "U8_oeeR-iyc",
+          "vtitle": "נצא השדה שולי נתן",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:03",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "BBUtEBZLJFQ",
+          "vtitle": "נצא השדה",
+          "ch": "נעמי שמר - Topic",
+          "dur": "2:29",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 674,
+      "chrono_n": 537,
       "canon_score": 151.9,
       "acum_v": 12,
       "layer": 2,
@@ -47658,2269 +49841,75 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 647,
-      "chrono_n": 439,
-      "canon_score": 243.2,
-      "acum_v": 50,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "בארץ להד\"ם [ביצוע: הכל עובר חביבי] (1977)",
-      "raw_title": "בארץ להד\"ם",
-      "alt_titles": [
-        "ארץ להד\"ם",
-        "להד\"ם"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1977",
-      "rec_year": "1977",
-      "song_year": "1972",
-      "year_src": "stereo_ve_mono",
-      "decade": "1970s",
-      "vid": "vxQcorAdAXA",
-      "vtitle": "בארץ להד\"ם",
-      "ch": "Hakol Over Habibi - Topic",
-      "dur": "4:03",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "הכל עובר חביבי",
-      "alb": "שירים שמחוץ להצגה",
-      "alb_group": "שירים שמחוץ להצגה",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "בארץ להדם נשמע תמיד הדם של נבל וקתרוס",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042040205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=530"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1005435",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "ZLzkd2ui6PM",
-          "vtitle": "בארץ להד\"ם",
-          "ch": "Release - Topic",
-          "dur": "2:55",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xGM5dCnBYgI",
-          "vtitle": "Land of Lahadam - בארץ להד\"ם",
-          "ch": "ElinoarMoav",
-          "dur": "3:39",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 648,
-      "chrono_n": 330,
-      "canon_score": 42.7,
-      "acum_v": 5,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אנשים יפים [ביצוע: מירי אלוני] (1972)",
-      "raw_title": "אנשים יפים",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "original_inherited",
-      "decade": "1970s",
-      "vid": "chuU4lFZ5iA",
-      "vtitle": "אנשים יפים - מירי אלוני (חי מתוך \"שרים בצוותא\")",
-      "ch": "מירי אלוני - Miri Aloni",
-      "dur": "5:09",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "מירי אלוני",
-      "alb": "שרים בצוותא",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "ליל שבת אחרי עשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042920205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5878"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1004294",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "RsAt9yPbA1U",
-          "vtitle": "אנשים יפים - מירי אלוני וחבורת בימות  Miri Aloni",
-          "ch": "מירי אלוני - Miri Aloni",
-          "dur": "3:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "doXUEtdMaxc",
-          "vtitle": "אנשים יפים",
-          "ch": "Release - Topic",
-          "dur": "3:22",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 649,
-      "chrono_n": 479,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מסעות בנימין מטודלה [ביצוע: שמעון בר] (1979)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1979",
-      "rec_year": "1979",
-      "song_year": "1979",
-      "year_src": "original_inherited",
-      "decade": "1970s",
-      "vid": "vbG5B1wswQc",
-      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
-      "ch": "דוד אסף",
-      "dur": "3:40",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון בר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "s8KBMzwFJmA",
-          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:41",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "nugnCFc2e54",
-          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "4:00",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "wIFDo3qiS9c",
-          "vtitle": "הגשש החיוור - מסעות בנימין מטודלה - Hagashash - Masaot Binyamin Mitudela",
-          "ch": "מאוצר הסרטיה והתקליטיה",
-          "dur": "4:21",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 650,
-      "chrono_n": 596,
-      "canon_score": 100.7,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אהבת אשתקד [ביצוע: הפרברים] (1989)",
-      "raw_title": "אהבת אשתקד",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1989",
-      "rec_year": "1989",
-      "song_year": "1987",
-      "year_src": "topic_album",
-      "decade": "1980s",
-      "vid": "U3xSpmrTgXc",
-      "vtitle": "אהבת אשתקד",
-      "ch": "Haparvarim - Topic",
-      "dur": "3:20",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "הפרברים",
-      "alb": "מוזיקה (1989)",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042070205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6554"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1000832",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "VaztQIe75Ns",
-          "vtitle": "אהבת אשתקד",
-          "ch": "Release - Topic",
-          "dur": "3:48",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 651,
-      "chrono_n": 639,
-      "canon_score": 142.8,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "גיא [ביצוע: משתתפי אצלנו בפסנתר (משה בקר)] (1993)",
-      "raw_title": "גיא",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1993",
-      "rec_year": "1993",
-      "song_year": "1987",
-      "year_src": "existing_curated",
-      "decade": "1990s+",
-      "vid": "CSjnGcglVJI",
-      "vtitle": "אצלנו בפסנתר -6- גיא (1993)",
-      "ch": "ילדות ישראלית",
-      "dur": "2:32",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "משתתפי אצלנו בפסנתר (משה בקר)",
-      "alb": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993) (#12)",
-      "alb_group": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993)",
-      "alb_trk": 12,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "גיא אתה ואני ודי אני ואתה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043880205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5076"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1008075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "9Zve4BWzx-Q",
-          "vtitle": "משה בקר- גיא",
-          "ch": "כאן | מוזיקה",
-          "dur": "2:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "KXAdKoWGyAY",
-          "vtitle": "גיא בן 60 \"אורלי עשתה לי את הפתעת חיי'\" // 'גיא' מאת נעמי שמר",
-          "ch": "אורלי וגיא הערוץ הרשמי",
-          "dur": "2:44",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "PXL8ltjFDCk",
-          "vtitle": "גיא",
-          "ch": "Release - Topic",
-          "dur": "2:27",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 652,
-      "chrono_n": 21,
-      "canon_score": 92.2,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "שיר הבר [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
-      "raw_title": "שיר הבר",
-      "alt_titles": [
-        "טנגו",
-        "אל תספר",
-        "פה נספר על בר במרכז העיר בין כיכר",
-        "פה נספר על בר במרכז העיר בין הככר",
-        "פה נספר על בר במרכז העיר בין הכיכר"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "Jzkgm9A3Ooc",
-      "vtitle": "שיר הבר",
-      "ch": "Release - Topic",
-      "dur": "2:38",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
-      "alb": "חמש חמש (המחזמר) (#4)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 4,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "פה נספר על בר במרכז העיר בין ככר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045330205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3715"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033018"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "zPcjPIfxuxs",
-          "vtitle": "שיר הבר -  ריקה זראי",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "2vq22hm-TnI",
-          "vtitle": "ריקה זראי - שיר הבר",
-          "ch": "משירי ארץ ישראל הישנה והטובה",
-          "dur": "2:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7ELxBcSAz34",
-          "vtitle": "ריקה זראי - שיר הבר",
-          "ch": "אבי תדמור",
-          "dur": "2:12",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 653,
-      "chrono_n": 39,
-      "canon_score": 112.3,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "רב האור והתכלת [ביצוע: ריקה זראי] (1958)",
-      "raw_title": "רב האור והתכלת",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "original_inherited",
-      "decade": "1950s",
-      "vid": "INHBTa-HfSM",
-      "vtitle": "רב האור והתכלת",
-      "ch": "Rika Zarai - Topic",
-      "dur": "1:45",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "ריקה זראי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "FQc7zIoG1v4",
-          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "utME2jtCAmY",
-          "vtitle": "רב האור והתכלת - ריקה זראי",
-          "ch": "minad hapizmonim",
-          "dur": "1:48",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "YIG20uvjBVg",
-          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
-          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "4ApYhj2Mqeo",
-          "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
-          "ch": "israelretro",
-          "dur": "1:23",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "_6La2mK-PqU",
-          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "1:49",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 654,
-      "chrono_n": 157,
-      "canon_score": 112.3,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר חמש חמש (1965)] (1965)",
-      "raw_title": "רב האור והתכלת",
-      "alt_titles": [],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1965",
-      "rec_year": "1965",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "4ApYhj2Mqeo",
-      "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
-      "ch": "israelretro",
-      "dur": "1:23",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אביבה פז ובנות המחזמר חמש חמש (1965)",
-      "alb": "חמש חמש (המחזמר) (#1)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 1,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "tSmg5wveagg",
-          "vtitle": "רב האור והתכלת",
-          "ch": "Release - Topic",
-          "dur": "1:22",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "FQc7zIoG1v4",
-          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "utME2jtCAmY",
-          "vtitle": "רב האור והתכלת - ריקה זראי",
-          "ch": "minad hapizmonim",
-          "dur": "1:48",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "YIG20uvjBVg",
-          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
-          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "INHBTa-HfSM",
-          "vtitle": "רב האור והתכלת",
-          "ch": "Rika Zarai - Topic",
-          "dur": "1:45",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "_6La2mK-PqU",
-          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "1:49",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 655,
-      "chrono_n": 64,
-      "canon_score": 125.5,
-      "acum_v": 23,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "סמוך על התרנגול [ביצוע: רן ונמה] (1959)",
-      "raw_title": "סמוך על התרנגול",
-      "alt_titles": [
-        "תרנגול בן גבר",
-        "התרנגל",
-        "תרנגל",
-        "שיר התרנגול"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1958",
-      "year_src": "topic_album",
-      "decade": "1950s",
-      "vid": "F25xFwezdxw",
-      "vtitle": "סמוך על התרנגול",
-      "ch": "Ran & Nama - Topic",
-      "dur": "2:27",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "רן ונמה",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "כל היום תרנגול בן גבר התרגש כאפרוח",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041290205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6518"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "SqSWmbY3zAk",
-          "vtitle": "סמוך על התרנגול",
-          "ch": "Ran & Nama - Topic",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "PEamc15DDeY",
-          "vtitle": "ריקה זראי - סמוך על התרנגול",
-          "ch": "אבי תדמור",
-          "dur": "2:08",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "PIqHAidM99g",
-          "vtitle": "שיר התרנגול",
-          "ch": "Release - Topic",
-          "dur": "",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 656,
-      "chrono_n": 22,
-      "canon_score": 125.5,
-      "acum_v": 23,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "סמוך על התרנגול [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
-      "raw_title": "סמוך על התרנגול",
-      "alt_titles": [
-        "תרנגול בן גבר",
-        "התרנגל",
-        "תרנגל",
-        "שיר התרנגול"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "PIqHAidM99g",
-      "vtitle": "שיר התרנגול",
-      "ch": "Release - Topic",
-      "dur": "2:18",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
-      "alb": "חמש חמש (המחזמר) (#5)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 5,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "כל היום תרנגול בן גבר התרגש כאפרוח",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041290205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6518"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "F25xFwezdxw",
-          "vtitle": "סמוך על התרנגול",
-          "ch": "Ran & Nama - Topic",
-          "dur": "2:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "SqSWmbY3zAk",
-          "vtitle": "סמוך על התרנגול",
-          "ch": "Ran & Nama - Topic",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "PEamc15DDeY",
-          "vtitle": "ריקה זראי - סמוך על התרנגול",
-          "ch": "אבי תדמור",
-          "dur": "2:08",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 657,
-      "chrono_n": 139,
-      "canon_score": 60.6,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אופליה [ביצוע: חוה אלברשטיין] (1964)",
-      "raw_title": "אופליה",
-      "alt_titles": [
-        "לא כדאי, אופליה",
-        "לא כדאי אופליה",
-        "זה לא כדאי אופליה"
-      ],
-      "ver_idx": 3,
-      "ver_total": 5,
-      "year": "1964",
-      "rec_year": "1964",
-      "song_year": "1964",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "EEkIbuhQ9dw",
-      "vtitle": "אופליה",
-      "ch": "Chava Alberstein - חוה אלברשטיין",
-      "dur": "3:49",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חוה אלברשטיין",
-      "alb": "נעמי שמר - שירי זמר נודד",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "CJ8_MISsRxg",
-          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "lXCnVOsgJwo",
-          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "3:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3mL9YO-SW6A",
-          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:45",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3YYVsJ9MGZQ",
-          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
-          "ch": "אוצר הזמר העברי",
-          "dur": "2:29",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "Y5aCrfJLjIM",
-          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:55",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 658,
-      "chrono_n": 242,
-      "canon_score": 60.6,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אופליה [ביצוע: רבקה מיכאלי] (1968)",
-      "raw_title": "אופליה",
-      "alt_titles": [
-        "לא כדאי, אופליה",
-        "לא כדאי אופליה",
-        "זה לא כדאי אופליה"
-      ],
-      "ver_idx": 4,
-      "ver_total": 5,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1964",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "lXCnVOsgJwo",
-      "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "3:52",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "רבקה מיכאלי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "EEkIbuhQ9dw",
-          "vtitle": "אופליה",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "3:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3mL9YO-SW6A",
-          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:45",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3YYVsJ9MGZQ",
-          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
-          "ch": "אוצר הזמר העברי",
-          "dur": "2:29",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "CJ8_MISsRxg",
-          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:27",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "Y5aCrfJLjIM",
-          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:55",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 659,
-      "chrono_n": 175,
-      "canon_score": 60.6,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אופליה [ביצוע נעמי שמר] (1966)",
-      "raw_title": "אופליה",
-      "alt_titles": [
-        "לא כדאי, אופליה",
-        "לא כדאי אופליה",
-        "זה לא כדאי אופליה"
-      ],
-      "ver_idx": 5,
-      "ver_total": 5,
-      "year": "1966",
-      "rec_year": "1966",
-      "song_year": "1964",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "CJ8_MISsRxg",
-      "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | ביצוע: נעמי שמר, 1966 - Naomi Shemer",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "1:27",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה לא כדאי אופליה זה לא כדאי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044900205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4746"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "EEkIbuhQ9dw",
-          "vtitle": "אופליה",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "3:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "lXCnVOsgJwo",
-          "vtitle": "שיר עד - לא כדאי אופליה - מילים: נעמי שמר | לחן: נעמי שמר | שירה: רבקה מיכאלי, 1968 - Rivka Michaeli",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "3:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3mL9YO-SW6A",
-          "vtitle": "אופליה (זה לא כדאי אופליה) - רבקה מיכאלי (22.8.1971) | עיבוד וניצוח: מרטין מוסקוביץ",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:45",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "3YYVsJ9MGZQ",
-          "vtitle": "אושיק לוי ונעמי שמר - זה לא כדאי אופליה (1965) | Oshik Levi & Naomi Shemer",
-          "ch": "אוצר הזמר העברי",
-          "dur": "2:29",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "Y5aCrfJLjIM",
-          "vtitle": "זה לא כדאי אופליה- להקת החמאם",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:55",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 660,
-      "chrono_n": 241,
-      "canon_score": 48.9,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "בלילה שכזה [ביצוע: שולה חן וליאור ייני] (1968)",
-      "raw_title": "בלילה שכזה",
-      "alt_titles": [
-        "לילה שכזה"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1964",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "nNMmAneQsLs",
-      "vtitle": "בלילה שכזה - שולה חן וליאור ייני (1968)",
-      "ch": "דוד קריבושי - הערוץ הרשמי",
-      "dur": "2:57",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "שולה חן וליאור ייני",
-      "alb": "הקלטות נדירות",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "בלילה שכזה יצאנו פה בשניים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042250205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4742"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1006786",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006786"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "VsVv0OOIARQ",
-          "vtitle": "שיר עד - בלילה שכזה - מילים ולחן: נעמי שמר | שירה: נעמי שמר ואושיק לוי - Naomi Shemer & Oshik Levi",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:07",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "HLj53ovemjk",
-          "vtitle": "בלילה שכזה | שולה חן וליאור ייני | נעמי שמר, הקלטות נדירות",
-          "ch": "שולה חן  - Shula Chen",
-          "dur": "2:58",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "LftSu4qx638",
-          "vtitle": "בלילה שכזה -שולה חן וליאור ייני",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:01",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "xypLh9F1IXk",
-          "vtitle": "שיר עד - בלילה שכזה - מילים ולחן: נעמי שמר | שירה: רביעיית \"שייקספיר איננו\", 1964 (הגרסה המקורית)",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "3:43",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 661,
-      "chrono_n": 210,
-      "canon_score": 106.5,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "זהירות בונים כאן [ביצוע: חוה אלברשטיין] (1967)",
-      "raw_title": "זהירות בונים כאן",
-      "alt_titles": [
-        "זהירות, בונים!",
-        "זהירות בונים",
-        "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משורין"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1967",
-      "rec_year": "1967",
-      "song_year": "1964",
-      "year_src": "manual_verified",
-      "decade": "1960s",
-      "vid": "RoUjcDIWqwc",
-      "vtitle": "זהירות בונים כאן חוה אלברשטיין 1967",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "2:11",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "חוה אלברשטיין",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו נבנה לנו גשר איתן מפלדה וברזל ובטון משוריין",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042160205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4741"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
-        }
-      ],
-      "alts": []
-    },
-    {
-      "n": 662,
-      "chrono_n": 52,
-      "canon_score": 55.1,
+      "n": 675,
+      "chrono_n": 585,
+      "canon_score": 43.2,
       "acum_v": 4,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע: להקת פיקוד המרכז] (1958)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 3,
-      "ver_total": 5,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "Pxm7UgJ1JiE",
-      "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-      "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-      "dur": "3:39",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 663,
-      "chrono_n": 65,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע: שמעון בר] (1959)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 4,
-      "ver_total": 5,
-      "year": "1959",
-      "rec_year": "1959",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "qblckfTw1Rk",
-      "vtitle": "שמעון בר - יום ח' בשבוע (1959)",
-      "ch": "אוצר הזמר העברי",
-      "dur": "4:12",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון בר",
-      "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
-      "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "5-8BIb9KyNk",
-          "vtitle": "יום ח' בשבוע",
-          "ch": "נעמי שמר - Topic",
-          "dur": "4:20",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 664,
-      "chrono_n": 490,
-      "canon_score": 55.1,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "יום ה בשבוע [ביצוע נעמי שמר] (1981)",
-      "raw_title": "יום ה בשבוע",
-      "alt_titles": [
-        "יום ח' בשבוע",
-        "יום ח’ בשבוע",
-        "יום ח׳ בשבוע"
-      ],
-      "ver_idx": 5,
-      "ver_total": 5,
-      "year": "1981",
-      "rec_year": "1981",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1980s",
-      "vid": "5-8BIb9KyNk",
-      "vtitle": "יום ח' בשבוע",
-      "ch": "נעמי שמר - Topic",
-      "dur": "4:20",
-      "tier": "1_album_naomi",
-      "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "על הדבש ועל העוקץ (נעמי שמר) (#10)",
-      "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
-      "alb_trk": 10,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "זה יהא יום חול כמו היום כמו אתמול",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037099030205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5507"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "mtuSxIIZPqg",
-          "vtitle": "רחל אטאס - יום ח' בשבוע / נעמי שמר (1958)",
-          "ch": "Shir ivri",
-          "dur": "5:17",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cbNuUKAQMsU",
-          "vtitle": "נעמי שמר - יום ח' בשבוע / נעמי שמר (1960)",
-          "ch": "Shir ivri",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qblckfTw1Rk",
-          "vtitle": "שמעון בר - יום ח' בשבוע / נעמי שמר (1959)",
-          "ch": "Shir ivri",
-          "dur": "4:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Pxm7UgJ1JiE",
-          "vtitle": "יום ח' בשבוע - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "3:39",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 665,
-      "chrono_n": 267,
-      "canon_score": 71.0,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "קפה שחור [ביצוע: חבורת שירו שיר] (1969)",
-      "raw_title": "קפה שחור",
+      "title": "את הכי הכי [ביצוע: הגבעטרון] (1988)",
+      "raw_title": "את הכי הכי",
       "alt_titles": [],
       "ver_idx": 2,
       "ver_total": 2,
-      "year": "1969",
-      "rec_year": "1969",
-      "song_year": "1959",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "_33ng3euFJI",
-      "vtitle": "חבורת שירו שיר - קפה שחור (1969)",
-      "ch": "Shir ivri",
-      "dur": "2:41",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "חבורת שירו שיר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "כשאספו עצים למדורה החיל הביט בנערה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041780205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3781"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1030703",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "Fd_4Rp8_0JE",
-          "vtitle": "שמעון בר -קפה שחור -1966",
-          "ch": "דודי פטימר",
-          "dur": "2:36",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "EZ-UrC1zPds",
-          "vtitle": "קפה שחור - שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:28",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "38jU5bVcNzo",
-          "vtitle": "שמעון בר - קפה שחור",
-          "ch": "Israphon Music (‫ישראפון‬‎)",
-          "dur": "3:04",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 666,
-      "chrono_n": 580,
-      "canon_score": 86.2,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מתי [ביצוע: הגבעטרון] (1988)",
-      "raw_title": "מתי",
-      "alt_titles": [
-        "הם בלבד"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
       "year": "1988",
       "rec_year": "1988",
-      "song_year": "1968",
+      "song_year": "1981",
       "year_src": "canonical_album",
       "decade": "1980s",
-      "vid": "XIs2ZIJ2oZw",
-      "vtitle": "Hagevatron | מתי - הגבעטרון - אחר קציר",
+      "vid": "dT5g0VRp7jE",
+      "vtitle": "Hagevatron | את הכי הכי - הגבעטרון - אחר קציר",
       "ch": "הגבעטרון | האלבומים הגדולים",
-      "dur": "3:06",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "הגבעטרון",
-      "alb": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988) (#9)",
-      "alb_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
-      "alb_trk": 9,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: רחל המשוררת",
-      "co_creators": "מילים: רחל המשוררת",
-      "opening_line": "הם בלבד נותרו לי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043150205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=31931"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "A1BCQuWuvTE",
-          "vtitle": "מתי",
-          "ch": "Release - Topic",
-          "dur": "",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "QyyIeR3CFuk",
-          "vtitle": "נעמי שמר - מתי",
-          "ch": "סימה",
-          "dur": "4:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "04e7PQhn-vY",
-          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: שולי נתן, 1971 - Shuly Nathan",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:54",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "2GD7HJfapWM",
-          "vtitle": "שיר עד - מתי - מילים: רחל | לחן: נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:36",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 667,
-      "chrono_n": 316,
-      "canon_score": 144.9,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "עקידת יצחק [ביצוע: דני גרנות וחבורת בימות] (1972)",
-      "raw_title": "עקידת יצחק",
-      "alt_titles": [
-        "עקדת יצחק"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1967",
-      "year_src": "video_title",
-      "decade": "1970s",
-      "vid": "x0IPLHoV9Yc",
-      "vtitle": "עקידת יצחק - דני גרנות וחבורת בימות (קליפ מקורי, 1972)",
-      "ch": "דני גרנות - הערוץ הרשמי",
-      "dur": "2:33",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דני גרנות וחבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "קח את בנך את יחידך אשר אהבת",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041800205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4877"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1169860",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1169860"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "p64TXGU2ipM",
-          "vtitle": "\"עקדת יצחק\" מאת נעמי שמר, שרה נעמי שמר, עיבד דויד קריבושי",
-          "ch": "ללי שמר",
-          "dur": "2:16",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "kurpWet0X78",
-          "vtitle": "עקידת יצחק - דני גרנות וחבורת בימות (1972)",
-          "ch": "דני גרנות - הערוץ הרשמי",
-          "dur": "2:39",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "8f3_aSvSgUM",
-          "vtitle": "עקידת יצחק - נעמי שמר (1968)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "2:18",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 668,
-      "chrono_n": 292,
-      "canon_score": 60.2,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אל תשאלו אותי [ביצוע: אילנית] (1971)",
-      "raw_title": "אל תשאלו אותי",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1971",
-      "rec_year": "1971",
-      "song_year": "1967",
-      "year_src": "topic_album",
-      "decade": "1970s",
-      "vid": "YfFNug5ZOac",
-      "vtitle": "אל תשאלו אותי",
-      "ch": "Ilanit - Topic",
-      "dur": "3:29",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אילנית",
-      "alb": "אילנית (1972) (#2)",
-      "alb_group": "אילנית (1972)",
-      "alb_trk": 2,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043290205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4754"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1002796",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "A9erliXTS6o",
-          "vtitle": "אל תשאלו אותי",
-          "ch": "שולי נתן - הערוץ הרשמי",
-          "dur": "3:05",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "1yWJ61nMV1k",
-          "vtitle": "אל תשאלו אותי-אילנית מילים ולחן נעמי שמר-(האלבום הראשון) 1972",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:51",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "AnWiRbrejHg",
-          "vtitle": "נעמי שמר - אל תשאלו אותי",
-          "ch": "נעמי שמר - Topic",
-          "dur": "3:09",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 669,
-      "chrono_n": 250,
-      "canon_score": 60.2,
-      "acum_v": 6,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אל תשאלו אותי [ביצוע: שולי נתן] (1968)",
-      "raw_title": "אל תשאלו אותי",
-      "alt_titles": [],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1968",
-      "rec_year": "1968",
-      "song_year": "1967",
-      "year_src": "canonical_album",
-      "decade": "1960s",
-      "vid": "A9erliXTS6o",
-      "vtitle": "שולי נתן - אל תשאלו אותי (1968)",
-      "ch": "שולי נתן - הערוץ הרשמי",
-      "dur": "2:37",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "שולי נתן",
-      "alb": "שולי נתן שרה נעמי שמר",
-      "alb_group": "שולי נתן שרה נעמי שמר",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אל תשאלו אותי איך הגיטרה אל אבנים הכתה ונשברה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043290205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4754"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1002796",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "YfFNug5ZOac",
-          "vtitle": "אל תשאלו אותי",
-          "ch": "Ilanit - Topic",
-          "dur": "3:29",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "1yWJ61nMV1k",
-          "vtitle": "אל תשאלו אותי-אילנית מילים ולחן נעמי שמר-(האלבום הראשון) 1972",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:51",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "AnWiRbrejHg",
-          "vtitle": "נעמי שמר - אל תשאלו אותי",
-          "ch": "נעמי שמר - Topic",
-          "dur": "3:09",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 670,
-      "chrono_n": 287,
-      "canon_score": 126.7,
-      "acum_v": 5,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "עוד חוזר הניגון [ביצוע: חנן יובל] (1970)",
-      "raw_title": "עוד חוזר הניגון",
-      "alt_titles": [
-        "עוד חוזר הנגון",
-        "עוד חוזר הניגון שזנחת לשווא"
-      ],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1970",
-      "rec_year": "1970",
-      "song_year": "1970",
-      "year_src": "original_inherited",
-      "decade": "1970s",
-      "vid": "-xNyTz_yvRU",
-      "vtitle": "חנן יובל - עוד חוזר הניגון (לחן: נעמי שמר)",
-      "ch": "Hanan Yovel - Topic",
-      "dur": "2:49",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "חנן יובל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עוד חוזר הנגון שזנחת לשוא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044770205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1027164",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "AwA2ynu-DwI",
-          "vtitle": "אילנה רובינא -עוד חוזר הניגון -1970",
-          "ch": "דודי פטימר",
-          "dur": "2:51",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "gsf0t-VihvE",
-          "vtitle": "עוד חוזר הניגון מאת נתן אלתרמן, לחן: נעמי שמר, שרים משתתפי מופע אלתרמן, 1977",
-          "ch": "ללי שמר",
-          "dur": "3:46",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "V2eI7l5c3nc",
-          "vtitle": "עוד חוזר הניגון - אילנה רובינא (1970)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "2:54",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 671,
-      "chrono_n": 438,
-      "canon_score": 126.7,
-      "acum_v": 5,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "עוד חוזר הניגון [ביצוע: משתתפי מופע אלתרמן (1977)] (1977)",
-      "raw_title": "עוד חוזר הניגון",
-      "alt_titles": [
-        "עוד חוזר הנגון",
-        "עוד חוזר הניגון שזנחת לשווא"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1977",
-      "rec_year": "1977",
-      "song_year": "1970",
-      "year_src": "video_title",
-      "decade": "1970s",
-      "vid": "gsf0t-VihvE",
-      "vtitle": "עוד חוזר הניגון מאת נתן אלתרמן, לחן: נעמי שמר, שרים משתתפי מופע אלתרמן, 1977",
-      "ch": "ללי שמר",
-      "dur": "3:46",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "משתתפי מופע אלתרמן (1977)",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עוד חוזר הנגון שזנחת לשוא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044770205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1027164",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "AwA2ynu-DwI",
-          "vtitle": "אילנה רובינא -עוד חוזר הניגון -1970",
-          "ch": "דודי פטימר",
-          "dur": "2:51",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "-xNyTz_yvRU",
-          "vtitle": "חנן יובל - עוד חוזר הניגון (נעמי שמר)",
-          "ch": "Guy Alon",
-          "dur": "2:49",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "V2eI7l5c3nc",
-          "vtitle": "עוד חוזר הניגון - אילנה רובינא (1970)",
-          "ch": "דוד קריבושי - הערוץ הרשמי",
-          "dur": "2:54",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 672,
-      "chrono_n": 114,
-      "canon_score": 75.5,
-      "acum_v": 17,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מה אמרו הציפורים [ביצוע נעמי שמר] (1962)",
-      "raw_title": "מה אמרו הציפורים",
-      "alt_titles": [
-        "מה אמרו הצפרים",
-        "מה אמרו",
-        "מה אמרו הצפורים"
-      ],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1962",
-      "rec_year": "1962",
-      "song_year": "1962",
-      "year_src": "original_inherited",
-      "decade": "1960s",
-      "vid": "jqQTqr1gHEI",
-      "vtitle": "נעמי שמר - מה אמרו הציפורים (לחן 2)",
-      "ch": "Shir Yafe",
-      "dur": "2:35",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "מה אמרו הציפורים הנודדות",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042190205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4756"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "UeP8K2lXml8",
-          "vtitle": "מה אמרו - סולנית: מיכל פרס",
-          "ch": "Lehakat Geisot Hashirion - Topic",
-          "dur": "3:01",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "cV-WsBBOwto",
-          "vtitle": "שיר עד - מה אמרו הציפורים - מילים: נעמי שמר | לחן (1): נעמי שמר | ביצוע: נעמי שמר - Naomi Shemer",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:23",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "JY7Gy9EXjmY",
-          "vtitle": "מה אמרו הציפורים אילנית",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:46",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 673,
-      "chrono_n": 407,
-      "canon_score": 188.1,
-      "acum_v": 33,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "שיר נולד [ביצוע: עוזי מאירי] (1976)",
-      "raw_title": "שיר נולד",
-      "alt_titles": [
-        "שיר נולד הקשיבו שיר נולד הלילה"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1976",
-      "rec_year": "1976",
-      "song_year": "1974",
-      "year_src": "existing_curated",
-      "decade": "1970s",
-      "vid": "vNw21mQVfKM",
-      "vtitle": "שיר נולד",
-      "ch": "Uzi meiri - Topic",
-      "dur": "2:48",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "עוזי מאירי",
-      "alb": "נעמי שמר השירים היפים",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "שיר נולד הקשיבו שיר נולד הלילה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042750205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5873"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033739",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "kdH54d52ryk",
-          "vtitle": "שיר נולד",
-          "ch": "Ariel Horowitz - Topic",
-          "dur": "3:05",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Vs6H2agknmE",
-          "vtitle": "שיר נולד",
-          "ch": "Uzi meiri - Topic",
-          "dur": "2:48",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "yzSOpEPUXWw",
-          "vtitle": "חוה אלברשטיין והפלטינה - שיר נולד",
-          "ch": "Chava Alberstein - חוה אלברשטיין",
-          "dur": "2:30",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 674,
-      "chrono_n": 398,
-      "canon_score": 76.5,
-      "acum_v": 16,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "משנכנס אדר [ביצוע: צילה דגן] (1975)",
-      "raw_title": "משנכנס אדר",
-      "alt_titles": [
-        "כשנכנס אדר"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1975",
-      "rec_year": "1975",
-      "song_year": "1975",
-      "year_src": "original_inherited",
-      "decade": "1970s",
-      "vid": "ycWudyVJdOU",
-      "vtitle": "כשנכנס אדר",
-      "ch": "Cilla Dagan - Topic",
-      "dur": "1:26",
+      "dur": "2:45",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "צילה דגן",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
+      "perf": "הגבעטרון",
+      "alb": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988) (#8)",
+      "alb_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
+      "alb_trk": 8,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "בואו ותראו מראה בלתי רגיל כל העיר שוקקת",
+      "opening_line": "את הכי הכי אסור שתברחי",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042200205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043930205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=35091"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=15771"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1019426",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019426"
+          "label": "אקו\"ם #1005051",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005051"
         }
       ],
       "alts": [
         {
-          "vid": "sdlmzqJiT5M",
-          "vtitle": "כשנכנס אדר",
-          "ch": "נעמי שמר - Topic",
-          "dur": "1:29",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "vqa0CZCPi-M",
-          "vtitle": "כשנכנס אדר מאת נעמי שמר - ליווי בצלילונים",
-          "ch": "Yael Eilat",
-          "dur": "1:39",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 675,
-      "chrono_n": 687,
-      "canon_score": 108.2,
-      "acum_v": 8,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "נצא השדה [ביצוע: שולי נתן] (2012)",
-      "raw_title": "נצא השדה",
-      "alt_titles": [
-        "נצאה השדה",
-        "נצא השדה (מתוך שיר השירים)"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "2012",
-      "rec_year": "2012",
-      "song_year": "1975",
-      "year_src": "archive_desc",
-      "decade": "1990s+",
-      "vid": "vAT50nuKMh8",
-      "vtitle": "נצא השדה - שולי נתן",
-      "ch": "שולי נתן - הערוץ הרשמי",
-      "dur": "2:05",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "שולי נתן",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר (עם מסורתי, מן המקורות)",
-      "co_creators": "עם מסורתי, מן המקורות",
-      "opening_line": "נצא השדה נלינה בכפרים",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043130205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5626"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1025585",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025585"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "pZrITCQOtag",
-          "vtitle": "נעמי שמר - נצא השדה",
-          "ch": "כאן | מוזיקה",
-          "dur": "1:33",
+          "vid": "udMff-XZvRs",
+          "vtitle": "יהורם גאון - את הכי הכי",
+          "ch": "LD",
+          "dur": "2:38",
           "src": "direct_alternative"
         },
         {
-          "vid": "U8_oeeR-iyc",
-          "vtitle": "נצא השדה שולי נתן",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:03",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "BBUtEBZLJFQ",
-          "vtitle": "נצא השדה",
-          "ch": "נעמי שמר - Topic",
-          "dur": "2:29",
+          "vid": "tBL2uGdMMZ4",
+          "vtitle": "את הכי הכי - יהורם גאון - (מתוך האלבום \"אלף נשיקות... כן כן\")",
+          "ch": "Release - Topic",
+          "dur": "2:38",
           "src": "same_song_performance"
         }
       ]
     },
     {
       "n": 676,
-      "chrono_n": 525,
+      "chrono_n": 524,
       "canon_score": 97.3,
       "acum_v": 6,
       "layer": 2,
@@ -49994,151 +49983,141 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 677,
-      "chrono_n": 586,
-      "canon_score": 43.2,
-      "acum_v": 4,
+      "chrono_n": 595,
+      "canon_score": 100.7,
+      "acum_v": 6,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "את הכי הכי [ביצוע: הגבעטרון] (1988)",
-      "raw_title": "את הכי הכי",
+      "title": "אהבת אשתקד [ביצוע: הפרברים] (1989)",
+      "raw_title": "אהבת אשתקד",
       "alt_titles": [],
       "ver_idx": 2,
       "ver_total": 2,
-      "year": "1988",
-      "rec_year": "1988",
-      "song_year": "1981",
-      "year_src": "canonical_album",
+      "year": "1989",
+      "rec_year": "1989",
+      "song_year": "1987",
+      "year_src": "topic_album",
       "decade": "1980s",
-      "vid": "dT5g0VRp7jE",
-      "vtitle": "Hagevatron | את הכי הכי - הגבעטרון - אחר קציר",
-      "ch": "הגבעטרון | האלבומים הגדולים",
-      "dur": "2:45",
+      "vid": "U3xSpmrTgXc",
+      "vtitle": "אהבת אשתקד",
+      "ch": "Haparvarim - Topic",
+      "dur": "3:20",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "הגבעטרון",
-      "alb": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988) (#8)",
-      "alb_group": "אחר קציר – הגבעטרון בשירי נעמי שמר (1988)",
-      "alb_trk": 8,
+      "perf": "הפרברים",
+      "alb": "מוזיקה (1989)",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "את הכי הכי אסור שתברחי",
+      "opening_line": "אהבת הקיץ שעבר עם עיני השקד עד עכשיו",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043930205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042070205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=15771"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6554"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1005051",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005051"
+          "label": "אקו\"ם #1000832",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
         }
       ],
       "alts": [
         {
-          "vid": "udMff-XZvRs",
-          "vtitle": "יהורם גאון - את הכי הכי",
-          "ch": "LD",
-          "dur": "2:38",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "tBL2uGdMMZ4",
-          "vtitle": "את הכי הכי - יהורם גאון - (מתוך האלבום \"אלף נשיקות... כן כן\")",
+          "vid": "VaztQIe75Ns",
+          "vtitle": "אהבת אשתקד",
           "ch": "Release - Topic",
-          "dur": "2:38",
+          "dur": "3:48",
           "src": "same_song_performance"
         }
       ]
     },
     {
       "n": 678,
-      "chrono_n": 333,
-      "canon_score": 101.7,
+      "chrono_n": 638,
+      "canon_score": 142.8,
       "acum_v": 6,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "שיר ערש למקרים מיוחדים [ביצוע מקורי] (1972)",
-      "raw_title": "שיר ערש למקרים מיוחדים",
-      "alt_titles": [
-        "נומי בת",
-        "שיר ערש"
-      ],
+      "title": "גיא [ביצוע: משתתפי אצלנו בפסנתר (משה בקר)] (1993)",
+      "raw_title": "גיא",
+      "alt_titles": [],
       "ver_idx": 2,
       "ver_total": 2,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "video_title",
-      "decade": "1970s",
-      "vid": "tpe1wARxPSs",
-      "vtitle": "שיר ערש למקרים מיוחדים - שר עוזי מאירי מחבורת בימות (1972)",
-      "ch": "ללי שמר",
-      "dur": "2:35",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "עוזי מאירי (חבורת בימות)",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#12)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "year": "1993",
+      "rec_year": "1993",
+      "song_year": "1987",
+      "year_src": "existing_curated",
+      "decade": "1990s+",
+      "vid": "CSjnGcglVJI",
+      "vtitle": "אצלנו בפסנתר -6- גיא (1993)",
+      "ch": "ילדות ישראלית",
+      "dur": "2:32",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "משתתפי אצלנו בפסנתר (משה בקר)",
+      "alb": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993) (#12)",
+      "alb_group": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993)",
       "alb_trk": 12,
       "role_cat": "words_and_music",
       "role_label": "מילים ולחן: נעמי שמר",
       "co_creators": "",
-      "opening_line": "נומי נומי בת חלונות כבר האפילו",
+      "opening_line": "גיא אתה ואני ודי אני ואתה",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042320205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043880205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=40273"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5076"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1033859",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
+          "label": "אקו\"ם #1008075",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
         }
       ],
       "alts": [
         {
-          "vid": "w8uvk1uQYXg",
-          "vtitle": "שיר ערש למקרים מיוחדים",
+          "vid": "9Zve4BWzx-Q",
+          "vtitle": "משה בקר- גיא",
+          "ch": "כאן | מוזיקה",
+          "dur": "2:20",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "KXAdKoWGyAY",
+          "vtitle": "גיא בן 60 \"אורלי עשתה לי את הפתעת חיי'\" // 'גיא' מאת נעמי שמר",
+          "ch": "אורלי וגיא הערוץ הרשמי",
+          "dur": "2:44",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "PXL8ltjFDCk",
+          "vtitle": "גיא",
           "ch": "Release - Topic",
-          "dur": "2:42",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "pPE_eIQYtgY",
-          "vtitle": "רבקה מיכאלי - שיר ערש למקרים מיוחדים",
-          "ch": "Eyatn",
-          "dur": "2:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "qiWrcnMr02g",
-          "vtitle": "שיר ערש למקרים מיוחדים",
-          "ch": "Noa Levin",
-          "dur": "1:45",
-          "src": "direct_alternative"
+          "dur": "2:27",
+          "src": "same_song_performance"
         }
       ]
     },
     {
       "n": 679,
-      "chrono_n": 614,
+      "chrono_n": 613,
       "canon_score": 71.3,
       "acum_v": 14,
       "layer": 2,
@@ -50228,7 +50207,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 680,
-      "chrono_n": 718,
+      "chrono_n": 717,
       "canon_score": 71.3,
       "acum_v": 14,
       "layer": 2,
@@ -50318,7 +50297,84 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 681,
-      "chrono_n": 627,
+      "chrono_n": 611,
+      "canon_score": 181.5,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "אקטואליה [ביצוע מקורי] (1991)",
+      "raw_title": "אקטואליה",
+      "alt_titles": [
+        "הורה אלפיים",
+        "הורה 2000"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1991",
+      "rec_year": "1991",
+      "song_year": "1991",
+      "year_src": "original_inherited",
+      "decade": "1990s+",
+      "vid": "CwORk-NwrQM",
+      "vtitle": "אקטואליה - אריק לביא - הקלטה נדירה",
+      "ch": "אריק לביא Arik Lavie",
+      "dur": "2:46",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "אריק לביא",
+      "alb": "אני אשיר לך",
+      "alb_group": "אני אשיר לך",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "יחזקאל בן בוזי יושב לו בג'קוזי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042170205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6989"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1122274",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "bAneNhkf6Jw",
+          "vtitle": "אקטואליה - נעמי שמר",
+          "ch": "דוד אסף",
+          "dur": "2:53",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Xftqfe7eTPw",
+          "vtitle": "מחווה לנעמי שמר בקאמרי - רבקה מיכאלי - אקטואליה",
+          "ch": "יובל אראל",
+          "dur": "2:30",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "iz3Et-1Ywe8",
+          "vtitle": "אקטואליה מאת נעמי שמר, שרים נעמי שמר, דודו אלהרר, רונית רולנד ורמי הראל",
+          "ch": "ללי שמר",
+          "dur": "3:40",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 682,
+      "chrono_n": 626,
       "canon_score": 155.2,
       "acum_v": 12,
       "layer": 2,
@@ -50391,8 +50447,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 682,
-      "chrono_n": 628,
+      "n": 683,
+      "chrono_n": 627,
       "canon_score": 155.2,
       "acum_v": 12,
       "layer": 2,
@@ -50465,8 +50521,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 683,
-      "chrono_n": 658,
+      "n": 684,
+      "chrono_n": 657,
       "canon_score": 104.2,
       "acum_v": 11,
       "layer": 2,
@@ -50550,8 +50606,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 684,
-      "chrono_n": 660,
+      "n": 685,
+      "chrono_n": 659,
       "canon_score": 198.9,
       "acum_v": 16,
       "layer": 2,
@@ -50624,8 +50680,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 685,
-      "chrono_n": 662,
+      "n": 686,
+      "chrono_n": 661,
       "canon_score": 198.9,
       "acum_v": 16,
       "layer": 2,
@@ -50698,85 +50754,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 686,
-      "chrono_n": 612,
-      "canon_score": 181.5,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "אקטואליה [ביצוע מקורי] (1991)",
-      "raw_title": "אקטואליה",
-      "alt_titles": [
-        "הורה אלפיים",
-        "הורה 2000"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1991",
-      "rec_year": "1991",
-      "song_year": "1991",
-      "year_src": "original_inherited",
-      "decade": "1990s+",
-      "vid": "CwORk-NwrQM",
-      "vtitle": "אקטואליה - אריק לביא - הקלטה נדירה",
-      "ch": "אריק לביא Arik Lavie",
-      "dur": "2:46",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אריק לביא",
-      "alb": "אני אשיר לך",
-      "alb_group": "אני אשיר לך",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "יחזקאל בן בוזי יושב לו בג'קוזי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042170205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6989"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1122274",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "bAneNhkf6Jw",
-          "vtitle": "אקטואליה - נעמי שמר",
-          "ch": "דוד אסף",
-          "dur": "2:53",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Xftqfe7eTPw",
-          "vtitle": "מחווה לנעמי שמר בקאמרי - רבקה מיכאלי - אקטואליה",
-          "ch": "יובל אראל",
-          "dur": "2:30",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "iz3Et-1Ywe8",
-          "vtitle": "אקטואליה מאת נעמי שמר, שרים נעמי שמר, דודו אלהרר, רונית רולנד ורמי הראל",
-          "ch": "ללי שמר",
-          "dur": "3:40",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
       "n": 687,
-      "chrono_n": 674,
+      "chrono_n": 673,
       "canon_score": 178.2,
       "acum_v": 8,
       "layer": 2,
@@ -51047,7 +51026,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 691,
-      "chrono_n": 289,
+      "chrono_n": 290,
       "canon_score": 27.5,
       "acum_v": 0,
       "layer": 3,
@@ -51288,7 +51267,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 694,
-      "chrono_n": 344,
+      "chrono_n": 345,
       "canon_score": 21.4,
       "acum_v": 6,
       "layer": 3,
@@ -51766,7 +51745,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 702,
-      "chrono_n": 277,
+      "chrono_n": 278,
       "canon_score": 46.3,
       "acum_v": 7,
       "layer": 3,
@@ -51844,7 +51823,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 703,
-      "chrono_n": 171,
+      "chrono_n": 172,
       "canon_score": 15.0,
       "acum_v": 1,
       "layer": 3,
@@ -52044,7 +52023,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 706,
-      "chrono_n": 173,
+      "chrono_n": 174,
       "canon_score": 44.6,
       "acum_v": 7,
       "layer": 3,
@@ -52130,7 +52109,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 707,
-      "chrono_n": 312,
+      "chrono_n": 313,
       "canon_score": 42.4,
       "acum_v": 2,
       "layer": 3,
@@ -52213,7 +52192,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 708,
-      "chrono_n": 313,
+      "chrono_n": 314,
       "canon_score": 42.4,
       "acum_v": 2,
       "layer": 3,
@@ -52296,7 +52275,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 709,
-      "chrono_n": 291,
+      "chrono_n": 292,
       "canon_score": 33.6,
       "acum_v": 4,
       "layer": 3,
@@ -52358,7 +52337,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 710,
-      "chrono_n": 264,
+      "chrono_n": 265,
       "canon_score": 32.0,
       "acum_v": 6,
       "layer": 3,
@@ -52435,7 +52414,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 711,
-      "chrono_n": 319,
+      "chrono_n": 320,
       "canon_score": 29.1,
       "acum_v": 2,
       "layer": 3,
@@ -52504,7 +52483,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 712,
-      "chrono_n": 303,
+      "chrono_n": 304,
       "canon_score": 25.3,
       "acum_v": 3,
       "layer": 3,
@@ -52624,7 +52603,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 714,
-      "chrono_n": 545,
+      "chrono_n": 544,
       "canon_score": 8.2,
       "acum_v": 1,
       "layer": 3,
@@ -52740,7 +52719,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 716,
-      "chrono_n": 680,
+      "chrono_n": 679,
       "canon_score": 27.4,
       "acum_v": 4,
       "layer": 3,
@@ -52803,7 +52782,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 717,
-      "chrono_n": 679,
+      "chrono_n": 678,
       "canon_score": 23.8,
       "acum_v": 2,
       "layer": 3,
@@ -52870,7 +52849,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 718,
-      "chrono_n": 702,
+      "chrono_n": 701,
       "canon_score": 15.0,
       "acum_v": 1,
       "layer": 3,
@@ -52920,7 +52899,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 719,
-      "chrono_n": 667,
+      "chrono_n": 666,
       "canon_score": 629.2,
       "acum_v": 65,
       "layer": 1,
@@ -53010,7 +52989,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 720,
-      "chrono_n": 645,
+      "chrono_n": 644,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 3,
@@ -53084,7 +53063,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 721,
-      "chrono_n": 646,
+      "chrono_n": 645,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 3,
@@ -53158,7 +53137,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 722,
-      "chrono_n": 279,
+      "chrono_n": 280,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 3,
@@ -53256,7 +53235,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 723,
-      "chrono_n": 616,
+      "chrono_n": 615,
       "canon_score": 2941.9,
       "acum_v": 552,
       "layer": 1,
@@ -53350,7 +53329,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 724,
-      "chrono_n": 611,
+      "chrono_n": 610,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -53441,7 +53420,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 725,
-      "chrono_n": 459,
+      "chrono_n": 460,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -53538,7 +53517,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 726,
-      "chrono_n": 470,
+      "chrono_n": 471,
       "canon_score": 1042.4,
       "acum_v": 284,
       "layer": 1,
@@ -53623,7 +53602,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 727,
-      "chrono_n": 495,
+      "chrono_n": 494,
       "canon_score": 522.8,
       "acum_v": 95,
       "layer": 1,
@@ -53725,7 +53704,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 728,
-      "chrono_n": 617,
+      "chrono_n": 616,
       "canon_score": 751.9,
       "acum_v": 111,
       "layer": 1,
@@ -53826,7 +53805,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 729,
-      "chrono_n": 619,
+      "chrono_n": 618,
       "canon_score": 611.5,
       "acum_v": 79,
       "layer": 1,
@@ -53924,7 +53903,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 730,
-      "chrono_n": 453,
+      "chrono_n": 454,
       "canon_score": 151.9,
       "acum_v": 12,
       "layer": 2,
@@ -54016,7 +53995,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 731,
-      "chrono_n": 621,
+      "chrono_n": 620,
       "canon_score": 8.8,
       "acum_v": 0,
       "layer": 3,
