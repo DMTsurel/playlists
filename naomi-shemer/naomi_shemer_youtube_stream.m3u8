@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:שירי נעמי שמר – האוסף המקיף (717 ביצועים ביוטיוב)
+#PLAYLIST:שירי נעמי שמר – האוסף המקיף (732 ביצועים ביוטיוב)
 #EXTINF:293,שולי נתן - ירושלים של זהב (1967)
 https://www.youtube.com/watch?v=IUxt7faTExY
 #EXTINF:222,נעמי שמר - ירושלים של זהב (1967)
@@ -902,6 +902,8 @@ https://www.youtube.com/watch?v=W6i7v9rr12o
 https://www.youtube.com/watch?v=ciO3saZTmVs
 #EXTINF:161,דמיס רוסוס (באנגלית) - ירושלים של זהב (1995)
 https://www.youtube.com/watch?v=3-9PdBSxyvg
+#EXTINF:205,ריקה זראי - ירושלים של זהב (1968)
+https://www.youtube.com/watch?v=Od9NL9RLW7M
 #EXTINF:274,הגבעטרון - על כל אלה (1988)
 https://www.youtube.com/watch?v=QUF8MiDp4O4
 #EXTINF:351,קולולם עם שלומי שבת (יום העצמאות ה-70) - על כל אלה (2018)
@@ -910,6 +912,8 @@ https://www.youtube.com/watch?v=oxzR9Z-kG6Q
 https://www.youtube.com/watch?v=dWp4KgvyPYw
 #EXTINF:88,תיאודור ביקל (עברית ואנגלית, הופעה חיה) - על כל אלה
 https://www.youtube.com/watch?v=ayYtqUQCYas
+#EXTINF:135,עליזה קאשי (עברית ואנגלית) - על כל אלה
+https://www.youtube.com/watch?v=g-7DSRZYyaY
 #EXTINF:218,חוה אלברשטיין - לו יהי (1973)
 https://www.youtube.com/watch?v=PL0HmLqbxpw
 #EXTINF:248,שולי נתן - לו יהי (1973)
@@ -956,6 +960,8 @@ https://www.youtube.com/watch?v=AuYOGchQ6XI
 https://www.youtube.com/watch?v=J41YP1kDIKw
 #EXTINF:226,חדוה עמרני (באנגלית) - חורשת האקליפטוס (1991)
 https://www.youtube.com/watch?v=_8tfe7MY_uU
+#EXTINF:215,קלאודיה מייר (Claudia Meyer, בעברית) - חורשת האקליפטוס (2006)
+https://www.youtube.com/watch?v=ZJC7xzkrJwk
 #EXTINF:212,יהורם גאון והלהקות הצבאיות - לא תנצחו אותי (2023)
 https://www.youtube.com/watch?v=7yMw3vG4_kU
 #EXTINF:223,יונתן שינפלד - לא תנצחו אותי (2010)
@@ -1050,6 +1056,8 @@ https://www.youtube.com/watch?v=Uwi4o3fwQwc
 https://www.youtube.com/watch?v=1dDug8M2AYs
 #EXTINF:187,נעמי שמר והקהל (שירה בציבור בצוותא) - העיר באפור (1977)
 https://www.youtube.com/watch?v=wly5oxW3C6Y
+#EXTINF:148,הדודאים - העיר באפור (1967)
+https://www.youtube.com/watch?v=L7SIZBSQ6DM
 #EXTINF:140,שוקולד מנטה מסטיק - בראש השנה (1975)
 https://www.youtube.com/watch?v=Picy0oa0wl0
 #EXTINF:113,דורית ראובני - החופש הגדול (1977)
@@ -1082,6 +1090,8 @@ https://www.youtube.com/watch?v=0u--FHf-LHU
 https://www.youtube.com/watch?v=ms-YfEQM9E8
 #EXTINF:139,להקת השעות הקטנות - שיר השוק (1960)
 https://www.youtube.com/watch?v=SnARDknXrZQ
+#EXTINF:140,נחמה הנדל - שיר השוק (1961)
+https://www.youtube.com/watch?v=3CdoBLw1V9w
 #EXTINF:161,הגבעטרון - בשדות בית לחם (1988)
 https://www.youtube.com/watch?v=Sn0vSoeVXpI
 #EXTINF:138,הפרברים - בשדות בית לחם (1997)
@@ -1100,6 +1110,8 @@ https://www.youtube.com/watch?v=zEG-AcszgpQ
 https://www.youtube.com/watch?v=TQwpuggfQWw
 #EXTINF:202,הגבעטרון - כיבוי אורות (1988)
 https://www.youtube.com/watch?v=6qiFa7eU34M
+#EXTINF:151,חיים טופול - כיבוי אורות (1966)
+https://www.youtube.com/watch?v=_Yz2RSzE7c8
 #EXTINF:261,שירי מימון - הו רב חובל (2020)
 https://www.youtube.com/watch?v=f18phGNSyBg
 #EXTINF:188,עדי ביטי (בית ספר למוסיקה) - הו רב חובל (2014)
@@ -1122,6 +1134,12 @@ https://www.youtube.com/watch?v=1gUgA5_iv5g
 https://www.youtube.com/watch?v=sVEvT4pZeyQ
 #EXTINF:131,מקהלת הילדים ע"ש צדיקוב - זמר נודד (1959)
 https://www.youtube.com/watch?v=JDThzHJWt4o
+#EXTINF:209,האחיות ברי (בעברית) - זמר נודד (1963)
+https://www.youtube.com/watch?v=vIF2MqBbbfk
+#EXTINF:199,The Galliards (בעברית) - זמר נודד (1960)
+https://www.youtube.com/watch?v=yT6IAbFTErU
+#EXTINF:193,שמעון ישראלי ולהקת צליל קליל - זמר נודד (1958)
+https://www.youtube.com/watch?v=8hKBFliAjqQ
 #EXTINF:237,חוה אלברשטיין - אהבה בת עשרים (1977)
 https://www.youtube.com/watch?v=0mcp9JqqJ1k
 #EXTINF:204,יובל דיין (בית אבי חי) - אהבה בת עשרים (2014)
@@ -1174,6 +1192,8 @@ https://www.youtube.com/watch?v=TmFdkd0YmjU
 https://www.youtube.com/watch?v=s1Ac_TvGdAU
 #EXTINF:121,להקת חיל האוויר - על כנפי הכסף (1967)
 https://www.youtube.com/watch?v=ry9RV0yCJpI
+#EXTINF:111,המקהלה לזמר עם (קול ישראל) - על כנפי הכסף (1968)
+https://www.youtube.com/watch?v=VYXKlyjOyyM
 #EXTINF:265,אפרת בן צור - בית חלומותיי (2026)
 https://www.youtube.com/watch?v=TGRVtcThDf4
 #EXTINF:270,הכל עובר חביבי - סימן שעוד לא הגענו (1976)
@@ -1190,6 +1210,8 @@ https://www.youtube.com/watch?v=YgYyQjI4UeY
 https://www.youtube.com/watch?v=C1PjhOZQxMU
 #EXTINF:184,אריק איינשטיין ויהודית רביץ - איילת אהבים (1984)
 https://www.youtube.com/watch?v=_Fxy_CFR78Q
+#EXTINF:220,עליזה עזיקרי - איילת אהבים (1968)
+https://www.youtube.com/watch?v=SiN-Wkyvj4w
 #EXTINF:172,שולי נתן - זמר (לך ועליך) (1968)
 https://www.youtube.com/watch?v=narkCrS3_GA
 #EXTINF:163,הגבעטרון - זמר (לך ועליך) (1988)
@@ -1198,6 +1220,8 @@ https://www.youtube.com/watch?v=lKhxVjkSa84
 https://www.youtube.com/watch?v=XWnWPkDHGz4
 #EXTINF:221,אילנית - הלילה הולך בשדרות (1975)
 https://www.youtube.com/watch?v=PrntU87z0n8
+#EXTINF:154,נחמה הנדל - הלילה הולך בשדרות
+https://www.youtube.com/watch?v=R-bu_zssUEk
 #EXTINF:148,שולי נתן - בגני נטעתיך (1968)
 https://www.youtube.com/watch?v=wzrVRxyd5a4
 #EXTINF:145,אופירה גלוסקא - בגני נטעתיך (1972)
@@ -1238,6 +1262,8 @@ https://www.youtube.com/watch?v=P7eGfaq3E_s
 https://www.youtube.com/watch?v=GyiSOeKOK8s
 #EXTINF:123,להקת האירוסים - אחותי רוחמה (1979)
 https://www.youtube.com/watch?v=DJFWTrj5sO8
+#EXTINF:254,שלמה ניצן וחבורת רננים - על הדרך עץ עומד (1975)
+https://www.youtube.com/watch?v=AIvWs1y1jLc
 #EXTINF:128,משתתפי אצלנו בפסנתר (מיקי קם ונעמי שמר) - הפסנתר (1993)
 https://www.youtube.com/watch?v=Sah0hB6rSFY
 #EXTINF:120,נתנאלה - שבת (1974)
@@ -1246,6 +1272,8 @@ https://www.youtube.com/watch?v=rLucwp89lnE
 https://www.youtube.com/watch?v=4g6cymurqY0
 #EXTINF:130,שולי נתן - שיר ערש לצבעים (1968)
 https://www.youtube.com/watch?v=-1__PIJhhPI
+#EXTINF:121,נחמה הנדל - שיר ערש לצבעים (1962)
+https://www.youtube.com/watch?v=WhoJgSteCmI
 #EXTINF:215,דורית ראובני - כיצד שוברים חמסין (1977)
 https://www.youtube.com/watch?v=agChJ2Ho124
 #EXTINF:120,דודו זכאי - גדי קטן (1977)
@@ -1294,6 +1322,8 @@ https://www.youtube.com/watch?v=lXCnVOsgJwo
 https://www.youtube.com/watch?v=CJ8_MISsRxg
 #EXTINF:177,שולה חן וליאור ייני - בלילה שכזה (1968)
 https://www.youtube.com/watch?v=nNMmAneQsLs
+#EXTINF:131,חוה אלברשטיין - זהירות בונים כאן (1967)
+https://www.youtube.com/watch?v=RoUjcDIWqwc
 #EXTINF:219,להקת פיקוד המרכז - יום ה בשבוע (1958)
 https://www.youtube.com/watch?v=Pxm7UgJ1JiE
 #EXTINF:252,שמעון בר - יום ה בשבוע (1959)
