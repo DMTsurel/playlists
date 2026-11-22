@@ -21932,6 +21932,119 @@
     },
     {
       "index": 146,
+      "title": "שני צלמי רחוב",
+      "alt_titles": [],
+      "opening_line": "שני צלמי רחוב זרח וצלמונע",
+      "year": "1972",
+      "album_group": "שירי נעמי שמר (חבורת בימות)",
+      "album_track_number": 15,
+      "roles": [
+        "author",
+        "composer"
+      ],
+      "role_category": "words_and_music",
+      "role_label_heb": "מילים ולחן: נעמי שמר",
+      "co_creators_heb": "",
+      "archive_links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042590205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5769"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1035301",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035301"
+        }
+      ],
+      "notes": "",
+      "sources": [
+        "shironet",
+        "acum",
+        "discogs",
+        "nli"
+      ],
+      "catalog_performers": [
+        "חבורת בימות",
+        "בית השיטה",
+        "ג'וליאן שגרן",
+        "מישה בר אילן ואלי מנטבר",
+        "תיאטרון הקאמרי",
+        "אריאל הורוביץ"
+      ],
+      "catalog_albums": [
+        "שירי נעמי שמר",
+        "6 שירים מצחיקים",
+        "מרכז פסגה",
+        "ערכה מאה שנה לתל אביב לגננות",
+        "ריח של שוקולד",
+        "שרים תל אביב - העיר הלבנה",
+        "חבורת בימות-שירי נעמי שמר",
+        "נעמי שמר - סימני דרך"
+      ],
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "selected_video": {
+        "video_id": "i9bIVfz1HBw",
+        "url": "https://www.youtube.com/watch?v=i9bIVfz1HBw",
+        "video_title": "שני צלמי רחוב - חבורת בימות (קליפ מקורי, 1972)",
+        "channel": "דני גרנות - הערוץ הרשמי",
+        "duration": "1:45",
+        "description": "Provided to YouTube · חבורת בימות · מתוך האלבום: שירי נעמי שמר (חבורת בימות)",
+        "tier": "2_album_original",
+        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+        "matched_performer": "חבורת בימות",
+        "matched_album": "שירי נעמי שמר - חבורת בימות (1972)",
+        "score": 4000
+      },
+      "alternative_videos": [
+        {
+          "video_id": "jsTz7qC8tMo",
+          "url": "https://www.youtube.com/watch?v=jsTz7qC8tMo",
+          "video_title": "שני צלמי רחוב",
+          "channel": "Release - Topic",
+          "duration": "1:58",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "Jh07SwHOqYQ",
+          "url": "https://www.youtube.com/watch?v=Jh07SwHOqYQ",
+          "video_title": "שני צלמי רחוב - חבורת בימות",
+          "channel": "ziyoni",
+          "duration": "2:56",
+          "views": "",
+          "source": "direct_alternative"
+        },
+        {
+          "video_id": "lz7whlBwrpM",
+          "url": "https://www.youtube.com/watch?v=lz7whlBwrpM",
+          "video_title": "חבורת בימות - שני צלמי רחוב",
+          "channel": "IBA Classics",
+          "duration": "1:44",
+          "views": "",
+          "source": "direct_alternative"
+        }
+      ],
+      "chrono_index": 324,
+      "canonical_score": 117.2,
+      "canonical_layer": 1,
+      "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "acum_versions_count": 12,
+      "ver_idx": 1,
+      "ver_total": 1,
+      "layer2_chapter": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
+      "song_year": "1972",
+      "recording_year": "1972",
+      "year_source": "video_title"
+    },
+    {
+      "index": 147,
       "title": "ספני שלמה המלך (לחן ב')",
       "alt_titles": [
         "ספני שלמה המלך",
@@ -22054,7 +22167,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 147,
+      "index": 148,
       "title": "תפוח בדבש",
       "alt_titles": [],
       "opening_line": "מה חדש תפוח בדבש",
@@ -22140,7 +22253,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 148,
+      "index": 149,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -22239,7 +22352,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 149,
+      "index": 150,
       "title": "בגינה",
       "alt_titles": [
         "בגנה",
@@ -22338,7 +22451,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 150,
+      "index": 151,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -22447,7 +22560,7 @@
       "year_source": "original_inherited"
     },
     {
-      "index": 151,
+      "index": 152,
       "title": "אשכולית",
       "alt_titles": [
         "אשכלית",
@@ -22556,7 +22669,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 152,
+      "index": 153,
       "title": "שבת",
       "alt_titles": [
         "שמש שקעה",
@@ -22672,7 +22785,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 153,
+      "index": 154,
       "title": "בקיץ",
       "alt_titles": [],
       "opening_line": "בקיץ הוא אותה אהב בחרף עזבה",
@@ -22775,7 +22888,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 154,
+      "index": 155,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -22918,7 +23031,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 155,
+      "index": 156,
       "title": "שיר ערש לצבעים",
       "alt_titles": [
         "ירוק הוא הברוש",
@@ -23061,7 +23174,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 156,
+      "index": 157,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -23197,7 +23310,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 157,
+      "index": 158,
       "title": "כיצד שוברים חמסין",
       "alt_titles": [],
       "opening_line": "היה היתה גבעת עפר עם שמש וקוצים",
@@ -23333,7 +23446,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 158,
+      "index": 159,
       "title": "גדי קטן",
       "alt_titles": [
         "הגדי",
@@ -23453,7 +23566,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 159,
+      "index": 160,
       "title": "חליל מקנה-סוף",
       "alt_titles": [
         "חליל מקנה סוף",
@@ -23607,7 +23720,7 @@
       "year_source": "archive_desc"
     },
     {
-      "index": 160,
+      "index": 161,
       "title": "נגיד",
       "alt_titles": [],
       "opening_line": "נגיד שאני הולכת לטיול",
@@ -23755,7 +23868,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 161,
+      "index": 162,
       "title": "שיר הכזבים",
       "alt_titles": [
         "לא היו דברים מעולם"
@@ -23883,7 +23996,7 @@
       "year_source": "stereo_ve_mono"
     },
     {
-      "index": 162,
+      "index": 163,
       "title": "לנוע ולנדוד",
       "alt_titles": [],
       "opening_line": "אנו שובבים רגלינו קלילות",
@@ -23999,7 +24112,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 163,
+      "index": 164,
       "title": "נר ראשון של חנוכה",
       "alt_titles": [
         "נר ראשון של חנכה",
@@ -24139,7 +24252,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 164,
+      "index": 165,
       "title": "הללויה",
       "alt_titles": [],
       "opening_line": "אם בשבת אחים יחד הללויה",
@@ -24223,7 +24336,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 165,
+      "index": 166,
       "title": "אין ויש",
       "alt_titles": [],
       "opening_line": "לנו אין נהרות אדירים וגשם בקיץ",
@@ -24334,7 +24447,7 @@
       "year_source": "video_title"
     },
     {
-      "index": 166,
+      "index": 167,
       "title": "שש עשרה",
       "alt_titles": [],
       "opening_line": "בסנדלים על גשר הירקון",
@@ -24458,7 +24571,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 167,
+      "index": 168,
       "title": "בארץ להד\"ם",
       "alt_titles": [
         "ארץ להד\"ם",
@@ -24597,7 +24710,7 @@
       "year_source": "canonical_album"
     },
     {
-      "index": 168,
+      "index": 169,
       "title": "אנשים יפים",
       "alt_titles": [],
       "opening_line": "ליל שבת אחרי עשר",
@@ -24693,119 +24806,6 @@
       "song_year": "1972",
       "recording_year": "1972",
       "year_source": "canonical_album"
-    },
-    {
-      "index": 169,
-      "title": "שני צלמי רחוב",
-      "alt_titles": [],
-      "opening_line": "שני צלמי רחוב זרח וצלמונע",
-      "year": "1972",
-      "album_group": "שירי נעמי שמר (חבורת בימות)",
-      "album_track_number": 15,
-      "roles": [
-        "author",
-        "composer"
-      ],
-      "role_category": "words_and_music",
-      "role_label_heb": "מילים ולחן: נעמי שמר",
-      "co_creators_heb": "",
-      "archive_links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042590205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5769"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1035301",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035301"
-        }
-      ],
-      "notes": "",
-      "sources": [
-        "shironet",
-        "acum",
-        "discogs",
-        "nli"
-      ],
-      "catalog_performers": [
-        "חבורת בימות",
-        "בית השיטה",
-        "ג'וליאן שגרן",
-        "מישה בר אילן ואלי מנטבר",
-        "תיאטרון הקאמרי",
-        "אריאל הורוביץ"
-      ],
-      "catalog_albums": [
-        "שירי נעמי שמר",
-        "6 שירים מצחיקים",
-        "מרכז פסגה",
-        "ערכה מאה שנה לתל אביב לגננות",
-        "ריח של שוקולד",
-        "שרים תל אביב - העיר הלבנה",
-        "חבורת בימות-שירי נעמי שמר",
-        "נעמי שמר - סימני דרך"
-      ],
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "selected_video": {
-        "video_id": "i9bIVfz1HBw",
-        "url": "https://www.youtube.com/watch?v=i9bIVfz1HBw",
-        "video_title": "שני צלמי רחוב - חבורת בימות (קליפ מקורי, 1972)",
-        "channel": "דני גרנות - הערוץ הרשמי",
-        "duration": "1:45",
-        "description": "Provided to YouTube · חבורת בימות · מתוך האלבום: שירי נעמי שמר (חבורת בימות)",
-        "tier": "2_album_original",
-        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "חבורת בימות",
-        "matched_album": "שירי נעמי שמר - חבורת בימות (1972)",
-        "score": 4000
-      },
-      "alternative_videos": [
-        {
-          "video_id": "jsTz7qC8tMo",
-          "url": "https://www.youtube.com/watch?v=jsTz7qC8tMo",
-          "video_title": "שני צלמי רחוב",
-          "channel": "Release - Topic",
-          "duration": "1:58",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "Jh07SwHOqYQ",
-          "url": "https://www.youtube.com/watch?v=Jh07SwHOqYQ",
-          "video_title": "שני צלמי רחוב - חבורת בימות",
-          "channel": "ziyoni",
-          "duration": "2:56",
-          "views": "",
-          "source": "direct_alternative"
-        },
-        {
-          "video_id": "lz7whlBwrpM",
-          "url": "https://www.youtube.com/watch?v=lz7whlBwrpM",
-          "video_title": "חבורת בימות - שני צלמי רחוב",
-          "channel": "IBA Classics",
-          "duration": "1:44",
-          "views": "",
-          "source": "direct_alternative"
-        }
-      ],
-      "chrono_index": 324,
-      "canonical_score": 117.2,
-      "canonical_layer": 2,
-      "canonical_layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "acum_versions_count": 12,
-      "ver_idx": 1,
-      "ver_total": 1,
-      "layer2_chapter": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "song_year": "1972",
-      "recording_year": "1972",
-      "year_source": "video_title"
     },
     {
       "index": 170,

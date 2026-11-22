@@ -12390,6 +12390,80 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 146,
+      "chrono_n": 324,
+      "canon_score": 117.2,
+      "acum_v": 12,
+      "layer": 1,
+      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "blk": "p1",
+      "ch_lbl": "",
+      "title": "שני צלמי רחוב (1972)",
+      "raw_title": "שני צלמי רחוב",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1972",
+      "rec_year": "1972",
+      "song_year": "1972",
+      "year_src": "video_title",
+      "decade": "1970s",
+      "vid": "i9bIVfz1HBw",
+      "vtitle": "שני צלמי רחוב - חבורת בימות (קליפ מקורי, 1972)",
+      "ch": "דני גרנות - הערוץ הרשמי",
+      "dur": "1:45",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "חבורת בימות",
+      "alb": "שירי נעמי שמר (חבורת בימות) (#15)",
+      "alb_group": "שירי נעמי שמר (חבורת בימות)",
+      "alb_trk": 15,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "שני צלמי רחוב זרח וצלמונע",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042590205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5769"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1035301",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035301"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "jsTz7qC8tMo",
+          "vtitle": "שני צלמי רחוב",
+          "ch": "Release - Topic",
+          "dur": "1:58",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Jh07SwHOqYQ",
+          "vtitle": "שני צלמי רחוב - חבורת בימות",
+          "ch": "ziyoni",
+          "dur": "2:56",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "lz7whlBwrpM",
+          "vtitle": "חבורת בימות - שני צלמי רחוב",
+          "ch": "IBA Classics",
+          "dur": "1:44",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 147,
       "chrono_n": 310,
       "canon_score": 83.0,
       "acum_v": 14,
@@ -12466,7 +12540,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 147,
+      "n": 148,
       "chrono_n": 465,
       "canon_score": 71.6,
       "acum_v": 12,
@@ -12518,7 +12592,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 148,
+      "n": 149,
       "chrono_n": 3,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -12583,7 +12657,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 149,
+      "n": 150,
       "chrono_n": 347,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -12648,7 +12722,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 150,
+      "n": 151,
       "chrono_n": 17,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -12718,7 +12792,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 151,
+      "n": 152,
       "chrono_n": 348,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -12788,7 +12862,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 152,
+      "n": 153,
       "chrono_n": 34,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -12865,7 +12939,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 153,
+      "n": 154,
       "chrono_n": 57,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -12925,7 +12999,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 154,
+      "n": 155,
       "chrono_n": 74,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -13009,7 +13083,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 155,
+      "n": 156,
       "chrono_n": 334,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -13093,7 +13167,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 156,
+      "n": 157,
       "chrono_n": 131,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -13181,7 +13255,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 157,
+      "n": 158,
       "chrono_n": 370,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -13269,7 +13343,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 158,
+      "n": 159,
       "chrono_n": 346,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -13346,7 +13420,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 159,
+      "n": 160,
       "chrono_n": 337,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -13438,7 +13512,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 160,
+      "n": 161,
       "chrono_n": 379,
       "canon_score": 212.9,
       "acum_v": 17,
@@ -13526,7 +13600,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 161,
+      "n": 162,
       "chrono_n": 386,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -13588,7 +13662,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 162,
+      "n": 163,
       "chrono_n": 382,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -13662,7 +13736,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 163,
+      "n": 164,
       "chrono_n": 440,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -13754,7 +13828,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 164,
+      "n": 165,
       "chrono_n": 187,
       "canon_score": 32.8,
       "acum_v": 18,
@@ -13806,7 +13880,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 165,
+      "n": 166,
       "chrono_n": 312,
       "canon_score": 93.3,
       "acum_v": 9,
@@ -13880,7 +13954,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 166,
+      "n": 167,
       "chrono_n": 314,
       "canon_score": 196.6,
       "acum_v": 11,
@@ -13954,7 +14028,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 167,
+      "n": 168,
       "chrono_n": 316,
       "canon_score": 243.2,
       "acum_v": 50,
@@ -14024,7 +14098,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 168,
+      "n": 169,
       "chrono_n": 318,
       "canon_score": 42.7,
       "acum_v": 5,
@@ -14086,80 +14160,6 @@ window.PLAYLIST_DATA = {
           "vtitle": "אנשים יפים - מירי אלוני (מנחה: אהוד מנור, מתוך \"שרים בצוותא\")",
           "ch": "מירי אלוני - Miri Aloni",
           "dur": "5:09",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 169,
-      "chrono_n": 324,
-      "canon_score": 117.2,
-      "acum_v": 12,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים וביצועים מוכרים",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: הרכבים — האחיות שמר (1966), חבורת בימות (1972) והגשש החיוור (1979)",
-      "title": "שני צלמי רחוב (1972)",
-      "raw_title": "שני צלמי רחוב",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1972",
-      "rec_year": "1972",
-      "song_year": "1972",
-      "year_src": "video_title",
-      "decade": "1970s",
-      "vid": "i9bIVfz1HBw",
-      "vtitle": "שני צלמי רחוב - חבורת בימות (קליפ מקורי, 1972)",
-      "ch": "דני גרנות - הערוץ הרשמי",
-      "dur": "1:45",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "חבורת בימות",
-      "alb": "שירי נעמי שמר (חבורת בימות) (#15)",
-      "alb_group": "שירי נעמי שמר (חבורת בימות)",
-      "alb_trk": 15,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "שני צלמי רחוב זרח וצלמונע",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042590205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=5769"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1035301",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035301"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "jsTz7qC8tMo",
-          "vtitle": "שני צלמי רחוב",
-          "ch": "Release - Topic",
-          "dur": "1:58",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Jh07SwHOqYQ",
-          "vtitle": "שני צלמי רחוב - חבורת בימות",
-          "ch": "ziyoni",
-          "dur": "2:56",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "lz7whlBwrpM",
-          "vtitle": "חבורת בימות - שני צלמי רחוב",
-          "ch": "IBA Classics",
-          "dur": "1:44",
           "src": "direct_alternative"
         }
       ]
