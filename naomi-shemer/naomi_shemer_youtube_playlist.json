@@ -6,9 +6,9 @@
     "total_playlist_videos": 728,
     "unmatched_songs": 78,
     "by_tier": {
-      "4. ביצוע מקורי": 205,
+      "4. ביצוע מקורי": 204,
       "1. אלבום של נעמי שמר": 62,
-      "2. אלבום של המבצע המקורי / אוסף רשמי": 232,
+      "2. אלבום של המבצע המקורי / אוסף רשמי": 233,
       "3. ביצוע של נעמי שמר": 78,
       "5. ביצוע מחודש / קאבר": 151,
       "6. לא נמצא סרטון תואם": 78
@@ -18,9 +18,9 @@
     "matched_videos": 728,
     "total_catalog_songs": 451,
     "tier_breakdown": {
-      "4_original_performance": 205,
+      "4_original_performance": 204,
       "1_album_naomi": 62,
-      "2_album_original": 232,
+      "2_album_original": 233,
       "3_naomi_performance": 78,
       "5_cover": 151,
       "6_not_found": 78
@@ -5343,7 +5343,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 158,
+      "chrono_index": 157,
       "canonical_score": 734.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -29449,7 +29449,7 @@
       "title": "לכבודך",
       "alt_titles": [],
       "opening_line": "הוא אמר צבעתי בשלכת את העיר",
-      "year": "1965",
+      "year": "1966",
       "album_group": "סינגל / ביצוע בודד",
       "album_track_number": "",
       "dual_role": "original_performance",
@@ -29504,19 +29504,19 @@
         "נעמי שמר - שרה נעמי שמר (ירושלים של זהב) (1967)",
         "נעמי שמר - כל השירים"
       ],
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
       "selected_video": {
-        "video_id": "UtixqreayIo",
-        "url": "https://www.youtube.com/watch?v=UtixqreayIo",
-        "video_title": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
-        "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-        "duration": "3:06",
-        "description": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר.",
-        "tier": "4_original_performance",
-        "tier_label": "4. ביצוע מקורי",
+        "video_id": "3f8E0O3culE",
+        "url": "https://www.youtube.com/watch?v=3f8E0O3culE",
+        "video_title": "שלישית גשר הירקון - לכבודך",
+        "channel": "Israphon Music (ישראפון)",
+        "duration": "1:59",
+        "description": "שלישית גשר הירקון - לכבודך · מתוך האלבום \"התכנית החדשה\" (1966)",
+        "tier": "2_album_original",
+        "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
         "matched_performer": "שלישיית גשר הירקון",
-        "matched_album": "",
+        "matched_album": "התכנית החדשה",
         "score": 1748
       },
       "alternative_videos": [
@@ -29548,7 +29548,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 147,
+      "chrono_index": 162,
       "canonical_score": 59.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -29557,7 +29557,7 @@
       "ver_total": 2,
       "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
       "song_year": "1964",
-      "recording_year": "1965",
+      "recording_year": "1966",
       "year_source": "manual_verified"
     },
     {
@@ -29637,13 +29637,13 @@
       },
       "alternative_videos": [
         {
-          "video_id": "UtixqreayIo",
-          "url": "https://www.youtube.com/watch?v=UtixqreayIo",
-          "video_title": "ארכיון שיר ישראלי - רון בכר - israeli song - לכבודך - גשר הירקון - נעמי שמר",
-          "channel": "אוצרות ארכיון ישראלי - רון בכר - Israeli archive",
-          "duration": "3:06",
+          "video_id": "3f8E0O3culE",
+          "url": "https://www.youtube.com/watch?v=3f8E0O3culE",
+          "video_title": "שלישית גשר הירקון - לכבודך",
+          "channel": "Israphon Music (ישראפון)",
+          "duration": "1:59",
           "views": "",
-          "source": "direct_alternative"
+          "source": "same_song_performance"
         },
         {
           "video_id": "B7iAxPEf2Gk",
@@ -29879,7 +29879,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 151,
+      "chrono_index": 150,
       "canonical_score": 16.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -29956,7 +29956,7 @@
         "score": 1920
       },
       "alternative_videos": [],
-      "chrono_index": 153,
+      "chrono_index": 152,
       "canonical_score": 22.8,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30058,7 +30058,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 157,
+      "chrono_index": 156,
       "canonical_score": 47.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30141,7 +30141,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 154,
+      "chrono_index": 153,
       "canonical_score": 14.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30249,7 +30249,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 155,
+      "chrono_index": 154,
       "canonical_score": 104.2,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30331,7 +30331,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 156,
+      "chrono_index": 155,
       "canonical_score": 22.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30389,7 +30389,7 @@
         "score": 1840
       },
       "alternative_videos": [],
-      "chrono_index": 152,
+      "chrono_index": 151,
       "canonical_score": 6.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30493,7 +30493,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 150,
+      "chrono_index": 149,
       "canonical_score": 16.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -30769,7 +30769,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 148,
+      "chrono_index": 147,
       "canonical_score": 60.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -54705,7 +54705,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 161,
+      "chrono_index": 160,
       "canonical_score": 1432.1,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -66255,7 +66255,7 @@
         "score": 950
       },
       "alternative_videos": [],
-      "chrono_index": 159,
+      "chrono_index": 158,
       "canonical_score": 484.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -76516,7 +76516,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 160,
+      "chrono_index": 159,
       "canonical_score": 221.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -81407,7 +81407,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 162,
+      "chrono_index": 161,
       "canonical_score": 15.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
@@ -82361,7 +82361,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 149,
+      "chrono_index": 148,
       "canonical_score": 44.6,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': המכלול הכרונולוגי",
