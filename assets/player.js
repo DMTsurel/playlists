@@ -93,6 +93,7 @@ SONGS.forEach(s => {
     s.alb_group,
     s.musical,
     s.orig_title,
+    s.nli_note,
     s.ch,
     s.role_label,
     s.co_creators,
@@ -113,6 +114,7 @@ ARCHIVE_SONGS.forEach(s => {
     s.albums,
     s.musical,
     s.orig_title,
+    s.nli_note,
     s.role_label,
     s.co_creators,
     s.opening_line,
@@ -849,6 +851,51 @@ function renderOriginalSourceBadge(origTitle, queryRaw) {
   return `<span class="badge orig-badge" title="מקור: ${esc(origTitle)}">🌐 מקור: <bdi dir="auto">${textHtml}</bdi></span>`;
 }
 
+function extractSearchSnippet(text, rawInput, maxLen = 115) {
+  const flat = String(text || "").replace(/\s+/g, " ").trim();
+  if (!flat) return "";
+  if (flat.length <= maxLen) return flat;
+  const q = String(rawInput || "").trim().toLowerCase();
+  const low = flat.toLowerCase();
+  let idx = q ? low.indexOf(q) : -1;
+  if (idx < 0 && q) {
+    const toks = q.split(/\s+/).filter(t => t.length >= 2);
+    for (const tok of toks) {
+      const i = low.indexOf(tok);
+      if (i >= 0) {
+        idx = i;
+        break;
+      }
+    }
+  }
+  if (idx < 0) idx = 0;
+  let start = Math.max(0, idx - Math.floor(maxLen * 0.35));
+  if (start > 0) {
+    const sp = flat.indexOf(" ", start);
+    if (sp > 0 && sp < idx) start = sp + 1;
+  }
+  let end = Math.min(flat.length, start + maxLen);
+  if (end < flat.length) {
+    const spEnd = flat.lastIndexOf(" ", end);
+    if (spEnd > start + 25) end = spEnd;
+  }
+  return (start > 0 ? "…" : "") + flat.slice(start, end) + (end < flat.length ? "…" : "");
+}
+
+function renderNliNoteBox(noteText) {
+  if (!noteText) return "";
+  const clean = String(noteText).trim();
+  if (!clean) return "";
+  const fullHtml = clean.split(/\n+/).map(p => esc(p.trim())).filter(Boolean).join("<br/>");
+  if (clean.length <= 220) {
+    return `<div class="np-nli-note">📜 <strong>הספרייה הלאומית:</strong> ${fullHtml}</div>`;
+  }
+  const flat = clean.replace(/\s+/g, " ");
+  let preview = flat.slice(0, 170).replace(/\s+\S*$/, "");
+  if (!preview) preview = flat.slice(0, 170);
+  return `<details class="np-nli-details"><summary>📜 <strong>הספרייה הלאומית:</strong> ${esc(preview)}… <span class="np-nli-more">קרא עוד</span></summary><div class="np-nli-full">${fullHtml}</div></details>`;
+}
+
 function clearSingleFilter(kind) {
   if (kind === "exact") exactSongTitle = "";
   else if (kind === "q") {
@@ -1113,8 +1160,10 @@ function updateNowPlayingCard(s) {
   const parts = [];
   if (s.opening_line) parts.push(`"${esc(s.opening_line)}"`);
   if (s.co_creators) parts.push(`<span style="color:var(--muted); font-size:11.5px;">שותפים ליצירה: ${esc(s.co_creators)}</span>`);
-  if (parts.length > 0) {
-    qBox.innerHTML = parts.join("<br/>");
+  const topHtml = parts.join("<br/>");
+  const nliHtml = s.nli_note ? renderNliNoteBox(s.nli_note) : "";
+  if (topHtml || nliHtml) {
+    qBox.innerHTML = topHtml + nliHtml;
     qBox.style.display = "block";
   } else {
     qBox.style.display = "none";
@@ -1627,8 +1676,14 @@ function renderTable(skipSync = false) {
     const origSub = renderOriginalSourceBadge(s.orig_title, hasSearchQ ? rawInput : "");
     const titleMatched = hasSearchQ && (s.raw_title.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.raw_title).includes(qNorm)));
     const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "")).includes(qNorm)));
-    const openingContextHtml = (hasSearchQ && s.opening_line && !titleMatched && !metaMatched)
-      ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
+    const openingMatched = hasSearchQ && s.opening_line && (s.opening_line.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.opening_line).includes(qNorm)));
+    const nliMatched = hasSearchQ && s.nli_note && (s.nli_note.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.nli_note).includes(qNorm)));
+    const openingContextHtml = (hasSearchQ && !titleMatched && !metaMatched)
+      ? (openingMatched
+          ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
+          : (nliMatched
+              ? `<div class="opening-line">📜 הספרייה הלאומית: ${highlightText(extractSearchSnippet(s.nli_note, rawInput, 115), rawInput)}</div>`
+              : ""))
       : "";
     const secKeyAttr = currentSectionKey ? ` data-section-key="${esc(currentSectionKey)}"` : "";
     htmlRows.push(`
@@ -1767,7 +1822,15 @@ function renderArchiveTable(skipSync = false) {
         : "<span style='color:var(--muted);'>לא מתועד מבצע</span>";
       const openHtml = s.opening_line
         ? `<div class="opening-line" style="-webkit-line-clamp:2;">"${hasSearchQ ? highlightText(s.opening_line, rawInput) : esc(s.opening_line)}"</div>`
-        : "<span style='color:var(--muted);'>—</span>";
+        : "";
+      const nliArchClean = s.nli_note ? s.nli_note.replace(/\s+/g, " ").trim() : "";
+      const archNliPreview = nliArchClean
+        ? (hasSearchQ ? extractSearchSnippet(nliArchClean, rawInput, 180) : (nliArchClean.slice(0, 180).replace(/\s+\S*$/, "") || nliArchClean.slice(0, 180)))
+        : "";
+      const archNliHtml = nliArchClean
+        ? `<div class="arch-nli-note" title="${esc(nliArchClean).replace(/"/g, "&quot;")}">📜 ${hasSearchQ ? highlightText(archNliPreview, rawInput) : esc(archNliPreview) + (nliArchClean.length > 180 ? "…" : "")}</div>`
+        : "";
+      const emptyOpenFallback = (!openHtml && !archNliHtml) ? "<span style='color:var(--muted);'>—</span>" : "";
       return `
       <tr>
         <td class="row-num">${idx + 1}</td>
@@ -1787,7 +1850,7 @@ function renderArchiveTable(skipSync = false) {
           <div style="margin-top:3px;"><span class="badge r-${esc(s.role_cat)}">${esc(compactRole)}</span></div>
           ${s.co_creators ? `<div class="perf-album" style="margin-top:3px;">שותפים ליצירה: ${esc(s.co_creators)}</div>` : ""}
         </td>
-        <td class="col-arch-opening">${openHtml}</td>
+        <td class="col-arch-opening">${openHtml}${archNliHtml}${emptyOpenFallback}</td>
         <td class="col-arch-links">${renderArchivePills(s.links, false)}</td>
       </tr>`;
     }).join("");
