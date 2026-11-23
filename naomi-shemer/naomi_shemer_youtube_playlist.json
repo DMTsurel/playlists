@@ -6582,7 +6582,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 72,
+      "chrono_index": 73,
       "canonical_score": 635.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -18183,7 +18183,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 65,
+      "chrono_index": 66,
       "canonical_score": 243.8,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -23431,7 +23431,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 69,
+      "chrono_index": 70,
       "canonical_score": 70.9,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -24707,7 +24707,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 77,
+      "chrono_index": 78,
       "canonical_score": 55.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -26052,7 +26052,7 @@
         "description": "ביצוע מקורי: שלישיית נעורים (בני ברמן)",
         "tier": "4_original_performance",
         "tier_label": "4. ביצוע מקורי",
-        "matched_performer": "שלישיית נעורים (בני ברמן)",
+        "matched_performer": "שלישיית נעורים (בני ברמן, רבקה קולר ויהודית לנדס)",
         "matched_album": "",
         "score": 3500
       },
@@ -26427,7 +26427,7 @@
         "score": 3000
       },
       "alternative_videos": [],
-      "chrono_index": 71,
+      "chrono_index": 72,
       "canonical_score": 38.9,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -26515,7 +26515,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 75,
+      "chrono_index": 76,
       "canonical_score": 26.1,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -26724,7 +26724,7 @@
         "description": "מילים ולחן - נעמי שמר.",
         "tier": "4_original_performance",
         "tier_label": "4. ביצוע מקורי",
-        "matched_performer": "אריק איינשטיין",
+        "matched_performer": "תיאטרון הסמבטיון (אריק איינשטיין, רחל אטאס ויוסי פרוסט)",
         "matched_album": "",
         "score": 1840
       },
@@ -26757,7 +26757,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 70,
+      "chrono_index": 71,
       "canonical_score": 16.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -26767,7 +26767,8 @@
       "song_year": "1959",
       "recording_year": "1959",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "nli_notes": "מתוך תוכנית ו' של תיאטרון הסמבטיון \"השד יודע\" (בכורה: מאי 1959), בביצוע להקת הסמבטיון — רחל אטאס, אריק איינשטיין ויוסי פרוסט (עיבוד: קורט ניטקביץ'; אוסף קול ישראל, הספרייה הלאומית)."
     },
     {
       "index": 197,
@@ -26881,7 +26882,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 68,
+      "chrono_index": 69,
       "canonical_score": 94.7,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -27004,7 +27005,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 67,
+      "chrono_index": 68,
       "canonical_score": 71.0,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -60715,7 +60716,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 73,
+      "chrono_index": 74,
       "canonical_score": 635.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -60880,7 +60881,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 74,
+      "chrono_index": 75,
       "canonical_score": 635.5,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -68447,7 +68448,7 @@
         "דרך ארכה היא ורבה רבה"
       ],
       "opening_line": "הדרך ארוכה היא ורבה רבה",
-      "year": "1960",
+      "year": "1959",
       "album_group": "סינגל / ביצוע בודד",
       "album_track_number": "",
       "roles": [
@@ -68535,7 +68536,7 @@
         "description": "אריק איינשטיין ותיאטרון הסמבטיון (תיאטרון הסמבטיון (1960))",
         "tier": "2_album_original",
         "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "אריק איינשטיין ותיאטרון הסמבטיון",
+        "matched_performer": "תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)",
         "matched_album": "תיאטרון הסמבטיון (1960)",
         "score": 3200
       },
@@ -68595,7 +68596,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 79,
+      "chrono_index": 65,
       "canonical_score": 418.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -68604,8 +68605,8 @@
       "ver_idx": 4,
       "ver_total": 8,
       "song_year": "1958",
-      "recording_year": "1960",
-      "year_source": "video_title",
+      "recording_year": "1959",
+      "year_source": "manual_verified",
       "nli_notes": "השיר \"משירי זמר נודד\" או \"זמר נודד\" נכלל בתוכנית \"כביסת הרש\" של להקת \"בצל ירוק\" משנת 1957. השיר \"זמר נודד\" המתאר זמר נודד השמח בשירו זכה להצלחה רבה וכפי שכתבה שמר במכתב לאמה \"ברחוב שורקים את \"הללו-הללויה\" להנאתי האנונימית..\"."
     },
     {
@@ -69007,7 +69008,7 @@
         "score": 950
       },
       "alternative_videos": [],
-      "chrono_index": 76,
+      "chrono_index": 77,
       "canonical_score": 418.2,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -76787,7 +76788,7 @@
           "source": "same_song_performance"
         }
       ],
-      "chrono_index": 66,
+      "chrono_index": 67,
       "canonical_score": 221.0,
       "canonical_layer": 1,
       "canonical_layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
@@ -81296,7 +81297,7 @@
           "source": "direct_alternative"
         }
       ],
-      "chrono_index": 78,
+      "chrono_index": 79,
       "canonical_score": 21.4,
       "canonical_layer": 2,
       "canonical_layer_label": "שכבה ב': אלבומים ותקופות",
@@ -81983,7 +81984,7 @@
         "description": "אריק איינשטיין (צמד הגפרורים) (צמד הגפרורים (1962))",
         "tier": "2_album_original",
         "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-        "matched_performer": "אריק איינשטיין (צמד הגפרורים)",
+        "matched_performer": "צמד הגפרורים (אריק איינשטיין ואילנה רובינא)",
         "matched_album": "צמד הגפרורים (1962)",
         "score": 3200
       },

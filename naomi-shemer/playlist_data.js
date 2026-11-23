@@ -3641,7 +3641,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 41,
-      "chrono_n": 72,
+      "chrono_n": 73,
       "canon_score": 635.5,
       "acum_v": 58,
       "layer": 1,
@@ -10197,7 +10197,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 117,
-      "chrono_n": 65,
+      "chrono_n": 66,
       "canon_score": 243.8,
       "acum_v": 32,
       "layer": 1,
@@ -13427,7 +13427,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 159,
-      "chrono_n": 69,
+      "chrono_n": 70,
       "canon_score": 70.9,
       "acum_v": 11,
       "layer": 2,
@@ -14289,7 +14289,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 171,
-      "chrono_n": 77,
+      "chrono_n": 78,
       "canon_score": 55.1,
       "acum_v": 4,
       "layer": 2,
@@ -15295,7 +15295,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:01",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "שלישיית נעורים (בני ברמן)",
+      "perf": "שלישיית נעורים (בני ברמן, רבקה קולר ויהודית לנדס)",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15507,7 +15507,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 192,
-      "chrono_n": 71,
+      "chrono_n": 72,
       "canon_score": 38.9,
       "acum_v": 1,
       "layer": 2,
@@ -15563,7 +15563,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 193,
-      "chrono_n": 75,
+      "chrono_n": 76,
       "canon_score": 26.1,
       "acum_v": 1,
       "layer": 2,
@@ -15726,7 +15726,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 196,
-      "chrono_n": 70,
+      "chrono_n": 71,
       "canon_score": 16.4,
       "acum_v": 2,
       "layer": 2,
@@ -15749,7 +15749,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:06",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "אריק איינשטיין",
+      "perf": "תיאטרון הסמבטיון (אריק איינשטיין, רחל אטאס ויוסי פרוסט)",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15791,11 +15791,12 @@ window.PLAYLIST_DATA = {
           "dur": "4:59",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "nli_note": "מתוך תוכנית ו' של תיאטרון הסמבטיון \"השד יודע\" (בכורה: מאי 1959), בביצוע להקת הסמבטיון — רחל אטאס, אריק איינשטיין ויוסי פרוסט (עיבוד: קורט ניטקביץ'; אוסף קול ישראל, הספרייה הלאומית)."
     },
     {
       "n": 197,
-      "chrono_n": 68,
+      "chrono_n": 69,
       "canon_score": 94.7,
       "acum_v": 24,
       "layer": 2,
@@ -15870,7 +15871,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 198,
-      "chrono_n": 67,
+      "chrono_n": 68,
       "canon_score": 71.0,
       "acum_v": 12,
       "layer": 2,
@@ -37058,7 +37059,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 510,
-      "chrono_n": 73,
+      "chrono_n": 74,
       "canon_score": 635.5,
       "acum_v": 58,
       "layer": 1,
@@ -37149,7 +37150,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 511,
-      "chrono_n": 74,
+      "chrono_n": 75,
       "canon_score": 635.5,
       "acum_v": 58,
       "layer": 1,
@@ -41393,14 +41394,14 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 561,
-      "chrono_n": 79,
+      "chrono_n": 65,
       "canon_score": 418.2,
       "acum_v": 83,
       "layer": 1,
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "זמר נודד [ביצוע: אריק איינשטיין ותיאטרון הסמבטיון] (1960)",
+      "title": "זמר נודד [ביצוע: תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)] (1959)",
       "raw_title": "זמר נודד",
       "alt_titles": [
         "שיר הנודד",
@@ -41413,18 +41414,18 @@ window.PLAYLIST_DATA = {
       ],
       "ver_idx": 4,
       "ver_total": 8,
-      "year": "1960",
-      "rec_year": "1960",
+      "year": "1959",
+      "rec_year": "1959",
       "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1960s",
+      "year_src": "manual_verified",
+      "decade": "1950s",
       "vid": "sVEvT4pZeyQ",
       "vtitle": "אריק איינשטיין שיר מספר 28 - זמר נודד. תיאטרון סמבטיון 1960",
       "ch": "אבי דבש",
       "dur": "2:47",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אריק איינשטיין ותיאטרון הסמבטיון",
+      "perf": "תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)",
       "alb": "תיאטרון הסמבטיון (1960)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -41662,7 +41663,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 564,
-      "chrono_n": 76,
+      "chrono_n": 77,
       "canon_score": 418.2,
       "acum_v": 83,
       "layer": 1,
@@ -45803,7 +45804,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 615,
-      "chrono_n": 66,
+      "chrono_n": 67,
       "canon_score": 221.0,
       "acum_v": 41,
       "layer": 1,
@@ -48718,7 +48719,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 652,
-      "chrono_n": 78,
+      "chrono_n": 79,
       "canon_score": 21.4,
       "acum_v": 6,
       "layer": 2,
@@ -49200,7 +49201,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "אוכל אדם [ביצוע: אריק איינשטיין (צמד הגפרורים)] (1962)",
+      "title": "אוכל אדם [ביצוע: צמד הגפרורים (אריק איינשטיין ואילנה רובינא)] (1962)",
       "raw_title": "אוכל אדם",
       "alt_titles": [
         "אוכל-אדם"
@@ -49218,7 +49219,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:52",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אריק איינשטיין (צמד הגפרורים)",
+      "perf": "צמד הגפרורים (אריק איינשטיין ואילנה רובינא)",
       "alb": "צמד הגפרורים (1962)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
