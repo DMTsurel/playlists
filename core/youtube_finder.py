@@ -1423,12 +1423,14 @@ def _build_archive_links(song: dict[str, Any], ctx: FinderContext) -> list[dict[
                 "label": "הקלטה ומידע בזמרשת",
                 "url": f"https://www.zemereshet.co.il/m/songs.asp?search={q_zem}",
             })
-    acum_ids = song.get("acum_work_ids", [])
-    if acum_ids:
+    acum_ids = [str(x).strip() for x in (song.get("acum_work_ids") or []) if str(x).strip()]
+    numeric_acum = [x for x in acum_ids if x.isdigit()]
+    if numeric_acum:
+        wid = numeric_acum[0]
         links.append({
             "source": "acum",
-            "label": f'אקו"ם #{acum_ids[0]}',
-            "url": f"https://nocs.acum.org.il/acumsitesearchdb/issearch?workid={acum_ids[0]}",
+            "label": f'אקו"ם #{wid}',
+            "url": f"https://nocs.acum.org.il/acumsitesearchdb/work?workid={wid}",
         })
     return links
 

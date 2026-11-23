@@ -132,7 +132,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -227,7 +227,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -326,7 +326,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -418,7 +418,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -507,7 +507,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -603,7 +603,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -701,7 +701,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -797,7 +797,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -876,7 +876,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034546",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034546"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034546"
         }
       ],
       "alts": [
@@ -963,7 +963,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034546",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034546"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034546"
         }
       ],
       "alts": [
@@ -1050,7 +1050,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028673",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028673"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028673"
         }
       ],
       "alts": [
@@ -1150,7 +1150,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028673",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028673"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028673"
         }
       ],
       "alts": [
@@ -1250,7 +1250,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -1344,7 +1344,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -1443,7 +1443,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019775",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019775"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019775"
         }
       ],
       "alts": [
@@ -1526,7 +1526,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019775",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019775"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019775"
         }
       ],
       "alts": [
@@ -1607,7 +1607,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004293",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004293"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004293"
         }
       ],
       "alts": [
@@ -1698,7 +1698,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033283",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033283"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033283"
         }
       ],
       "alts": [
@@ -1780,7 +1780,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036013",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036013"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036013"
         }
       ],
       "alts": [
@@ -1866,7 +1866,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040078",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040078"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040078"
         }
       ],
       "alts": [
@@ -1952,7 +1952,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032075"
         }
       ],
       "alts": [
@@ -2038,7 +2038,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032075"
         }
       ],
       "alts": [
@@ -2123,7 +2123,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001289",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001289"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001289"
         }
       ],
       "alts": [
@@ -2205,7 +2205,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022633",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022633"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022633"
         }
       ],
       "alts": [
@@ -2281,7 +2281,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022633",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022633"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022633"
         }
       ],
       "alts": [
@@ -2367,7 +2367,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -2468,7 +2468,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010487"
         }
       ],
       "alts": [
@@ -2562,7 +2562,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010487"
         }
       ],
       "alts": [
@@ -2651,7 +2651,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002506",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002506"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002506"
         }
       ],
       "alts": [
@@ -2728,7 +2728,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017952",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017952"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017952"
         }
       ],
       "alts": [
@@ -2823,7 +2823,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034754",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034754"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034754"
         }
       ],
       "alts": [
@@ -2925,7 +2925,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034754",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034754"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034754"
         }
       ],
       "alts": [
@@ -3026,7 +3026,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020543"
         }
       ],
       "alts": [
@@ -3106,7 +3106,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020543"
         }
       ],
       "alts": [
@@ -3185,7 +3185,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -3278,7 +3278,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -3376,7 +3376,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010285",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010285"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010285"
         }
       ],
       "alts": [
@@ -3451,7 +3451,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1000875",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000875"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1000875"
         }
       ],
       "alts": [
@@ -3531,7 +3531,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005646",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005646"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005646"
         }
       ],
       "alts": [
@@ -3611,7 +3611,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005646",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005646"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005646"
         }
       ],
       "alts": [
@@ -3688,7 +3688,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1457537",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1457537"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1457537"
         }
       ],
       "alts": [
@@ -3779,7 +3779,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010695",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010695"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010695"
         }
       ],
       "alts": [
@@ -3870,7 +3870,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010695",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010695"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010695"
         }
       ],
       "alts": [
@@ -3963,7 +3963,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041018"
         }
       ],
       "alts": [
@@ -4049,7 +4049,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041018"
         }
       ],
       "alts": [
@@ -4135,7 +4135,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -4235,7 +4235,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -4334,7 +4334,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1429721",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1429721"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1429721"
         }
       ],
       "alts": [
@@ -4420,7 +4420,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1429721",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1429721"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1429721"
         }
       ],
       "alts": [
@@ -4508,7 +4508,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019172",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019172"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019172"
         }
       ],
       "alts": [
@@ -4588,7 +4588,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012405",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012405"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012405"
         }
       ],
       "alts": [
@@ -4680,7 +4680,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007397",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007397"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007397"
         }
       ],
       "alts": [
@@ -4779,7 +4779,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007397",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007397"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007397"
         }
       ],
       "alts": [
@@ -4878,7 +4878,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021945",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021945"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021945"
         }
       ],
       "alts": [
@@ -4956,7 +4956,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021945",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021945"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021945"
         }
       ],
       "alts": [
@@ -5036,7 +5036,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015110",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015110"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015110"
         }
       ],
       "alts": [
@@ -5118,7 +5118,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030326",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030326"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030326"
         }
       ],
       "alts": [
@@ -5207,7 +5207,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030326",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030326"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030326"
         }
       ],
       "alts": [
@@ -5300,7 +5300,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034635",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034635"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034635"
         }
       ],
       "alts": [
@@ -5387,7 +5387,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034635",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034635"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034635"
         }
       ],
       "alts": [
@@ -5473,7 +5473,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022751",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022751"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022751"
         }
       ],
       "alts": [
@@ -5552,7 +5552,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009462",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009462"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009462"
         }
       ],
       "alts": [
@@ -5627,7 +5627,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003158",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003158"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003158"
         }
       ],
       "alts": [
@@ -5725,7 +5725,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026863",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026863"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026863"
         }
       ],
       "alts": [
@@ -5799,7 +5799,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014789",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014789"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014789"
         }
       ],
       "alts": [
@@ -5879,7 +5879,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027818",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027818"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027818"
         }
       ],
       "alts": [
@@ -5958,7 +5958,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007626",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007626"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007626"
         }
       ],
       "alts": [
@@ -6048,7 +6048,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026258"
         }
       ],
       "alts": [
@@ -6133,7 +6133,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1574592",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1574592"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1574592"
         }
       ],
       "alts": [
@@ -6222,7 +6222,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001219",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001219"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001219"
         }
       ],
       "alts": [
@@ -6311,7 +6311,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001219",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001219"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001219"
         }
       ],
       "alts": [
@@ -6403,7 +6403,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018212"
         }
       ],
       "alts": [
@@ -6495,7 +6495,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018212"
         }
       ],
       "alts": [
@@ -6584,7 +6584,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026776",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026776"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026776"
         }
       ],
       "alts": [
@@ -6662,7 +6662,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1275479",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1275479"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1275479"
         }
       ],
       "alts": [
@@ -6741,7 +6741,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -6840,7 +6840,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -6939,7 +6939,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042728",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042728"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042728"
         }
       ],
       "alts": [
@@ -7016,7 +7016,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [
@@ -7120,7 +7120,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [
@@ -7221,7 +7221,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1489946",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1489946"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1489946"
         }
       ],
       "alts": [
@@ -7302,7 +7302,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042349",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042349"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042349"
         }
       ],
       "alts": [
@@ -7366,7 +7366,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032915",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032915"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032915"
         }
       ],
       "alts": [
@@ -7429,7 +7429,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032915",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032915"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032915"
         }
       ],
       "alts": [
@@ -7511,7 +7511,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019041",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019041"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019041"
         }
       ],
       "alts": [
@@ -7599,7 +7599,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002185",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002185"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002185"
         }
       ],
       "alts": [
@@ -7674,7 +7674,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031644",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031644"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031644"
         }
       ],
       "alts": [
@@ -7770,7 +7770,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031644",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031644"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031644"
         }
       ],
       "alts": [
@@ -7866,7 +7866,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013314",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013314"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013314"
         }
       ],
       "alts": [
@@ -7944,7 +7944,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032733",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032733"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032733"
         }
       ],
       "alts": [
@@ -8029,7 +8029,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022514",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022514"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022514"
         }
       ],
       "alts": [
@@ -8122,7 +8122,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022514",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022514"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022514"
         }
       ],
       "alts": [
@@ -8221,7 +8221,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020475",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020475"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020475"
         }
       ],
       "alts": [
@@ -8310,7 +8310,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018264",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018264"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018264"
         }
       ],
       "alts": [
@@ -8380,7 +8380,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028702",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028702"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028702"
         }
       ],
       "alts": [
@@ -8476,7 +8476,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002116",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002116"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002116"
         }
       ],
       "alts": [
@@ -8558,7 +8558,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002116",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002116"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002116"
         }
       ],
       "alts": [
@@ -8643,7 +8643,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015681",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015681"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015681"
         }
       ],
       "alts": [
@@ -8739,7 +8739,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027901",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027901"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027901"
         }
       ],
       "alts": [
@@ -8831,7 +8831,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006455",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006455"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006455"
         }
       ],
       "alts": [
@@ -8916,7 +8916,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006455",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006455"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006455"
         }
       ],
       "alts": [
@@ -9008,7 +9008,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026256",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026256"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026256"
         }
       ],
       "alts": [
@@ -9094,7 +9094,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026256",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026256"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026256"
         }
       ],
       "alts": [
@@ -9183,7 +9183,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040576",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040576"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040576"
         }
       ],
       "alts": [
@@ -9264,7 +9264,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040576",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040576"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040576"
         }
       ],
       "alts": [
@@ -9335,7 +9335,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006545",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006545"
         }
       ],
       "alts": [
@@ -9427,7 +9427,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006545",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006545"
         }
       ],
       "alts": [
@@ -9516,7 +9516,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027701",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027701"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027701"
         }
       ],
       "alts": [
@@ -9593,7 +9593,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042240",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042240"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042240"
         }
       ],
       "alts": [
@@ -9672,7 +9672,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014579"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014579"
         }
       ],
       "alts": [
@@ -9749,7 +9749,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022012",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022012"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022012"
         }
       ],
       "alts": [
@@ -9826,7 +9826,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028383",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028383"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028383"
         }
       ],
       "alts": [
@@ -9896,7 +9896,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011421",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011421"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011421"
         }
       ],
       "alts": [
@@ -9980,7 +9980,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011421",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011421"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011421"
         }
       ],
       "alts": [
@@ -10064,7 +10064,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005564"
         }
       ],
       "alts": [
@@ -10160,7 +10160,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022999",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022999"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022999"
         }
       ],
       "alts": [
@@ -10246,7 +10246,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010970",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010970"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010970"
         }
       ],
       "alts": [
@@ -10325,7 +10325,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010970",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010970"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010970"
         }
       ],
       "alts": [
@@ -10404,7 +10404,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1160085",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1160085"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1160085"
         }
       ],
       "alts": [
@@ -10482,7 +10482,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010569",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010569"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010569"
         }
       ],
       "alts": [
@@ -10567,7 +10567,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010569",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010569"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010569"
         }
       ],
       "alts": [
@@ -10661,7 +10661,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010350"
         }
       ],
       "alts": [
@@ -10752,7 +10752,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011345",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011345"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011345"
         }
       ],
       "alts": [
@@ -10829,7 +10829,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011345",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011345"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011345"
         }
       ],
       "alts": [
@@ -10909,7 +10909,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034688",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034688"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034688"
         }
       ],
       "alts": [
@@ -10988,7 +10988,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1008970",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008970"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1008970"
         }
       ],
       "alts": [
@@ -11071,7 +11071,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1008970",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008970"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1008970"
         }
       ],
       "alts": [
@@ -11156,7 +11156,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025004",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025004"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025004"
         }
       ],
       "alts": [
@@ -11234,7 +11234,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004552",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004552"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004552"
         }
       ],
       "alts": [
@@ -11318,7 +11318,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004552",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004552"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004552"
         }
       ],
       "alts": [
@@ -11402,7 +11402,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017945",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017945"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017945"
         }
       ],
       "alts": [
@@ -11486,7 +11486,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1039482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1039482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1039482"
         }
       ],
       "alts": [
@@ -11584,7 +11584,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1039482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1039482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1039482"
         }
       ],
       "alts": [
@@ -11676,7 +11676,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013764",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013764"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013764"
         }
       ],
       "alts": [
@@ -11754,7 +11754,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013764",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013764"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013764"
         }
       ],
       "alts": [
@@ -11837,7 +11837,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003969",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003969"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003969"
         }
       ],
       "alts": [
@@ -11927,7 +11927,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003969",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003969"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003969"
         }
       ],
       "alts": [
@@ -12009,7 +12009,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024263",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024263"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024263"
         }
       ],
       "alts": [
@@ -12091,7 +12091,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001688",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001688"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001688"
         }
       ],
       "alts": [
@@ -12166,7 +12166,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001688",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001688"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001688"
         }
       ],
       "alts": [
@@ -12251,7 +12251,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030840"
         }
       ],
       "alts": [
@@ -12335,7 +12335,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001581",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001581"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001581"
         }
       ],
       "alts": [
@@ -12420,7 +12420,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001132",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001132"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001132"
         }
       ],
       "alts": [
@@ -12498,7 +12498,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012534",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012534"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012534"
         }
       ],
       "alts": [
@@ -12559,7 +12559,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035301",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035301"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035301"
         }
       ],
       "alts": [
@@ -12637,7 +12637,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026778",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026778"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026778"
         }
       ],
       "alts": [
@@ -12712,7 +12712,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036324",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036324"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036324"
         }
       ],
       "alts": [],
@@ -12820,7 +12820,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042016",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042016"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042016"
         }
       ],
       "alts": [
@@ -12886,7 +12886,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042016",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042016"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042016"
         }
       ],
       "alts": [
@@ -12950,7 +12950,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041967",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041967"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041967"
         }
       ],
       "alts": [
@@ -13176,7 +13176,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040430",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040430"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040430"
         }
       ],
       "alts": [
@@ -13240,7 +13240,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041964",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041964"
         }
       ],
       "alts": [
@@ -13319,7 +13319,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043552",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043552"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043552"
         }
       ],
       "alts": [
@@ -13475,7 +13475,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097378",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097378"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097378"
         }
       ],
       "alts": [
@@ -13560,7 +13560,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097378",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097378"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097378"
         }
       ],
       "alts": [
@@ -13642,7 +13642,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027446",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027446"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
         }
       ],
       "alts": [
@@ -13708,7 +13708,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043061",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043061"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043061"
         }
       ],
       "alts": [
@@ -13815,7 +13815,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015797",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015797"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
         }
       ],
       "alts": [
@@ -13881,7 +13881,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044340",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044340"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044340"
         }
       ],
       "alts": [
@@ -13995,7 +13995,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033018"
         }
       ],
       "alts": [
@@ -14071,7 +14071,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
         }
       ],
       "alts": [
@@ -14166,7 +14166,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036519"
         }
       ],
       "alts": [
@@ -14253,7 +14253,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026866"
         }
       ],
       "alts": [
@@ -14338,7 +14338,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026866"
         }
       ],
       "alts": [
@@ -14419,7 +14419,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1045212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1045212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1045212"
         }
       ],
       "alts": [],
@@ -14472,7 +14472,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007348",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007348"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007348"
         }
       ],
       "alts": [
@@ -14573,7 +14573,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1145843",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1145843"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1145843"
         }
       ],
       "alts": [
@@ -14636,7 +14636,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030846",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030846"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030846"
         }
       ],
       "alts": [
@@ -14784,7 +14784,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042879",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042879"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042879"
         }
       ],
       "alts": [],
@@ -14832,7 +14832,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042886",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042886"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042886"
         }
       ],
       "alts": [],
@@ -14930,7 +14930,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1148637",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1148637"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1148637"
         }
       ],
       "alts": [],
@@ -14984,7 +14984,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #2023362",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2023362"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=2023362"
         }
       ],
       "alts": [
@@ -15242,7 +15242,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1059843",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1059843"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1059843"
         }
       ],
       "alts": [
@@ -15317,7 +15317,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031653",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031653"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031653"
         }
       ],
       "alts": [
@@ -15388,7 +15388,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033579"
         }
       ],
       "alts": [
@@ -15471,7 +15471,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033579"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033579"
         }
       ],
       "alts": [
@@ -15555,7 +15555,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026778",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026778"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026778"
         }
       ],
       "alts": [],
@@ -15607,7 +15607,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042735",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042735"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042735"
         }
       ],
       "alts": [
@@ -15710,7 +15710,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030734",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030734"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030734"
         }
       ],
       "alts": [
@@ -15766,7 +15766,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1114494",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1114494"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1114494"
         }
       ],
       "alts": [
@@ -15841,7 +15841,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024152"
         }
       ],
       "alts": [
@@ -15916,7 +15916,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030703",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030703"
         }
       ],
       "alts": [
@@ -15988,7 +15988,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1039567",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1039567"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1039567"
         }
       ],
       "alts": [
@@ -16049,7 +16049,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009330",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009330"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009330"
         }
       ],
       "alts": []
@@ -16098,7 +16098,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042882",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042882"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042882"
         }
       ],
       "alts": [],
@@ -16150,7 +16150,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033828",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033828"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033828"
         }
       ],
       "alts": [
@@ -16208,7 +16208,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1273197",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1273197"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1273197"
         }
       ],
       "alts": [
@@ -16273,7 +16273,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1234094",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1234094"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1234094"
         }
       ],
       "alts": [],
@@ -16318,7 +16318,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002620",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002620"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002620"
         }
       ],
       "alts": []
@@ -16372,7 +16372,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006046",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006046"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006046"
         }
       ],
       "alts": [
@@ -16424,7 +16424,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1257294",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1257294"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1257294"
         }
       ],
       "alts": []
@@ -16478,7 +16478,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014618",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014618"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014618"
         }
       ],
       "alts": [
@@ -16557,7 +16557,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042504",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042504"
         }
       ],
       "alts": [
@@ -16629,7 +16629,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042504",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042504"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042504"
         }
       ],
       "alts": [
@@ -16700,7 +16700,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015350"
         }
       ],
       "alts": [
@@ -16785,7 +16785,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015350"
         }
       ],
       "alts": [
@@ -16871,7 +16871,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021731"
         }
       ],
       "alts": [
@@ -16950,7 +16950,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021731"
         }
       ],
       "alts": [
@@ -17015,7 +17015,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1261675",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1261675"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1261675"
         }
       ],
       "alts": [
@@ -17074,7 +17074,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026094",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026094"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026094"
         }
       ],
       "alts": [
@@ -17147,7 +17147,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1473750",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473750"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1473750"
         }
       ],
       "alts": [],
@@ -17198,7 +17198,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1473751",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473751"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1473751"
         }
       ],
       "alts": [],
@@ -17256,7 +17256,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021697",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021697"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021697"
         }
       ],
       "alts": [
@@ -17336,7 +17336,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021697",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021697"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021697"
         }
       ],
       "alts": [
@@ -17414,7 +17414,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032990",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032990"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032990"
         }
       ],
       "alts": [
@@ -17490,7 +17490,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010694",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010694"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010694"
         }
       ],
       "alts": [
@@ -17561,7 +17561,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1473752",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473752"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1473752"
         }
       ],
       "alts": [],
@@ -17605,7 +17605,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1297594",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1297594"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1297594"
         }
       ],
       "alts": []
@@ -17661,7 +17661,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014356"
         }
       ],
       "alts": [
@@ -17740,7 +17740,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014356"
         }
       ],
       "alts": [
@@ -17805,7 +17805,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1225535",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1225535"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1225535"
         }
       ],
       "alts": []
@@ -17854,7 +17854,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043056",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043056"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043056"
         }
       ],
       "alts": [],
@@ -17897,7 +17897,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025516",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025516"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025516"
         }
       ],
       "alts": [
@@ -17955,7 +17955,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050639",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050639"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050639"
         }
       ],
       "alts": [
@@ -18019,7 +18019,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1016979",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1016979"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1016979"
         }
       ],
       "alts": []
@@ -18071,7 +18071,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
         }
       ],
       "alts": [
@@ -18136,7 +18136,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029692",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029692"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029692"
         }
       ],
       "alts": [
@@ -18196,7 +18196,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1127517",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1127517"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1127517"
         }
       ],
       "alts": [
@@ -18298,7 +18298,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1281949",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1281949"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1281949"
         }
       ],
       "alts": [
@@ -18385,7 +18385,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001258"
         }
       ],
       "alts": [
@@ -18479,7 +18479,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001258"
         }
       ],
       "alts": [
@@ -18571,7 +18571,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006786",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006786"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006786"
         }
       ],
       "alts": [
@@ -18656,7 +18656,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006786",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006786"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006786"
         }
       ],
       "alts": [
@@ -18744,7 +18744,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1322742",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1322742"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1322742"
         }
       ],
       "alts": [
@@ -18829,7 +18829,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043502",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043502"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043502"
         }
       ],
       "alts": [
@@ -18914,7 +18914,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043502",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043502"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043502"
         }
       ],
       "alts": [
@@ -18995,7 +18995,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1302245",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1302245"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1302245"
         }
       ],
       "alts": [
@@ -19055,7 +19055,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1302245",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1302245"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1302245"
         }
       ],
       "alts": [
@@ -19119,7 +19119,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033152"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033152"
         }
       ],
       "alts": [
@@ -19184,7 +19184,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #2041351",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2041351"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=2041351"
         }
       ],
       "alts": [
@@ -19254,7 +19254,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159487"
         }
       ],
       "alts": [],
@@ -19311,7 +19311,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159486",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159486"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159486"
         }
       ],
       "alts": [],
@@ -19368,7 +19368,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159489",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159489"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159489"
         }
       ],
       "alts": [],
@@ -19427,7 +19427,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159491",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159491"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159491"
         }
       ],
       "alts": [],
@@ -19482,7 +19482,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159493"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159493"
         }
       ],
       "alts": [],
@@ -19536,7 +19536,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159494",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159494"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159494"
         }
       ],
       "alts": [],
@@ -19592,7 +19592,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159495",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159495"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159495"
         }
       ],
       "alts": [],
@@ -19643,7 +19643,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #2326683",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2326683"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=2326683"
         }
       ],
       "alts": [],
@@ -19697,7 +19697,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044947",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044947"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044947"
         }
       ],
       "alts": [],
@@ -19754,7 +19754,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1159499",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159499"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1159499"
         }
       ],
       "alts": [],
@@ -19811,7 +19811,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1081188",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1081188"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1081188"
         }
       ],
       "alts": [],
@@ -19911,7 +19911,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1118426",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1118426"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1118426"
         }
       ],
       "alts": [],
@@ -19964,7 +19964,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1161534",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1161534"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1161534"
         }
       ],
       "alts": [
@@ -20022,7 +20022,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1363424",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1363424"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1363424"
         }
       ],
       "alts": [],
@@ -20076,7 +20076,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011507",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011507"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011507"
         }
       ],
       "alts": [],
@@ -20163,7 +20163,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1498465",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1498465"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1498465"
         }
       ],
       "alts": []
@@ -20215,7 +20215,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020790",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020790"
         }
       ],
       "alts": [
@@ -20290,7 +20290,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020790",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020790"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020790"
         }
       ],
       "alts": [
@@ -20365,7 +20365,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002796",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002796"
         }
       ],
       "alts": [
@@ -20442,7 +20442,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1169860",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1169860"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1169860"
         }
       ],
       "alts": [
@@ -20528,7 +20528,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015555"
         }
       ],
       "alts": [
@@ -20622,7 +20622,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015555"
         }
       ],
       "alts": [
@@ -20712,7 +20712,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043436",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043436"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043436"
         }
       ],
       "alts": [
@@ -20834,7 +20834,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042759",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042759"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042759"
         }
       ],
       "alts": [
@@ -20952,7 +20952,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035976",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035976"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035976"
         }
       ],
       "alts": [],
@@ -21008,7 +21008,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019217",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019217"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019217"
         }
       ],
       "alts": [
@@ -21082,7 +21082,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018541",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018541"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018541"
         }
       ],
       "alts": [
@@ -21159,7 +21159,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1321493"
         }
       ],
       "alts": [
@@ -21242,7 +21242,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1321493"
         }
       ],
       "alts": [
@@ -21320,7 +21320,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043073",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043073"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043073"
         }
       ],
       "alts": [],
@@ -21376,7 +21376,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035868",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035868"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035868"
         }
       ],
       "alts": [
@@ -21443,7 +21443,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021005",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021005"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021005"
         }
       ],
       "alts": [
@@ -21507,7 +21507,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007820",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007820"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007820"
         }
       ],
       "alts": [
@@ -21568,7 +21568,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009555"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009555"
         }
       ],
       "alts": [
@@ -21641,7 +21641,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027164",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027164"
         }
       ],
       "alts": [
@@ -21716,7 +21716,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1216448",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1216448"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1216448"
         }
       ],
       "alts": [
@@ -21772,7 +21772,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1216453",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1216453"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1216453"
         }
       ],
       "alts": [
@@ -21831,7 +21831,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015804",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015804"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015804"
         }
       ],
       "alts": [
@@ -21891,7 +21891,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043498",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043498"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043498"
         }
       ],
       "alts": [
@@ -21957,7 +21957,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007956",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007956"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007956"
         }
       ],
       "alts": [
@@ -22016,7 +22016,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1203258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1203258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1203258"
         }
       ],
       "alts": []
@@ -22068,7 +22068,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044225",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044225"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044225"
         }
       ],
       "alts": [
@@ -22131,7 +22131,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050767",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050767"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050767"
         }
       ],
       "alts": [
@@ -22190,7 +22190,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1383757",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1383757"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1383757"
         }
       ],
       "alts": [],
@@ -22245,7 +22245,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018607",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018607"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018607"
         }
       ],
       "alts": [
@@ -22305,7 +22305,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042473",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042473"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042473"
         }
       ],
       "alts": [
@@ -22373,7 +22373,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004743",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004743"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004743"
         }
       ],
       "alts": [
@@ -22448,7 +22448,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044990",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044990"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044990"
         }
       ],
       "alts": [
@@ -22523,7 +22523,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044990",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044990"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044990"
         }
       ],
       "alts": [
@@ -22598,7 +22598,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042937",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042937"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042937"
         }
       ],
       "alts": [
@@ -22661,7 +22661,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1099577",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1099577"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1099577"
         }
       ],
       "alts": []
@@ -22713,7 +22713,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002130",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002130"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002130"
         }
       ],
       "alts": [
@@ -22792,7 +22792,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1055953",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1055953"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1055953"
         }
       ],
       "alts": [
@@ -22860,7 +22860,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035607",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035607"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035607"
         }
       ],
       "alts": [
@@ -22937,7 +22937,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015845",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015845"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015845"
         }
       ],
       "alts": [
@@ -23015,7 +23015,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005435",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005435"
         }
       ],
       "alts": [
@@ -23083,7 +23083,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019530",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019530"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019530"
         }
       ],
       "alts": [
@@ -23151,7 +23151,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004294",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004294"
         }
       ],
       "alts": [
@@ -23222,7 +23222,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033859",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033859"
         }
       ],
       "alts": [
@@ -23297,7 +23297,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004568",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004568"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004568"
         }
       ],
       "alts": [
@@ -23366,7 +23366,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010550",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010550"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010550"
         }
       ],
       "alts": [
@@ -23440,7 +23440,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1016204",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1016204"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1016204"
         }
       ],
       "alts": [
@@ -23517,7 +23517,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1328043",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1328043"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1328043"
         }
       ],
       "alts": [
@@ -23589,7 +23589,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042607",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042607"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042607"
         }
       ],
       "alts": [
@@ -23667,7 +23667,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042329",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042329"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042329"
         }
       ],
       "alts": [
@@ -23740,7 +23740,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1297952",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1297952"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1297952"
         }
       ],
       "alts": [
@@ -23803,7 +23803,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042968",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042968"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042968"
         }
       ],
       "alts": [
@@ -23868,7 +23868,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042955",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042955"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042955"
         }
       ],
       "alts": [
@@ -23931,7 +23931,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042962",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042962"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042962"
         }
       ],
       "alts": [
@@ -24007,7 +24007,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044354",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044354"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044354"
         }
       ],
       "alts": [
@@ -24084,7 +24084,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042615",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042615"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042615"
         }
       ],
       "alts": [
@@ -24152,7 +24152,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009573",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009573"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009573"
         }
       ],
       "alts": [],
@@ -24202,7 +24202,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1008802",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008802"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1008802"
         }
       ],
       "alts": [],
@@ -24252,7 +24252,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017482"
         }
       ],
       "alts": []
@@ -24304,7 +24304,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022403",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022403"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022403"
         }
       ],
       "alts": [
@@ -24367,7 +24367,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043823",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043823"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043823"
         }
       ],
       "alts": [
@@ -24444,7 +24444,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033739",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033739"
         }
       ],
       "alts": [
@@ -24519,7 +24519,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018639",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018639"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018639"
         }
       ],
       "alts": [
@@ -24609,7 +24609,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018639",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018639"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018639"
         }
       ],
       "alts": [
@@ -24701,7 +24701,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019426",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019426"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019426"
         }
       ],
       "alts": [
@@ -24768,7 +24768,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024853",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024853"
         }
       ],
       "alts": [
@@ -24860,7 +24860,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025585",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025585"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025585"
         }
       ],
       "alts": [
@@ -24934,7 +24934,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021093",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021093"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021093"
         }
       ],
       "alts": [
@@ -25012,7 +25012,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033137",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033137"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033137"
         }
       ],
       "alts": [
@@ -25065,7 +25065,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043069",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043069"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043069"
         }
       ],
       "alts": [],
@@ -25123,7 +25123,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017048",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017048"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017048"
         }
       ],
       "alts": [
@@ -25193,7 +25193,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1363615",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1363615"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1363615"
         }
       ],
       "alts": []
@@ -25237,7 +25237,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034050",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034050"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034050"
         }
       ],
       "alts": [
@@ -25294,7 +25294,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029518",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029518"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029518"
         }
       ],
       "alts": [],
@@ -25349,7 +25349,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001879",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001879"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001879"
         }
       ],
       "alts": [],
@@ -25402,7 +25402,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007865",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007865"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007865"
         }
       ],
       "alts": [],
@@ -25645,7 +25645,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1023242",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023242"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023242"
         }
       ],
       "alts": [
@@ -25805,7 +25805,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006061",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006061"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006061"
         }
       ],
       "alts": [
@@ -25880,7 +25880,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
         }
       ],
       "alts": [
@@ -25950,7 +25950,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1049876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1049876"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
         }
       ],
       "alts": [
@@ -26169,7 +26169,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007202",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007202"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007202"
         }
       ],
       "alts": [
@@ -26236,7 +26236,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1064291",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1064291"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1064291"
         }
       ],
       "alts": [],
@@ -26297,7 +26297,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1016874",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1016874"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1016874"
         }
       ],
       "alts": []
@@ -26347,7 +26347,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032032",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032032"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032032"
         }
       ],
       "alts": [
@@ -26425,7 +26425,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1215979",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1215979"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1215979"
         }
       ],
       "alts": [
@@ -26555,7 +26555,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029372",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029372"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029372"
         }
       ],
       "alts": []
@@ -26602,7 +26602,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014936",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014936"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014936"
         }
       ],
       "alts": [
@@ -26661,7 +26661,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044570",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044570"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044570"
         }
       ],
       "alts": [],
@@ -26718,7 +26718,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1219551",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1219551"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1219551"
         }
       ],
       "alts": []
@@ -26770,7 +26770,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020358",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020358"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020358"
         }
       ],
       "alts": []
@@ -26825,7 +26825,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1048498",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1048498"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1048498"
         }
       ],
       "alts": [
@@ -26902,7 +26902,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036146",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036146"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036146"
         }
       ],
       "alts": [
@@ -26986,7 +26986,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036146",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036146"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036146"
         }
       ],
       "alts": [
@@ -27068,7 +27068,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009503",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009503"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009503"
         }
       ],
       "alts": [
@@ -27133,7 +27133,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031128",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031128"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031128"
         }
       ],
       "alts": [
@@ -27193,7 +27193,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011281",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011281"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011281"
         }
       ],
       "alts": [
@@ -27259,7 +27259,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043415",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043415"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043415"
         }
       ],
       "alts": [
@@ -27324,7 +27324,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027941",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027941"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027941"
         }
       ],
       "alts": [],
@@ -27377,7 +27377,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017661",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017661"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017661"
         }
       ],
       "alts": [
@@ -27452,7 +27452,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029200",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029200"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029200"
         }
       ],
       "alts": [
@@ -27508,7 +27508,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020482"
         }
       ],
       "alts": [
@@ -27576,7 +27576,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1377151",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1377151"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1377151"
         }
       ],
       "alts": [
@@ -27650,7 +27650,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003186"
         }
       ],
       "alts": [],
@@ -27707,7 +27707,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025630"
         }
       ],
       "alts": [
@@ -27796,7 +27796,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013317",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013317"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013317"
         }
       ],
       "alts": [
@@ -27869,7 +27869,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1538154",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1538154"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1538154"
         }
       ],
       "alts": [
@@ -27932,7 +27932,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019812",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019812"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019812"
         }
       ],
       "alts": [],
@@ -27988,7 +27988,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027329",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027329"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027329"
         }
       ],
       "alts": [
@@ -28064,7 +28064,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1023969",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023969"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023969"
         }
       ],
       "alts": [
@@ -28138,7 +28138,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005051",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005051"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005051"
         }
       ],
       "alts": [
@@ -28209,7 +28209,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031001",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031001"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031001"
         }
       ],
       "alts": [
@@ -28260,7 +28260,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011315",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011315"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011315"
         }
       ],
       "alts": [
@@ -28327,7 +28327,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007940",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007940"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007940"
         }
       ],
       "alts": [
@@ -28390,7 +28390,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017303",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017303"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017303"
         }
       ],
       "alts": [
@@ -28467,7 +28467,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029366",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029366"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029366"
         }
       ],
       "alts": [],
@@ -28520,7 +28520,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1000832",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1000832"
         }
       ],
       "alts": [
@@ -28583,7 +28583,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035854",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035854"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035854"
         }
       ],
       "alts": [
@@ -28653,7 +28653,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014550",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014550"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014550"
         }
       ],
       "alts": [],
@@ -28706,7 +28706,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029234",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029234"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029234"
         }
       ],
       "alts": [],
@@ -28759,7 +28759,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1008075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1008075"
         }
       ],
       "alts": [
@@ -28836,7 +28836,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015795",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015795"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015795"
         }
       ],
       "alts": [
@@ -28904,7 +28904,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1061917",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1061917"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1061917"
         }
       ],
       "alts": [
@@ -28979,7 +28979,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1058418",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1058418"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1058418"
         }
       ],
       "alts": [
@@ -29039,7 +29039,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017968",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017968"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017968"
         }
       ],
       "alts": []
@@ -29091,7 +29091,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001661",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001661"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001661"
         }
       ],
       "alts": [
@@ -29168,7 +29168,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009497",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009497"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009497"
         }
       ],
       "alts": []
@@ -29223,7 +29223,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012429",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012429"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012429"
         }
       ],
       "alts": [
@@ -29286,7 +29286,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017281",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017281"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017281"
         }
       ],
       "alts": []
@@ -29338,7 +29338,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027994",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027994"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027994"
         }
       ],
       "alts": [
@@ -29411,7 +29411,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1204064",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1204064"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1204064"
         }
       ],
       "alts": [
@@ -29478,7 +29478,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032375",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032375"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032375"
         }
       ],
       "alts": [
@@ -29553,7 +29553,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032375",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032375"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032375"
         }
       ],
       "alts": [
@@ -29628,7 +29628,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025365",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025365"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025365"
         }
       ],
       "alts": []
@@ -29682,7 +29682,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020401",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020401"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020401"
         }
       ],
       "alts": [
@@ -29752,7 +29752,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042641",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042641"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042641"
         }
       ],
       "alts": [
@@ -29815,7 +29815,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1382671",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1382671"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1382671"
         }
       ],
       "alts": [
@@ -29889,7 +29889,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033851",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033851"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033851"
         }
       ],
       "alts": [
@@ -29962,7 +29962,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026228",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026228"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026228"
         }
       ],
       "alts": [],
@@ -30018,7 +30018,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027231",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027231"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027231"
         }
       ],
       "alts": [],
@@ -30075,7 +30075,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1243386",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1243386"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1243386"
         }
       ],
       "alts": [
@@ -30150,7 +30150,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1009482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1009482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1009482"
         }
       ],
       "alts": [
@@ -30231,7 +30231,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011296",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011296"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011296"
         }
       ],
       "alts": [
@@ -30302,7 +30302,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042549",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042549"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042549"
         }
       ],
       "alts": [],
@@ -30358,7 +30358,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036595",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036595"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036595"
         }
       ],
       "alts": [
@@ -30450,7 +30450,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020340",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020340"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020340"
         }
       ],
       "alts": [
@@ -30515,7 +30515,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001311",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001311"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001311"
         }
       ],
       "alts": [
@@ -30586,7 +30586,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1410794",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1410794"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1410794"
         }
       ],
       "alts": [],
@@ -30639,7 +30639,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027600",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027600"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027600"
         }
       ],
       "alts": [
@@ -30717,7 +30717,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036603",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036603"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036603"
         }
       ],
       "alts": [
@@ -30778,7 +30778,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035222",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035222"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035222"
         }
       ],
       "alts": [
@@ -30855,7 +30855,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1045543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1045543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1045543"
         }
       ],
       "alts": [
@@ -30918,7 +30918,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1045543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1045543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1045543"
         }
       ],
       "alts": [
@@ -30979,7 +30979,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010809",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010809"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010809"
         }
       ],
       "alts": [
@@ -31051,7 +31051,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1086595",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1086595"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1086595"
         }
       ],
       "alts": [
@@ -31112,7 +31112,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097302"
         }
       ],
       "alts": [
@@ -31187,7 +31187,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1099358",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1099358"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1099358"
         }
       ],
       "alts": [],
@@ -31244,7 +31244,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1051995",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1051995"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1051995"
         }
       ],
       "alts": [
@@ -31329,7 +31329,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1122274",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1122274"
         }
       ],
       "alts": [
@@ -31403,7 +31403,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1229037",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1229037"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1229037"
         }
       ],
       "alts": []
@@ -31458,7 +31458,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1163492",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1163492"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1163492"
         }
       ],
       "alts": [],
@@ -31513,7 +31513,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1122353",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122353"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1122353"
         }
       ],
       "alts": [
@@ -31581,7 +31581,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1376250",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1376250"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1376250"
         }
       ],
       "alts": [
@@ -31638,7 +31638,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1198876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1198876"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1198876"
         }
       ],
       "alts": [
@@ -31693,7 +31693,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1467725",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1467725"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1467725"
         }
       ],
       "alts": [
@@ -31773,7 +31773,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -31868,7 +31868,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -31935,7 +31935,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -32002,7 +32002,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -32076,7 +32076,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [],
@@ -32135,7 +32135,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [],
@@ -32194,7 +32194,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [],
@@ -32250,7 +32250,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -32342,7 +32342,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -32406,7 +32406,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -32470,7 +32470,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [],
@@ -32526,7 +32526,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [],
@@ -32579,7 +32579,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -32675,7 +32675,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -32771,7 +32771,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -32867,7 +32867,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -32928,7 +32928,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020186",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020186"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020186"
         }
       ],
       "alts": [
@@ -32991,7 +32991,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -33089,7 +33089,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -33187,7 +33187,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -33278,7 +33278,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -33339,7 +33339,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -33400,7 +33400,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -33461,7 +33461,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -33526,7 +33526,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034546",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034546"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034546"
         }
       ],
       "alts": [
@@ -33613,7 +33613,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034546",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034546"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034546"
         }
       ],
       "alts": [
@@ -33679,7 +33679,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034546",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034546"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034546"
         }
       ],
       "alts": [
@@ -33745,7 +33745,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028673",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028673"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028673"
         }
       ],
       "alts": [
@@ -33845,7 +33845,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028673",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028673"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028673"
         }
       ],
       "alts": [
@@ -33945,7 +33945,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028673",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028673"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028673"
         }
       ],
       "alts": [
@@ -34017,7 +34017,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -34111,7 +34111,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -34205,7 +34205,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -34271,7 +34271,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [
@@ -34337,7 +34337,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [],
@@ -34395,7 +34395,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015187",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015187"
         }
       ],
       "alts": [],
@@ -34451,7 +34451,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019775",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019775"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019775"
         }
       ],
       "alts": [
@@ -34527,7 +34527,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019775",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019775"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019775"
         }
       ],
       "alts": [
@@ -34587,7 +34587,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004293",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004293"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004293"
         }
       ],
       "alts": [
@@ -34678,7 +34678,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033283",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033283"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033283"
         }
       ],
       "alts": [
@@ -34769,7 +34769,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033283",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033283"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033283"
         }
       ],
       "alts": [
@@ -34860,7 +34860,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033283",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033283"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033283"
         }
       ],
       "alts": [
@@ -34930,7 +34930,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033283",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033283"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033283"
         }
       ],
       "alts": [
@@ -34991,7 +34991,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036013",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036013"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036013"
         }
       ],
       "alts": [
@@ -35077,7 +35077,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040078",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040078"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040078"
         }
       ],
       "alts": [
@@ -35170,7 +35170,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1040078",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1040078"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1040078"
         }
       ],
       "alts": [
@@ -35256,7 +35256,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032075"
         }
       ],
       "alts": [
@@ -35320,7 +35320,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001289",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001289"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001289"
         }
       ],
       "alts": [
@@ -35405,7 +35405,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -35504,7 +35504,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -35589,7 +35589,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -35653,7 +35653,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -35719,7 +35719,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010487"
         }
       ],
       "alts": [
@@ -35813,7 +35813,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010487"
         }
       ],
       "alts": [
@@ -35907,7 +35907,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010487",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010487"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010487"
         }
       ],
       "alts": [
@@ -35968,7 +35968,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002506",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002506"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002506"
         }
       ],
       "alts": [
@@ -36043,7 +36043,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002506",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002506"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002506"
         }
       ],
       "alts": [
@@ -36104,7 +36104,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002506",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002506"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002506"
         }
       ],
       "alts": [
@@ -36174,7 +36174,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017952",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017952"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017952"
         }
       ],
       "alts": [
@@ -36255,7 +36255,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034754",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034754"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034754"
         }
       ],
       "alts": [
@@ -36357,7 +36357,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034754",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034754"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034754"
         }
       ],
       "alts": [
@@ -36451,7 +36451,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020543"
         }
       ],
       "alts": [
@@ -36530,7 +36530,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -36630,7 +36630,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -36730,7 +36730,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -36823,7 +36823,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034112",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034112"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034112"
         }
       ],
       "alts": [
@@ -36886,7 +36886,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010285",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010285"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010285"
         }
       ],
       "alts": [
@@ -36961,7 +36961,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1000875",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000875"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1000875"
         }
       ],
       "alts": [
@@ -37043,7 +37043,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1000875",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000875"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1000875"
         }
       ],
       "alts": [
@@ -37106,7 +37106,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1457537",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1457537"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1457537"
         }
       ],
       "alts": [
@@ -37197,7 +37197,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1457537",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1457537"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1457537"
         }
       ],
       "alts": [
@@ -37288,7 +37288,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1457537",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1457537"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1457537"
         }
       ],
       "alts": [],
@@ -37343,7 +37343,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010695",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010695"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010695"
         }
       ],
       "alts": [
@@ -37434,7 +37434,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010695",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010695"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010695"
         }
       ],
       "alts": [
@@ -37499,7 +37499,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041018"
         }
       ],
       "alts": [
@@ -37585,7 +37585,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041018"
         }
       ],
       "alts": [
@@ -37650,7 +37650,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -37750,7 +37750,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -37850,7 +37850,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -37950,7 +37950,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035357",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035357"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035357"
         }
       ],
       "alts": [
@@ -38051,7 +38051,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019172",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019172"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019172"
         }
       ],
       "alts": [
@@ -38131,7 +38131,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019172",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019172"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019172"
         }
       ],
       "alts": [
@@ -38211,7 +38211,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012405",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012405"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012405"
         }
       ],
       "alts": [
@@ -38305,7 +38305,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012405",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012405"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012405"
         }
       ],
       "alts": [],
@@ -38361,7 +38361,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007397",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007397"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007397"
         }
       ],
       "alts": [
@@ -38462,7 +38462,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015110",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015110"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015110"
         }
       ],
       "alts": [
@@ -38549,7 +38549,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015110",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015110"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015110"
         }
       ],
       "alts": [
@@ -38631,7 +38631,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030326",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030326"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030326"
         }
       ],
       "alts": [
@@ -38720,7 +38720,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030326",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030326"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030326"
         }
       ],
       "alts": [
@@ -38813,7 +38813,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034635",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034635"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034635"
         }
       ],
       "alts": [
@@ -38900,7 +38900,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034635",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034635"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034635"
         }
       ],
       "alts": [
@@ -38986,7 +38986,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022751",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022751"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022751"
         }
       ],
       "alts": [
@@ -39051,7 +39051,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022751",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022751"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022751"
         }
       ],
       "alts": [
@@ -39116,7 +39116,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022751",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022751"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022751"
         }
       ],
       "alts": [],
@@ -39177,7 +39177,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003158",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003158"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003158"
         }
       ],
       "alts": [
@@ -39280,7 +39280,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003158",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003158"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003158"
         }
       ],
       "alts": [
@@ -39383,7 +39383,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003158",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003158"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003158"
         }
       ],
       "alts": [
@@ -39479,7 +39479,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014789",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014789"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014789"
         }
       ],
       "alts": [
@@ -39554,7 +39554,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014789",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014789"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014789"
         }
       ],
       "alts": [
@@ -39620,7 +39620,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027818",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027818"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027818"
         }
       ],
       "alts": [
@@ -39700,7 +39700,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027818",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027818"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027818"
         }
       ],
       "alts": [],
@@ -39757,7 +39757,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007626",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007626"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007626"
         }
       ],
       "alts": [
@@ -39851,7 +39851,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007626",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007626"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007626"
         }
       ],
       "alts": [
@@ -39941,7 +39941,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026258"
         }
       ],
       "alts": [
@@ -40023,7 +40023,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026258"
         }
       ],
       "alts": [
@@ -40087,7 +40087,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1574592",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1574592"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1574592"
         }
       ],
       "alts": [
@@ -40179,7 +40179,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1574592",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1574592"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1574592"
         }
       ],
       "alts": [
@@ -40268,7 +40268,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001219",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001219"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001219"
         }
       ],
       "alts": [
@@ -40360,7 +40360,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018212"
         }
       ],
       "alts": [
@@ -40452,7 +40452,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018212"
         }
       ],
       "alts": [
@@ -40544,7 +40544,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018212",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018212"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018212"
         }
       ],
       "alts": [],
@@ -40600,7 +40600,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1275479",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1275479"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1275479"
         }
       ],
       "alts": [
@@ -40679,7 +40679,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1275479",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1275479"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1275479"
         }
       ],
       "alts": [
@@ -40744,7 +40744,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -40843,7 +40843,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -40942,7 +40942,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -41041,7 +41041,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -41140,7 +41140,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -41239,7 +41239,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025038",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025038"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025038"
         }
       ],
       "alts": [
@@ -41343,7 +41343,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [
@@ -41447,7 +41447,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [
@@ -41551,7 +41551,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [
@@ -41655,7 +41655,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [],
@@ -41716,7 +41716,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [],
@@ -41777,7 +41777,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014640",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014640"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
       "alts": [],
@@ -41835,7 +41835,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1489946",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1489946"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1489946"
         }
       ],
       "alts": [
@@ -41916,7 +41916,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1489946",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1489946"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1489946"
         }
       ],
       "alts": [
@@ -41983,7 +41983,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1489946",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1489946"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1489946"
         }
       ],
       "alts": [
@@ -42050,7 +42050,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042349",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042349"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042349"
         }
       ],
       "alts": [
@@ -42117,7 +42117,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042349",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042349"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042349"
         }
       ],
       "alts": [
@@ -42174,7 +42174,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032915",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032915"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032915"
         }
       ],
       "alts": [
@@ -42251,7 +42251,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032915",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032915"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032915"
         }
       ],
       "alts": [
@@ -42333,7 +42333,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019041",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019041"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019041"
         }
       ],
       "alts": [
@@ -42407,7 +42407,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019041",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019041"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019041"
         }
       ],
       "alts": [
@@ -42467,7 +42467,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031644",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031644"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031644"
         }
       ],
       "alts": [
@@ -42563,7 +42563,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031644",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031644"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031644"
         }
       ],
       "alts": [
@@ -42659,7 +42659,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031644",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031644"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031644"
         }
       ],
       "alts": [
@@ -42751,7 +42751,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032733",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032733"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032733"
         }
       ],
       "alts": [
@@ -42836,7 +42836,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022514",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022514"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022514"
         }
       ],
       "alts": [
@@ -42929,7 +42929,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022514",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022514"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022514"
         }
       ],
       "alts": [
@@ -43028,7 +43028,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020475",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020475"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020475"
         }
       ],
       "alts": [
@@ -43119,7 +43119,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1020475",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1020475"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1020475"
         }
       ],
       "alts": [
@@ -43210,7 +43210,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028702",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028702"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028702"
         }
       ],
       "alts": [
@@ -43308,7 +43308,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028702",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028702"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028702"
         }
       ],
       "alts": [
@@ -43406,7 +43406,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028702",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028702"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028702"
         }
       ],
       "alts": [
@@ -43504,7 +43504,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1028702",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1028702"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1028702"
         }
       ],
       "alts": [
@@ -43600,7 +43600,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002116",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002116"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002116"
         }
       ],
       "alts": [
@@ -43685,7 +43685,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015681",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015681"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015681"
         }
       ],
       "alts": [
@@ -43777,7 +43777,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015681",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015681"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015681"
         }
       ],
       "alts": [
@@ -43855,7 +43855,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015681",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015681"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015681"
         }
       ],
       "alts": [
@@ -43930,7 +43930,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027901",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027901"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027901"
         }
       ],
       "alts": [
@@ -44012,7 +44012,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027901",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027901"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027901"
         }
       ],
       "alts": [
@@ -44094,7 +44094,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027901",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027901"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027901"
         }
       ],
       "alts": [],
@@ -44150,7 +44150,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006455",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006455"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006455"
         }
       ],
       "alts": [
@@ -44214,7 +44214,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026256",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026256"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026256"
         }
       ],
       "alts": [
@@ -44300,7 +44300,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006545",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006545"
         }
       ],
       "alts": [
@@ -44392,7 +44392,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006545",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006545"
         }
       ],
       "alts": [
@@ -44484,7 +44484,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006545",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006545"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006545"
         }
       ],
       "alts": [
@@ -44575,7 +44575,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042240",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042240"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042240"
         }
       ],
       "alts": [
@@ -44653,7 +44653,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042240",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042240"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042240"
         }
       ],
       "alts": [
@@ -44717,7 +44717,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042240",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042240"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042240"
         }
       ],
       "alts": [],
@@ -44774,7 +44774,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014579"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014579"
         }
       ],
       "alts": [
@@ -44852,7 +44852,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014579",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014579"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014579"
         }
       ],
       "alts": [
@@ -44929,7 +44929,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022012",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022012"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022012"
         }
       ],
       "alts": [
@@ -45006,7 +45006,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011421",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011421"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011421"
         }
       ],
       "alts": [
@@ -45090,7 +45090,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011421",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011421"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011421"
         }
       ],
       "alts": [],
@@ -45145,7 +45145,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005564"
         }
       ],
       "alts": [
@@ -45243,7 +45243,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005564"
         }
       ],
       "alts": [
@@ -45341,7 +45341,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005564"
         }
       ],
       "alts": [
@@ -45439,7 +45439,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005564"
         }
       ],
       "alts": [
@@ -45535,7 +45535,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022999",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022999"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022999"
         }
       ],
       "alts": [
@@ -45617,7 +45617,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022999",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022999"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022999"
         }
       ],
       "alts": [
@@ -45703,7 +45703,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1160085",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1160085"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1160085"
         }
       ],
       "alts": [
@@ -45767,7 +45767,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010569",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010569"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010569"
         }
       ],
       "alts": [
@@ -45854,7 +45854,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010350"
         }
       ],
       "alts": [
@@ -45948,7 +45948,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010350"
         }
       ],
       "alts": [
@@ -46042,7 +46042,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010350",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010350"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010350"
         }
       ],
       "alts": [
@@ -46136,7 +46136,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034688",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034688"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034688"
         }
       ],
       "alts": [
@@ -46216,7 +46216,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034688",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034688"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034688"
         }
       ],
       "alts": [
@@ -46294,7 +46294,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017945",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017945"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017945"
         }
       ],
       "alts": [
@@ -46378,7 +46378,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1039482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1039482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1039482"
         }
       ],
       "alts": [
@@ -46476,7 +46476,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1039482",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1039482"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1039482"
         }
       ],
       "alts": [
@@ -46572,7 +46572,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024263",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024263"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024263"
         }
       ],
       "alts": [
@@ -46657,7 +46657,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030840"
         }
       ],
       "alts": [
@@ -46741,7 +46741,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030840",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030840"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030840"
         }
       ],
       "alts": [
@@ -46825,7 +46825,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001581",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001581"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001581"
         }
       ],
       "alts": [
@@ -46910,7 +46910,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001132",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001132"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001132"
         }
       ],
       "alts": [],
@@ -46966,7 +46966,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1012534",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1012534"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1012534"
         }
       ],
       "alts": [
@@ -47030,7 +47030,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041967",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041967"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041967"
         }
       ],
       "alts": [
@@ -47256,7 +47256,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1041964",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1041964"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1041964"
         }
       ],
       "alts": [
@@ -47334,7 +47334,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097378",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097378"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097378"
         }
       ],
       "alts": [
@@ -47419,7 +47419,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097378",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097378"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097378"
         }
       ],
       "alts": [],
@@ -47472,7 +47472,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027446",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027446"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
         }
       ],
       "alts": [
@@ -47538,7 +47538,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043061",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043061"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043061"
         }
       ],
       "alts": [
@@ -47604,7 +47604,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015797",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015797"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
         }
       ],
       "alts": [
@@ -47670,7 +47670,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044340",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044340"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044340"
         }
       ],
       "alts": [
@@ -47738,7 +47738,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033018"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033018"
         }
       ],
       "alts": [
@@ -47814,7 +47814,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
         }
       ],
       "alts": [
@@ -47904,7 +47904,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031021"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
         }
       ],
       "alts": [
@@ -48006,7 +48006,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036519"
         }
       ],
       "alts": [
@@ -48094,7 +48094,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036519"
         }
       ],
       "alts": [
@@ -48182,7 +48182,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036519",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036519"
         }
       ],
       "alts": [
@@ -48276,7 +48276,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026866"
         }
       ],
       "alts": [
@@ -48361,7 +48361,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026866"
         }
       ],
       "alts": [
@@ -48446,7 +48446,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026866",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026866"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026866"
         }
       ],
       "alts": [
@@ -48527,7 +48527,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007348",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007348"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007348"
         }
       ],
       "alts": [
@@ -48583,7 +48583,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030846",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030846"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030846"
         }
       ],
       "alts": [
@@ -48764,7 +48764,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031653",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031653"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031653"
         }
       ],
       "alts": [
@@ -48833,7 +48833,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1031653",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1031653"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031653"
         }
       ],
       "alts": [
@@ -48901,7 +48901,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1042735",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042735"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1042735"
         }
       ],
       "alts": [
@@ -48961,7 +48961,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030734",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030734"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030734"
         }
       ],
       "alts": [
@@ -49022,7 +49022,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024152"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024152"
         }
       ],
       "alts": [
@@ -49104,7 +49104,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030703",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030703"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030703"
         }
       ],
       "alts": [
@@ -49178,7 +49178,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033828",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033828"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033828"
         }
       ],
       "alts": [
@@ -49236,7 +49236,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1273197",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1273197"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1273197"
         }
       ],
       "alts": [
@@ -49308,7 +49308,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021731",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021731"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021731"
         }
       ],
       "alts": [
@@ -49373,7 +49373,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1261675",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1261675"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1261675"
         }
       ],
       "alts": [
@@ -49432,7 +49432,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026094",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026094"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026094"
         }
       ],
       "alts": [
@@ -49505,7 +49505,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021697",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021697"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021697"
         }
       ],
       "alts": [
@@ -49585,7 +49585,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014356",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014356"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014356"
         }
       ],
       "alts": [],
@@ -49638,7 +49638,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1023793"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
         }
       ],
       "alts": [
@@ -49702,7 +49702,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001258"
         }
       ],
       "alts": [
@@ -49796,7 +49796,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001258"
         }
       ],
       "alts": [
@@ -49890,7 +49890,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001258",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001258"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001258"
         }
       ],
       "alts": [
@@ -49982,7 +49982,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006786",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006786"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006786"
         }
       ],
       "alts": [
@@ -50070,7 +50070,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1322742",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1322742"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1322742"
         }
       ],
       "alts": [
@@ -50158,7 +50158,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1322742",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1322742"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1322742"
         }
       ],
       "alts": [
@@ -50243,7 +50243,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043502",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043502"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043502"
         }
       ],
       "alts": [
@@ -50328,7 +50328,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1043502",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043502"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043502"
         }
       ],
       "alts": [
@@ -50413,7 +50413,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033152",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033152"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033152"
         }
       ],
       "alts": [
@@ -50475,7 +50475,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002796",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002796"
         }
       ],
       "alts": [
@@ -50550,7 +50550,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002796",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002796"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002796"
         }
       ],
       "alts": [
@@ -50627,7 +50627,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1169860",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1169860"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1169860"
         }
       ],
       "alts": [
@@ -50706,7 +50706,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015555",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015555"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015555"
         }
       ],
       "alts": [
@@ -50799,7 +50799,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019217",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019217"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019217"
         }
       ],
       "alts": [
@@ -50875,7 +50875,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1321493",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1321493"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1321493"
         }
       ],
       "alts": [
@@ -50958,7 +50958,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035868",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035868"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035868"
         }
       ],
       "alts": [
@@ -51023,7 +51023,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027164",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027164"
         }
       ],
       "alts": [
@@ -51096,7 +51096,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027164",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027164"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027164"
         }
       ],
       "alts": [
@@ -51171,7 +51171,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1044225",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044225"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044225"
         }
       ],
       "alts": [
@@ -51235,7 +51235,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005435",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005435"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005435"
         }
       ],
       "alts": [
@@ -51303,7 +51303,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004294",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004294"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004294"
         }
       ],
       "alts": [
@@ -51374,7 +51374,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033859",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033859"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033859"
         }
       ],
       "alts": [
@@ -51442,7 +51442,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1022403",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022403"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1022403"
         }
       ],
       "alts": [
@@ -51505,7 +51505,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033739",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033739"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033739"
         }
       ],
       "alts": [
@@ -51580,7 +51580,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1018639",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1018639"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1018639"
         }
       ],
       "alts": [
@@ -51672,7 +51672,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019426",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019426"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019426"
         }
       ],
       "alts": [
@@ -51739,7 +51739,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024853",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024853"
         }
       ],
       "alts": [
@@ -51828,7 +51828,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024853",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024853"
         }
       ],
       "alts": [
@@ -51917,7 +51917,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1024853",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1024853"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1024853"
         }
       ],
       "alts": [
@@ -52009,7 +52009,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025585",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025585"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025585"
         }
       ],
       "alts": [
@@ -52083,7 +52083,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021093",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021093"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021093"
         }
       ],
       "alts": [
@@ -52161,7 +52161,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033137",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033137"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033137"
         }
       ],
       "alts": [
@@ -52222,7 +52222,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1019564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1019564"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
         }
       ],
       "alts": [
@@ -52292,7 +52292,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1049876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1049876"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
         }
       ],
       "alts": [
@@ -52352,7 +52352,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017661",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017661"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017661"
         }
       ],
       "alts": [
@@ -52431,7 +52431,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025630"
         }
       ],
       "alts": [
@@ -52527,7 +52527,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005051",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005051"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005051"
         }
       ],
       "alts": [
@@ -52584,7 +52584,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1011315",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011315"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1011315"
         }
       ],
       "alts": [
@@ -52651,7 +52651,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1000832",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1000832"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1000832"
         }
       ],
       "alts": [
@@ -52712,7 +52712,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1008075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1008075"
         }
       ],
       "alts": [
@@ -52789,7 +52789,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036595",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036595"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036595"
         }
       ],
       "alts": [
@@ -52879,7 +52879,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1036595",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036595"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1036595"
         }
       ],
       "alts": [
@@ -52967,7 +52967,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035222",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035222"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035222"
         }
       ],
       "alts": [
@@ -53042,7 +53042,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1035222",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1035222"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1035222"
         }
       ],
       "alts": [
@@ -53117,7 +53117,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097302"
         }
       ],
       "alts": [
@@ -53192,7 +53192,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1097302",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1097302"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1097302"
         }
       ],
       "alts": [
@@ -53271,7 +53271,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1051995",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1051995"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1051995"
         }
       ],
       "alts": [
@@ -53356,7 +53356,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1122274",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122274"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1122274"
         }
       ],
       "alts": [
@@ -53432,7 +53432,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1122353",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1122353"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1122353"
         }
       ],
       "alts": [
@@ -53497,7 +53497,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1198876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1198876"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1198876"
         }
       ],
       "alts": [
@@ -53559,7 +53559,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1010695",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1010695"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1010695"
         }
       ],
       "alts": [
@@ -53648,7 +53648,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -53723,7 +53723,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1050207",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1050207"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1050207"
         }
       ],
       "alts": [
@@ -53801,7 +53801,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1013954",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1013954"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1013954"
         }
       ],
       "alts": [
@@ -53903,7 +53903,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1017808",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1017808"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
       "alts": [
@@ -53995,7 +53995,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027898",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027898"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
       "alts": [
@@ -54086,7 +54086,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1027208",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1027208"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027208"
         }
       ],
       "alts": [
@@ -54186,7 +54186,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032075",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032075"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032075"
         }
       ],
       "alts": [
@@ -54275,7 +54275,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003158",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003158"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003158"
         }
       ],
       "alts": [
@@ -54377,7 +54377,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034754",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034754"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034754"
         }
       ],
       "alts": [
@@ -54476,7 +54476,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1007397",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007397"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1007397"
         }
       ],
       "alts": [
@@ -54576,7 +54576,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025630",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025630"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025630"
         }
       ],
       "alts": [
@@ -54697,7 +54697,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1005404",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1005404"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1005404"
         }
       ]
     },
@@ -54751,7 +54751,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1003785",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1003785"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1003785"
         }
       ]
     },
@@ -54787,8 +54787,8 @@ window.PLAYLIST_DATA = {
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #026081",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=ACUM_WRKNBR:026081"
+          "label": "אקו\"ם #2026081",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=2026081"
         }
       ],
       "musical": "המחזמר \"אופרה בגרוש\"",
@@ -54942,7 +54942,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1331698",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1331698"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1331698"
         }
       ],
       "musical": "המחזמר \"כיצד שוברים חמסין\"",
@@ -55087,7 +55087,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1255875",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1255875"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1255875"
         }
       ],
       "orig_title": "שיר ביידיש מאת מרדכי גבירטיג"
@@ -55159,7 +55159,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1034931",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1034931"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1034931"
         }
       ],
       "nli_note": "בספרה \"הספר השני\" מקדישה המשוררת, נעמי שמר, את השיר לפולי, גברי ושייקה."
@@ -55194,7 +55194,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1025252",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025252"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1025252"
         }
       ],
       "musical": "המחזה \"מכירת יוסף\"",
@@ -55363,7 +55363,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1163447",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1163447"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1163447"
         }
       ],
       "nli_note": "השיר \"פלוגת יסמין\" נכלל בין שירי המופע \"אלף שירים ושיר\" בהשתתפות נעמי שמר, דודו אלהרר, רמי הראל ורונית רולנד."
@@ -55388,7 +55388,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1049085",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1049085"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049085"
         }
       ]
     },
@@ -55466,7 +55466,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1001536",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001536"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1001536"
         }
       ]
     },
@@ -55515,7 +55515,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1002553",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1002553"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1002553"
         }
       ]
     },
@@ -55539,7 +55539,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1004899",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1004899"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1004899"
         }
       ]
     },
@@ -55587,7 +55587,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1537577",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1537577"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1537577"
         }
       ]
     },
@@ -55611,7 +55611,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006273",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006273"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006273"
         }
       ]
     },
@@ -55660,7 +55660,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1006522",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1006522"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1006522"
         }
       ]
     },
@@ -55684,7 +55684,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1272576",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1272576"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1272576"
         }
       ]
     },
@@ -55782,7 +55782,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1414759",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1414759"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1414759"
         }
       ]
     },
@@ -55806,7 +55806,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1086647",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1086647"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1086647"
         }
       ]
     },
@@ -55856,7 +55856,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1229033",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1229033"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1229033"
         }
       ]
     },
@@ -55880,7 +55880,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1175485",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1175485"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1175485"
         }
       ]
     },
@@ -55979,7 +55979,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1113517",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1113517"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1113517"
         }
       ]
     },
@@ -56027,7 +56027,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1014657",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1014657"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014657"
         }
       ]
     },
@@ -56051,7 +56051,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1015105",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015105"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015105"
         }
       ]
     },
@@ -56076,7 +56076,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1021368",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1021368"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1021368"
         }
       ]
     },
@@ -56101,7 +56101,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1480980",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1480980"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1480980"
         }
       ],
       "musical": "הסרט המוזיקלי \"מטריות שרבורג\"",
@@ -56224,7 +56224,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1026153",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1026153"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1026153"
         }
       ]
     },
@@ -56348,7 +56348,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1283543",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1283543"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1283543"
         }
       ]
     },
@@ -56372,7 +56372,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1029786",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029786"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1029786"
         }
       ]
     },
@@ -56428,7 +56428,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1030013",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1030013"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1030013"
         }
       ],
       "nli_note": "השיר \"צרות נהדרות\" נכלל בתוכנית \"סיבה למסיבה\" ובוצע על ידי מוני מושנוב ושלמה בראבא. את השיר הלחין יאיר רוזנבלום וכתבה נעמי שמר."
@@ -56477,7 +56477,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1245410",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1245410"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1245410"
         }
       ]
     },
@@ -56525,7 +56525,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1032917",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1032917"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1032917"
         }
       ]
     },
@@ -56625,7 +56625,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1033565",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1033565"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033565"
         }
       ]
     },
@@ -56708,7 +56708,7 @@ window.PLAYLIST_DATA = {
         {
           "source": "acum",
           "label": "אקו\"ם #1320452",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1320452"
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1320452"
         }
       ]
     },

@@ -1068,12 +1068,17 @@ def generate_browser_scripts(matched_entries: list[dict[str, Any]], cfg: Compose
 
 
 def _sanitize_archive_links(links: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    """Strip internal work-ID prefixes from displayed archive link labels without altering URLs."""
+    """Strip internal work-ID prefixes and repair legacy ACUM /issearch paths in archive links."""
     cleaned: list[dict[str, Any]] = []
     for lk in links:
         item = dict(lk)
         if isinstance(item.get("label"), str):
             item["label"] = item["label"].replace("ACUM_WRKNBR:", "")
+        if isinstance(item.get("url"), str) and "acumsitesearchdb/issearch?workid=" in item["url"]:
+            item["url"] = item["url"].replace(
+                "acumsitesearchdb/issearch?workid=",
+                "acumsitesearchdb/work?workid=",
+            )
         cleaned.append(item)
     return cleaned
 

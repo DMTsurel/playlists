@@ -632,6 +632,17 @@ def audit_composer(slug: str) -> dict[str, Any]:
                                 f"Unstripped ACUM_WRKNBR prefix in label '{lbl}'",
                             )
                         )
+                    url_val = str(lk.get("url", ""))
+                    if "acumsitesearchdb/issearch" in url_val or "ACUM_WRKNBR:" in url_val:
+                        errors.append(
+                            _issue(
+                                "BROKEN_ACUM_URL",
+                                row.get("n"),
+                                row.get("raw_title") or row.get("title", ""),
+                                row.get("vid", ""),
+                                f"Broken ACUM archive URL '{url_val}' (use /acumsitesearchdb/work?workid=<numeric_id>)",
+                            )
+                        )
                 notes_val = str(row.get("notes") or "")
                 if len(notes_val) > 220:
                     warnings.append(
