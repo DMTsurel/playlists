@@ -76,7 +76,7 @@ def scaffold_composer(
         "name_en": name_en,
         "playlist_title_he": f"שירי {name_he}",
         "collection_prefix_he": f"משירי {name_he}",
-        "subtitle_he": f"האוסף המקיף מאוחד ממאגרי אקו\"ם, הספרייה הלאומית, שירונט, זמרשת ועוד — מסודר מהקלאסיקות הגדולות אל הפנינים הנדירות.",
+        "subtitle_he": f"אוסף מקיף של שירי {name_he}",
         "hub_description_he": f"האוסף הכרונולוגי והקאנוני המקיף של שירי {name_he}: ביצועים מקוריים, אלבומים היסטוריים ו-{{unmatched_songs}} שירי ארכיון משלימים שאינם ביוטיוב.",
         "playlist_description_he": f"פלייליסט מקיף וכרונולוגי של שירי {name_he}, מאוחד ממקורות אקו\"ם, הספרייה הלאומית, שירונט, זמרשת ויוטיוב.",
         "meta_description_template": f"האוסף המקיף של שירי {name_he} ({{total_catalog_songs}} שירים): {{total_videos}} ביצועים ביוטיוב ו-{{unmatched_songs}} שירי ארכיון.",
