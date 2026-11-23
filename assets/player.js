@@ -91,6 +91,7 @@ SONGS.forEach(s => {
     s.perf,
     s.alb,
     s.alb_group,
+    s.musical,
     s.ch,
     s.role_label,
     s.co_creators,
@@ -109,6 +110,7 @@ ARCHIVE_SONGS.forEach(s => {
     (s.alt_titles || []).join(" "),
     s.perfs,
     s.albums,
+    s.musical,
     s.role_label,
     s.co_creators,
     s.opening_line,
@@ -822,6 +824,22 @@ function filterBySongTitle(ev, text) {
   renderTable();
 }
 
+function filterArchiveByText(ev, text) {
+  if (ev && typeof ev.stopPropagation === "function") ev.stopPropagation();
+  const inp = document.getElementById("archSearchInput");
+  if (!inp) return;
+  inp.value = (inp.value.trim() === text) ? "" : text;
+  updateSearchClearUI("arch");
+  renderArchive();
+}
+
+function renderMusicalBadge(musical, handlerFn, queryRaw) {
+  if (!musical) return "";
+  const attrEsc = JSON.stringify(musical).replace(/"/g, "&quot;");
+  const textHtml = queryRaw ? highlightText(musical, queryRaw) : esc(musical);
+  return `<span class="badge musical-badge" role="button" tabindex="0" onclick="${handlerFn}(event, ${attrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל שירי ${esc(musical)}">🎭 ${textHtml}</span>`;
+}
+
 function clearSingleFilter(kind) {
   if (kind === "exact") exactSongTitle = "";
   else if (kind === "q") {
@@ -1034,8 +1052,9 @@ function updateNowPlayingCard(s) {
   const verBadgeHtml = s.ver_total > 1
     ? `<span class="ver-badge ${isExactActive ? "active-ver-filter" : ""}" role="button" tabindex="0" onclick="filterByExactSong(event, ${JSON.stringify(s.raw_title).replace(/"/g, '&quot;')})" onkeydown="handleActivatableKey(event)" title="לחץ להצגת כל ${s.ver_total} הביצועים של שיר זה בטבלה">ביצוע ${s.ver_idx}/${s.ver_total}</span>`
     : "";
+  const musicalBadgeHtml = renderMusicalBadge(s.musical, "filterBySongTitle", "");
   const tierShort = s.tier_label.replace(/^[0-9]\.\s*/, "");
-  document.getElementById("nowPlayingRole").innerHTML = `<span class="badge t-${esc(s.tier)}">${esc(tierShort)}</span><span class="badge r-${esc(s.role_cat)}">${esc(s.role_label)}</span>${verBadgeHtml}`;
+  document.getElementById("nowPlayingRole").innerHTML = `<span class="badge t-${esc(s.tier)}">${esc(tierShort)}</span><span class="badge r-${esc(s.role_cat)}">${esc(s.role_label)}</span>${musicalBadgeHtml}${verBadgeHtml}`;
 
   const verBox = document.getElementById("nowPlayingVersions");
   if (verBox) {
@@ -1594,8 +1613,9 @@ function renderTable(skipSync = false) {
     const titleHtml = hasSearchQ ? highlightText(s.raw_title, rawInput) : esc(s.raw_title);
     const perfHtml = hasSearchQ ? highlightText(perfDisp, rawInput) : esc(perfDisp);
     const albHtml = s.alb ? (hasSearchQ ? highlightText(s.alb, rawInput) : esc(s.alb)) : "";
+    const musicalSub = renderMusicalBadge(s.musical, "filterBySongTitle", hasSearchQ ? rawInput : "");
     const titleMatched = hasSearchQ && (s.raw_title.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.raw_title).includes(qNorm)));
-    const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "")).includes(qNorm)));
+    const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "") + " " + (s.musical || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "") + " " + (s.musical || "")).includes(qNorm)));
     const openingContextHtml = (hasSearchQ && s.opening_line && !titleMatched && !metaMatched)
       ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
       : "";
@@ -1611,6 +1631,7 @@ function renderTable(skipSync = false) {
           <span>${titleHtml}</span>
           ${formatTableYearHtml(s)}
           ${s.ver_total > 1 ? `<span class="ver-badge ${isVerFiltered ? "active-ver-filter" : ""}" role="button" tabindex="0" onclick="filterByExactSong(event, ${titleAttrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ להצגת כל ${s.ver_total} הביצועים של שיר זה בלבד">ביצוע ${s.ver_idx}/${s.ver_total}</span>` : ""}
+          ${musicalSub}
           ${roleSub}
         </div>
         ${openingContextHtml}
@@ -1727,6 +1748,7 @@ function renderArchiveTable(skipSync = false) {
           .trim();
       }
       const titleHtml = hasSearchQ ? highlightText(s.title, rawInput) : esc(s.title);
+      const archMusicalSub = renderMusicalBadge(s.musical, "filterArchiveByText", hasSearchQ ? rawInput : "");
       const perfsHtml = s.perfs
         ? (hasSearchQ ? highlightText(s.perfs, rawInput) : esc(s.perfs))
         : "<span style='color:var(--muted);'>לא מתועד מבצע</span>";
@@ -1742,6 +1764,7 @@ function renderArchiveTable(skipSync = false) {
             <span>${titleHtml}</span>
             ${s.year && s.year !== "ללא שנה" ? `<span class="song-year">(${esc(s.year)})</span>` : ""}
             ${s.has_audio ? `<span class="badge audio-avail-badge">🎧 הקלטה להאזנה</span>` : ""}
+            ${archMusicalSub}
           </div>
           ${s.alt_titles && s.alt_titles.length ? `<div class="perf-album">שמות נוספים: ${esc(s.alt_titles.join(", "))}</div>` : ""}
         </td>

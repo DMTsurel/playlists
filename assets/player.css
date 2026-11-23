@@ -1062,6 +1062,18 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
 .r-words_only { background: rgba(192, 132, 252, 0.12); color: #d8b4fe; }
 .r-translation { background: rgba(16, 185, 129, 0.12); color: #6ee7b7; }
 .r-performance_only { background: rgba(251, 113, 133, 0.12); color: #fda4af; }
+.musical-badge {
+  background: rgba(236, 72, 153, 0.14);
+  color: #f9a8d4;
+  border: 1px solid rgba(236, 72, 153, 0.28);
+  cursor: pointer;
+  transition: all 0.14s;
+}
+.musical-badge:hover {
+  background: rgba(236, 72, 153, 0.28);
+  color: #fdf2f8;
+  border-color: rgba(244, 114, 182, 0.55);
+}
 
 .quote-box {
   background: rgba(11, 17, 32, 0.6);

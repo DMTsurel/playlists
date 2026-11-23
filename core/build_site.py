@@ -1232,6 +1232,8 @@ def _build_songs_and_archive_payloads(
             song_obj["start"] = start_sec
         if end_sec > 0:
             song_obj["end"] = end_sec
+        if item.get("musical"):
+            song_obj["musical"] = item["musical"]
         songs_js.append(song_obj)
 
     archive_songs_js: list[dict[str, Any]] = []
@@ -1260,7 +1262,7 @@ def _build_songs_and_archive_payloads(
                 seen_src_groups.add(src_key)
         for sg in seen_src_groups:
             arch_src_counts[sg] = arch_src_counts.get(sg, 0) + 1
-        archive_songs_js.append({
+        arch_obj: dict[str, Any] = {
             "n": item["index"],
             "title": item["title"],
             "alt_titles": item.get("alt_titles", []),
@@ -1275,7 +1277,10 @@ def _build_songs_and_archive_payloads(
             "sources": item.get("sources", []),
             "has_audio": has_audio,
             "links": links_list,
-        })
+        }
+        if item.get("musical"):
+            arch_obj["musical"] = item["musical"]
+        archive_songs_js.append(arch_obj)
 
     counts = {
         "tier": tier_counts,

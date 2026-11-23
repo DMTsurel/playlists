@@ -900,7 +900,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 10,
@@ -985,7 +986,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 11,
@@ -1275,7 +1277,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:29",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 14,
@@ -1374,7 +1377,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:29",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 15,
@@ -2205,7 +2209,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 25,
@@ -2286,7 +2291,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 26,
@@ -5268,7 +5274,8 @@ window.PLAYLIST_DATA = {
           "dur": "",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 60,
@@ -5353,7 +5360,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 61,
@@ -5430,7 +5438,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:57",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 62,
@@ -5923,7 +5932,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:18",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "n": 68,
@@ -7966,7 +7976,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:05",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 92,
@@ -8064,7 +8075,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:05",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 93,
@@ -8925,7 +8937,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:30",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 103,
@@ -9009,7 +9022,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:30",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 104,
@@ -13461,7 +13475,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:44",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 162,
@@ -13508,7 +13523,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990038221790205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 163,
@@ -13572,7 +13588,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:44",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 164,
@@ -13629,7 +13646,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:44",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 165,
@@ -13674,7 +13692,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046350205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 166,
@@ -13754,7 +13773,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:38",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 167,
@@ -13842,7 +13862,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:45",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 168,
@@ -13928,7 +13949,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 169,
@@ -14472,7 +14494,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:15",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 178,
@@ -14567,7 +14590,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1148637"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"אוקלהומה!\""
     },
     {
       "n": 180,
@@ -16781,7 +16805,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:54",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 216,
@@ -16830,7 +16855,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473750"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 217,
@@ -16879,7 +16905,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473751"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 218,
@@ -16957,7 +16984,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:13",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 219,
@@ -17035,7 +17063,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:13",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 220,
@@ -17111,7 +17140,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 221,
@@ -17185,7 +17215,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:49",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 222,
@@ -17232,7 +17263,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1473752"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 223,
@@ -18136,7 +18168,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045640205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 238,
@@ -18214,7 +18247,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:36",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 239,
@@ -18306,7 +18340,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:27",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 240,
@@ -18398,7 +18433,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:55",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 241,
@@ -18481,7 +18517,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:07",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 242,
@@ -18564,7 +18601,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:43",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 243,
@@ -18650,7 +18688,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:40",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 244,
@@ -18733,7 +18772,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:04",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 245,
@@ -18816,7 +18856,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 246,
@@ -18874,7 +18915,8 @@ window.PLAYLIST_DATA = {
           "dur": "0:37",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 247,
@@ -18932,7 +18974,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:38",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 248,
@@ -18994,7 +19037,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 249,
@@ -19064,7 +19108,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:30",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 250,
@@ -19116,7 +19161,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159487"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 251,
@@ -19171,7 +19217,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159486"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 252,
@@ -19225,7 +19272,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159489"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 253,
@@ -19281,7 +19329,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159491"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 254,
@@ -19333,7 +19382,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159493"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 255,
@@ -19385,7 +19435,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159494"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 256,
@@ -19439,7 +19490,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159495"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 257,
@@ -19488,7 +19540,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=2326683"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 258,
@@ -19540,7 +19593,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044947"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 259,
@@ -19595,7 +19649,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1159499"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 260,
@@ -19650,7 +19705,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1081188"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "n": 261,
@@ -20236,7 +20292,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:10",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 271,
@@ -20328,7 +20385,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:58",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 272,
@@ -23893,7 +23951,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1008802"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "ההצגה \"אני פשוש\""
     },
     {
       "n": 326,
@@ -24242,7 +24301,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 331,
@@ -24330,7 +24390,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:35",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 332,
@@ -24638,7 +24699,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:02",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 336,
@@ -24966,7 +25028,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1029518"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 342,
@@ -25020,7 +25083,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001879"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 343,
@@ -25071,7 +25135,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1007865"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 344,
@@ -25115,7 +25180,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045750205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 345,
@@ -25159,7 +25225,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044250205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 346,
@@ -25204,7 +25271,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043450205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 347,
@@ -25250,7 +25318,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043380205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 348,
@@ -25312,7 +25381,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:28",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 349,
@@ -25354,7 +25424,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037101320205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 350,
@@ -25401,7 +25472,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990047200190205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 351,
@@ -33027,7 +33099,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:35",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 466,
@@ -33091,7 +33164,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:48",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 467,
@@ -33155,7 +33229,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:48",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 468,
@@ -33516,7 +33591,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:29",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 472,
@@ -33608,7 +33684,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:05",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 473,
@@ -33672,7 +33749,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:41",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 474,
@@ -33736,7 +33814,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:41",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 475,
@@ -33792,7 +33871,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 476,
@@ -33848,7 +33928,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1015187"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 477,
@@ -38242,7 +38323,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 531,
@@ -38327,7 +38409,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 532,
@@ -38390,7 +38473,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:43",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 533,
@@ -38453,7 +38537,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:43",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 534,
@@ -38508,7 +38593,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1022751"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 535,
@@ -39176,7 +39262,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:18",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "n": 543,
@@ -39268,7 +39355,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:41",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "n": 544,
@@ -42211,7 +42299,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:05",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 580,
@@ -42309,7 +42398,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:03",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 581,
@@ -43564,7 +43654,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "n": 596,
@@ -46745,7 +46836,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:06",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 636,
@@ -46809,7 +46901,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:09",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 637,
@@ -46866,7 +46959,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:42",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 638,
@@ -46946,7 +47040,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:12",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 639,
@@ -47034,7 +47129,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 640,
@@ -47129,7 +47225,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 641,
@@ -47215,7 +47312,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 642,
@@ -47301,7 +47399,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 643,
@@ -47394,7 +47493,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:51",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 644,
@@ -47771,7 +47871,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 649,
@@ -48610,7 +48711,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:09",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 662,
@@ -48688,7 +48790,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:44",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "n": 663,
@@ -48896,7 +48999,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:55",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 666,
@@ -48988,7 +49092,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:55",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 667,
@@ -49080,7 +49185,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:55",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 668,
@@ -49163,7 +49269,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:43",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 669,
@@ -49249,7 +49356,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:52",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 670,
@@ -49335,7 +49443,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:52",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 671,
@@ -49418,7 +49527,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 672,
@@ -49501,7 +49611,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 673,
@@ -49563,7 +49674,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "n": 674,
@@ -49879,7 +49991,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:58",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 678,
@@ -50820,7 +50933,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 691,
@@ -51304,7 +51418,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:40",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 697,
@@ -53961,7 +54076,8 @@ window.PLAYLIST_DATA = {
           "label": "אקו\"ם #026081",
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=ACUM_WRKNBR:026081"
         }
-      ]
+      ],
+      "musical": "המחזמר \"אופרה בגרוש\""
     },
     {
       "n": 733,
@@ -54021,7 +54137,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045930205171/NLI"
         }
-      ]
+      ],
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "n": 735,
@@ -54106,7 +54223,8 @@ window.PLAYLIST_DATA = {
           "label": "אקו\"ם #1331698",
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1331698"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 738,
@@ -54132,7 +54250,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043090205171/NLI"
         }
-      ]
+      ],
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "n": 739,
@@ -55242,7 +55361,8 @@ window.PLAYLIST_DATA = {
           "label": "אקו\"ם #1480980",
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1480980"
         }
-      ]
+      ],
+      "musical": "הסרט המוזיקלי \"מטריות שרבורג\""
     },
     {
       "n": 782,

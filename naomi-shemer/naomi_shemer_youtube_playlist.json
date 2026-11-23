@@ -1604,7 +1604,8 @@
       "ver_total": 5,
       "song_year": "1976",
       "recording_year": "1976",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 10,
@@ -1762,7 +1763,8 @@
       "ver_total": 5,
       "song_year": "1976",
       "recording_year": "1981",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 11,
@@ -2260,7 +2262,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "1968",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 14,
@@ -2443,7 +2446,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "1988",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 15,
@@ -3942,7 +3946,8 @@
       "ver_total": 2,
       "song_year": "1963",
       "recording_year": "1963",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 25,
@@ -4092,7 +4097,8 @@
       "ver_total": 2,
       "song_year": "1963",
       "recording_year": "1967",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 26,
@@ -9377,7 +9383,8 @@
       "ver_total": 4,
       "song_year": "1976",
       "recording_year": "1977",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 60,
@@ -9532,7 +9539,8 @@
       "ver_total": 4,
       "song_year": "1976",
       "recording_year": "1982",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 61,
@@ -9672,7 +9680,8 @@
       "dual_role": "original_performance",
       "song_year": "1963",
       "recording_year": "1963",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 62,
@@ -10541,7 +10550,8 @@
       "ver_total": 3,
       "song_year": "1971",
       "recording_year": "1971",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "index": 68,
@@ -14313,7 +14323,8 @@
       "ver_total": 4,
       "song_year": "1963",
       "recording_year": "1963",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 92,
@@ -14475,7 +14486,8 @@
       "ver_total": 4,
       "song_year": "1963",
       "recording_year": "1967",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 93,
@@ -15941,7 +15953,8 @@
       "ver_total": 3,
       "song_year": "1976",
       "recording_year": "1976",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 103,
@@ -16093,7 +16106,8 @@
       "ver_total": 3,
       "song_year": "1976",
       "recording_year": "1982",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 104,
@@ -23477,7 +23491,8 @@
       "song_year": "1956",
       "recording_year": "1956",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)"
+      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 162,
@@ -23538,7 +23553,8 @@
       "ver_idx": 1,
       "ver_total": 1,
       "canonical_score": 6.0,
-      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)"
+      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 163,
@@ -23625,7 +23641,8 @@
       "song_year": "1956",
       "recording_year": "1956",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)"
+      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 164,
@@ -23704,7 +23721,8 @@
       "song_year": "1958",
       "recording_year": "1958",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)"
+      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 165,
@@ -23764,7 +23782,8 @@
       "song_year": "1958",
       "recording_year": "1958",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)"
+      "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 166,
@@ -23884,7 +23903,8 @@
       "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 167,
@@ -24024,7 +24044,8 @@
       "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 168,
@@ -24158,7 +24179,8 @@
       "layer2_chapter": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1956–1959)",
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 169,
@@ -24946,7 +24968,8 @@
       "song_year": "1955",
       "recording_year": "1955",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 3: תיאטרון הסמבטיון וסינגלי שנות ה־50 (1955–1959)"
+      "layer2_chapter": "פרק 3: תיאטרון הסמבטיון וסינגלי שנות ה־50 (1955–1959)",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 178,
@@ -25076,7 +25099,8 @@
       "song_year": "1956",
       "recording_year": "1956",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 3: תיאטרון הסמבטיון וסינגלי שנות ה־50 (1955–1959)"
+      "layer2_chapter": "פרק 3: תיאטרון הסמבטיון וסינגלי שנות ה־50 (1955–1959)",
+      "musical": "המחזמר \"אוקלהומה!\""
     },
     {
       "index": 180,
@@ -28395,7 +28419,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 216,
@@ -28461,7 +28486,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 217,
@@ -28529,7 +28555,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 218,
@@ -28643,7 +28670,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 219,
@@ -28757,7 +28785,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 220,
@@ -28878,7 +28907,8 @@
       "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
       "song_year": "1963",
       "recording_year": "1963",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 221,
@@ -29002,7 +29032,8 @@
       "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
       "song_year": "1963",
       "recording_year": "1963",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 222,
@@ -29068,7 +29099,8 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — להקת הנח\"ל (\"שמש במדבר\") וסינגלים (1960–1965)",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 223,
@@ -30389,7 +30421,8 @@
       "song_year": "1965",
       "recording_year": "1965",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 238,
@@ -30493,7 +30526,8 @@
       "song_year": "1964",
       "recording_year": "1965",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 239,
@@ -30631,7 +30665,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1964",
       "recording_year": "1964",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 240,
@@ -30769,7 +30804,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1964",
       "recording_year": "1965",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 241,
@@ -30891,7 +30927,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1964",
       "recording_year": "1964",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 242,
@@ -31013,7 +31050,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1964",
       "recording_year": "1964",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 243,
@@ -31133,7 +31171,8 @@
       "song_year": "1964",
       "recording_year": "1964",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 244,
@@ -31252,7 +31291,8 @@
       "song_year": "1964",
       "recording_year": "1964",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 245,
@@ -31371,7 +31411,8 @@
       "song_year": "1964",
       "recording_year": "1966",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 246,
@@ -31452,7 +31493,8 @@
       "song_year": "1964",
       "recording_year": "1964",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 247,
@@ -31533,7 +31575,8 @@
       "song_year": "1964",
       "recording_year": "1966",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 248,
@@ -31621,7 +31664,8 @@
       "song_year": "1964",
       "recording_year": "1964",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 249,
@@ -31729,7 +31773,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 250,
@@ -31808,7 +31853,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 251,
@@ -31889,7 +31935,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 252,
@@ -31969,7 +32016,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 253,
@@ -32051,7 +32099,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 254,
@@ -32132,7 +32181,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 255,
@@ -32210,7 +32260,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 256,
@@ -32291,7 +32342,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 257,
@@ -32364,7 +32416,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)"
+      "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 258,
@@ -32444,7 +32497,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 259,
@@ -32526,7 +32580,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 260,
@@ -32613,7 +32668,8 @@
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"המלך ואני\""
     },
     {
       "index": 261,
@@ -33502,7 +33558,8 @@
       "song_year": "1967",
       "recording_year": "1967",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 271,
@@ -33657,7 +33714,8 @@
       "song_year": "1967",
       "recording_year": "1973",
       "year_source": "archive_desc",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 272,
@@ -38940,7 +38998,8 @@
       "song_year": "1974",
       "recording_year": "1974",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)"
+      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
+      "musical": "ההצגה \"אני פשוש\""
     },
     {
       "index": 326,
@@ -39463,7 +39522,8 @@
       "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
       "song_year": "1964",
       "recording_year": "1964",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 331,
@@ -39599,7 +39659,8 @@
       "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
       "song_year": "1964",
       "recording_year": "1975",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 332,
@@ -40110,7 +40171,8 @@
       "song_year": "1975",
       "recording_year": "1975",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 336,
@@ -40623,7 +40685,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 342,
@@ -40707,7 +40770,8 @@
       "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
       "song_year": "1976",
       "recording_year": "1976",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 343,
@@ -40784,7 +40848,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 344,
@@ -40848,7 +40913,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 345,
@@ -40911,7 +40977,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 346,
@@ -40976,7 +41043,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 347,
@@ -41042,7 +41110,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 348,
@@ -41131,7 +41200,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 349,
@@ -41192,7 +41262,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 350,
@@ -41257,7 +41328,8 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1964, 1975–1976)",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 351,
@@ -53644,7 +53716,8 @@
       "ver_total": 5,
       "song_year": "1976",
       "recording_year": "2009",
-      "year_source": "existing_curated"
+      "year_source": "existing_curated",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 466,
@@ -53775,7 +53848,8 @@
       "ver_total": 5,
       "song_year": "1976",
       "recording_year": "2017",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 467,
@@ -53906,7 +53980,8 @@
       "ver_total": 5,
       "song_year": "1976",
       "recording_year": "2002",
-      "year_source": "archive_desc"
+      "year_source": "archive_desc",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 468,
@@ -54530,7 +54605,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "1962",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 472,
@@ -54704,7 +54780,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "1966",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 473,
@@ -54842,7 +54919,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "2000",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 474,
@@ -54980,7 +55058,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "2020",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 475,
@@ -55108,7 +55187,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "1991",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 476,
@@ -55236,7 +55316,8 @@
       "ver_total": 8,
       "song_year": "1962",
       "recording_year": "2006",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 477,
@@ -63189,7 +63270,8 @@
       "ver_total": 4,
       "song_year": "1976",
       "recording_year": "1976",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 531,
@@ -63345,7 +63427,8 @@
       "matched_performer": "ירדנה ארזי",
       "song_year": "1976",
       "recording_year": "2013",
-      "year_source": "topic_album"
+      "year_source": "topic_album",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 532,
@@ -63467,7 +63550,8 @@
       "dual_role": "additional_performance",
       "song_year": "1963",
       "recording_year": "2002",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 533,
@@ -63589,7 +63673,8 @@
       "dual_role": "additional_performance",
       "song_year": "1963",
       "recording_year": "1973",
-      "year_source": "stereo_ve_mono"
+      "year_source": "stereo_ve_mono",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 534,
@@ -63701,7 +63786,8 @@
       "dual_role": "additional_performance",
       "song_year": "1963",
       "recording_year": "1968",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 535,
@@ -64916,7 +65002,8 @@
       "ver_total": 3,
       "song_year": "1971",
       "recording_year": "1988",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "index": 543,
@@ -65073,7 +65160,8 @@
       "ver_total": 3,
       "song_year": "1971",
       "recording_year": "1997",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"אמנון ותמר\""
     },
     {
       "index": 544,
@@ -70851,7 +70939,8 @@
       "ver_total": 4,
       "song_year": "1963",
       "recording_year": "1977",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 580,
@@ -71013,7 +71102,8 @@
       "ver_total": 4,
       "song_year": "1963",
       "recording_year": "1972",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 581,
@@ -73174,7 +73264,8 @@
       "ver_total": 3,
       "song_year": "1976",
       "recording_year": "1984",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"מסעות בנימין השלישי\""
     },
     {
       "index": 596,
@@ -78647,7 +78738,8 @@
       "ver_total": 2,
       "song_year": "1956",
       "recording_year": "1965",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 636,
@@ -78734,7 +78826,8 @@
       "ver_total": 2,
       "song_year": "1956",
       "recording_year": "1958",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 637,
@@ -78812,7 +78905,8 @@
       "ver_total": 2,
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 638,
@@ -78931,7 +79025,8 @@
       "ver_total": 2,
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 639,
@@ -79070,7 +79165,8 @@
       "ver_total": 3,
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 640,
@@ -79218,7 +79314,8 @@
       "ver_total": 3,
       "song_year": "1958",
       "recording_year": "1965",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 641,
@@ -79351,7 +79448,8 @@
       "ver_total": 4,
       "song_year": "1958",
       "recording_year": "1959",
-      "year_source": "topic_album"
+      "year_source": "topic_album",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 642,
@@ -79484,7 +79582,8 @@
       "ver_total": 4,
       "song_year": "1958",
       "recording_year": "1958",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 643,
@@ -79626,7 +79725,8 @@
       "ver_total": 4,
       "song_year": "1958",
       "recording_year": "2011",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 644,
@@ -80189,7 +80289,8 @@
       "ver_total": 2,
       "song_year": "1955",
       "recording_year": "1957",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 649,
@@ -81426,7 +81527,8 @@
       "ver_total": 2,
       "song_year": "1963",
       "recording_year": "1966",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 662,
@@ -81539,7 +81641,8 @@
       "ver_total": 3,
       "song_year": "1963",
       "recording_year": "1970",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "המחזמר \"שמש במדבר\""
     },
     {
       "index": 663,
@@ -81865,7 +81968,8 @@
       "ver_total": 5,
       "song_year": "1964",
       "recording_year": "1973",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 666,
@@ -82002,7 +82106,8 @@
       "ver_total": 5,
       "song_year": "1964",
       "recording_year": "1968",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 667,
@@ -82139,7 +82244,8 @@
       "ver_total": 5,
       "song_year": "1964",
       "recording_year": "1966",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 668,
@@ -82260,7 +82366,8 @@
       "ver_total": 3,
       "song_year": "1964",
       "recording_year": "1968",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 669,
@@ -82380,7 +82487,8 @@
       "ver_total": 3,
       "song_year": "1964",
       "recording_year": "1965",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 670,
@@ -82499,7 +82607,8 @@
       "ver_total": 3,
       "song_year": "1964",
       "recording_year": "1966",
-      "year_source": "existing_curated"
+      "year_source": "existing_curated",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 671,
@@ -82617,7 +82726,8 @@
       "ver_total": 4,
       "song_year": "1964",
       "recording_year": "1972",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 672,
@@ -82735,7 +82845,8 @@
       "ver_total": 4,
       "song_year": "1964",
       "recording_year": "1972",
-      "year_source": "existing_curated"
+      "year_source": "existing_curated",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 673,
@@ -82822,7 +82933,8 @@
       "ver_total": 2,
       "song_year": "1964",
       "recording_year": "1971",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "musical": "ההצגה \"שייקספיר איננו\""
     },
     {
       "index": 674,
@@ -83338,7 +83450,8 @@
       "ver_total": 3,
       "song_year": "1967",
       "recording_year": "1977",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 678,
@@ -84749,7 +84862,8 @@
       "ver_total": 3,
       "song_year": "1964",
       "recording_year": "1977",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 691,
@@ -85553,7 +85667,8 @@
       "ver_total": 2,
       "song_year": "1975",
       "recording_year": "1977",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 697,
@@ -89907,7 +90022,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1954",
-      "recording_year": ""
+      "recording_year": "",
+      "musical": "המחזמר \"אופרה בגרוש\""
     },
     {
       "index": 733,
@@ -89998,7 +90114,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1956",
-      "recording_year": ""
+      "recording_year": "",
+      "musical": "המחזמר \"חמש חמש\""
     },
     {
       "index": 735,
@@ -90125,7 +90242,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1962",
-      "recording_year": ""
+      "recording_year": "",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 738,
@@ -90165,7 +90283,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1962",
-      "recording_year": ""
+      "recording_year": "",
+      "musical": "המחזמר \"כיצד שוברים חמסין\""
     },
     {
       "index": 739,
@@ -91860,7 +91979,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "",
-      "recording_year": ""
+      "recording_year": "",
+      "musical": "הסרט המוזיקלי \"מטריות שרבורג\""
     },
     {
       "index": 782,
