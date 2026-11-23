@@ -8185,7 +8185,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:39",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
       "n": 94,
@@ -16129,7 +16130,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1234094"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
       "n": 205,
@@ -42705,7 +42707,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:39",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
       "n": 582,
@@ -42795,7 +42798,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:56",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
       "n": 583,
