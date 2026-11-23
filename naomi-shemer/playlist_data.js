@@ -12574,7 +12574,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 148,
-      "chrono_n": 690,
+      "chrono_n": 691,
       "canon_score": 12.2,
       "acum_v": 0,
       "layer": 2,
@@ -13876,7 +13876,7 @@ window.PLAYLIST_DATA = {
         "שיר התרנגול"
       ],
       "ver_idx": 1,
-      "ver_total": 3,
+      "ver_total": 4,
       "year": "1958",
       "rec_year": "1958",
       "song_year": "1958",
@@ -13933,6 +13933,13 @@ window.PLAYLIST_DATA = {
           "vtitle": "שיר התרנגול",
           "ch": "Release - Topic",
           "dur": "",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "l7qYqiPBzDY",
+          "vtitle": "Noa (Achinoam Nini) & the JSO - Chicken-Coop Aria אריה בלול התרנגולות",
+          "ch": "Noa (Achinoam Nini)",
+          "dur": "5:51",
           "src": "same_song_performance"
         }
       ]
@@ -19956,7 +19963,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 267,
-      "chrono_n": 688,
+      "chrono_n": 689,
       "canon_score": 12.8,
       "acum_v": 0,
       "layer": 2,
@@ -27563,7 +27570,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 385,
-      "chrono_n": 695,
+      "chrono_n": 696,
       "canon_score": 17.4,
       "acum_v": 2,
       "layer": 2,
@@ -29020,7 +29027,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 408,
-      "chrono_n": 679,
+      "chrono_n": 680,
       "canon_score": 18.6,
       "acum_v": 2,
       "layer": 2,
@@ -31043,7 +31050,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 438,
-      "chrono_n": 672,
+      "chrono_n": 673,
       "canon_score": 10.2,
       "acum_v": 2,
       "layer": 2,
@@ -31786,7 +31793,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 449,
-      "chrono_n": 682,
+      "chrono_n": 683,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -31849,7 +31856,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 450,
-      "chrono_n": 689,
+      "chrono_n": 690,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -31912,7 +31919,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 451,
-      "chrono_n": 722,
+      "chrono_n": 723,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -31967,7 +31974,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 452,
-      "chrono_n": 723,
+      "chrono_n": 724,
       "canon_score": 2280.2,
       "acum_v": 262,
       "layer": 1,
@@ -32117,7 +32124,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 454,
-      "chrono_n": 717,
+      "chrono_n": 718,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32367,7 +32374,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 457,
-      "chrono_n": 692,
+      "chrono_n": 693,
       "canon_score": 1797.4,
       "acum_v": 289,
       "layer": 1,
@@ -32711,7 +32718,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 461,
-      "chrono_n": 701,
+      "chrono_n": 702,
       "canon_score": 1746.4,
       "acum_v": 157,
       "layer": 1,
@@ -32833,7 +32840,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 463,
-      "chrono_n": 697,
+      "chrono_n": 698,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -32893,7 +32900,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 464,
-      "chrono_n": 686,
+      "chrono_n": 687,
       "canon_score": 1682.2,
       "acum_v": 194,
       "layer": 1,
@@ -33038,7 +33045,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 466,
-      "chrono_n": 677,
+      "chrono_n": 678,
       "canon_score": 1601.4,
       "acum_v": 200,
       "layer": 1,
@@ -33364,7 +33371,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 470,
-      "chrono_n": 683,
+      "chrono_n": 684,
       "canon_score": 1455.1,
       "acum_v": 117,
       "layer": 1,
@@ -33683,7 +33690,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 474,
-      "chrono_n": 685,
+      "chrono_n": 686,
       "canon_score": 1432.1,
       "acum_v": 210,
       "layer": 1,
@@ -33859,7 +33866,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 477,
-      "chrono_n": 693,
+      "chrono_n": 694,
       "canon_score": 1272.9,
       "acum_v": 66,
       "layer": 1,
@@ -33997,7 +34004,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 479,
-      "chrono_n": 724,
+      "chrono_n": 725,
       "canon_score": 1165.2,
       "acum_v": 82,
       "layer": 1,
@@ -34327,7 +34334,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 483,
-      "chrono_n": 707,
+      "chrono_n": 708,
       "canon_score": 1130.8,
       "acum_v": 108,
       "layer": 1,
@@ -34654,7 +34661,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 487,
-      "chrono_n": 691,
+      "chrono_n": 692,
       "canon_score": 1042.4,
       "acum_v": 284,
       "layer": 1,
@@ -34718,7 +34725,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 488,
-      "chrono_n": 725,
+      "chrono_n": 726,
       "canon_score": 1038.1,
       "acum_v": 175,
       "layer": 1,
@@ -35047,7 +35054,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 492,
-      "chrono_n": 668,
+      "chrono_n": 669,
       "canon_score": 847.5,
       "acum_v": 119,
       "layer": 1,
@@ -35296,7 +35303,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 495,
-      "chrono_n": 694,
+      "chrono_n": 695,
       "canon_score": 832.0,
       "acum_v": 103,
       "layer": 1,
@@ -35435,7 +35442,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 497,
-      "chrono_n": 676,
+      "chrono_n": 677,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -35495,7 +35502,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 498,
-      "chrono_n": 684,
+      "chrono_n": 685,
       "canon_score": 826.2,
       "acum_v": 80,
       "layer": 1,
@@ -35562,7 +35569,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 499,
-      "chrono_n": 720,
+      "chrono_n": 721,
       "canon_score": 756.8,
       "acum_v": 127,
       "layer": 1,
@@ -35912,7 +35919,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 503,
-      "chrono_n": 711,
+      "chrono_n": 712,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -36202,7 +36209,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 506,
-      "chrono_n": 675,
+      "chrono_n": 676,
       "canon_score": 710.2,
       "acum_v": 65,
       "layer": 1,
@@ -37992,7 +37999,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 528,
-      "chrono_n": 674,
+      "chrono_n": 675,
       "canon_score": 601.1,
       "acum_v": 72,
       "layer": 1,
@@ -38253,7 +38260,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 531,
-      "chrono_n": 667,
+      "chrono_n": 668,
       "canon_score": 594.8,
       "acum_v": 92,
       "layer": 1,
@@ -38899,7 +38906,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 539,
-      "chrono_n": 681,
+      "chrono_n": 682,
       "canon_score": 513.7,
       "acum_v": 39,
       "layer": 1,
@@ -39279,7 +39286,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 544,
-      "chrono_n": 699,
+      "chrono_n": 700,
       "canon_score": 504.0,
       "acum_v": 58,
       "layer": 1,
@@ -39360,7 +39367,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 545,
-      "chrono_n": 678,
+      "chrono_n": 679,
       "canon_score": 504.0,
       "acum_v": 58,
       "layer": 1,
@@ -39511,7 +39518,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 547,
-      "chrono_n": 666,
+      "chrono_n": 667,
       "canon_score": 497.8,
       "acum_v": 73,
       "layer": 1,
@@ -39927,7 +39934,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 552,
-      "chrono_n": 687,
+      "chrono_n": 688,
       "canon_score": 466.0,
       "acum_v": 39,
       "layer": 1,
@@ -40004,7 +40011,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 553,
-      "chrono_n": 670,
+      "chrono_n": 671,
       "canon_score": 466.0,
       "acum_v": 39,
       "layer": 1,
@@ -40557,7 +40564,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 559,
-      "chrono_n": 673,
+      "chrono_n": 674,
       "canon_score": 450.5,
       "acum_v": 57,
       "layer": 1,
@@ -40655,7 +40662,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 560,
-      "chrono_n": 705,
+      "chrono_n": 706,
       "canon_score": 418.2,
       "acum_v": 83,
       "layer": 1,
@@ -40861,7 +40868,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 562,
-      "chrono_n": 704,
+      "chrono_n": 705,
       "canon_score": 418.2,
       "acum_v": 83,
       "layer": 1,
@@ -41223,7 +41230,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 567,
-      "chrono_n": 669,
+      "chrono_n": 670,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -41288,7 +41295,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 568,
-      "chrono_n": 662,
+      "chrono_n": 663,
       "canon_score": 417.3,
       "acum_v": 2,
       "layer": 1,
@@ -41418,7 +41425,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 570,
-      "chrono_n": 663,
+      "chrono_n": 664,
       "canon_score": 409.4,
       "acum_v": 1,
       "layer": 1,
@@ -41635,7 +41642,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 573,
-      "chrono_n": 665,
+      "chrono_n": 666,
       "canon_score": 375.6,
       "acum_v": 22,
       "layer": 1,
@@ -41709,7 +41716,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 574,
-      "chrono_n": 698,
+      "chrono_n": 699,
       "canon_score": 375.6,
       "acum_v": 22,
       "layer": 1,
@@ -43214,7 +43221,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 591,
-      "chrono_n": 712,
+      "chrono_n": 713,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -43295,7 +43302,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 592,
-      "chrono_n": 713,
+      "chrono_n": 714,
       "canon_score": 312.1,
       "acum_v": 52,
       "layer": 1,
@@ -43428,7 +43435,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 594,
-      "chrono_n": 700,
+      "chrono_n": 701,
       "canon_score": 297.6,
       "acum_v": 41,
       "layer": 1,
@@ -43575,7 +43582,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 596,
-      "chrono_n": 702,
+      "chrono_n": 703,
       "canon_score": 291.4,
       "acum_v": 19,
       "layer": 1,
@@ -43837,7 +43844,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 599,
-      "chrono_n": 721,
+      "chrono_n": 722,
       "canon_score": 279.6,
       "acum_v": 23,
       "layer": 1,
@@ -44433,7 +44440,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 607,
-      "chrono_n": 706,
+      "chrono_n": 707,
       "canon_score": 254.7,
       "acum_v": 31,
       "layer": 1,
@@ -45037,7 +45044,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 614,
-      "chrono_n": 671,
+      "chrono_n": 672,
       "canon_score": 238.3,
       "acum_v": 19,
       "layer": 1,
@@ -47236,7 +47243,7 @@ window.PLAYLIST_DATA = {
         "שיר התרנגול"
       ],
       "ver_idx": 2,
-      "ver_total": 3,
+      "ver_total": 4,
       "year": "1959",
       "rec_year": "1959",
       "song_year": "1958",
@@ -47294,6 +47301,13 @@ window.PLAYLIST_DATA = {
           "ch": "Release - Topic",
           "dur": "",
           "src": "same_song_performance"
+        },
+        {
+          "vid": "l7qYqiPBzDY",
+          "vtitle": "Noa (Achinoam Nini) & the JSO - Chicken-Coop Aria אריה בלול התרנגולות",
+          "ch": "Noa (Achinoam Nini)",
+          "dur": "5:51",
+          "src": "same_song_performance"
         }
       ]
     },
@@ -47315,7 +47329,7 @@ window.PLAYLIST_DATA = {
         "שיר התרנגול"
       ],
       "ver_idx": 3,
-      "ver_total": 3,
+      "ver_total": 4,
       "year": "1958",
       "rec_year": "1958",
       "song_year": "1958",
@@ -47373,11 +47387,111 @@ window.PLAYLIST_DATA = {
           "ch": "אבי תדמור",
           "dur": "2:08",
           "src": "direct_alternative"
+        },
+        {
+          "vid": "l7qYqiPBzDY",
+          "vtitle": "Noa (Achinoam Nini) & the JSO - Chicken-Coop Aria אריה בלול התרנגולות",
+          "ch": "Noa (Achinoam Nini)",
+          "dur": "5:51",
+          "src": "same_song_performance"
         }
       ]
     },
     {
       "n": 644,
+      "chrono_n": 662,
+      "canon_score": 125.5,
+      "acum_v": 23,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "סמוך על התרנגול [ביצוע: אחינועם ניני והתזמורת הסימפונית ירושלים (הופעה חיה)] (2011)",
+      "raw_title": "סמוך על התרנגול",
+      "alt_titles": [
+        "תרנגול בן גבר",
+        "התרנגל",
+        "תרנגל",
+        "שיר התרנגול"
+      ],
+      "ver_idx": 4,
+      "ver_total": 4,
+      "year": "2011",
+      "rec_year": "2011",
+      "song_year": "1958",
+      "year_src": "manual_verified",
+      "decade": "1990s+",
+      "vid": "l7qYqiPBzDY",
+      "vtitle": "Noa (Achinoam Nini) & the JSO - Chicken-Coop Aria אריה בלול התרנגולות",
+      "ch": "Noa (Achinoam Nini)",
+      "dur": "5:51",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "אחינועם ניני והתזמורת הסימפונית ירושלים (הופעה חיה)",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "כל היום תרנגול בן גבר התרגש כאפרוח",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041290205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=6518"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1036519",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1036519"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "PEamc15DDeY",
+          "vtitle": "ריקה זראי - סמוך על התרנגול",
+          "ch": "אבי תדמור",
+          "dur": "2:08",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "F25xFwezdxw",
+          "vtitle": "סמוך על התרנגול",
+          "ch": "Ran & Nama - Topic",
+          "dur": "2:27",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "PIqHAidM99g",
+          "vtitle": "שיר התרנגול",
+          "ch": "Release - Topic",
+          "dur": "2:18",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "9CCDOGlTUxU",
+          "vtitle": "Noa (Achinoam Nini) - Chicken coop Aria (Live with the Dorlir String Quartet)",
+          "ch": "Noa (Achinoam Nini)",
+          "dur": "4:54",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "EHZMuhWLtEo",
+          "vtitle": "Noa & the JSO - Chicken-Coop Aria אריה בלול התרנגולות",
+          "ch": "TamariMik",
+          "dur": "5:51",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 645,
       "chrono_n": 46,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -47462,7 +47576,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 645,
+      "n": 646,
       "chrono_n": 60,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -47547,7 +47661,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 646,
+      "n": 647,
       "chrono_n": 470,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -47632,7 +47746,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 647,
+      "n": 648,
       "chrono_n": 62,
       "canon_score": 28.6,
       "acum_v": 5,
@@ -47687,7 +47801,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 648,
+      "n": 649,
       "chrono_n": 10,
       "canon_score": 22.9,
       "acum_v": 2,
@@ -47754,7 +47868,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 649,
+      "n": 650,
       "chrono_n": 123,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -47813,8 +47927,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 650,
-      "chrono_n": 703,
+      "n": 651,
+      "chrono_n": 704,
       "canon_score": 6.2,
       "acum_v": 0,
       "layer": 2,
@@ -47872,7 +47986,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 651,
+      "n": 652,
       "chrono_n": 78,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -47939,7 +48053,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 652,
+      "n": 653,
       "chrono_n": 327,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -48006,7 +48120,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 653,
+      "n": 654,
       "chrono_n": 61,
       "canon_score": 20.6,
       "acum_v": 1,
@@ -48064,7 +48178,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 654,
+      "n": 655,
       "chrono_n": 363,
       "canon_score": 94.7,
       "acum_v": 24,
@@ -48145,7 +48259,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 655,
+      "n": 656,
       "chrono_n": 253,
       "canon_score": 71.0,
       "acum_v": 12,
@@ -48219,7 +48333,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 656,
+      "n": 657,
       "chrono_n": 102,
       "canon_score": 26.1,
       "acum_v": 1,
@@ -48278,7 +48392,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 657,
+      "n": 658,
       "chrono_n": 104,
       "canon_score": 20.9,
       "acum_v": 5,
@@ -48337,7 +48451,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 658,
+      "n": 659,
       "chrono_n": 103,
       "canon_score": 35.4,
       "acum_v": 2,
@@ -48401,8 +48515,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 659,
-      "chrono_n": 708,
+      "n": 660,
+      "chrono_n": 709,
       "canon_score": 75.5,
       "acum_v": 17,
       "layer": 2,
@@ -48479,8 +48593,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 660,
-      "chrono_n": 709,
+      "n": 661,
+      "chrono_n": 710,
       "canon_score": 12.9,
       "acum_v": 1,
       "layer": 2,
@@ -48529,7 +48643,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 661,
+      "n": 662,
       "chrono_n": 160,
       "canon_score": 15.0,
       "acum_v": 1,
@@ -48593,7 +48707,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 662,
+      "n": 663,
       "chrono_n": 263,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -48671,7 +48785,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 663,
+      "n": 664,
       "chrono_n": 200,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -48727,8 +48841,8 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 664,
-      "chrono_n": 710,
+      "n": 665,
+      "chrono_n": 711,
       "canon_score": 47.2,
       "acum_v": 9,
       "layer": 2,
@@ -48787,7 +48901,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 665,
+      "n": 666,
       "chrono_n": 330,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -48879,7 +48993,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 666,
+      "n": 667,
       "chrono_n": 228,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -48971,7 +49085,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 667,
+      "n": 668,
       "chrono_n": 165,
       "canon_score": 60.6,
       "acum_v": 7,
@@ -49063,7 +49177,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 668,
+      "n": 669,
       "chrono_n": 227,
       "canon_score": 48.9,
       "acum_v": 7,
@@ -49146,7 +49260,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 669,
+      "n": 670,
       "chrono_n": 147,
       "canon_score": 44.6,
       "acum_v": 7,
@@ -49232,7 +49346,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 670,
+      "n": 671,
       "chrono_n": 163,
       "canon_score": 44.6,
       "acum_v": 7,
@@ -49318,7 +49432,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 671,
+      "n": 672,
       "chrono_n": 296,
       "canon_score": 42.4,
       "acum_v": 2,
@@ -49401,7 +49515,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 672,
+      "n": 673,
       "chrono_n": 297,
       "canon_score": 42.4,
       "acum_v": 2,
@@ -49484,7 +49598,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 673,
+      "n": 674,
       "chrono_n": 276,
       "canon_score": 33.6,
       "acum_v": 4,
@@ -49546,7 +49660,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 674,
+      "n": 675,
       "chrono_n": 277,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -49620,7 +49734,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 675,
+      "n": 676,
       "chrono_n": 239,
       "canon_score": 60.2,
       "acum_v": 6,
@@ -49694,7 +49808,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 676,
+      "n": 677,
       "chrono_n": 301,
       "canon_score": 144.9,
       "acum_v": 17,
@@ -49770,7 +49884,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 677,
+      "n": 678,
       "chrono_n": 421,
       "canon_score": 210.3,
       "acum_v": 24,
@@ -49862,7 +49976,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 678,
+      "n": 679,
       "chrono_n": 267,
       "canon_score": 32.0,
       "acum_v": 6,
@@ -49939,7 +50053,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 679,
+      "n": 680,
       "chrono_n": 560,
       "canon_score": 86.2,
       "acum_v": 7,
@@ -50022,7 +50136,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 680,
+      "n": 681,
       "chrono_n": 303,
       "canon_score": 29.1,
       "acum_v": 2,
@@ -50091,8 +50205,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 681,
-      "chrono_n": 714,
+      "n": 682,
+      "chrono_n": 715,
       "canon_score": 126.7,
       "acum_v": 5,
       "layer": 2,
@@ -50163,7 +50277,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 682,
+      "n": 683,
       "chrono_n": 422,
       "canon_score": 126.7,
       "acum_v": 5,
@@ -50235,8 +50349,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 683,
-      "chrono_n": 715,
+      "n": 684,
+      "chrono_n": 716,
       "canon_score": 25.3,
       "acum_v": 3,
       "layer": 2,
@@ -50295,7 +50409,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 684,
+      "n": 685,
       "chrono_n": 423,
       "canon_score": 243.2,
       "acum_v": 50,
@@ -50365,8 +50479,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 685,
-      "chrono_n": 716,
+      "n": 686,
+      "chrono_n": 717,
       "canon_score": 42.7,
       "acum_v": 5,
       "layer": 2,
@@ -50432,7 +50546,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 686,
+      "n": 687,
       "chrono_n": 583,
       "canon_score": 101.7,
       "acum_v": 6,
@@ -50502,7 +50616,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 687,
+      "n": 688,
       "chrono_n": 425,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -50579,8 +50693,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 688,
-      "chrono_n": 718,
+      "n": 689,
+      "chrono_n": 719,
       "canon_score": 23.4,
       "acum_v": 2,
       "layer": 2,
@@ -50639,7 +50753,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 689,
+      "n": 690,
       "chrono_n": 390,
       "canon_score": 188.1,
       "acum_v": 33,
@@ -50715,7 +50829,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 690,
+      "n": 691,
       "chrono_n": 416,
       "canon_score": 67.8,
       "acum_v": 11,
@@ -50803,8 +50917,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 691,
-      "chrono_n": 719,
+      "n": 692,
+      "chrono_n": 720,
       "canon_score": 76.5,
       "acum_v": 16,
       "layer": 2,
@@ -50872,7 +50986,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 692,
+      "n": 693,
       "chrono_n": 427,
       "canon_score": 212.9,
       "acum_v": 17,
@@ -50960,7 +51074,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 693,
+      "n": 694,
       "chrono_n": 454,
       "canon_score": 212.9,
       "acum_v": 17,
@@ -51048,7 +51162,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 694,
+      "n": 695,
       "chrono_n": 608,
       "canon_score": 212.9,
       "acum_v": 17,
@@ -51136,8 +51250,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 695,
-      "chrono_n": 664,
+      "n": 696,
+      "chrono_n": 665,
       "canon_score": 108.2,
       "acum_v": 8,
       "layer": 2,
@@ -51213,7 +51327,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 696,
+      "n": 697,
       "chrono_n": 429,
       "canon_score": 64.3,
       "acum_v": 8,
@@ -51287,7 +51401,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 697,
+      "n": 698,
       "chrono_n": 610,
       "canon_score": 45.0,
       "acum_v": 50,
@@ -51349,7 +51463,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 698,
+      "n": 699,
       "chrono_n": 657,
       "canon_score": 23.8,
       "acum_v": 2,
@@ -51416,7 +51530,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 699,
+      "n": 700,
       "chrono_n": 658,
       "canon_score": 27.4,
       "acum_v": 4,
@@ -51479,7 +51593,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 700,
+      "n": 701,
       "chrono_n": 519,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -51578,7 +51692,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 701,
+      "n": 702,
       "chrono_n": 566,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -51645,7 +51759,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 702,
+      "n": 703,
       "chrono_n": 505,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -51719,7 +51833,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 703,
+      "n": 704,
       "chrono_n": 526,
       "canon_score": 8.2,
       "acum_v": 1,
@@ -51776,7 +51890,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 704,
+      "n": 705,
       "chrono_n": 576,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -51836,7 +51950,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 705,
+      "n": 706,
       "chrono_n": 615,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -51910,8 +52024,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 706,
-      "chrono_n": 726,
+      "n": 707,
+      "chrono_n": 727,
       "canon_score": 71.3,
       "acum_v": 14,
       "layer": 2,
@@ -52000,8 +52114,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 707,
-      "chrono_n": 696,
+      "n": 708,
+      "chrono_n": 697,
       "canon_score": 71.3,
       "acum_v": 14,
       "layer": 2,
@@ -52090,7 +52204,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 708,
+      "n": 709,
       "chrono_n": 634,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -52164,8 +52278,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 709,
-      "chrono_n": 727,
+      "n": 710,
+      "chrono_n": 728,
       "canon_score": 155.2,
       "acum_v": 12,
       "layer": 2,
@@ -52238,7 +52352,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 710,
+      "n": 711,
       "chrono_n": 637,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -52312,7 +52426,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 711,
+      "n": 712,
       "chrono_n": 639,
       "canon_score": 198.9,
       "acum_v": 16,
@@ -52386,7 +52500,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 712,
+      "n": 713,
       "chrono_n": 635,
       "canon_score": 104.2,
       "acum_v": 11,
@@ -52471,8 +52585,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 713,
-      "chrono_n": 728,
+      "n": 714,
+      "chrono_n": 729,
       "canon_score": 181.5,
       "acum_v": 14,
       "layer": 2,
@@ -52548,7 +52662,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 714,
+      "n": 715,
       "chrono_n": 651,
       "canon_score": 178.2,
       "acum_v": 8,
@@ -52624,8 +52738,8 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 715,
-      "chrono_n": 680,
+      "n": 716,
+      "chrono_n": 681,
       "canon_score": 15.0,
       "acum_v": 1,
       "layer": 2,
@@ -52674,7 +52788,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 716,
+      "n": 717,
       "chrono_n": 644,
       "canon_score": 629.2,
       "acum_v": 65,
@@ -52764,7 +52878,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 717,
+      "n": 718,
       "chrono_n": 621,
       "canon_score": 1682.2,
       "acum_v": 194,
@@ -52838,7 +52952,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 718,
+      "n": 719,
       "chrono_n": 622,
       "canon_score": 1682.2,
       "acum_v": 194,
@@ -52912,7 +53026,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 719,
+      "n": 720,
       "chrono_n": 265,
       "canon_score": 847.5,
       "acum_v": 119,
@@ -53010,7 +53124,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 720,
+      "n": 721,
       "chrono_n": 594,
       "canon_score": 2941.9,
       "acum_v": 552,
@@ -53104,7 +53218,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 721,
+      "n": 722,
       "chrono_n": 591,
       "canon_score": 2280.2,
       "acum_v": 262,
@@ -53195,7 +53309,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 722,
+      "n": 723,
       "chrono_n": 442,
       "canon_score": 1746.4,
       "acum_v": 157,
@@ -53292,7 +53406,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 723,
+      "n": 724,
       "chrono_n": 453,
       "canon_score": 1042.4,
       "acum_v": 284,
@@ -53377,7 +53491,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 724,
+      "n": 725,
       "chrono_n": 475,
       "canon_score": 522.8,
       "acum_v": 95,
@@ -53479,7 +53593,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 725,
+      "n": 726,
       "chrono_n": 595,
       "canon_score": 751.9,
       "acum_v": 111,
@@ -53580,7 +53694,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 726,
+      "n": 727,
       "chrono_n": 597,
       "canon_score": 611.5,
       "acum_v": 79,
@@ -53678,7 +53792,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 727,
+      "n": 728,
       "chrono_n": 436,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -53770,7 +53884,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 728,
+      "n": 729,
       "chrono_n": 599,
       "canon_score": 8.8,
       "acum_v": 0,
@@ -53825,7 +53939,7 @@ window.PLAYLIST_DATA = {
   ],
   "archiveSongs": [
     {
-      "n": 729,
+      "n": 730,
       "title": "סביבון סב סב",
       "alt_titles": [
         "באנו חושך לגרש",
@@ -53853,7 +53967,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 730,
+      "n": 731,
       "title": "כחול ים המים, ימך אילת כפליים",
       "alt_titles": [],
       "year": "1947",
@@ -53877,7 +53991,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 731,
+      "n": 732,
       "title": "אנחנו נוער האיחוד",
       "alt_titles": [],
       "year": "1953",
@@ -53907,7 +54021,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 732,
+      "n": 733,
       "title": "מקי הסכינאי",
       "alt_titles": [
         "מקי סכינאי",
@@ -53944,7 +54058,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 733,
+      "n": 734,
       "title": "בואה נא",
       "alt_titles": [],
       "year": "1955",
@@ -53973,7 +54087,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 734,
+      "n": 735,
       "title": "עת דודים",
       "alt_titles": [
         "כף עת דודים וחן באה סוף סוף"
@@ -54004,7 +54118,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 735,
+      "n": 736,
       "title": "שיר על כפר בדרום",
       "alt_titles": [
         "שממה וחוחים ושמים שממה ומישור"
@@ -54030,7 +54144,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 736,
+      "n": 737,
       "title": "מדינת נדמה לי",
       "alt_titles": [
         "וכששרו איזה פלא על המון במות בידור"
@@ -54056,7 +54170,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 737,
+      "n": 738,
       "title": "כל דבר פריו נותן",
       "alt_titles": [
         "כל דבר נותן פריו",
@@ -54089,7 +54203,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 738,
+      "n": 739,
       "title": "שיר הפעמון",
       "alt_titles": [
         "כבר שש כבר בוקר כבר אור אפור"
@@ -54115,7 +54229,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 739,
+      "n": 740,
       "title": "רביעייה",
       "alt_titles": [
         "קוארטט",
@@ -54143,7 +54257,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 740,
+      "n": 741,
       "title": "מקהלת ילדי החייל",
       "alt_titles": [
         "מקהלת ילדי החיל"
@@ -54174,7 +54288,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 741,
+      "n": 742,
       "title": "עבדולו אהוב שלי בלילות קראת לי",
       "alt_titles": [],
       "year": "1967",
@@ -54203,7 +54317,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 742,
+      "n": 743,
       "title": "מרק של שום",
       "alt_titles": [],
       "year": "1970",
@@ -54227,7 +54341,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 743,
+      "n": 744,
       "title": "הילדה איילת",
       "alt_titles": [
         "הילדה אילת",
@@ -54255,7 +54369,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 744,
+      "n": 745,
       "title": "שם חם ויפת",
       "alt_titles": [],
       "year": "1971",
@@ -54296,7 +54410,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 745,
+      "n": 746,
       "title": "ניר מה לבן",
       "alt_titles": [
         "ניר מה לבן הוא ודיו מה שחורה",
@@ -54330,7 +54444,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 746,
+      "n": 747,
       "title": "שיר חוק חינוך חובה",
       "alt_titles": [
         "וביום הראשון בבוקר כשהשמש תצחק טובה"
@@ -54356,7 +54470,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 747,
+      "n": 748,
       "title": "לא פעם בקיץ",
       "alt_titles": [],
       "year": "1978",
@@ -54381,7 +54495,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 748,
+      "n": 749,
       "title": "שמות המקומות",
       "alt_titles": [
         "שמותיהם של מקומות"
@@ -54407,7 +54521,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 749,
+      "n": 750,
       "title": "שיר חדש",
       "alt_titles": [],
       "year": "1985",
@@ -54431,7 +54545,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 750,
+      "n": 751,
       "title": "בלוז ללויה",
       "alt_titles": [],
       "year": "1995",
@@ -54455,7 +54569,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 751,
+      "n": 752,
       "title": "פלוגת יסמין",
       "alt_titles": [],
       "year": "2000",
@@ -54492,7 +54606,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 752,
+      "n": 753,
       "title": "א\"ב של הבריאות",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54516,7 +54630,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 753,
+      "n": 754,
       "title": "אוי שמה שמה ישנו נחל ועל הנחל שם גשר יש",
       "alt_titles": [
         "אוי דארטן... איבער דעם וואסערל"
@@ -54542,7 +54656,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 754,
+      "n": 755,
       "title": "אופרטה",
       "alt_titles": [
         "אותלו ודסדמונה"
@@ -54568,7 +54682,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 755,
+      "n": 756,
       "title": "אחד אפס",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54592,7 +54706,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 756,
+      "n": 757,
       "title": "אחרי השיעורים",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54616,7 +54730,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 757,
+      "n": 758,
       "title": "אל הכפר",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54640,7 +54754,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 758,
+      "n": 759,
       "title": "אשכבה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54664,7 +54778,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 759,
+      "n": 760,
       "title": "בדירתי הלא גדולה אשר ברחוב אמיל זולא",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54688,7 +54802,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 760,
+      "n": 761,
       "title": "בוקר בגן",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54712,7 +54826,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 761,
+      "n": 762,
       "title": "בים בם בום",
       "alt_titles": [],
       "year": "2014",
@@ -54736,7 +54850,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 762,
+      "n": 763,
       "title": "בירח שבט",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54760,7 +54874,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 763,
+      "n": 764,
       "title": "בכל דור ודור",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54784,7 +54898,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 764,
+      "n": 765,
       "title": "בקול הזה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54808,7 +54922,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 765,
+      "n": 766,
       "title": "ברחוב בתל-אביב",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54832,7 +54946,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 766,
+      "n": 767,
       "title": "ברכת הפרדה לנחל עז",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54856,7 +54970,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 767,
+      "n": 768,
       "title": "דבורת הדבש",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54880,7 +54994,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 768,
+      "n": 769,
       "title": "האדון אופה",
       "alt_titles": [
         "אדון אופה"
@@ -54906,7 +55020,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 769,
+      "n": 770,
       "title": "הבובה הצטננה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54930,7 +55044,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 770,
+      "n": 771,
       "title": "הד",
       "alt_titles": [
         "זכר אזכר מעברים נצבו הרים כנד"
@@ -54956,7 +55070,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 771,
+      "n": 772,
       "title": "הולדת השיר",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -54980,7 +55094,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 772,
+      "n": 773,
       "title": "הלילה השנים עשר",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55004,7 +55118,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 773,
+      "n": 774,
       "title": "הנחל זורם",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55028,7 +55142,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 774,
+      "n": 775,
       "title": "העולם העגול",
       "alt_titles": [
         "העולם עגול",
@@ -55055,7 +55169,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 775,
+      "n": 776,
       "title": "העסקן",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55079,7 +55193,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 776,
+      "n": 777,
       "title": "וריאציות על קורל",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55103,7 +55217,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 777,
+      "n": 778,
       "title": "זמר עם",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55127,7 +55241,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 778,
+      "n": 779,
       "title": "זמרת האש",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55151,7 +55265,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 779,
+      "n": 780,
       "title": "חופש",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55175,7 +55289,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 780,
+      "n": 781,
       "title": "לשנה הבאה בירושלים",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55200,7 +55314,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 781,
+      "n": 782,
       "title": "מטריות שרבורג",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55225,7 +55339,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 782,
+      "n": 783,
       "title": "מכתב אל איש צבא המצולם מגבו",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55249,7 +55363,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 783,
+      "n": 784,
       "title": "מרבה רגלים",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55273,7 +55387,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 784,
+      "n": 785,
       "title": "משחק",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55297,7 +55411,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 785,
+      "n": 786,
       "title": "סוסון קטן",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55321,7 +55435,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 786,
+      "n": 787,
       "title": "סופת ליל חורף",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55345,7 +55459,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 787,
+      "n": 788,
       "title": "סטניסלא",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55369,7 +55483,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 788,
+      "n": 789,
       "title": "על החכה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55393,7 +55507,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 789,
+      "n": 790,
       "title": "פורה ומעכה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55417,7 +55531,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 790,
+      "n": 791,
       "title": "פלאי פלאים",
       "alt_titles": [
         "פלאי פלאים נבקע ענן טיפות טיפות"
@@ -55443,7 +55557,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 791,
+      "n": 792,
       "title": "פרשת וינשל",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55467,7 +55581,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 792,
+      "n": 793,
       "title": "ציפורים נודדות",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55491,7 +55605,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 793,
+      "n": 794,
       "title": "צפון",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55515,7 +55629,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 794,
+      "n": 795,
       "title": "צרות נהדרות",
       "alt_titles": [
         "אוי איך שאני בצרות"
@@ -55547,7 +55661,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 795,
+      "n": 796,
       "title": "קומה אחא סבה סב",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55571,7 +55685,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 796,
+      "n": 797,
       "title": "שבעים שנה לדבר",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55595,7 +55709,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 797,
+      "n": 798,
       "title": "שיח נקבות",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55619,7 +55733,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 798,
+      "n": 799,
       "title": "שיר אקטואלי",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55643,7 +55757,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 799,
+      "n": 800,
       "title": "שיר הכלולות",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55667,7 +55781,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 800,
+      "n": 801,
       "title": "שיר הרועה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55691,7 +55805,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 801,
+      "n": 802,
       "title": "שיר לא רציני יצאתי לדרכי",
       "alt_titles": [
         "שיר לא רציני",
@@ -55719,7 +55833,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 802,
+      "n": 803,
       "title": "שיר לגפן",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55743,7 +55857,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 803,
+      "n": 804,
       "title": "שיר לנטשה",
       "alt_titles": [],
       "year": "ללא שנה",
@@ -55767,7 +55881,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 804,
+      "n": 805,
       "title": "שירו לי שירו לי הוי כלי זמר ולי נגון",
       "alt_titles": [
         "דער נייער שער",
@@ -55794,7 +55908,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 805,
+      "n": 806,
       "title": "שלום אידה נודל",
       "alt_titles": [],
       "year": "2020",
@@ -55824,7 +55938,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 806,
+      "n": 807,
       "title": "שלוש פעמים איל",
       "alt_titles": [],
       "year": "ללא שנה",
