@@ -15823,7 +15823,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:50",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "מגי ואלה (מלהקת השריון)",
+      "perf": "להקת גייסות השריון (מגי גרוס ואלה גדרון)",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
