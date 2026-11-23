@@ -258,6 +258,41 @@ def itunes_search(query: str, cache: StreamingCache, cache_only: bool = False) -
         return []
 
 
+_ARTIST_CANON_MAP: dict[str, str] = {}
+for _canon_k, _aliases in ARTIST_ALIASES.items():
+    _ck = norm_heb(_canon_k)
+    if not _ck:
+        continue
+    _ARTIST_CANON_MAP[_ck] = _ck
+    for _al in _aliases:
+        _ak = norm_heb(_al)
+        if _ak:
+            _ARTIST_CANON_MAP[_ak] = _ck
+
+
+def canonical_artist_key(name: str) -> str:
+    """Normalize Hebrew/Latin artist name aliases via ARTIST_ALIASES to a canonical key."""
+    n = norm_heb(name or "")
+    if not n:
+        return ""
+    if n in _ARTIST_CANON_MAP:
+        return _ARTIST_CANON_MAP[n]
+    return heb_loose(name or "")
+
+
+def _specific_musical_keywords(
+    keywords: list[str],
+    creator_name_he: str = "",
+    creator_name_en: str = "",
+) -> list[str]:
+    generic = {
+        norm_heb(creator_name_he),
+        norm_heb(creator_name_en),
+        norm_heb(f"שירי {creator_name_he}"),
+    }
+    return [mk for mk in keywords if norm_heb(mk) not in generic]
+
+
 def clean_query_title(title: str) -> str:
     cleaned = re.sub(r"\(\s*לחן\s+[אב]['׳]?\s*\)", "", title)
     return re.sub(r"\s+", " ", cleaned).strip()
@@ -269,6 +304,41 @@ def primary_artist_query(perf: str) -> str:
     s = re.sub(r"\bמשתתפי\s+(?:המחזמר\s+)?", "", s)
     s = re.split(r"[,/|]", s)[0].strip()
     return re.sub(r"\s+", " ", s)
+
+
+def _row_extra_queries(
+    it: dict[str, Any],
+    qt: str,
+    pa: str,
+    specific_kws: list[str],
+    skip_alt_titles: set[str],
+) -> list[str]:
+    """Build additional targeted queries (first soloist, specific musical, alt title + artist)."""
+    extras: list[str] = []
+    if pa:
+        parts = re.split(r"\s+ו(?=[א-ת])", pa)
+        if len(parts) >= 2 and len(parts[0].strip()) >= 4:
+            extras.append(f"{qt} {parts[0].strip()}")
+
+    sv = it.get("selected_video") or {}
+    row_blob = heb_loose(
+        f"{it.get('album_group', '')} {sv.get('matched_album', '')} "
+        f"{it.get('musical', '')} {sv.get('matched_performer', '')}"
+    )
+    for mk in specific_kws:
+        mk_l = heb_loose(mk)
+        if mk_l and mk_l in row_blob:
+            extras.append(f"{qt} {mk}")
+
+    for alt in (it.get("alt_titles") or [])[:1]:
+        if alt in skip_alt_titles:
+            continue
+        alt_qt = clean_query_title(alt)
+        if alt_qt and alt_qt != qt:
+            extras.append(alt_qt)
+            if pa:
+                extras.append(f"{alt_qt} {pa}")
+    return list(dict.fromkeys(extras))
 
 
 class ComposerStreamingMatcher:
@@ -292,6 +362,9 @@ class ComposerStreamingMatcher:
             f"שירי {cfg.name_he}",
             cfg.name_en.lower(),
         ]
+        self.specific_musical_keywords = set(
+            _specific_musical_keywords(self.musical_keywords, cfg.name_he, cfg.name_en)
+        )
         self.creator_album_markers = tuple(
             m for m in (heb_loose(cfg.name_he), heb_loose(cfg.name_en)) if m
         )
@@ -403,38 +476,50 @@ class ComposerStreamingMatcher:
             perf_score = 300.0
             if translit_ok:
                 best_tsim = 0.88
-        elif album_matches_musical(calbum, row_album_group, matched_album, catalog_albums, self.musical_keywords):
-            match_kind = "musical_album"
-            perf_score = 220.0
-            if translit_ok:
-                best_tsim = 0.87
-        elif translit_ok:
-            return None
-        elif allow_fallback_perf or is_archive:
-            matched_fb = None
-            for fb in allowed_fallbacks:
-                if not fb or len(norm_heb(fb)) < 3:
-                    continue
-                if artist_matches_target(cartist, ctitle, calbum, fb, self.cfg.name_he):
-                    matched_fb = fb
-                    break
-            if matched_fb:
-                match_kind = "catalog_performer_fallback" if not is_archive else "archive_verified_performer"
-                perf_score = 240.0 if (self.cfg.name_he in matched_fb) else 200.0
-            elif is_archive:
-                calb_n = heb_loose(calbum)
-                if any(m in calb_n for m in self.creator_album_markers):
-                    match_kind = "archive_naomi_album"
-                    perf_score = 180.0
-                else:
-                    for ca in catalog_albums:
-                        if ca in self.noisy_albums or re.match(r"^(?:MUS|הד|דא\"ה|ח\"ח)", ca):
-                            continue
-                        ca_clean = re.sub(r"^\d+\s+", "", ca).strip()
-                        if len(heb_loose(ca_clean)) >= 6 and heb_loose(ca_clean) in calb_n:
-                            match_kind = "archive_catalog_album"
-                            perf_score = 175.0
-                            break
+        else:
+            if allow_fallback_perf or is_archive:
+                eff_cat_albs = catalog_albums
+                eff_mkws = self.musical_keywords
+            else:
+                eff_cat_albs = []
+                rag_loose = heb_loose(row_album_group)
+                eff_mkws = [
+                    mk
+                    for mk in self.musical_keywords
+                    if mk in self.specific_musical_keywords or (heb_loose(mk) and heb_loose(mk) in rag_loose)
+                ]
+            if album_matches_musical(calbum, row_album_group, matched_album, eff_cat_albs, eff_mkws):
+                match_kind = "musical_album"
+                perf_score = 220.0
+                if translit_ok:
+                    best_tsim = 0.87
+            elif translit_ok:
+                return None
+            elif allow_fallback_perf or is_archive:
+                matched_fb = None
+                for fb in allowed_fallbacks:
+                    if not fb or len(norm_heb(fb)) < 3:
+                        continue
+                    if artist_matches_target(cartist, ctitle, calbum, fb, self.cfg.name_he):
+                        matched_fb = fb
+                        break
+                if matched_fb:
+                    match_kind = "catalog_performer_fallback" if not is_archive else "archive_verified_performer"
+                    perf_score = 240.0 if (self.cfg.name_he in matched_fb) else 200.0
+                elif is_archive:
+                    calb_n = heb_loose(calbum)
+                    if any(m in calb_n for m in self.creator_album_markers):
+                        match_kind = "archive_naomi_album"
+                        perf_score = 180.0
+                    else:
+                        for ca in catalog_albums:
+                            if ca in self.noisy_albums or re.match(r"^(?:MUS|הד|דא\"ה|ח\"ח)", ca):
+                                continue
+                            ca_clean = re.sub(r"^\d+\s+", "", ca).strip()
+                            if len(heb_loose(ca_clean)) >= 6 and heb_loose(ca_clean) in calb_n:
+                                match_kind = "archive_catalog_album"
+                                perf_score = 175.0
+                                break
 
         if not match_kind:
             return None
@@ -540,6 +625,8 @@ def match_composer_streaming(
             return ov_entry.get("performer", ""), ov_entry
         return sv.get("matched_performer", ""), None
 
+    specific_kws_list = sorted(matcher.specific_musical_keywords)
+
     extra_dz_queries: set[str] = set()
     for it in music_rows:
         qt = clean_query_title(it["title"])
@@ -548,9 +635,8 @@ def match_composer_streaming(
         pool = cache.data["deezer_search"].get(qt, [])
         if pa and not any(artist_matches_target(c["artist"], c["title"], c["album"], mp, cfg.name_he) for c in pool):
             extra_dz_queries.add(f"{qt} {pa}")
-        for alt in (it.get("alt_titles") or [])[:1]:
-            if alt not in matcher.skip_alt_titles and clean_query_title(alt) != qt:
-                extra_dz_queries.add(clean_query_title(alt))
+        for xq in _row_extra_queries(it, qt, pa, specific_kws_list, matcher.skip_alt_titles):
+            extra_dz_queries.add(xq)
     for it in unmatched_rows:
         qt = clean_query_title(it["title"])
         for p in (it.get("catalog_performers") or [])[:2]:
@@ -573,20 +659,17 @@ def match_composer_streaming(
 
     def collect_deezer_pool(it: dict[str, Any], target_perf: str) -> list[dict[str, Any]]:
         qt = clean_query_title(it["title"])
+        pa = primary_artist_query(target_perf) if target_perf else ""
         queries = [qt]
-        if target_perf:
-            pa = primary_artist_query(target_perf)
-            if pa:
-                queries.append(f"{qt} {pa}")
+        if pa:
+            queries.append(f"{qt} {pa}")
+        queries.extend(_row_extra_queries(it, qt, pa, specific_kws_list, matcher.skip_alt_titles))
         for p in (it.get("catalog_performers") or [])[:2]:
             queries.append(f"{qt} {primary_artist_query(p)}")
         queries.append(f"{qt} {cfg.name_he}")
-        for alt in (it.get("alt_titles") or [])[:1]:
-            if alt not in matcher.skip_alt_titles:
-                queries.append(clean_query_title(alt))
         seen_ids: set[Any] = set()
         pool: list[dict[str, Any]] = []
-        for q in queries:
+        for q in dict.fromkeys(queries):
             for cand in cache.data["deezer_search"].get(q, []):
                 cid = cand.get("id")
                 if cid and cid not in seen_ids:
@@ -594,16 +677,7 @@ def match_composer_streaming(
                     pool.append(cand)
         return pool
 
-    def evaluate_row_on_pool(
-        it: dict[str, Any],
-        pool: list[dict[str, Any]],
-        target_perf: str,
-        allow_fallback: bool,
-        is_archive: bool,
-        used_ids: set[str],
-        source_tag: str,
-    ) -> dict[str, Any] | None:
-        sv = it.get("selected_video") or {}
+    def _effective_lists(it: dict[str, Any], target_perf: str, allow_fallback: bool) -> tuple[str, bool, list[str], list[str], str]:
         cs = cmap.get(it["title"], {})
         role_cat = it.get("role_category", "")
         if role_cat == "performance_only":
@@ -617,11 +691,20 @@ def match_composer_streaming(
             eff_target = target_perf
             eff_fallback = allow_fallback
         cat_albs = list(dict.fromkeys((it.get("catalog_albums") or []) + (cs.get("albums") or [])))
+        return eff_target, eff_fallback, cat_perfs, cat_albs, role_cat
+
+    def _scored_candidates(
+        it: dict[str, Any],
+        pool: list[dict[str, Any]],
+        target_perf: str,
+        allow_fallback: bool,
+        is_archive: bool,
+        source_tag: str,
+    ) -> list[tuple[float, str, dict[str, Any]]]:
+        sv = it.get("selected_video") or {}
+        eff_target, eff_fallback, cat_perfs, cat_albs, role_cat = _effective_lists(it, target_perf, allow_fallback)
         scored: list[tuple[float, str, dict[str, Any]]] = []
         for cand in pool:
-            cid_key = f"{source_tag}:{cand.get('id')}"
-            if cid_key in used_ids:
-                continue
             res = matcher.score_candidate(
                 cand=cand,
                 song_title=it["title"],
@@ -637,46 +720,39 @@ def match_composer_streaming(
             )
             if res:
                 scored.append((res[0], res[1], cand))
-        if not scored:
-            return None
         scored.sort(key=lambda t: (-t[0], int(t[2].get("duration") or 0)))
-        top_score, top_kind, top_cand = scored[0]
-        return {"score": top_score, "match_kind": top_kind, "cand": top_cand, "source_tag": source_tag}
-
-    used_deezer_ids: set[str] = set()
-    used_isrcs: set[str] = set()
-    used_norm_pairs: set[tuple[str, str]] = set()
-    prelim_dz: dict[str, dict[str, Any]] = {}
+        return scored
 
     for idx, it in enumerate(music_rows):
         it["_row_uid"] = f"m_{it['index']}_{it['selected_video']['video_id']}"
     for idx, it in enumerate(unmatched_rows):
         it["_row_uid"] = f"u_{idx}_{it['title']}"
 
-    ordered_eval = (
-        [it for it in music_rows if it["_is_primary"]]
-        + unmatched_rows
-        + [it for it in music_rows if not it["_is_primary"]]
-    )
+    primary_music_rows = [it for it in music_rows if it["_is_primary"]]
+    extra_music_rows = [it for it in music_rows if not it["_is_primary"]]
 
+    first_primary_of_song: dict[str, dict[str, Any]] = {}
+    for it in primary_music_rows:
+        if it["title"] not in first_primary_of_song:
+            first_primary_of_song[it["title"]] = it
+
+    candidate_dz_ids: set[Any] = set()
     itunes_needed: list[tuple[dict[str, Any], str, str]] = []
-    for it in ordered_eval:
+    for it in primary_music_rows + extra_music_rows + unmatched_rows:
         is_arch = it["_row_uid"].startswith("u_")
         target_perf, _ = _effective_target_perf(it, is_arch)
-        pool = collect_deezer_pool(it, target_perf)
-        hit = evaluate_row_on_pool(
-            it,
-            pool,
-            target_perf=target_perf,
-            allow_fallback=bool(it.get("_is_primary")) and (not matcher.has_split_guard(it["title"])),
-            is_archive=is_arch,
-            used_ids=used_deezer_ids,
-            source_tag="dz",
-        )
-        if hit:
-            prelim_dz[it["_row_uid"]] = hit
-            used_deezer_ids.add(f"dz:{hit['cand']['id']}")
-        else:
+        dz_pool = collect_deezer_pool(it, target_perf)
+        exact_scored = _scored_candidates(it, dz_pool, target_perf, allow_fallback=False, is_archive=is_arch, source_tag="dz")
+        for _, _, cand in exact_scored[:5]:
+            if cand.get("id"):
+                candidate_dz_ids.add(cand["id"])
+        fb_scored: list[tuple[float, str, dict[str, Any]]] = []
+        if (is_arch or it.get("_is_primary")) and not matcher.has_split_guard(it["title"]):
+            fb_scored = _scored_candidates(it, dz_pool, target_perf, allow_fallback=True, is_archive=is_arch, source_tag="dz")
+            for _, _, cand in fb_scored[:5]:
+                if cand.get("id"):
+                    candidate_dz_ids.add(cand["id"])
+        if not exact_scored and not fb_scored:
             qt = clean_query_title(it["title"])
             if not is_arch:
                 pa = primary_artist_query(target_perf)
@@ -689,9 +765,8 @@ def match_composer_streaming(
                 elif len(norm_heb(qt).split()) >= 2:
                     itunes_needed.append((it, cfg.name_he, f"{qt} {cfg.name_he}"))
 
-    dz_track_ids = [hit["cand"]["id"] for hit in prelim_dz.values()]
-    uncached_tids = [tid for tid in dz_track_ids if str(tid) not in cache.data["deezer_track"]]
-    print(f"Pass 1C (Deezer /track ISRCs): {len(dz_track_ids)} matches, {len(uncached_tids)} uncached...")
+    uncached_tids = [tid for tid in sorted(candidate_dz_ids) if str(tid) not in cache.data["deezer_track"]]
+    print(f"Pass 1C (Deezer /track ISRCs): {len(candidate_dz_ids)} candidates, {len(uncached_tids)} uncached...")
     if uncached_tids and not cache_only:
         def _dt(tid: Any) -> dict[str, Any]:
             time.sleep(0.14)
@@ -710,118 +785,225 @@ def match_composer_streaming(
             itunes_search(q, cache, cache_only=False)
         cache.save()
 
+    used_source_ids: set[str] = set()
+    used_isrcs: set[str] = set()
+    used_norm_pairs: set[tuple[str, str]] = set()
+    song_artist_isrcs: dict[tuple[str, str], set[str]] = {}
     final_results: dict[str, dict[str, Any]] = {}
+    promoted_uids: set[str] = set()
     upgrades_notes: list[dict[str, Any]] = []
     unverified_archive_hints: list[dict[str, Any]] = []
 
-    def try_commit_match(uid: str, res_dict: dict[str, Any]) -> bool:
-        isrc = (res_dict.get("isrc") or "").strip().upper()
-        pair = (heb_loose(strip_title_noise(res_dict["stream_title"])), heb_loose(res_dict["stream_artist"]))
-        if isrc and isrc in used_isrcs:
+    def _candidate_allowed(
+        song_title: str,
+        stream_title: str,
+        stream_artist: str,
+        isrc: str,
+        match_kind: str,
+        blocked_canon_artists: set[str] | None = None,
+    ) -> bool:
+        isrc_u = (isrc or "").strip().upper()
+        if isrc_u and isrc_u in used_isrcs:
             return False
-        if pair in used_norm_pairs:
+        c_art = canonical_artist_key(stream_artist)
+        if blocked_canon_artists and c_art in blocked_canon_artists:
             return False
-        if isrc:
-            used_isrcs.add(isrc)
-        used_norm_pairs.add(pair)
-        final_results[uid] = res_dict
-        return True
+        existing_sa = song_artist_isrcs.get((song_title, c_art), set())
+        if existing_sa:
+            return match_kind == "exact_performer" and bool(isrc_u) and (isrc_u not in existing_sa)
+        norm_pair = (heb_loose(strip_title_noise(stream_title)), c_art)
+        return norm_pair not in used_norm_pairs
 
-    used_it_ids: set[str] = set()
-    for it in ordered_eval:
-        uid = it["_row_uid"]
-        is_arch = uid.startswith("u_")
+    def _commit_rec(uid: str, rec: dict[str, Any], cid_key: str) -> None:
+        isrc_u = (rec.get("isrc") or "").strip().upper()
+        c_art = canonical_artist_key(rec["stream_artist"])
+        norm_pair = (heb_loose(strip_title_noise(rec["stream_title"])), c_art)
+        if isrc_u:
+            used_isrcs.add(isrc_u)
+        used_norm_pairs.add(norm_pair)
+        used_source_ids.add(cid_key)
+        song_artist_isrcs.setdefault((rec["catalog_title"], c_art), set()).add(isrc_u or "__NO_ISRC__")
+        final_results[uid] = rec
+
+    def _best_match_for_row(
+        it: dict[str, Any],
+        is_arch: bool,
+        allow_fallback: bool,
+        blocked_canon_artists: set[str] | None = None,
+    ) -> tuple[dict[str, Any], str] | None:
         sv = it.get("selected_video") or {}
-        target_perf, ov_entry = _effective_target_perf(it, is_arch)
+        target_perf, _ = _effective_target_perf(it, is_arch)
 
-        committed = False
-        if uid in prelim_dz:
-            hit = prelim_dz[uid]
-            cand = hit["cand"]
-            det = cache.data["deezer_track"].get(str(cand["id"]), {})
+        # 1) Deezer (prefer ISRC-backed hits, then score)
+        dz_pool = collect_deezer_pool(it, target_perf)
+        enriched_dz: list[dict[str, Any]] = []
+        for cand in dz_pool:
+            det = cache.data["deezer_track"].get(str(cand.get("id")), {})
+            c_enr = dict(cand)
+            if det:
+                c_enr["title"] = det.get("title") or cand.get("title", "")
+                c_enr["artist"] = det.get("artist") or cand.get("artist", "")
+                c_enr["album"] = det.get("album") or cand.get("album", "")
+                c_enr["duration"] = det.get("duration") or cand.get("duration", 0)
+                c_enr["isrc"] = (det.get("isrc") or "").strip()
+                c_enr["link"] = det.get("link") or cand.get("link", "")
+            else:
+                c_enr["isrc"] = ""
+            enriched_dz.append(c_enr)
+
+        dz_valid: list[tuple[int, float, int, str, dict[str, Any], str]] = []
+        for score, kind, cand in _scored_candidates(it, enriched_dz, target_perf, allow_fallback, is_arch, "dz"):
+            cid_key = f"dz:{cand.get('id')}"
+            if cid_key in used_source_ids:
+                continue
+            if not _candidate_allowed(it["title"], cand["title"], cand["artist"], cand.get("isrc", ""), kind, blocked_canon_artists):
+                continue
+            dz_valid.append((1 if cand.get("isrc") else 0, score, -int(cand.get("duration") or 0), kind, cand, cid_key))
+
+        if dz_valid:
+            dz_valid.sort(reverse=True)
+            _, best_score, _, best_kind, cand, cid_key = dz_valid[0]
             rec = {
                 "catalog_title": it["title"],
                 "year": it.get("year", ""),
                 "layer": int(it.get("canonical_layer", 3)),
                 "youtube_index": it.get("index"),
                 "youtube_performer": sv.get("matched_performer", ""),
-                "stream_title": det.get("title") or cand.get("title", ""),
-                "stream_artist": det.get("artist") or cand.get("artist", ""),
-                "stream_album": det.get("album") or cand.get("album", ""),
-                "isrc": det.get("isrc", ""),
-                "provider": "deezer_isrc" if det.get("isrc") else "deezer",
-                "provider_url": det.get("link") or cand.get("link", ""),
-                "duration_sec": det.get("duration") or cand.get("duration", 0),
-                "match_kind": hit["match_kind"],
-                "score": hit["score"],
+                "stream_title": cand.get("title", ""),
+                "stream_artist": cand.get("artist", ""),
+                "stream_album": cand.get("album", ""),
+                "isrc": cand.get("isrc", ""),
+                "provider": "deezer_isrc" if cand.get("isrc") else "deezer",
+                "provider_url": cand.get("link", ""),
+                "duration_sec": int(cand.get("duration") or 0),
+                "match_kind": best_kind,
+                "score": best_score,
                 "is_archive_discovery": is_arch,
                 "block": "p3_archive" if is_arch else it.get("_block", ""),
             }
-            committed = try_commit_match(uid, rec)
-            if committed and ov_entry and not is_arch:
+            return rec, cid_key
+
+        # 2) iTunes IL fallback
+        qt = clean_query_title(it["title"])
+        q_cands: list[str] = []
+        if not is_arch:
+            pa = primary_artist_query(target_perf)
+            q_cands.append(f"{qt} {pa}".strip() if pa else qt)
+        else:
+            perfs = it.get("catalog_performers") or []
+            q_cands.append(f"{qt} {primary_artist_query(perfs[0])}".strip() if perfs else f"{qt} {cfg.name_he}")
+        it_pool: list[dict[str, Any]] = []
+        seen_it: set[Any] = set()
+        for q in q_cands:
+            for c in cache.data["itunes_search"].get(q, []):
+                if c.get("id") and c["id"] not in seen_it:
+                    seen_it.add(c["id"])
+                    it_pool.append(c)
+
+        it_valid: list[tuple[float, int, str, dict[str, Any], str]] = []
+        for score, kind, cand in _scored_candidates(it, it_pool, target_perf, allow_fallback, is_arch, "it"):
+            cid_key = f"it:{cand.get('id')}"
+            if cid_key in used_source_ids:
+                continue
+            if not _candidate_allowed(it["title"], cand.get("title", ""), cand.get("artist", ""), "", kind, blocked_canon_artists):
+                continue
+            it_valid.append((score, -int(cand.get("duration") or 0), kind, cand, cid_key))
+
+        if it_valid:
+            it_valid.sort(reverse=True)
+            best_score, _, best_kind, c2, cid_key = it_valid[0]
+            rec2 = {
+                "catalog_title": it["title"],
+                "year": it.get("year", ""),
+                "layer": int(it.get("canonical_layer", 3)),
+                "youtube_index": it.get("index"),
+                "youtube_performer": sv.get("matched_performer", ""),
+                "stream_title": c2.get("title", ""),
+                "stream_artist": c2.get("artist", ""),
+                "stream_album": c2.get("album", ""),
+                "isrc": "",
+                "provider": "itunes_il",
+                "provider_url": c2.get("link", ""),
+                "duration_sec": int(c2.get("duration") or 0),
+                "match_kind": best_kind,
+                "score": best_score,
+                "is_archive_discovery": is_arch,
+                "block": "p3_archive" if is_arch else it.get("_block", ""),
+            }
+            return rec2, cid_key
+
+        return None
+
+    # Pass A: strict exact_performer / own-row musical matching across primaries then extras
+    for it in primary_music_rows + extra_music_rows:
+        uid = it["_row_uid"]
+        sv = it.get("selected_video") or {}
+        target_perf, ov_entry = _effective_target_perf(it, False)
+        found = _best_match_for_row(it, is_arch=False, allow_fallback=False)
+        if found:
+            rec, cid_key = found
+            _commit_rec(uid, rec, cid_key)
+            if ov_entry:
                 upgrades_notes.append({
                     "song": it["title"],
                     "youtube_perf": f"{sv.get('matched_performer', '')} (שורה #{it['index']})",
                     "streaming_perf": f"{rec['stream_artist']} — {rec['stream_album']} (ISRC `{rec['isrc']}`)",
                     "note": ov_entry.get("note", "שדרוג ביצוע אולפן בסטרימינג."),
                 })
-            elif committed and hit["match_kind"] in ("catalog_performer_fallback", "musical_album") and target_perf and not is_arch:
-                upgrades_notes.append({
-                    "song": it["title"],
-                    "youtube_perf": target_perf,
-                    "streaming_perf": f"{rec['stream_artist']} — {rec['stream_album']}" + (f" (`{rec['isrc']}`)" if rec["isrc"] else ""),
-                    "note": f"התאמה דרך `{hit['match_kind']}` (המבצע המקורי ביוטיוב לא הופץ בנפרד בסטרימינג).",
-                })
 
-        if not committed:
-            qt = clean_query_title(it["title"])
-            q_cands: list[str] = []
-            if not is_arch:
-                pa = primary_artist_query(target_perf)
-                q_cands.append(f"{qt} {pa}".strip() if pa else qt)
-            else:
-                perfs = it.get("catalog_performers") or []
-                q_cands.append(f"{qt} {primary_artist_query(perfs[0])}".strip() if perfs else f"{qt} {cfg.name_he}")
-            it_pool: list[dict[str, Any]] = []
-            seen_it: set[Any] = set()
-            for q in q_cands:
-                for c in cache.data["itunes_search"].get(q, []):
-                    if c.get("id") and c["id"] not in seen_it:
-                        seen_it.add(c["id"])
-                        it_pool.append(c)
-            hit2 = evaluate_row_on_pool(
-                it,
-                it_pool,
-                target_perf=target_perf,
-                allow_fallback=bool(it.get("_is_primary")) and (not matcher.has_split_guard(it["title"])),
-                is_archive=is_arch,
-                used_ids=used_it_ids,
-                source_tag="it",
+    # Pass B: cover uncovered primary songs (promote matched extra first, else fallback) + archive
+    covered_primary_songs = {it["title"] for it in primary_music_rows if it["_row_uid"] in final_results}
+    extras_by_song: dict[str, list[tuple[dict[str, Any], dict[str, Any]]]] = {}
+    for it in extra_music_rows:
+        uid = it["_row_uid"]
+        if uid in final_results:
+            extras_by_song.setdefault(it["title"], []).append((it, final_results[uid]))
+
+    for song_title, prim_it in first_primary_of_song.items():
+        if song_title in covered_primary_songs or matcher.has_split_guard(song_title):
+            continue
+        sv_p = prim_it.get("selected_video") or {}
+        target_perf_p, _ = _effective_target_perf(prim_it, False)
+        if song_title in extras_by_song:
+            e_it, e_rec = max(
+                extras_by_song[song_title],
+                key=lambda pair: (1 if pair[1].get("isrc") else 0, pair[1].get("score", 0)),
             )
-            if hit2:
-                used_it_ids.add(f"it:{hit2['cand']['id']}")
-                c2 = hit2["cand"]
-                rec2 = {
-                    "catalog_title": it["title"],
-                    "year": it.get("year", ""),
-                    "layer": int(it.get("canonical_layer", 3)),
-                    "youtube_index": it.get("index"),
-                    "youtube_performer": sv.get("matched_performer", ""),
-                    "stream_title": c2.get("title", ""),
-                    "stream_artist": c2.get("artist", ""),
-                    "stream_album": c2.get("album", ""),
-                    "isrc": "",
-                    "provider": "itunes_il",
-                    "provider_url": c2.get("link", ""),
-                    "duration_sec": c2.get("duration", 0),
-                    "match_kind": hit2["match_kind"],
-                    "score": hit2["score"],
-                    "is_archive_discovery": is_arch,
-                    "block": "p3_archive" if is_arch else it.get("_block", ""),
-                }
-                committed = try_commit_match(uid, rec2)
+            promoted_rec = dict(e_rec)
+            promoted_rec["block"] = prim_it["_block"]
+            promoted_rec["layer"] = int(prim_it.get("canonical_layer", 3))
+            final_results[prim_it["_row_uid"]] = promoted_rec
+            del final_results[e_it["_row_uid"]]
+            promoted_uids.add(e_it["_row_uid"])
+            covered_primary_songs.add(song_title)
+            upgrades_notes.append({
+                "song": song_title,
+                "youtube_perf": f"{sv_p.get('matched_performer', '')} (שורה #{prim_it['index']})",
+                "streaming_perf": f"{promoted_rec['stream_artist']} — {promoted_rec['stream_album']}" + (f" (`{promoted_rec['isrc']}`)" if promoted_rec["isrc"] else ""),
+                "note": f"קידום ביצוע מאומת משורה #{e_it['index']} לכיסוי השיר הראשי.",
+            })
+        else:
+            blocked = {ca for (st, ca) in song_artist_isrcs if st == song_title}
+            found_fb = _best_match_for_row(prim_it, is_arch=False, allow_fallback=True, blocked_canon_artists=blocked)
+            if found_fb:
+                rec_fb, cid_fb = found_fb
+                _commit_rec(prim_it["_row_uid"], rec_fb, cid_fb)
+                covered_primary_songs.add(song_title)
+                if rec_fb["match_kind"] in ("catalog_performer_fallback", "musical_album") and target_perf_p:
+                    upgrades_notes.append({
+                        "song": song_title,
+                        "youtube_perf": target_perf_p,
+                        "streaming_perf": f"{rec_fb['stream_artist']} — {rec_fb['stream_album']}" + (f" (`{rec_fb['isrc']}`)" if rec_fb["isrc"] else ""),
+                        "note": f"התאמה דרך `{rec_fb['match_kind']}` (המבצע המקורי ביוטיוב לא הופץ בנפרד בסטרימינג).",
+                    })
 
-        if not committed and is_arch and it.get("role_category") != "performance_only":
+    for it in unmatched_rows:
+        uid = it["_row_uid"]
+        found_arch = _best_match_for_row(it, is_arch=True, allow_fallback=True)
+        if found_arch:
+            rec_a, cid_a = found_arch
+            _commit_rec(uid, rec_a, cid_a)
+        elif it.get("role_category") != "performance_only":
             hints = matcher.find_unverified_hints(collect_deezer_pool(it, ""), it["title"])
             if hints:
                 unverified_archive_hints.append({"song": it["title"], "year": it.get("year", ""), "hints": hints[:2]})
@@ -884,7 +1066,7 @@ def match_composer_streaming(
     isrc_count = sum(1 for t in ordered_tracks if t["isrc"])
     itunes_count = sum(1 for t in ordered_tracks if t["provider"] == "itunes_il")
     matched_songs_unique = len({t["catalog_title"] for t in ordered_tracks})
-    unmatched_music = [it for it in music_rows if it["_row_uid"] not in final_results]
+    unmatched_music = [it for it in music_rows if it["_row_uid"] not in final_results and it["_row_uid"] not in promoted_uids]
     still_missing_archive = [it for it in unmatched_rows if it["_row_uid"] not in final_results]
 
     summary_stats = {
