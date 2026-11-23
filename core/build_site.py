@@ -1234,6 +1234,8 @@ def _build_songs_and_archive_payloads(
             song_obj["end"] = end_sec
         if item.get("musical"):
             song_obj["musical"] = item["musical"]
+        if item.get("original_title"):
+            song_obj["orig_title"] = item["original_title"]
         songs_js.append(song_obj)
 
     archive_songs_js: list[dict[str, Any]] = []
@@ -1280,6 +1282,8 @@ def _build_songs_and_archive_payloads(
         }
         if item.get("musical"):
             arch_obj["musical"] = item["musical"]
+        if item.get("original_title"):
+            arch_obj["orig_title"] = item["original_title"]
         archive_songs_js.append(arch_obj)
 
     counts = {

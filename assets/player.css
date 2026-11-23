@@ -1074,6 +1074,13 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
   color: #fdf2f8;
   border-color: rgba(244, 114, 182, 0.55);
 }
+.orig-badge {
+  background: rgba(20, 184, 166, 0.12);
+  color: #5eead4;
+  border: 1px solid rgba(20, 184, 166, 0.28);
+  white-space: normal;
+  max-width: 100%;
+}
 
 .quote-box {
   background: rgba(11, 17, 32, 0.6);

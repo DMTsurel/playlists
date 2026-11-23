@@ -4321,7 +4321,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Les Souliers"
     },
     {
       "n": 49,
@@ -4405,7 +4406,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:20",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Les Souliers"
     },
     {
       "n": 50,
@@ -6614,7 +6616,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:20",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "O Captain! My Captain!"
     },
     {
       "n": 76,
@@ -6880,7 +6883,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:20",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Dedication"
     },
     {
       "n": 79,
@@ -7165,7 +7169,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:57",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "La Chanson des vieux amants"
     },
     {
       "n": 82,
@@ -7237,7 +7242,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:21",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Si tous les oiseaux"
     },
     {
       "n": 83,
@@ -9508,7 +9514,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:07",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "n": 110,
@@ -12305,7 +12312,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:40",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "אויפן וועג שטייט א בוים"
     },
     {
       "n": 144,
@@ -14704,7 +14712,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491570205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Je t'aime comme ça"
     },
     {
       "n": 182,
@@ -14758,7 +14767,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"אוקלהומה!\""
+      "musical": "המחזמר \"אוקלהומה!\"",
+      "orig_title": "Oh, What a Beautiful Mornin'"
     },
     {
       "n": 183,
@@ -14817,7 +14827,9 @@ window.PLAYLIST_DATA = {
           "dur": "2:41",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "הסרט \"האיש שידע יותר מדי\" (1956)",
+      "orig_title": "Que Sera, Sera (Whatever Will Be, Will Be)"
     },
     {
       "n": 184,
@@ -14903,7 +14915,9 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491590205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "הסרט \"הלנה והגברים\" (1956)",
+      "orig_title": "Ô nuit"
     },
     {
       "n": 186,
@@ -14947,7 +14961,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045000205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "מקור אנגלי מאת מרגוט לבארי (לחן: אנריקו שמרל)"
     },
     {
       "n": 187,
@@ -15147,7 +15162,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:03",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Union Train"
     },
     {
       "n": 190,
@@ -15427,7 +15443,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:36",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "In the Alps"
     },
     {
       "n": 194,
@@ -15801,7 +15818,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:44",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "שיר עם אפריקאי"
     },
     {
       "n": 200,
@@ -15956,7 +15974,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:28",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "שיר עם סיאמי"
     },
     {
       "n": 203,
@@ -16366,7 +16385,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:33",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "La Rose rouge"
     },
     {
       "n": 210,
@@ -16437,7 +16457,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:21",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "La Rose rouge"
     },
     {
       "n": 211,
@@ -16811,7 +16832,9 @@ window.PLAYLIST_DATA = {
           "dur": "1:00",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "הסרט \"Chasing Rainbows\" (1930)",
+      "orig_title": "Happy Days Are Here Again"
     },
     {
       "n": 216,
@@ -18961,7 +18984,8 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "I Whistle a Happy Tune"
     },
     {
       "n": 248,
@@ -19014,7 +19038,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "My Lord and Master"
     },
     {
       "n": 249,
@@ -19070,7 +19095,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Hello, Young Lovers"
     },
     {
       "n": 250,
@@ -19125,7 +19151,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "A Puzzlement"
     },
     {
       "n": 251,
@@ -19182,7 +19209,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Getting to Know You"
     },
     {
       "n": 252,
@@ -19235,7 +19263,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "We Kiss in a Shadow"
     },
     {
       "n": 253,
@@ -19288,7 +19317,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Shall I Tell You What I Think of You?"
     },
     {
       "n": 254,
@@ -19343,7 +19373,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Something Wonderful"
     },
     {
       "n": 255,
@@ -19393,7 +19424,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Western People Funny"
     },
     {
       "n": 256,
@@ -19446,7 +19478,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "I Have Dreamed"
     },
     {
       "n": 257,
@@ -19502,7 +19535,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Song of the King"
     },
     {
       "n": 258,
@@ -19558,7 +19592,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "orig_title": "Shall We Dance?"
     },
     {
       "n": 259,
@@ -19650,7 +19685,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1118426"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Sur ma vie"
     },
     {
       "n": 261,
@@ -19759,7 +19795,9 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1363424"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "הסרט \"לילה של יום מפרך\" (1964)",
+      "orig_title": "I'm Happy Just to Dance with You"
     },
     {
       "n": 263,
@@ -19811,7 +19849,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1011507"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "לחן יווני (מנוס חדג'ידקיס)"
     },
     {
       "n": 264,
@@ -19853,7 +19892,9 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990034260840205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "הסרט \"לילה של יום מפרך\" (1964)",
+      "orig_title": "I Should Have Known Better"
     },
     {
       "n": 265,
@@ -20453,7 +20494,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:42",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Sur le chemin du retour"
     },
     {
       "n": 273,
@@ -20573,7 +20615,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:33",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Tu t'laisses aller"
     },
     {
       "n": 275,
@@ -21040,7 +21083,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043073"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Le Quidam"
     },
     {
       "n": 282,
@@ -21840,7 +21884,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:45",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "The Riddle Song (I Gave My Love a Cherry)"
     },
     {
       "n": 295,
@@ -21890,7 +21935,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1383757"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Desafinado"
     },
     {
       "n": 296,
@@ -22019,7 +22065,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:08",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Here, There and Everywhere"
     },
     {
       "n": 298,
@@ -22167,7 +22214,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:06",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Göttingen"
     },
     {
       "n": 300,
@@ -22241,7 +22289,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:03",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Barbara (Rappelle-toi Barbara)"
     },
     {
       "n": 301,
@@ -22301,7 +22350,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:00",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Μανούλα μου (Manoula mou)"
     },
     {
       "n": 302,
@@ -23216,7 +23266,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:29",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Il n'y a pas d'amour heureux"
     },
     {
       "n": 315,
@@ -23294,7 +23345,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:48",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "La Non-demande en mariage"
     },
     {
       "n": 316,
@@ -23371,7 +23423,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:56",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Le Testament"
     },
     {
       "n": 317,
@@ -23435,7 +23488,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:45",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Une jolie fleur"
     },
     {
       "n": 318,
@@ -23490,7 +23544,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:08",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Comme hier"
     },
     {
       "n": 319,
@@ -23554,7 +23609,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:28",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Je me suis fait tout petit"
     },
     {
       "n": 320,
@@ -23630,7 +23686,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:37",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Brave Margot"
     },
     {
       "n": 321,
@@ -23704,7 +23761,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:57",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Les Femmes"
     },
     {
       "n": 322,
@@ -23773,7 +23831,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:56",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Chanson pour l'Auvergnat"
     },
     {
       "n": 323,
@@ -24060,7 +24119,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:03",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Suzanne"
     },
     {
       "n": 328,
@@ -24729,7 +24789,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1043069"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Matrimony"
     },
     {
       "n": 337,
@@ -25652,7 +25713,9 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990001815060205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "musical": "המחזה \"פאוסט\" (גתה)",
+      "orig_title": "Es war einmal ein König (שיר הפרעוש)"
     },
     {
       "n": 354,
@@ -26251,7 +26314,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:38",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Alla fiera dell'est"
     },
     {
       "n": 364,
@@ -26300,7 +26364,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1044570"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Ma plus belle histoire d'amour"
     },
     {
       "n": 365,
@@ -26895,7 +26960,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:41",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Blowin' in the Wind"
     },
     {
       "n": 374,
@@ -27220,7 +27286,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:46",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Ne me quitte pas"
     },
     {
       "n": 379,
@@ -28599,7 +28666,9 @@ window.PLAYLIST_DATA = {
           "dur": "3:40",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "הסרט \"שערי הלילה\" (1946)",
+      "orig_title": "Les Feuilles mortes"
     },
     {
       "n": 400,
@@ -29356,7 +29425,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:34",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Cajita de música (Cuando estoy triste)"
     },
     {
       "n": 412,
@@ -29432,7 +29502,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:52",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Τώρα που πας στην ξενιτιά"
     },
     {
       "n": 413,
@@ -29498,7 +29569,9 @@ window.PLAYLIST_DATA = {
           "dur": "3:09",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "musical": "המחזה \"אותלו\" (שייקספיר)",
+      "orig_title": "The Willow Song"
     },
     {
       "n": 414,
@@ -29885,7 +29958,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042549"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Llorando se fue / Chorando se foi"
     },
     {
       "n": 420,
@@ -30633,7 +30707,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:10",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Berceuse (מתוך סוויטת דולי, אופ' 56)"
     },
     {
       "n": 431,
@@ -40081,7 +40156,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:20",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "O Captain! My Captain!"
     },
     {
       "n": 553,
@@ -40144,7 +40220,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:26",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "O Captain! My Captain!"
     },
     {
       "n": 554,
@@ -41300,7 +41377,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:44",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "La Chanson des vieux amants"
     },
     {
       "n": 567,
@@ -41365,7 +41443,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:40",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "La Chanson des vieux amants"
     },
     {
       "n": 568,
@@ -41430,7 +41509,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:40",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "La Chanson des vieux amants"
     },
     {
       "n": 569,
@@ -41495,7 +41575,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:30",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Si tous les oiseaux"
     },
     {
       "n": 570,
@@ -41560,7 +41641,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:30",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Si tous les oiseaux"
     },
     {
       "n": 571,
@@ -44004,7 +44086,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "n": 600,
@@ -44066,7 +44149,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:05",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "n": 601,
@@ -44120,7 +44204,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1042240"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "n": 602,
@@ -46288,7 +46373,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1001132"
         }
       ],
-      "alts": []
+      "alts": [],
+      "orig_title": "אויפן וועג שטייט א בוים"
     },
     {
       "n": 628,
@@ -48134,7 +48220,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:03",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Union Train"
     },
     {
       "n": 653,
@@ -48201,7 +48288,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:01",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "orig_title": "Union Train"
     },
     {
       "n": 654,
@@ -48260,7 +48348,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:37",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "In the Alps"
     },
     {
       "n": 655,
@@ -48532,7 +48621,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:44",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "orig_title": "שיר עם סיאמי"
     },
     {
       "n": 659,
@@ -48724,7 +48814,9 @@ window.PLAYLIST_DATA = {
           "dur": "2:15",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "musical": "הסרט \"Chasing Rainbows\" (1930)",
+      "orig_title": "Happy Days Are Here Again"
     },
     {
       "n": 662,
@@ -54077,7 +54169,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=ACUM_WRKNBR:026081"
         }
       ],
-      "musical": "המחזמר \"אופרה בגרוש\""
+      "musical": "המחזמר \"אופרה בגרוש\"",
+      "orig_title": "Die Moritat von Mackie Messer"
     },
     {
       "n": 733,
@@ -54106,7 +54199,9 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046520205171/NLI"
         }
-      ]
+      ],
+      "musical": "הסרט \"סנדל הפלאים\" (1955)",
+      "orig_title": "Take My Love"
     },
     {
       "n": 734,
@@ -54339,7 +54434,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037492470205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "שיר עם בוכרי"
     },
     {
       "n": 742,
@@ -54363,7 +54459,8 @@ window.PLAYLIST_DATA = {
           "label": "אקו\"ם #1255875",
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1255875"
         }
-      ]
+      ],
+      "orig_title": "שיר ביידיש מאת מרדכי גבירטיג"
     },
     {
       "n": 743,
@@ -54466,7 +54563,9 @@ window.PLAYLIST_DATA = {
           "label": "אקו\"ם #1025252",
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1025252"
         }
-      ]
+      ],
+      "musical": "המחזה \"מכירת יוסף\"",
+      "orig_title": "פאפיר איז דאך ווייס"
     },
     {
       "n": 746,
@@ -54543,7 +54642,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990033738640205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "Noms de pays : le nom (בעקבות הזמן האבוד)"
     },
     {
       "n": 749,
@@ -54591,7 +54691,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990033737690205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "Funeral Blues (Stop All the Clocks)"
     },
     {
       "n": 751,
@@ -54678,7 +54779,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491610205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "אוי דארטן, איבער דעם וואסערל"
     },
     {
       "n": 754,
@@ -54752,7 +54854,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990033713350205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "En sortant de l'école"
     },
     {
       "n": 757,
@@ -55362,7 +55465,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/issearch?workid=1480980"
         }
       ],
-      "musical": "הסרט המוזיקלי \"מטריות שרבורג\""
+      "musical": "הסרט המוזיקלי \"מטריות שרבורג\"",
+      "orig_title": "Je ne pourrai jamais vivre sans toi (I Will Wait for You)"
     },
     {
       "n": 782,
@@ -55931,7 +56035,8 @@ window.PLAYLIST_DATA = {
           "label": "הספרייה הלאומית (בית לזמר העברי)",
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037491640205171/NLI"
         }
-      ]
+      ],
+      "orig_title": "דער נייער שער"
     },
     {
       "n": 805,

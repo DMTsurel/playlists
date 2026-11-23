@@ -7720,7 +7720,8 @@
       "ver_total": 2,
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Les Souliers"
     },
     {
       "index": 49,
@@ -7898,7 +7899,8 @@
       "ver_total": 2,
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Les Souliers"
     },
     {
       "index": 50,
@@ -11744,7 +11746,8 @@
       "dual_role": "original_performance",
       "song_year": "1996",
       "recording_year": "1996",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "O Captain! My Captain!"
     },
     {
       "index": 76,
@@ -12282,7 +12285,8 @@
       "ver_total": 1,
       "song_year": "1971",
       "recording_year": "1971",
-      "year_source": "streaming_api"
+      "year_source": "streaming_api",
+      "original_title": "Dedication"
     },
     {
       "index": 79,
@@ -12889,7 +12893,8 @@
       "ver_total": 4,
       "song_year": "1972",
       "recording_year": "1972",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "La Chanson des vieux amants"
     },
     {
       "index": 82,
@@ -13085,7 +13090,8 @@
       "dual_role": "original_performance",
       "song_year": "1967",
       "recording_year": "1967",
-      "year_source": "streaming_api"
+      "year_source": "streaming_api",
+      "original_title": "Si tous les oiseaux"
     },
     {
       "index": 83,
@@ -16990,7 +16996,8 @@
       "ver_total": 4,
       "song_year": "1964",
       "recording_year": "1964",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "index": 110,
@@ -21670,7 +21677,8 @@
       "song_year": "1975",
       "recording_year": "1975",
       "year_source": "streaming_api",
-      "dual_role": "original_performance"
+      "dual_role": "original_performance",
+      "original_title": "אויפן וועג שטייט א בוים"
     },
     {
       "index": 144,
@@ -25268,7 +25276,8 @@
       "song_year": "1956",
       "recording_year": "1956",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "original_title": "Je t'aime comme ça"
     },
     {
       "index": 182,
@@ -25342,7 +25351,8 @@
       "recording_year": "1956",
       "year_source": "original_inherited",
       "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
-      "musical": "המחזמר \"אוקלהומה!\""
+      "musical": "המחזמר \"אוקלהומה!\"",
+      "original_title": "Oh, What a Beautiful Mornin'"
     },
     {
       "index": 183,
@@ -25434,7 +25444,9 @@
       "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
       "song_year": "1956",
       "recording_year": "1956",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Que Sera, Sera (Whatever Will Be, Will Be)",
+      "musical": "הסרט \"האיש שידע יותר מדי\" (1956)"
     },
     {
       "index": 184,
@@ -25553,7 +25565,9 @@
       "song_year": "1957",
       "recording_year": "1957",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "original_title": "Ô nuit",
+      "musical": "הסרט \"הלנה והגברים\" (1956)"
     },
     {
       "index": 186,
@@ -25612,7 +25626,8 @@
       "song_year": "1958",
       "recording_year": "1958",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "original_title": "מקור אנגלי מאת מרגוט לבארי (לחן: אנריקו שמרל)"
     },
     {
       "index": 187,
@@ -25899,7 +25914,8 @@
       "song_year": "1958",
       "recording_year": "1958",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "original_title": "Union Train"
     },
     {
       "index": 190,
@@ -26335,7 +26351,8 @@
       "song_year": "1959",
       "recording_year": "1959",
       "year_source": "manual_verified",
-      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)"
+      "layer2_chapter": "פרק 3: תרגומי \"אליפז\", סינגלים ותיאטרון הסמבטיון (1956–1959)",
+      "original_title": "In the Alps"
     },
     {
       "index": 194,
@@ -26901,7 +26918,8 @@
       "song_year": "1960",
       "recording_year": "1960",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
+      "original_title": "שיר עם אפריקאי"
     },
     {
       "index": 200,
@@ -27129,7 +27147,8 @@
       "song_year": "1960",
       "recording_year": "1960",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
+      "original_title": "שיר עם סיאמי"
     },
     {
       "index": 203,
@@ -27728,7 +27747,8 @@
       "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
       "song_year": "1962",
       "recording_year": "1962",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "La Rose rouge"
     },
     {
       "index": 210,
@@ -27836,7 +27856,8 @@
       "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
       "song_year": "1962",
       "recording_year": "1982",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "La Rose rouge"
     },
     {
       "index": 211,
@@ -28440,7 +28461,9 @@
       "song_year": "1963",
       "recording_year": "1963",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)"
+      "layer2_chapter": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
+      "original_title": "Happy Days Are Here Again",
+      "musical": "הסרט \"Chasing Rainbows\" (1930)"
     },
     {
       "index": 216,
@@ -31553,7 +31576,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "I Whistle a Happy Tune"
     },
     {
       "index": 248,
@@ -31633,7 +31657,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "My Lord and Master"
     },
     {
       "index": 249,
@@ -31715,7 +31740,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Hello, Young Lovers"
     },
     {
       "index": 250,
@@ -31796,7 +31822,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "A Puzzlement"
     },
     {
       "index": 251,
@@ -31879,7 +31906,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Getting to Know You"
     },
     {
       "index": 252,
@@ -31961,7 +31989,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "We Kiss in a Shadow"
     },
     {
       "index": 253,
@@ -32040,7 +32069,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Shall I Tell You What I Think of You?"
     },
     {
       "index": 254,
@@ -32122,7 +32152,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Something Wonderful"
     },
     {
       "index": 255,
@@ -32196,7 +32227,8 @@
       "recording_year": "1966",
       "year_source": "canonical_album",
       "layer2_chapter": "פרק 5: הצגות ומחזות זמר — \"שייקספיר איננו\" ו\"המלך ואני\" (1964–1966)",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Western People Funny"
     },
     {
       "index": 256,
@@ -32277,7 +32309,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "I Have Dreamed"
     },
     {
       "index": 257,
@@ -32360,7 +32393,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Song of the King"
     },
     {
       "index": 258,
@@ -32448,7 +32482,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "canonical_album",
-      "musical": "המחזמר \"המלך ואני\""
+      "musical": "המחזמר \"המלך ואני\"",
+      "original_title": "Shall We Dance?"
     },
     {
       "index": 259,
@@ -32578,7 +32613,8 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "original_title": "Sur ma vie"
     },
     {
       "index": 261,
@@ -32725,7 +32761,9 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "original_title": "I'm Happy Just to Dance with You",
+      "musical": "הסרט \"לילה של יום מפרך\" (1964)"
     },
     {
       "index": 263,
@@ -32809,7 +32847,8 @@
       "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
       "song_year": "1966",
       "recording_year": "1966",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "לחן יווני (מנוס חדג'ידקיס)"
     },
     {
       "index": 264,
@@ -32867,7 +32906,9 @@
       "song_year": "1966",
       "recording_year": "1966",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "original_title": "I Should Have Known Better",
+      "musical": "הסרט \"לילה של יום מפרך\" (1964)"
     },
     {
       "index": 265,
@@ -33832,7 +33873,8 @@
       "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
       "song_year": "1967",
       "recording_year": "1967",
-      "year_source": "streaming_api"
+      "year_source": "streaming_api",
+      "original_title": "Sur le chemin du retour"
     },
     {
       "index": 273,
@@ -34011,7 +34053,8 @@
       "song_year": "1968",
       "recording_year": "1968",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "original_title": "Tu t'laisses aller"
     },
     {
       "index": 275,
@@ -34683,7 +34726,8 @@
       "song_year": "1969",
       "recording_year": "1969",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)"
+      "layer2_chapter": "פרק 6: שלהי שנות ה־60 — האחיות שמר, אלבום הבכורה ושולי נתן (1966–1969)",
+      "original_title": "Le Quidam"
     },
     {
       "index": 282,
@@ -35856,7 +35900,8 @@
       "song_year": "1971",
       "recording_year": "1971",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)"
+      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
+      "original_title": "The Riddle Song (I Gave My Love a Cherry)"
     },
     {
       "index": 295,
@@ -35924,7 +35969,8 @@
       "song_year": "1971",
       "recording_year": "1971",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)"
+      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
+      "original_title": "Desafinado"
     },
     {
       "index": 296,
@@ -36109,7 +36155,8 @@
       "song_year": "1972",
       "recording_year": "1972",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)"
+      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
+      "original_title": "Here, There and Everywhere"
     },
     {
       "index": 298,
@@ -36327,7 +36374,8 @@
       "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
       "song_year": "1972",
       "recording_year": "1972",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Göttingen"
     },
     {
       "index": 300,
@@ -36444,7 +36492,8 @@
       "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
       "song_year": "1972",
       "recording_year": "1981",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Barbara (Rappelle-toi Barbara)"
     },
     {
       "index": 301,
@@ -36530,7 +36579,8 @@
       "song_year": "1972",
       "recording_year": "1972",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)"
+      "layer2_chapter": "פרק 7: ראשית שנות ה־70 — עודד תאומי וחבורת בימות (1970–1973)",
+      "original_title": "Μανούλα μου (Manoula mou)"
     },
     {
       "index": 302,
@@ -37903,7 +37953,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Il n'y a pas d'amour heureux"
     },
     {
       "index": 315,
@@ -38027,7 +38078,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "La Non-demande en mariage"
     },
     {
       "index": 316,
@@ -38146,7 +38198,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Le Testament"
     },
     {
       "index": 317,
@@ -38238,7 +38291,8 @@
       "song_year": "1974",
       "recording_year": "1974",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)"
+      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
+      "original_title": "Une jolie fleur"
     },
     {
       "index": 318,
@@ -38316,7 +38370,8 @@
       "song_year": "1974",
       "recording_year": "1974",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)"
+      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
+      "original_title": "Comme hier"
     },
     {
       "index": 319,
@@ -38411,7 +38466,8 @@
       "song_year": "1974",
       "recording_year": "1974",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)"
+      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
+      "original_title": "Je me suis fait tout petit"
     },
     {
       "index": 320,
@@ -38532,7 +38588,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Brave Margot"
     },
     {
       "index": 321,
@@ -38648,7 +38705,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Les Femmes"
     },
     {
       "index": 322,
@@ -38750,7 +38808,8 @@
       "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
       "song_year": "1974",
       "recording_year": "1974",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Chanson pour l'Auvergnat"
     },
     {
       "index": 323,
@@ -39153,7 +39212,8 @@
       "song_year": "1974",
       "recording_year": "1974",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)"
+      "layer2_chapter": "פרק 8: יוסי בנאי שר ברסאנס — \"אין אהבות שמחות\" וסינגלי 1974 (1974)",
+      "original_title": "Suzanne"
     },
     {
       "index": 328,
@@ -40255,7 +40315,8 @@
       "song_year": "1975",
       "recording_year": "1975",
       "year_source": "topic_album",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
+      "original_title": "Matrimony"
     },
     {
       "index": 337,
@@ -41587,7 +41648,9 @@
       "song_year": "1976",
       "recording_year": "1976",
       "year_source": "video_title",
-      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)"
+      "layer2_chapter": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
+      "original_title": "Es war einmal ein König (שיר הפרעוש)",
+      "musical": "המחזה \"פאוסט\" (גתה)"
     },
     {
       "index": 354,
@@ -42425,7 +42488,8 @@
       "song_year": "1979",
       "recording_year": "1979",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)"
+      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)",
+      "original_title": "Alla fiera dell'est"
     },
     {
       "index": 364,
@@ -42497,7 +42561,8 @@
       "song_year": "1979",
       "recording_year": "1979",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)"
+      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)",
+      "original_title": "Ma plus belle histoire d'amour"
     },
     {
       "index": 365,
@@ -43381,7 +43446,8 @@
       "song_year": "1982",
       "recording_year": "1982",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)"
+      "layer2_chapter": "פרק 10: שלהי שנות ה־70 ואלבומי הסולו של נעמי שמר (1977–1982)",
+      "original_title": "Blowin' in the Wind"
     },
     {
       "index": 374,
@@ -43909,7 +43975,8 @@
       "layer2_chapter": "פרק 11: אמצע שנות ה־80 — סינגלים ו\"אלף נשיקות\" (1983–1986)",
       "song_year": "1984",
       "recording_year": "1984",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Ne me quitte pas"
     },
     {
       "index": 379,
@@ -45957,7 +46024,9 @@
       "layer2_chapter": "פרק 12: נעמי שמר ומשה בקר — \"חפצים אישיים\" וסינגלים (1984–1989)",
       "song_year": "1989",
       "recording_year": "1989",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Les Feuilles mortes",
+      "musical": "הסרט \"שערי הלילה\" (1946)"
     },
     {
       "index": 400,
@@ -47057,7 +47126,8 @@
       "layer2_chapter": "פרק 13: שלהי שנות ה־80 וראשית ה־90 — הגבעטרון, \"ירח מלא\", הפרברים וסינגלים (1987–1992)",
       "song_year": "1989",
       "recording_year": "1989",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Cajita de música (Cuando estoy triste)"
     },
     {
       "index": 412,
@@ -47178,7 +47248,8 @@
       "layer2_chapter": "פרק 13: שלהי שנות ה־80 וראשית ה־90 — הגבעטרון, \"ירח מלא\", הפרברים וסינגלים (1987–1992)",
       "song_year": "1989",
       "recording_year": "1989",
-      "year_source": "canonical_album"
+      "year_source": "canonical_album",
+      "original_title": "Τώρα που πας στην ξενιτιά"
     },
     {
       "index": 413,
@@ -47273,7 +47344,9 @@
       "song_year": "1989",
       "recording_year": "1989",
       "year_source": "canonical_album",
-      "layer2_chapter": "פרק 13: שלהי שנות ה־80 וראשית ה־90 — הגבעטרון, \"ירח מלא\", הפרברים וסינגלים (1987–1992)"
+      "layer2_chapter": "פרק 13: שלהי שנות ה־80 וראשית ה־90 — הגבעטרון, \"ירח מלא\", הפרברים וסינגלים (1987–1992)",
+      "original_title": "The Willow Song",
+      "musical": "המחזה \"אותלו\" (שייקספיר)"
     },
     {
       "index": 414,
@@ -47841,7 +47914,8 @@
       "layer2_chapter": "פרק 13: שלהי שנות ה־80 וראשית ה־90 — הגבעטרון, \"ירח מלא\", הפרברים וסינגלים (1987–1992)",
       "song_year": "1990",
       "recording_year": "1990",
-      "year_source": "original_inherited"
+      "year_source": "original_inherited",
+      "original_title": "Llorando se fue / Chorando se foi"
     },
     {
       "index": 420,
@@ -48987,7 +49061,8 @@
       "song_year": "1995",
       "recording_year": "1995",
       "year_source": "original_inherited",
-      "layer2_chapter": "פרק 14: עשור אחרון וחותם (1993–2004)"
+      "layer2_chapter": "פרק 14: עשור אחרון וחותם (1993–2004)",
+      "original_title": "Berceuse (מתוך סוויטת דולי, אופ' 56)"
     },
     {
       "index": 431,
@@ -66479,7 +66554,8 @@
       "matched_performer": "שירי מימון",
       "song_year": "1996",
       "recording_year": "2020",
-      "year_source": "existing_curated"
+      "year_source": "existing_curated",
+      "original_title": "O Captain! My Captain!"
     },
     {
       "index": 553,
@@ -66589,7 +66665,8 @@
       "dual_role": "additional_performance",
       "song_year": "1996",
       "recording_year": "2014",
-      "year_source": "publish_date_contemporary"
+      "year_source": "publish_date_contemporary",
+      "original_title": "O Captain! My Captain!"
     },
     {
       "index": 554,
@@ -68839,7 +68916,8 @@
       "ver_total": 4,
       "song_year": "1972",
       "recording_year": "1977",
-      "year_source": "archive_desc"
+      "year_source": "archive_desc",
+      "original_title": "La Chanson des vieux amants"
     },
     {
       "index": 567,
@@ -69082,7 +69160,8 @@
       "ver_total": 4,
       "song_year": "1972",
       "recording_year": "2014",
-      "year_source": "publish_date_contemporary"
+      "year_source": "publish_date_contemporary",
+      "original_title": "La Chanson des vieux amants"
     },
     {
       "index": 568,
@@ -69325,7 +69404,8 @@
       "ver_total": 4,
       "song_year": "1972",
       "recording_year": "2011",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "La Chanson des vieux amants"
     },
     {
       "index": 569,
@@ -69512,7 +69592,8 @@
       "dual_role": "additional_performance",
       "song_year": "1967",
       "recording_year": "1978",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "Si tous les oiseaux"
     },
     {
       "index": 570,
@@ -69699,7 +69780,8 @@
       "dual_role": "additional_performance",
       "song_year": "1967",
       "recording_year": "2012",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "Si tous les oiseaux"
     },
     {
       "index": 571,
@@ -73915,7 +73997,8 @@
       "ver_total": 4,
       "song_year": "1964",
       "recording_year": "1993",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "index": 600,
@@ -74096,7 +74179,8 @@
       "matched_performer": "אריק איינשטיין ויהודית רביץ",
       "song_year": "1964",
       "recording_year": "1984",
-      "year_source": "existing_curated"
+      "year_source": "existing_curated",
+      "original_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "index": 601,
@@ -74267,7 +74351,8 @@
       "matched_performer": "אריק איינשטיין ויהודית רביץ",
       "song_year": "1964",
       "recording_year": "1968",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "Ο Ταχυδρόμος πέθανε"
     },
     {
       "index": 602,
@@ -77864,7 +77949,8 @@
       "song_year": "1975",
       "recording_year": "1975",
       "year_source": "manual_verified",
-      "dual_role": "additional_performance"
+      "dual_role": "additional_performance",
+      "original_title": "אויפן וועג שטייט א בוים"
     },
     {
       "index": 628,
@@ -80659,7 +80745,8 @@
       "ver_total": 3,
       "song_year": "1958",
       "recording_year": "1960",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "Union Train"
     },
     {
       "index": 653,
@@ -80755,7 +80842,8 @@
       "ver_total": 3,
       "song_year": "1958",
       "recording_year": "1973",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "Union Train"
     },
     {
       "index": 654,
@@ -80842,7 +80930,8 @@
       "ver_total": 2,
       "song_year": "1959",
       "recording_year": "1962",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "In the Alps"
     },
     {
       "index": 655,
@@ -81267,7 +81356,8 @@
       "ver_total": 2,
       "song_year": "1960",
       "recording_year": "1962",
-      "year_source": "video_title"
+      "year_source": "video_title",
+      "original_title": "שיר עם סיאמי"
     },
     {
       "index": 659,
@@ -81558,7 +81648,9 @@
       "ver_total": 2,
       "song_year": "1963",
       "recording_year": "1966",
-      "year_source": "manual_verified"
+      "year_source": "manual_verified",
+      "original_title": "Happy Days Are Here Again",
+      "musical": "הסרט \"Chasing Rainbows\" (1930)"
     },
     {
       "index": 662,
@@ -90022,7 +90114,8 @@
       "chrono_index": null,
       "song_year": "1954",
       "recording_year": "",
-      "musical": "המחזמר \"אופרה בגרוש\""
+      "musical": "המחזמר \"אופרה בגרוש\"",
+      "original_title": "Die Moritat von Mackie Messer"
     },
     {
       "index": 733,
@@ -90067,7 +90160,9 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1955",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "Take My Love",
+      "musical": "הסרט \"סנדל הפלאים\" (1955)"
     },
     {
       "index": 734,
@@ -90412,7 +90507,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1967",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "שיר עם בוכרי"
     },
     {
       "index": 742,
@@ -90449,7 +90545,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1970",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "שיר ביידיש מאת מרדכי גבירטיג"
     },
     {
       "index": 743,
@@ -90602,7 +90699,9 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1972",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "פאפיר איז דאך ווייס",
+      "musical": "המחזה \"מכירת יוסף\""
     },
     {
       "index": 746,
@@ -90716,7 +90815,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1979",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "Noms de pays : le nom (בעקבות הזמן האבוד)"
     },
     {
       "index": 749,
@@ -90786,7 +90886,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "1995",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "Funeral Blues (Stop All the Clocks)"
     },
     {
       "index": 751,
@@ -90918,7 +91019,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "אוי דארטן, איבער דעם וואסערל"
     },
     {
       "index": 754,
@@ -91025,7 +91127,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "En sortant de l'école"
     },
     {
       "index": 757,
@@ -91979,7 +92082,8 @@
       "chrono_index": null,
       "song_year": "",
       "recording_year": "",
-      "musical": "הסרט המוזיקלי \"מטריות שרבורג\""
+      "musical": "הסרט המוזיקלי \"מטריות שרבורג\"",
+      "original_title": "Je ne pourrai jamais vivre sans toi (I Will Wait for You)"
     },
     {
       "index": 782,
@@ -92823,7 +92927,8 @@
       "alternative_videos": [],
       "chrono_index": null,
       "song_year": "",
-      "recording_year": ""
+      "recording_year": "",
+      "original_title": "דער נייער שער"
     },
     {
       "index": 805,
