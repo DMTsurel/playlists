@@ -1063,6 +1063,8 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
 .r-translation { background: rgba(16, 185, 129, 0.12); color: #6ee7b7; }
 .r-performance_only { background: rgba(251, 113, 133, 0.12); color: #fda4af; }
 .musical-badge {
+  display: inline-block;
+  line-height: 1.4;
   background: rgba(236, 72, 153, 0.14);
   color: #f9a8d4;
   border: 1px solid rgba(236, 72, 153, 0.28);
@@ -1075,6 +1077,8 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
   border-color: rgba(244, 114, 182, 0.55);
 }
 .orig-badge {
+  display: inline-block;
+  line-height: 1.45;
   background: rgba(20, 184, 166, 0.12);
   color: #5eead4;
   border: 1px solid rgba(20, 184, 166, 0.28);

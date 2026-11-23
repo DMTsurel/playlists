@@ -93,6 +93,7 @@ SONGS.forEach(s => {
     s.alb_group,
     s.musical,
     s.orig_title,
+    s.orig_lang,
     s.nli_note,
     s.ch,
     s.role_label,
@@ -114,6 +115,7 @@ ARCHIVE_SONGS.forEach(s => {
     s.albums,
     s.musical,
     s.orig_title,
+    s.orig_lang,
     s.nli_note,
     s.role_label,
     s.co_creators,
@@ -845,10 +847,16 @@ function renderMusicalBadge(musical, handlerFn, queryRaw) {
   return `<span class="badge musical-badge" role="button" tabindex="0" onclick="${handlerFn}(event, ${attrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל שירי ${esc(musical)}">${icon} ${textHtml}</span>`;
 }
 
-function renderOriginalSourceBadge(origTitle, queryRaw) {
-  if (!origTitle) return "";
-  const textHtml = queryRaw ? highlightText(origTitle, queryRaw) : esc(origTitle);
-  return `<span class="badge orig-badge" title="מקור: ${esc(origTitle)}">🌐 מקור: <bdi dir="auto">${textHtml}</bdi></span>`;
+function renderOriginalSourceBadge(origTitle, origLang, queryRaw) {
+  if (!origTitle && !origLang) return "";
+  const langPlain = origLang ? `מקור (${origLang}):` : "מקור:";
+  const langHtml = origLang
+    ? `מקור (${queryRaw ? highlightText(origLang, queryRaw) : esc(origLang)}):`
+    : "מקור:";
+  const textHtml = origTitle ? (queryRaw ? highlightText(origTitle, queryRaw) : esc(origTitle)) : "";
+  const tooltip = origTitle ? `${langPlain} ${origTitle}` : langPlain;
+  const bodyHtml = textHtml ? ` <bdi dir="auto">${textHtml}</bdi>` : "";
+  return `<span class="badge orig-badge" dir="rtl" title="${esc(tooltip)}"><span class="orig-prefix">🌐 ${langHtml}</span>${bodyHtml}</span>`;
 }
 
 function extractSearchSnippet(text, rawInput, maxLen = 115) {
@@ -1109,7 +1117,7 @@ function updateNowPlayingCard(s) {
     ? `<span class="ver-badge ${isExactActive ? "active-ver-filter" : ""}" role="button" tabindex="0" onclick="filterByExactSong(event, ${JSON.stringify(s.raw_title).replace(/"/g, '&quot;')})" onkeydown="handleActivatableKey(event)" title="לחץ להצגת כל ${s.ver_total} הביצועים של שיר זה בטבלה">ביצוע ${s.ver_idx}/${s.ver_total}</span>`
     : "";
   const musicalBadgeHtml = renderMusicalBadge(s.musical, "filterBySongTitle", "");
-  const origBadgeHtml = renderOriginalSourceBadge(s.orig_title, "");
+  const origBadgeHtml = renderOriginalSourceBadge(s.orig_title, s.orig_lang, "");
   const tierShort = s.tier_label.replace(/^[0-9]\.\s*/, "");
   document.getElementById("nowPlayingRole").innerHTML = `<span class="badge t-${esc(s.tier)}">${esc(tierShort)}</span><span class="badge r-${esc(s.role_cat)}">${esc(s.role_label)}</span>${musicalBadgeHtml}${origBadgeHtml}${verBadgeHtml}`;
 
@@ -1673,9 +1681,9 @@ function renderTable(skipSync = false) {
     const perfHtml = hasSearchQ ? highlightText(perfDisp, rawInput) : esc(perfDisp);
     const albHtml = s.alb ? (hasSearchQ ? highlightText(s.alb, rawInput) : esc(s.alb)) : "";
     const musicalSub = renderMusicalBadge(s.musical, "filterBySongTitle", hasSearchQ ? rawInput : "");
-    const origSub = renderOriginalSourceBadge(s.orig_title, hasSearchQ ? rawInput : "");
+    const origSub = renderOriginalSourceBadge(s.orig_title, s.orig_lang, hasSearchQ ? rawInput : "");
     const titleMatched = hasSearchQ && (s.raw_title.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.raw_title).includes(qNorm)));
-    const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "")).includes(qNorm)));
+    const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).includes(qNorm)));
     const openingMatched = hasSearchQ && s.opening_line && (s.opening_line.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.opening_line).includes(qNorm)));
     const nliMatched = hasSearchQ && s.nli_note && (s.nli_note.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.nli_note).includes(qNorm)));
     const openingContextHtml = (hasSearchQ && !titleMatched && !metaMatched)
@@ -1816,7 +1824,7 @@ function renderArchiveTable(skipSync = false) {
       }
       const titleHtml = hasSearchQ ? highlightText(s.title, rawInput) : esc(s.title);
       const archMusicalSub = renderMusicalBadge(s.musical, "filterArchiveByText", hasSearchQ ? rawInput : "");
-      const archOrigSub = renderOriginalSourceBadge(s.orig_title, hasSearchQ ? rawInput : "");
+      const archOrigSub = renderOriginalSourceBadge(s.orig_title, s.orig_lang, hasSearchQ ? rawInput : "");
       const perfsHtml = s.perfs
         ? (hasSearchQ ? highlightText(s.perfs, rawInput) : esc(s.perfs))
         : "<span style='color:var(--muted);'>לא מתועד מבצע</span>";
