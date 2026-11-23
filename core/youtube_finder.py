@@ -1659,7 +1659,7 @@ def find_composer_videos(
         best_cand, orig_cand, creator_cand, alts = dual_selection_by_key.get(key, (None, None, None, []))
         role_cat, role_label, co_creators_str = _build_creator_credits(s, ctx)
         arch_links = _build_archive_links(s, ctx)
-        song_notes = " ".join(s.get("notes", [])).strip()
+        song_notes = ""  # Copyright safety: never copy NLI/Wikipedia prose into public playlist outputs.
         heb_perfs = [p for p in s.get("performers", []) if any("\u0590" <= c <= "\u05FF" for c in p)]
 
         song_yr = _resolve_song_year(s, ctx, pizmonet_years)

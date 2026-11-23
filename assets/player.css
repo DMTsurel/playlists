@@ -1101,39 +1101,6 @@ tr.song-row:hover .fav-btn, .fav-btn.is-fav {
 .quote-box::-webkit-scrollbar { width: 5px; }
 .quote-box::-webkit-scrollbar-track { background: transparent; }
 .quote-box::-webkit-scrollbar-thumb { background: rgba(148, 163, 184, 0.25); border-radius: 999px; }
-.np-nli-note, .np-nli-details {
-  font-size: 12px;
-  line-height: 1.55;
-  color: var(--text-secondary);
-}
-.np-nli-note:not(:first-child), .np-nli-details:not(:first-child) {
-  margin-top: 6px;
-  padding-top: 6px;
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
-}
-.np-nli-details summary {
-  cursor: pointer;
-  list-style: none;
-}
-.np-nli-details summary::-webkit-details-marker { display: none; }
-.np-nli-details[open] summary { margin-bottom: 5px; }
-.np-nli-more {
-  color: var(--gold);
-  font-weight: 600;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-}
-.np-nli-details[open] .np-nli-more { display: none; }
-.np-nli-full {
-  color: var(--text-secondary);
-  line-height: 1.6;
-}
-.arch-nli-note {
-  margin-top: 4px;
-  font-size: 12px;
-  line-height: 1.5;
-  color: var(--text-secondary);
-}
 .archive-pills {
   display: flex;
   flex-wrap: wrap;

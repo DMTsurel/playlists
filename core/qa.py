@@ -253,6 +253,17 @@ def audit_composer(slug: str) -> dict[str, Any]:
         if sy_val and sy_val != "2099":
             song_years_seen.setdefault(title, set()).add(sy_val)
 
+        if str(item.get("nli_notes") or "").strip():
+            errors.append(
+                _issue(
+                    "COPYRIGHT_PROSE_IN_EXPORT",
+                    idx,
+                    title,
+                    vid,
+                    "Copied NLI prose field 'nli_notes' must not be published in playlist.json",
+                )
+            )
+
         for perf in list(item.get("catalog_performers") or []) + ([sel.get("matched_performer", "")] if sel else []):
             if str(perf).strip() in ACUM_PERFORMER_EXACT_MAP:
                 warnings.append(
@@ -652,6 +663,16 @@ def audit_composer(slug: str) -> dict[str, Any]:
                             row.get("raw_title") or row.get("title", ""),
                             row.get("vid", ""),
                             f"Long notes paragraph ({len(notes_val)} chars) in public export",
+                        )
+                    )
+                if str(row.get("nli_note") or "").strip():
+                    errors.append(
+                        _issue(
+                            "COPYRIGHT_PROSE_IN_EXPORT",
+                            row.get("n"),
+                            row.get("raw_title") or row.get("title", ""),
+                            row.get("vid", ""),
+                            "Copied NLI prose field 'nli_note' must not be exported in playlist_data.js",
                         )
                     )
 

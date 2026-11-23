@@ -1243,8 +1243,6 @@ def _build_songs_and_archive_payloads(
             song_obj["orig_title"] = item["original_title"]
         if item.get("original_language"):
             song_obj["orig_lang"] = item["original_language"]
-        if item.get("nli_notes"):
-            song_obj["nli_note"] = item["nli_notes"]
         songs_js.append(song_obj)
 
     archive_songs_js: list[dict[str, Any]] = []
@@ -1295,8 +1293,6 @@ def _build_songs_and_archive_payloads(
             arch_obj["orig_title"] = item["original_title"]
         if item.get("original_language"):
             arch_obj["orig_lang"] = item["original_language"]
-        if item.get("nli_notes"):
-            arch_obj["nli_note"] = item["nli_notes"]
         archive_songs_js.append(arch_obj)
 
     counts = {
