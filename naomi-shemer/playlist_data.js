@@ -13468,430 +13468,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 161,
-      "chrono_n": 1,
-      "canon_score": 22.9,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "מגדל בודד [ביצוע מקורי] (1955)",
-      "raw_title": "מגדל בודד",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1955",
-      "rec_year": "1955",
-      "song_year": "1955",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "GZW3RhiQeyY",
-      "vtitle": "מגדל בודד -ריקה זראי  ולהקת אילון   - מילים נעמי שמר -לחן- יוחנן זראי -  -1955",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "3:51",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "ריקה זראי ולהקת אילון",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "מגדל בודד בלילה אורו נודד בלילה",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044880205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=20156"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1027446",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "B5Hnvy495oM",
-          "vtitle": "ריקה זראי - מגדל בודד",
-          "ch": "אבי תדמור",
-          "dur": "3:35",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "_JG62QmM-QE",
-          "vtitle": "מגדל בודד- יפה ירקוני ותזמורת הד ארצי 1957",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:15",
-          "src": "direct_alternative"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 162,
-      "chrono_n": 2,
-      "canon_score": 17.7,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "בא הגדוד [ביצוע מקורי] (1956)",
-      "raw_title": "בא הגדוד",
-      "alt_titles": [
-        "הגיע גדוד אל המושב באנו אל המושב"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1956",
-      "rec_year": "1956",
-      "song_year": "1956",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "jOpau37GjhY",
-      "vtitle": "בא הגדוד [(נעמי שמר) יוחנן זראי] -  להקת פיקוד המרכז 28-2-1956",
-      "ch": "Adi Kadmon",
-      "dur": "1:06",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "בא הגדוד אל המושב באנו אל המושב",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046330205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1043061",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043061"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "XeD27Barwbk",
-          "vtitle": "בא הגדוד אל המושב - צוות ההצגה חמש חמש 1965",
-          "ch": "israelretro",
-          "dur": "1:44",
-          "src": "direct_alternative"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 163,
-      "chrono_n": 9,
-      "canon_score": 6.0,
-      "acum_v": 0,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "כף (1956)",
-      "raw_title": "כף",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1956",
-      "rec_year": "1956",
-      "song_year": "1956",
-      "year_src": "manual_verified",
-      "decade": "1950s",
-      "vid": "kRxN5b9yhKU",
-      "vtitle": "כף  -חמש חמש  מילים נעמי שמר לחן יוחנן זראי-אוהל - תיאטרון פועלי ארץ ישראל-1956",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "1:17",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "תיאטרון האוהל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "",
-      "links": [
-        {
-          "source": "nli_audio",
-          "label": "🎧 האזנה להקלטה בספרייה הלאומית",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037415940205171/NLI"
-        },
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990038221790205171/NLI"
-        }
-      ],
-      "alts": [],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 164,
-      "chrono_n": 8,
-      "canon_score": 14.4,
-      "acum_v": 1,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "חפש את האישה [ביצוע מקורי] (1956)",
-      "raw_title": "חפש את האישה",
-      "alt_titles": [
-        "חפש את האשה"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1956",
-      "rec_year": "1956",
-      "song_year": "1956",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "z91zsr8vHnU",
-      "vtitle": "חפש את האישה שמעון ישראלי ורחל אטאס ולהקת צליל קליל מילים ולחן נעמי שמר עיבוד אדי הלפרין 1956",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "3:09",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון ישראלי, רחל אטאס ולהקת צליל קליל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אני בחור שקט שקט בדרך כלל",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041900205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015797",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "nFh1zQnP6DQ",
-          "vtitle": "נעמי שמר, חפש את האשה (שמעון ישראלי ורחל אטאס), Naomi Shemer, Look for the woman  1958",
-          "ch": "ami abrams",
-          "dur": "3:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "dfPBgVKT_H8",
-          "vtitle": "חפש את האשה",
-          "ch": "Release - Topic",
-          "dur": "2:44",
-          "src": "same_song_performance"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 165,
-      "chrono_n": 23,
-      "canon_score": 14.4,
-      "acum_v": 1,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "רומנס בכפר [ביצוע מקורי] (1958)",
-      "raw_title": "רומנס בכפר",
-      "alt_titles": [
-        "ערב טוב"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1950s",
-      "vid": "erKzXsvfheA",
-      "vtitle": "שמעון ישראלי, רחל אטאס - ערב טוב / נעמי שמר (1958)",
-      "ch": "Shir Yafe",
-      "dur": "4:42",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון ישראלי ורחל אטאס",
-      "alb": "חמש חמש (1958)",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אומרים בכפר האהבה קלה היא",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043640205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1044340",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044340"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "6yrG087cato",
-          "vtitle": "רומנס בכפר",
-          "ch": "Release - Topic",
-          "dur": "3:44",
-          "src": "same_song_performance"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 166,
-      "chrono_n": 25,
-      "canon_score": 6.0,
-      "acum_v": 0,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "שיר עבודה (1958)",
-      "raw_title": "שיר עבודה",
-      "alt_titles": [
-        "ארוך התלם",
-        "ארוך התלם חרש חרש חרש אחי"
-      ],
-      "ver_idx": 1,
-      "ver_total": 1,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "J1mbZ9eGho0",
-      "vtitle": "ארוך התלם",
-      "ch": "Release - Topic",
-      "dur": "1:45",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
-      "alb": "חמש חמש (המחזמר) (#7)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 7,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "ארוך התלם חרוש חרוש חרוש אחי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046350205171/NLI"
-        }
-      ],
-      "alts": [],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 167,
-      "chrono_n": 17,
-      "canon_score": 92.2,
-      "acum_v": 7,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
-      "title": "שיר הבר [ביצוע מקורי] (1958)",
-      "raw_title": "שיר הבר",
-      "alt_titles": [
-        "טנגו",
-        "אל תספר",
-        "פה נספר על בר במרכז העיר בין כיכר",
-        "פה נספר על בר במרכז העיר בין הככר",
-        "פה נספר על בר במרכז העיר בין הכיכר"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "original_inherited",
-      "decade": "1950s",
-      "vid": "2vq22hm-TnI",
-      "vtitle": "ריקה זראי - שיר הבר",
-      "ch": "משירי ארץ ישראל הישנה והטובה",
-      "dur": "2:20",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "ריקה זראי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "פה נספר על בר במרכז העיר בין ככר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045330205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3715"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1033018",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033018"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "zPcjPIfxuxs",
-          "vtitle": "שיר הבר -  ריקה זראי",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "7ELxBcSAz34",
-          "vtitle": "ריקה זראי - שיר הבר",
-          "ch": "אבי תדמור",
-          "dur": "2:12",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "Jzkgm9A3Ooc",
-          "vtitle": "שיר הבר",
-          "ch": "Release - Topic",
-          "dur": "2:38",
-          "src": "same_song_performance"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 168,
       "chrono_n": 34,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -13980,7 +13556,204 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 169,
+      "n": 162,
+      "chrono_n": 2,
+      "canon_score": 17.7,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "בא הגדוד [ביצוע מקורי] (1956)",
+      "raw_title": "בא הגדוד",
+      "alt_titles": [
+        "הגיע גדוד אל המושב באנו אל המושב"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1956",
+      "rec_year": "1956",
+      "song_year": "1956",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "jOpau37GjhY",
+      "vtitle": "בא הגדוד [(נעמי שמר) יוחנן זראי] -  להקת פיקוד המרכז 28-2-1956",
+      "ch": "Adi Kadmon",
+      "dur": "1:06",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "להקת פיקוד המרכז",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "בא הגדוד אל המושב באנו אל המושב",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046330205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1043061",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1043061"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "XeD27Barwbk",
+          "vtitle": "בא הגדוד אל המושב - צוות ההצגה חמש חמש 1965",
+          "ch": "israelretro",
+          "dur": "1:44",
+          "src": "direct_alternative"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 163,
+      "chrono_n": 23,
+      "canon_score": 14.4,
+      "acum_v": 1,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "רומנס בכפר [ביצוע מקורי] (1958)",
+      "raw_title": "רומנס בכפר",
+      "alt_titles": [
+        "ערב טוב"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "erKzXsvfheA",
+      "vtitle": "שמעון ישראלי, רחל אטאס - ערב טוב / נעמי שמר (1958)",
+      "ch": "Shir Yafe",
+      "dur": "4:42",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון ישראלי ורחל אטאס",
+      "alb": "חמש חמש (1958)",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אומרים בכפר האהבה קלה היא",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043640205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1044340",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1044340"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "6yrG087cato",
+          "vtitle": "רומנס בכפר",
+          "ch": "Release - Topic",
+          "dur": "3:44",
+          "src": "same_song_performance"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 164,
+      "chrono_n": 17,
+      "canon_score": 92.2,
+      "acum_v": 7,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "שיר הבר [ביצוע מקורי] (1958)",
+      "raw_title": "שיר הבר",
+      "alt_titles": [
+        "טנגו",
+        "אל תספר",
+        "פה נספר על בר במרכז העיר בין כיכר",
+        "פה נספר על בר במרכז העיר בין הככר",
+        "פה נספר על בר במרכז העיר בין הכיכר"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "original_inherited",
+      "decade": "1950s",
+      "vid": "2vq22hm-TnI",
+      "vtitle": "ריקה זראי - שיר הבר",
+      "ch": "משירי ארץ ישראל הישנה והטובה",
+      "dur": "2:20",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "ריקה זראי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "פה נספר על בר במרכז העיר בין ככר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045330205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3715"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1033018",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1033018"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "zPcjPIfxuxs",
+          "vtitle": "שיר הבר -  ריקה זראי",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "7ELxBcSAz34",
+          "vtitle": "ריקה זראי - שיר הבר",
+          "ch": "אבי תדמור",
+          "dur": "2:12",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "Jzkgm9A3Ooc",
+          "vtitle": "שיר הבר",
+          "ch": "Release - Topic",
+          "dur": "2:38",
+          "src": "same_song_performance"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 165,
       "chrono_n": 20,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -14062,6 +13835,233 @@ window.PLAYLIST_DATA = {
           "ch": "Noa (Achinoam Nini)",
           "dur": "5:51",
           "src": "same_song_performance"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 166,
+      "chrono_n": 8,
+      "canon_score": 14.4,
+      "acum_v": 1,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "חפש את האישה [ביצוע מקורי] (1956)",
+      "raw_title": "חפש את האישה",
+      "alt_titles": [
+        "חפש את האשה"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1956",
+      "rec_year": "1956",
+      "song_year": "1956",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "z91zsr8vHnU",
+      "vtitle": "חפש את האישה שמעון ישראלי ורחל אטאס ולהקת צליל קליל מילים ולחן נעמי שמר עיבוד אדי הלפרין 1956",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "3:09",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון ישראלי, רחל אטאס ולהקת צליל קליל",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אני בחור שקט שקט בדרך כלל",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041900205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015797",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "nFh1zQnP6DQ",
+          "vtitle": "נעמי שמר, חפש את האשה (שמעון ישראלי ורחל אטאס), Naomi Shemer, Look for the woman  1958",
+          "ch": "ami abrams",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "dfPBgVKT_H8",
+          "vtitle": "חפש את האשה",
+          "ch": "Release - Topic",
+          "dur": "2:44",
+          "src": "same_song_performance"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 167,
+      "chrono_n": 25,
+      "canon_score": 6.0,
+      "acum_v": 0,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "שיר עבודה (1958)",
+      "raw_title": "שיר עבודה",
+      "alt_titles": [
+        "ארוך התלם",
+        "ארוך התלם חרש חרש חרש אחי"
+      ],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "canonical_album",
+      "decade": "1950s",
+      "vid": "J1mbZ9eGho0",
+      "vtitle": "ארוך התלם",
+      "ch": "Release - Topic",
+      "dur": "1:45",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משתתפי המחזמר חמש חמש",
+      "alb": "חמש חמש (המחזמר) (#7)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 7,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "ארוך התלם חרוש חרוש חרוש אחי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037046350205171/NLI"
+        }
+      ],
+      "alts": [],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 168,
+      "chrono_n": 9,
+      "canon_score": 6.0,
+      "acum_v": 0,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "כף (1956)",
+      "raw_title": "כף",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 1,
+      "year": "1956",
+      "rec_year": "1956",
+      "song_year": "1956",
+      "year_src": "manual_verified",
+      "decade": "1950s",
+      "vid": "kRxN5b9yhKU",
+      "vtitle": "כף  -חמש חמש  מילים נעמי שמר לחן יוחנן זראי-אוהל - תיאטרון פועלי ארץ ישראל-1956",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "1:17",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "תיאטרון האוהל",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "",
+      "links": [
+        {
+          "source": "nli_audio",
+          "label": "🎧 האזנה להקלטה בספרייה הלאומית",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037415940205171/NLI"
+        },
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990038221790205171/NLI"
+        }
+      ],
+      "alts": [],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 169,
+      "chrono_n": 1,
+      "canon_score": 22.9,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 2: \"חמש חמש\" ולהקות צבאיות — שנות ה־50 (1955–1959)",
+      "title": "מגדל בודד [ביצוע מקורי] (1955)",
+      "raw_title": "מגדל בודד",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1955",
+      "rec_year": "1955",
+      "song_year": "1955",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "GZW3RhiQeyY",
+      "vtitle": "מגדל בודד -ריקה זראי  ולהקת אילון   - מילים נעמי שמר -לחן- יוחנן זראי -  -1955",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "3:51",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "ריקה זראי ולהקת אילון",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "מגדל בודד בלילה אורו נודד בלילה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044880205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=20156"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1027446",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "B5Hnvy495oM",
+          "vtitle": "ריקה זראי - מגדל בודד",
+          "ch": "אבי תדמור",
+          "dur": "3:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "_JG62QmM-QE",
+          "vtitle": "מגדל בודד- יפה ירקוני ותזמורת הד ארצי 1957",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:15",
+          "src": "direct_alternative"
         }
       ],
       "musical": "המחזמר \"חמש חמש\""
@@ -47030,67 +47030,88 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 635,
-      "chrono_n": 10,
-      "canon_score": 22.9,
-      "acum_v": 2,
+      "chrono_n": 35,
+      "canon_score": 112.3,
+      "acum_v": 14,
       "layer": 2,
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "מגדל בודד [ביצוע: יפה ירקוני ותזמורת הד ארצי] (1957)",
-      "raw_title": "מגדל בודד",
+      "title": "רב האור והתכלת [ביצוע: ריקה זראי] (1958)",
+      "raw_title": "רב האור והתכלת",
       "alt_titles": [],
       "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1957",
-      "rec_year": "1957",
-      "song_year": "1955",
-      "year_src": "video_title",
+      "ver_total": 3,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1958",
+      "year_src": "manual_verified",
       "decade": "1950s",
-      "vid": "_JG62QmM-QE",
-      "vtitle": "מגדל בודד- יפה ירקוני ותזמורת הד ארצי 1957",
-      "ch": "רחל פרומן קומלוש",
-      "dur": "3:15",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "יפה ירקוני ותזמורת הד ארצי",
+      "vid": "INHBTa-HfSM",
+      "vtitle": "רב האור והתכלת",
+      "ch": "Rika Zarai - Topic",
+      "dur": "1:45",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "ריקה זראי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_only",
       "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
       "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "מגדל בודד בלילה אורו נודד בלילה",
+      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
       "links": [
         {
           "source": "nli",
           "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044880205171/NLI"
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
         },
         {
           "source": "shironet",
           "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=20156"
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
         },
         {
           "source": "acum",
-          "label": "אקו\"ם #1027446",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
+          "label": "אקו\"ם #1031021",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
         }
       ],
       "alts": [
         {
-          "vid": "B5Hnvy495oM",
-          "vtitle": "ריקה זראי - מגדל בודד",
-          "ch": "אבי תדמור",
-          "dur": "3:35",
+          "vid": "FQc7zIoG1v4",
+          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:52",
           "src": "direct_alternative"
         },
         {
-          "vid": "GZW3RhiQeyY",
-          "vtitle": "מגדל בודד -ריקה זראי  ולהקת אילון   - מילים נעמי שמר -לחן- יוחנן זראי -  -1955",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:51",
+          "vid": "utME2jtCAmY",
+          "vtitle": "רב האור והתכלת - ריקה זראי",
+          "ch": "minad hapizmonim",
+          "dur": "1:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "YIG20uvjBVg",
+          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
+          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "4ApYhj2Mqeo",
+          "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
+          "ch": "israelretro",
+          "dur": "1:23",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "_6La2mK-PqU",
+          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "1:49",
           "src": "same_song_performance"
         }
       ],
@@ -47098,6 +47119,102 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 636,
+      "chrono_n": 144,
+      "canon_score": 112.3,
+      "acum_v": 14,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר חמש חמש (1965)] (1965)",
+      "raw_title": "רב האור והתכלת",
+      "alt_titles": [],
+      "ver_idx": 3,
+      "ver_total": 3,
+      "year": "1965",
+      "rec_year": "1965",
+      "song_year": "1958",
+      "year_src": "video_title",
+      "decade": "1960s",
+      "vid": "4ApYhj2Mqeo",
+      "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
+      "ch": "israelretro",
+      "dur": "1:23",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "אביבה פז ובנות המחזמר חמש חמש (1965)",
+      "alb": "חמש חמש (המחזמר) (#1)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 1,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1031021",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "tSmg5wveagg",
+          "vtitle": "רב האור והתכלת",
+          "ch": "Release - Topic",
+          "dur": "1:22",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "FQc7zIoG1v4",
+          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "1:52",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "utME2jtCAmY",
+          "vtitle": "רב האור והתכלת - ריקה זראי",
+          "ch": "minad hapizmonim",
+          "dur": "1:48",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "YIG20uvjBVg",
+          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
+          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
+          "dur": "2:21",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "INHBTa-HfSM",
+          "vtitle": "רב האור והתכלת",
+          "ch": "Rika Zarai - Topic",
+          "dur": "1:45",
+          "src": "same_song_performance"
+        },
+        {
+          "vid": "_6La2mK-PqU",
+          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
+          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
+          "dur": "1:49",
+          "src": "same_song_performance"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 637,
       "chrono_n": 143,
       "canon_score": 17.7,
       "acum_v": 2,
@@ -47156,71 +47273,6 @@ window.PLAYLIST_DATA = {
           "vtitle": "בא הגדוד [(נעמי שמר) יוחנן זראי] -  להקת פיקוד המרכז 28-2-1956",
           "ch": "Adi Kadmon",
           "dur": "1:06",
-          "src": "direct_alternative"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 637,
-      "chrono_n": 14,
-      "canon_score": 14.4,
-      "acum_v": 1,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "חפש את האישה [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
-      "raw_title": "חפש את האישה",
-      "alt_titles": [
-        "חפש את האשה"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1956",
-      "year_src": "canonical_album",
-      "decade": "1950s",
-      "vid": "dfPBgVKT_H8",
-      "vtitle": "חפש את האשה",
-      "ch": "Release - Topic",
-      "dur": "2:44",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
-      "alb": "חמש חמש (המחזמר) (#6)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 6,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אני בחור שקט שקט בדרך כלל",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041900205171/NLI"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1015797",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "nFh1zQnP6DQ",
-          "vtitle": "נעמי שמר, חפש את האשה (שמעון ישראלי ורחל אטאס), Naomi Shemer, Look for the woman  1958",
-          "ch": "ami abrams",
-          "dur": "3:09",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "z91zsr8vHnU",
-          "vtitle": "חפש את האישה שמעון ישראלי ורחל אטאס ולהקת צליל קליל מילים ולחן נעמי שמר  עיבוד אדי הלפרין  1956",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:09",
           "src": "direct_alternative"
         }
       ],
@@ -47367,191 +47419,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 640,
-      "chrono_n": 35,
-      "canon_score": 112.3,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "רב האור והתכלת [ביצוע: ריקה זראי] (1958)",
-      "raw_title": "רב האור והתכלת",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 3,
-      "year": "1958",
-      "rec_year": "1958",
-      "song_year": "1958",
-      "year_src": "manual_verified",
-      "decade": "1950s",
-      "vid": "INHBTa-HfSM",
-      "vtitle": "רב האור והתכלת",
-      "ch": "Rika Zarai - Topic",
-      "dur": "1:45",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "ריקה זראי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "FQc7zIoG1v4",
-          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "utME2jtCAmY",
-          "vtitle": "רב האור והתכלת - ריקה זראי",
-          "ch": "minad hapizmonim",
-          "dur": "1:48",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "YIG20uvjBVg",
-          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
-          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "4ApYhj2Mqeo",
-          "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
-          "ch": "israelretro",
-          "dur": "1:23",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "_6La2mK-PqU",
-          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "1:49",
-          "src": "same_song_performance"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 641,
-      "chrono_n": 144,
-      "canon_score": 112.3,
-      "acum_v": 14,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר חמש חמש (1965)] (1965)",
-      "raw_title": "רב האור והתכלת",
-      "alt_titles": [],
-      "ver_idx": 3,
-      "ver_total": 3,
-      "year": "1965",
-      "rec_year": "1965",
-      "song_year": "1958",
-      "year_src": "video_title",
-      "decade": "1960s",
-      "vid": "4ApYhj2Mqeo",
-      "vtitle": "רב האור והתכלת - אביבה פז ובנות המחזמר \"חמש חמש\" (1965)",
-      "ch": "israelretro",
-      "dur": "1:23",
-      "tier": "2_album_original",
-      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אביבה פז ובנות המחזמר חמש חמש (1965)",
-      "alb": "חמש חמש (המחזמר) (#1)",
-      "alb_group": "חמש חמש (המחזמר)",
-      "alb_trk": 1,
-      "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
-      "co_creators": "לחן: יוחנן זראי",
-      "opening_line": "רב האור והתכלת וכלי בהם טובלת היום",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042970205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=3714"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1031021",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1031021"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "tSmg5wveagg",
-          "vtitle": "רב האור והתכלת",
-          "ch": "Release - Topic",
-          "dur": "1:22",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "FQc7zIoG1v4",
-          "vtitle": "שיר עד - רב האור והתכלת - מילים: נעמי שמר | לחן: יוחנן זראי | ביצוע: ריקה זראי - Rav HaOr VeHaTkhelt",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "1:52",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "utME2jtCAmY",
-          "vtitle": "רב האור והתכלת - ריקה זראי",
-          "ch": "minad hapizmonim",
-          "dur": "1:48",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "YIG20uvjBVg",
-          "vtitle": "רב האור והתכלת - מיכל טל (קליפ, 2010)",
-          "ch": "מיכל טל - הערוץ הרשמי 𝆕",
-          "dur": "2:21",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "INHBTa-HfSM",
-          "vtitle": "רב האור והתכלת",
-          "ch": "Rika Zarai - Topic",
-          "dur": "1:45",
-          "src": "same_song_performance"
-        },
-        {
-          "vid": "_6La2mK-PqU",
-          "vtitle": "רב האור והתכלת - להקת פיקוד המרכז (1958)",
-          "ch": "מרטין מוסקוביץ - הערוץ הרשמי",
-          "dur": "1:49",
-          "src": "same_song_performance"
-        }
-      ],
-      "musical": "המחזמר \"חמש חמש\""
-    },
-    {
-      "n": 642,
       "chrono_n": 59,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47638,7 +47505,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 643,
+      "n": 641,
       "chrono_n": 19,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47725,7 +47592,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 644,
+      "n": 642,
       "chrono_n": 668,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47814,6 +47681,139 @@ window.PLAYLIST_DATA = {
           "ch": "TamariMik",
           "dur": "5:51",
           "src": "direct_alternative"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 643,
+      "chrono_n": 14,
+      "canon_score": 14.4,
+      "acum_v": 1,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "חפש את האישה [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
+      "raw_title": "חפש את האישה",
+      "alt_titles": [
+        "חפש את האשה"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1958",
+      "rec_year": "1958",
+      "song_year": "1956",
+      "year_src": "canonical_album",
+      "decade": "1950s",
+      "vid": "dfPBgVKT_H8",
+      "vtitle": "חפש את האשה",
+      "ch": "Release - Topic",
+      "dur": "2:44",
+      "tier": "2_album_original",
+      "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
+      "perf": "משתתפי המחזמר חמש חמש",
+      "alb": "חמש חמש (המחזמר) (#6)",
+      "alb_group": "חמש חמש (המחזמר)",
+      "alb_trk": 6,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אני בחור שקט שקט בדרך כלל",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037041900205171/NLI"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1015797",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1015797"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "nFh1zQnP6DQ",
+          "vtitle": "נעמי שמר, חפש את האשה (שמעון ישראלי ורחל אטאס), Naomi Shemer, Look for the woman  1958",
+          "ch": "ami abrams",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "z91zsr8vHnU",
+          "vtitle": "חפש את האישה שמעון ישראלי ורחל אטאס ולהקת צליל קליל מילים ולחן נעמי שמר  עיבוד אדי הלפרין  1956",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:09",
+          "src": "direct_alternative"
+        }
+      ],
+      "musical": "המחזמר \"חמש חמש\""
+    },
+    {
+      "n": 644,
+      "chrono_n": 10,
+      "canon_score": 22.9,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מגדל בודד [ביצוע: יפה ירקוני ותזמורת הד ארצי] (1957)",
+      "raw_title": "מגדל בודד",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "1957",
+      "rec_year": "1957",
+      "song_year": "1955",
+      "year_src": "video_title",
+      "decade": "1950s",
+      "vid": "_JG62QmM-QE",
+      "vtitle": "מגדל בודד- יפה ירקוני ותזמורת הד ארצי 1957",
+      "ch": "רחל פרומן קומלוש",
+      "dur": "3:15",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "יפה ירקוני ותזמורת הד ארצי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_only",
+      "role_label": "מילים: נעמי שמר · לחן: יוחנן זראי",
+      "co_creators": "לחן: יוחנן זראי",
+      "opening_line": "מגדל בודד בלילה אורו נודד בלילה",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037044880205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=20156"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1027446",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027446"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "B5Hnvy495oM",
+          "vtitle": "ריקה זראי - מגדל בודד",
+          "ch": "אבי תדמור",
+          "dur": "3:35",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "GZW3RhiQeyY",
+          "vtitle": "מגדל בודד -ריקה זראי  ולהקת אילון   - מילים נעמי שמר -לחן- יוחנן זראי -  -1955",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:51",
+          "src": "same_song_performance"
         }
       ],
       "musical": "המחזמר \"חמש חמש\""
