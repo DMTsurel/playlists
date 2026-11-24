@@ -30908,8 +30908,9 @@
     },
     {
       "index": 241,
-      "title": "אותלו",
+      "title": "אותלו (ג'ורג'יה, אלבמה, מיסיסיפי)",
       "alt_titles": [
+        "אותלו",
         "ג'ורג'יה אלבמה מיסיסיפי",
         "ג’ורג’יה, אלבמה, מיסיסיפי",
         "עכשיו וכאן",
@@ -30972,7 +30973,7 @@
         "description": "",
         "tier": "4_original_performance",
         "score": 950,
-        "matched_performer": "רביעיית שייקספיר איננו",
+        "matched_performer": "רביעיית \"שייקספיר איננו\" (נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן)",
         "matched_album": ""
       },
       "alternative_videos": [
@@ -31011,6 +31012,15 @@
           "duration": "3:40",
           "views": "",
           "source": "same_song_performance"
+        },
+        {
+          "video_id": "GMvIdyO0Poc",
+          "url": "https://www.youtube.com/watch?v=GMvIdyO0Poc",
+          "video_title": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+          "channel": "Ofer Gavish",
+          "duration": "2:45",
+          "views": "",
+          "source": "direct_alternative"
         }
       ],
       "chrono_index": 129,
@@ -82851,8 +82861,9 @@
     },
     {
       "index": 671,
-      "title": "אותלו",
+      "title": "אותלו (ג'ורג'יה, אלבמה, מיסיסיפי)",
       "alt_titles": [
+        "אותלו",
         "ג'ורג'יה אלבמה מיסיסיפי",
         "ג’ורג’יה, אלבמה, מיסיסיפי",
         "עכשיו וכאן",
@@ -82972,8 +82983,9 @@
     },
     {
       "index": 672,
-      "title": "אותלו",
+      "title": "אותלו (ג'ורג'יה, אלבמה, מיסיסיפי)",
       "alt_titles": [
+        "אותלו",
         "ג'ורג'יה אלבמה מיסיסיפי",
         "ג’ורג’יה, אלבמה, מיסיסיפי",
         "עכשיו וכאן",
