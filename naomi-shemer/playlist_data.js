@@ -18551,10 +18551,10 @@ window.PLAYLIST_DATA = {
       "song_year": "1964",
       "year_src": "video_title",
       "decade": "1960s",
-      "vid": "NXcXk-diyDY",
-      "vtitle": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-      "ch": "שיר עד - Shir Ad",
-      "dur": "2:52",
+      "vid": "GMvIdyO0Poc",
+      "vtitle": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+      "ch": "Ofer Gavish",
+      "dur": "2:45",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
       "perf": "רביעיית \"שייקספיר איננו\" (נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן)",
@@ -18584,6 +18584,13 @@ window.PLAYLIST_DATA = {
       ],
       "alts": [
         {
+          "vid": "NXcXk-diyDY",
+          "vtitle": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
+          "ch": "שיר עד - Shir Ad",
+          "dur": "2:52",
+          "src": "direct_alternative"
+        },
+        {
           "vid": "B86J0eynF9A",
           "vtitle": "שלישית גשר הירקון - ג'ורג'יה, אלבמה, מיסיסיפי",
           "ch": "Israphon Music (‫ישראפון‬‎)",
@@ -18610,13 +18617,6 @@ window.PLAYLIST_DATA = {
           "ch": "אוצר הזמר העברי",
           "dur": "3:40",
           "src": "same_song_performance"
-        },
-        {
-          "vid": "GMvIdyO0Poc",
-          "vtitle": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
-          "ch": "Ofer Gavish",
-          "dur": "2:45",
-          "src": "direct_alternative"
         }
       ],
       "musical": "ההצגה \"שייקספיר איננו\""
@@ -49752,10 +49752,10 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         },
         {
-          "vid": "NXcXk-diyDY",
-          "vtitle": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:52",
+          "vid": "GMvIdyO0Poc",
+          "vtitle": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+          "ch": "Ofer Gavish",
+          "dur": "2:45",
           "src": "same_song_performance"
         }
       ],
@@ -49840,10 +49840,10 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         },
         {
-          "vid": "NXcXk-diyDY",
-          "vtitle": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-          "ch": "שיר עד - Shir Ad",
-          "dur": "2:52",
+          "vid": "GMvIdyO0Poc",
+          "vtitle": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+          "ch": "Ofer Gavish",
+          "dur": "2:45",
           "src": "same_song_performance"
         }
       ],

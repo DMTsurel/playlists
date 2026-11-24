@@ -30965,18 +30965,27 @@
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
       "selected_video": {
-        "video_id": "NXcXk-diyDY",
-        "url": "https://www.youtube.com/watch?v=NXcXk-diyDY",
-        "video_title": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-        "channel": "שיר עד - Shir Ad",
-        "duration": "2:52",
-        "description": "",
+        "video_id": "GMvIdyO0Poc",
+        "url": "https://www.youtube.com/watch?v=GMvIdyO0Poc",
+        "video_title": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+        "channel": "Ofer Gavish",
+        "duration": "2:45",
+        "description": "ביצוע נדיר של שיר מיוחד, כפי שהושר בחמאם בהצגה \"שייקספיר איננו\", תחת השם \"אותלו\". מבצעים: שלמה וישינסקי, נירה עדי, אריאל פורמן, אושיק לוי. מאוסף המשפחה, באדיבות ללי שמר.",
         "tier": "4_original_performance",
         "score": 950,
         "matched_performer": "רביעיית \"שייקספיר איננו\" (נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן)",
         "matched_album": ""
       },
       "alternative_videos": [
+        {
+          "video_id": "NXcXk-diyDY",
+          "url": "https://www.youtube.com/watch?v=NXcXk-diyDY",
+          "video_title": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
+          "channel": "שיר עד - Shir Ad",
+          "duration": "2:52",
+          "views": "",
+          "source": "direct_alternative"
+        },
         {
           "video_id": "B86J0eynF9A",
           "url": "https://www.youtube.com/watch?v=B86J0eynF9A",
@@ -31012,15 +31021,6 @@
           "duration": "3:40",
           "views": "",
           "source": "same_song_performance"
-        },
-        {
-          "video_id": "GMvIdyO0Poc",
-          "url": "https://www.youtube.com/watch?v=GMvIdyO0Poc",
-          "video_title": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
-          "channel": "Ofer Gavish",
-          "duration": "2:45",
-          "views": "",
-          "source": "direct_alternative"
         }
       ],
       "chrono_index": 129,
@@ -82959,11 +82959,11 @@
           "source": "direct_alternative"
         },
         {
-          "video_id": "NXcXk-diyDY",
-          "url": "https://www.youtube.com/watch?v=NXcXk-diyDY",
-          "video_title": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-          "channel": "שיר עד - Shir Ad",
-          "duration": "2:52",
+          "video_id": "GMvIdyO0Poc",
+          "url": "https://www.youtube.com/watch?v=GMvIdyO0Poc",
+          "video_title": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+          "channel": "Ofer Gavish",
+          "duration": "2:45",
           "views": "",
           "source": "same_song_performance"
         }
@@ -83080,11 +83080,11 @@
           "source": "same_song_performance"
         },
         {
-          "video_id": "NXcXk-diyDY",
-          "url": "https://www.youtube.com/watch?v=NXcXk-diyDY",
-          "video_title": "שיר עד - אותלו/ג'ורג'יה אלבמה מיסיסיפי - מילים ולחן: נעמי שמר | שירה: \"שייקספיר איננו\", 1964 (המקור)",
-          "channel": "שיר עד - Shir Ad",
-          "duration": "2:52",
+          "video_id": "GMvIdyO0Poc",
+          "url": "https://www.youtube.com/watch?v=GMvIdyO0Poc",
+          "video_title": "ג'ורג'יה אלבמה מיסיסיפי בחמאם",
+          "channel": "Ofer Gavish",
+          "duration": "2:45",
           "views": "",
           "source": "same_song_performance"
         }
