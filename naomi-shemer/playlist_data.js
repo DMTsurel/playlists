@@ -12604,6 +12604,73 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 148,
+      "chrono_n": 155,
+      "canon_score": 70.0,
+      "acum_v": 9,
+      "layer": 1,
+      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "blk": "p1",
+      "ch_lbl": "",
+      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1965",
+      "rec_year": "1965",
+      "song_year": "1965",
+      "year_src": "manual_verified",
+      "decade": "1960s",
+      "vid": "vbG5B1wswQc",
+      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
+      "ch": "דוד אסף",
+      "dur": "3:40",
+      "tier": "4_original_performance",
+      "tier_label": "4. ביצוע מקורי",
+      "perf": "שמעון בר",
+      "alb": "ההיסטוריה מזמרת (קול ישראל, 1965)",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "s8KBMzwFJmA",
+          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "3:41",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "nugnCFc2e54",
+          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
+          "ch": "רחל פרומן קומלוש",
+          "dur": "4:00",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 149,
       "chrono_n": 698,
       "canon_score": 12.2,
       "acum_v": 0,
@@ -12652,7 +12719,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 149,
+      "n": 150,
       "chrono_n": 3,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -12717,7 +12784,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 150,
+      "n": 151,
       "chrono_n": 344,
       "canon_score": 38.4,
       "acum_v": 3,
@@ -12782,7 +12849,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 151,
+      "n": 152,
       "chrono_n": 31,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -12859,7 +12926,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 152,
+      "n": 153,
       "chrono_n": 16,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -12932,7 +12999,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 153,
+      "n": 154,
       "chrono_n": 345,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -13005,7 +13072,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 154,
+      "n": 155,
       "chrono_n": 346,
       "canon_score": 42.8,
       "acum_v": 5,
@@ -13068,7 +13135,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 155,
+      "n": 156,
       "chrono_n": 330,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -13145,7 +13212,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 156,
+      "n": 157,
       "chrono_n": 416,
       "canon_score": 47.8,
       "acum_v": 3,
@@ -13216,7 +13283,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 157,
+      "n": 158,
       "chrono_n": 6,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -13258,7 +13325,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 158,
+      "n": 159,
       "chrono_n": 40,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -13300,7 +13367,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 159,
+      "n": 160,
       "chrono_n": 71,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -13384,7 +13451,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 160,
+      "n": 161,
       "chrono_n": 331,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -13468,7 +13535,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 161,
+      "n": 162,
       "chrono_n": 34,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -13557,7 +13624,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 162,
+      "n": 163,
       "chrono_n": 2,
       "canon_score": 17.7,
       "acum_v": 2,
@@ -13615,7 +13682,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 163,
+      "n": 164,
       "chrono_n": 23,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -13673,7 +13740,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 164,
+      "n": 165,
       "chrono_n": 17,
       "canon_score": 92.2,
       "acum_v": 7,
@@ -13754,7 +13821,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 165,
+      "n": 166,
       "chrono_n": 20,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -13841,7 +13908,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 166,
+      "n": 167,
       "chrono_n": 8,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -13906,7 +13973,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 167,
+      "n": 168,
       "chrono_n": 25,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -13952,7 +14019,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 168,
+      "n": 169,
       "chrono_n": 9,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -14000,7 +14067,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 169,
+      "n": 170,
       "chrono_n": 1,
       "canon_score": 22.9,
       "acum_v": 2,
@@ -14068,7 +14135,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 170,
+      "n": 171,
       "chrono_n": 47,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -14153,7 +14220,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 171,
+      "n": 172,
       "chrono_n": 79,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -14238,7 +14305,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 172,
+      "n": 173,
       "chrono_n": 36,
       "canon_score": 20.3,
       "acum_v": 1,
@@ -14290,7 +14357,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 173,
+      "n": 174,
       "chrono_n": 52,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -14350,7 +14417,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 174,
+      "n": 175,
       "chrono_n": 39,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -14394,7 +14461,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 175,
+      "n": 176,
       "chrono_n": 48,
       "canon_score": 14.6,
       "acum_v": 1,
@@ -14456,7 +14523,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 176,
+      "n": 177,
       "chrono_n": 32,
       "canon_score": 28.6,
       "acum_v": 5,
@@ -14511,7 +14578,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 177,
+      "n": 178,
       "chrono_n": 38,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -14556,7 +14623,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 178,
+      "n": 179,
       "chrono_n": 41,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -14601,7 +14668,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 179,
+      "n": 180,
       "chrono_n": 21,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -14648,7 +14715,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 180,
+      "n": 181,
       "chrono_n": 22,
       "canon_score": 18.5,
       "acum_v": 3,
@@ -14695,7 +14762,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 181,
+      "n": 182,
       "chrono_n": 4,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -14739,7 +14806,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 182,
+      "n": 183,
       "chrono_n": 5,
       "canon_score": 18.7,
       "acum_v": 1,
@@ -14795,7 +14862,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 183,
+      "n": 184,
       "chrono_n": 7,
       "canon_score": 42.7,
       "acum_v": 57,
@@ -14857,7 +14924,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 184,
+      "n": 185,
       "chrono_n": 11,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -14899,7 +14966,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 185,
+      "n": 186,
       "chrono_n": 12,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -14946,7 +15013,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 186,
+      "n": 187,
       "chrono_n": 44,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -14992,7 +15059,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 187,
+      "n": 188,
       "chrono_n": 45,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -15051,7 +15118,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 188,
+      "n": 189,
       "chrono_n": 49,
       "canon_score": 88.5,
       "acum_v": 8,
@@ -15125,7 +15192,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 189,
+      "n": 190,
       "chrono_n": 50,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -15194,7 +15261,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 190,
+      "n": 191,
       "chrono_n": 27,
       "canon_score": 111.8,
       "acum_v": 12,
@@ -15277,7 +15344,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 191,
+      "n": 192,
       "chrono_n": 223,
       "canon_score": 111.8,
       "acum_v": 12,
@@ -15360,7 +15427,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 192,
+      "n": 193,
       "chrono_n": 73,
       "canon_score": 38.9,
       "acum_v": 1,
@@ -15416,7 +15483,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 193,
+      "n": 194,
       "chrono_n": 77,
       "canon_score": 26.1,
       "acum_v": 1,
@@ -15477,7 +15544,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "גרמנית"
     },
     {
-      "n": 194,
+      "n": 195,
       "chrono_n": 37,
       "canon_score": 6.0,
       "acum_v": 0,
@@ -15520,7 +15587,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"דבר אל הקיר\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 195,
+      "n": 196,
       "chrono_n": 51,
       "canon_score": 20.6,
       "acum_v": 1,
@@ -15579,7 +15646,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"דבר אל הקיר\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 196,
+      "n": 197,
       "chrono_n": 72,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -15649,7 +15716,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 197,
+      "n": 198,
       "chrono_n": 70,
       "canon_score": 94.7,
       "acum_v": 24,
@@ -15724,7 +15791,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 198,
+      "n": 199,
       "chrono_n": 69,
       "canon_score": 71.0,
       "acum_v": 12,
@@ -15798,7 +15865,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 199,
+      "n": 200,
       "chrono_n": 87,
       "canon_score": 19.6,
       "acum_v": 2,
@@ -15857,7 +15924,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "עממי אפריקאי"
     },
     {
-      "n": 200,
+      "n": 201,
       "chrono_n": 88,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -15909,7 +15976,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 201,
+      "n": 202,
       "chrono_n": 89,
       "canon_score": 26.3,
       "acum_v": 1,
@@ -15958,7 +16025,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 202,
+      "n": 203,
       "chrono_n": 90,
       "canon_score": 20.9,
       "acum_v": 5,
@@ -16019,7 +16086,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "סיאמית / תאילנדית"
     },
     {
-      "n": 203,
+      "n": 204,
       "chrono_n": 83,
       "canon_score": 35.4,
       "acum_v": 2,
@@ -16084,7 +16151,7 @@ window.PLAYLIST_DATA = {
       "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
-      "n": 204,
+      "n": 205,
       "chrono_n": 84,
       "canon_score": 20.3,
       "acum_v": 1,
@@ -16134,7 +16201,7 @@ window.PLAYLIST_DATA = {
       "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
-      "n": 205,
+      "n": 206,
       "chrono_n": 99,
       "canon_score": 8.1,
       "acum_v": 1,
@@ -16178,7 +16245,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 206,
+      "n": 207,
       "chrono_n": 100,
       "canon_score": 28.1,
       "acum_v": 1,
@@ -16240,7 +16307,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 207,
+      "n": 208,
       "chrono_n": 98,
       "canon_score": 8.1,
       "acum_v": 1,
@@ -16284,7 +16351,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 208,
+      "n": 209,
       "chrono_n": 97,
       "canon_score": 55.6,
       "acum_v": 6,
@@ -16360,7 +16427,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 209,
+      "n": 210,
       "chrono_n": 109,
       "canon_score": 40.1,
       "acum_v": 2,
@@ -16433,7 +16500,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 210,
+      "n": 211,
       "chrono_n": 495,
       "canon_score": 40.1,
       "acum_v": 2,
@@ -16506,7 +16573,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 211,
+      "n": 212,
       "chrono_n": 107,
       "canon_score": 76.5,
       "acum_v": 18,
@@ -16590,7 +16657,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 212,
+      "n": 213,
       "chrono_n": 198,
       "canon_score": 76.5,
       "acum_v": 18,
@@ -16674,7 +16741,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 213,
+      "n": 214,
       "chrono_n": 297,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -16752,7 +16819,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 214,
+      "n": 215,
       "chrono_n": 108,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -16830,7 +16897,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 215,
+      "n": 216,
       "chrono_n": 123,
       "canon_score": 12.9,
       "acum_v": 1,
@@ -16883,7 +16950,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 216,
+      "n": 217,
       "chrono_n": 113,
       "canon_score": 15.0,
       "acum_v": 1,
@@ -16955,7 +17022,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 217,
+      "n": 218,
       "chrono_n": 114,
       "canon_score": 14.6,
       "acum_v": 1,
@@ -17005,7 +17072,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 218,
+      "n": 219,
       "chrono_n": 115,
       "canon_score": 14.3,
       "acum_v": 1,
@@ -17055,7 +17122,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 219,
+      "n": 220,
       "chrono_n": 116,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -17134,7 +17201,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 220,
+      "n": 221,
       "chrono_n": 122,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -17213,7 +17280,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 221,
+      "n": 222,
       "chrono_n": 117,
       "canon_score": 81.9,
       "acum_v": 13,
@@ -17290,7 +17357,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 222,
+      "n": 223,
       "chrono_n": 118,
       "canon_score": 91.2,
       "acum_v": 21,
@@ -17365,7 +17432,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 223,
+      "n": 224,
       "chrono_n": 121,
       "canon_score": 14.2,
       "acum_v": 1,
@@ -17413,7 +17480,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 224,
+      "n": 225,
       "chrono_n": 133,
       "canon_score": 10.7,
       "acum_v": 2,
@@ -17455,7 +17522,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 225,
+      "n": 226,
       "chrono_n": 125,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -17533,7 +17600,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 226,
+      "n": 227,
       "chrono_n": 334,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -17611,7 +17678,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 227,
+      "n": 228,
       "chrono_n": 134,
       "canon_score": 8.3,
       "acum_v": 1,
@@ -17653,7 +17720,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 228,
+      "n": 229,
       "chrono_n": 135,
       "canon_score": 14.2,
       "acum_v": 1,
@@ -17702,7 +17769,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 229,
+      "n": 230,
       "chrono_n": 136,
       "canon_score": 8.4,
       "acum_v": 1,
@@ -17753,7 +17820,7 @@ window.PLAYLIST_DATA = {
       "musical": "הסרט \"דליה והמלחים\" (1964)"
     },
     {
-      "n": 230,
+      "n": 231,
       "chrono_n": 151,
       "canon_score": 16.4,
       "acum_v": 2,
@@ -17811,7 +17878,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 231,
+      "n": 232,
       "chrono_n": 152,
       "canon_score": 22.8,
       "acum_v": 1,
@@ -17864,73 +17931,6 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": []
-    },
-    {
-      "n": 232,
-      "chrono_n": 155,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 4: ראשית שנות ה־60 — \"עשרת הצדיקים\", \"שמש במדבר\" וסינגלים (1960–1965)",
-      "title": "מסעות בנימין מטודלה [ביצוע מקורי] (1965)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1965",
-      "rec_year": "1965",
-      "song_year": "1965",
-      "year_src": "manual_verified",
-      "decade": "1960s",
-      "vid": "vbG5B1wswQc",
-      "vtitle": "שמעון בר - מסעות בנימין מטודלה",
-      "ch": "דוד אסף",
-      "dur": "3:40",
-      "tier": "4_original_performance",
-      "tier_label": "4. ביצוע מקורי",
-      "perf": "שמעון בר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "s8KBMzwFJmA",
-          "vtitle": "מסעות בנימין מטודלה-שמעון בר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "3:41",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "nugnCFc2e54",
-          "vtitle": "מסעות בנימין מטודלה-  חבורת שירו שיר",
-          "ch": "רחל פרומן קומלוש",
-          "dur": "4:00",
-          "src": "direct_alternative"
-        }
-      ]
     },
     {
       "n": 233,
@@ -46589,6 +46589,66 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 629,
+      "chrono_n": 715,
+      "canon_score": 70.0,
+      "acum_v": 9,
+      "layer": 1,
+      "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
+      "blk": "e1",
+      "ch_lbl": "",
+      "title": "מסעות בנימין מטודלה [ביצוע: אילי גורליצקי] (שיר מ־1965)",
+      "raw_title": "מסעות בנימין מטודלה",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "",
+      "rec_year": "",
+      "song_year": "1965",
+      "year_src": "",
+      "decade": "unknown",
+      "vid": "T9Q-EXevnts",
+      "vtitle": "אילי גורליצקי -  מסעות בנימין מטודלה",
+      "ch": "Guy Alon",
+      "dur": "3:18",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "אילי גורליצקי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "music_only",
+      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
+      "co_creators": "מילים: נתן אלתרמן",
+      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1023793",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "IQBW2N3zcnc",
+          "vtitle": "אילי גורליצקי - מסעות בנימין מטודלה",
+          "ch": "סימה",
+          "dur": "3:08",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 630,
       "chrono_n": 347,
       "canon_score": 44.0,
       "acum_v": 6,
@@ -46665,7 +46725,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 630,
+      "n": 631,
       "chrono_n": 277,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -46738,7 +46798,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 631,
+      "n": 632,
       "chrono_n": 415,
       "canon_score": 27.5,
       "acum_v": 0,
@@ -46811,7 +46871,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 632,
+      "n": 633,
       "chrono_n": 417,
       "canon_score": 48.3,
       "acum_v": 4,
@@ -46888,7 +46948,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 633,
+      "n": 634,
       "chrono_n": 225,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -46972,7 +47032,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 634,
+      "n": 635,
       "chrono_n": 102,
       "canon_score": 70.9,
       "acum_v": 11,
@@ -47027,7 +47087,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 635,
+      "n": 636,
       "chrono_n": 35,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47116,7 +47176,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 636,
+      "n": 637,
       "chrono_n": 145,
       "canon_score": 112.3,
       "acum_v": 14,
@@ -47212,7 +47272,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 637,
+      "n": 638,
       "chrono_n": 144,
       "canon_score": 17.7,
       "acum_v": 2,
@@ -47277,7 +47337,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 638,
+      "n": 639,
       "chrono_n": 24,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -47335,7 +47395,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 639,
+      "n": 640,
       "chrono_n": 18,
       "canon_score": 92.2,
       "acum_v": 7,
@@ -47416,7 +47476,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 640,
+      "n": 641,
       "chrono_n": 59,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47503,7 +47563,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 641,
+      "n": 642,
       "chrono_n": 19,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47590,7 +47650,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 642,
+      "n": 643,
       "chrono_n": 669,
       "canon_score": 125.5,
       "acum_v": 23,
@@ -47684,7 +47744,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 643,
+      "n": 644,
       "chrono_n": 14,
       "canon_score": 14.4,
       "acum_v": 1,
@@ -47749,7 +47809,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 644,
+      "n": 645,
       "chrono_n": 10,
       "canon_score": 22.9,
       "acum_v": 2,
@@ -47817,7 +47877,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"חמש חמש\""
     },
     {
-      "n": 645,
+      "n": 646,
       "chrono_n": 46,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -47902,7 +47962,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 646,
+      "n": 647,
       "chrono_n": 60,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -47987,7 +48047,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 647,
+      "n": 648,
       "chrono_n": 472,
       "canon_score": 55.1,
       "acum_v": 4,
@@ -48072,7 +48132,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 648,
+      "n": 649,
       "chrono_n": 66,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -48139,7 +48199,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 649,
+      "n": 650,
       "chrono_n": 224,
       "canon_score": 62.4,
       "acum_v": 15,
@@ -48199,7 +48259,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 650,
+      "n": 651,
       "chrono_n": 62,
       "canon_score": 28.6,
       "acum_v": 5,
@@ -48254,7 +48314,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 651,
+      "n": 652,
       "chrono_n": 124,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -48313,7 +48373,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 652,
+      "n": 653,
       "chrono_n": 710,
       "canon_score": 6.2,
       "acum_v": 0,
@@ -48372,7 +48432,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 653,
+      "n": 654,
       "chrono_n": 80,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -48441,7 +48501,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 654,
+      "n": 655,
       "chrono_n": 329,
       "canon_score": 21.4,
       "acum_v": 6,
@@ -48510,7 +48570,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 655,
+      "n": 656,
       "chrono_n": 103,
       "canon_score": 26.1,
       "acum_v": 1,
@@ -48571,7 +48631,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "גרמנית"
     },
     {
-      "n": 656,
+      "n": 657,
       "chrono_n": 61,
       "canon_score": 20.6,
       "acum_v": 1,
@@ -48630,7 +48690,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"דבר אל הקיר\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 657,
+      "n": 658,
       "chrono_n": 367,
       "canon_score": 94.7,
       "acum_v": 24,
@@ -48712,7 +48772,7 @@ window.PLAYLIST_DATA = {
       "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
     },
     {
-      "n": 658,
+      "n": 659,
       "chrono_n": 256,
       "canon_score": 71.0,
       "acum_v": 12,
@@ -48786,7 +48846,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 659,
+      "n": 660,
       "chrono_n": 105,
       "canon_score": 20.9,
       "acum_v": 5,
@@ -48847,7 +48907,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "סיאמית / תאילנדית"
     },
     {
-      "n": 660,
+      "n": 661,
       "chrono_n": 104,
       "canon_score": 35.4,
       "acum_v": 2,
@@ -48912,7 +48972,7 @@ window.PLAYLIST_DATA = {
       "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
     },
     {
-      "n": 661,
+      "n": 662,
       "chrono_n": 199,
       "canon_score": 75.5,
       "acum_v": 17,
@@ -48990,7 +49050,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 662,
+      "n": 663,
       "chrono_n": 162,
       "canon_score": 12.9,
       "acum_v": 1,
@@ -49043,7 +49103,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 663,
+      "n": 664,
       "chrono_n": 161,
       "canon_score": 15.0,
       "acum_v": 1,
@@ -49108,7 +49168,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 664,
+      "n": 665,
       "chrono_n": 266,
       "canon_score": 46.3,
       "acum_v": 7,
@@ -49187,7 +49247,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזמר \"שמש במדבר\""
     },
     {
-      "n": 665,
+      "n": 666,
       "chrono_n": 203,
       "canon_score": 106.5,
       "acum_v": 12,
@@ -49241,66 +49301,6 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": []
-    },
-    {
-      "n": 666,
-      "chrono_n": 715,
-      "canon_score": 47.2,
-      "acum_v": 9,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מסעות בנימין מטודלה [ביצוע: אילי גורליצקי] (שיר מ־1965)",
-      "raw_title": "מסעות בנימין מטודלה",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "",
-      "rec_year": "",
-      "song_year": "1965",
-      "year_src": "",
-      "decade": "unknown",
-      "vid": "T9Q-EXevnts",
-      "vtitle": "אילי גורליצקי -  מסעות בנימין מטודלה",
-      "ch": "Guy Alon",
-      "dur": "3:18",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אילי גורליצקי",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: נתן אלתרמן",
-      "co_creators": "מילים: נתן אלתרמן",
-      "opening_line": "עם אור שחר ביום לא עבות מעירו אשר",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037042120205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=4951"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1023793",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1023793"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "IQBW2N3zcnc",
-          "vtitle": "אילי גורליצקי - מסעות בנימין מטודלה",
-          "ch": "סימה",
-          "dur": "3:08",
-          "src": "direct_alternative"
-        }
-      ]
     },
     {
       "n": 667,
