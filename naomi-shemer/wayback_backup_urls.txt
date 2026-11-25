@@ -833,12 +833,6 @@ https://www.nli.org.il/he/items/NNL_MUSIC_AL990047200190205171/NLI
 https://www.youtube.com/watch?v=s0923q2OCPM
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043250205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18259
-https://www.youtube.com/watch?v=jzNc8KFQ4S4
-https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI
-https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414
-https://www.youtube.com/watch?v=l4y16i5NwwQ
-https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI
-https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412
 https://www.youtube.com/watch?v=L1QLv-RFy7A
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990001815060205171/NLI
 https://www.youtube.com/watch?v=dGSCRDVe9NE
@@ -1042,6 +1036,12 @@ https://www.youtube.com/watch?v=WxdVdudBKeE
 https://www.youtube.com/watch?v=0Yn3EvME2ko
 https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043840205171/NLI
 https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=7885
+https://www.youtube.com/watch?v=l4y16i5NwwQ
+https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI
+https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412
+https://www.youtube.com/watch?v=jzNc8KFQ4S4
+https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI
+https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414
 https://www.youtube.com/watch?v=WILLlFVs8K4
 https://www.nli.org.il/he/items/NNL_MUSIC_AL997008971573205171/NLI
 https://www.youtube.com/watch?v=AoGcmpu5D4Y
@@ -1327,8 +1327,6 @@ https://www.youtube.com/watch?v=xI2m7tKJ40E
 https://www.youtube.com/watch?v=vAT50nuKMh8
 https://www.youtube.com/watch?v=i9KzXu-Nhx0
 https://www.youtube.com/watch?v=Omn_wSe-dKU
-https://www.youtube.com/watch?v=JUiRv74kgHU
-https://www.youtube.com/watch?v=weX6vsG96ZY
 https://www.youtube.com/watch?v=n2t3bDiJcMk
 https://www.youtube.com/watch?v=mpPxqJrum-M
 https://www.youtube.com/watch?v=dT5g0VRp7jE
@@ -1339,6 +1337,8 @@ https://www.youtube.com/watch?v=3wNpnpA5K-w
 https://www.youtube.com/watch?v=2LRsVjehz44
 https://www.youtube.com/watch?v=losUGtP6fxI
 https://www.youtube.com/watch?v=skYeVk80Eo0
+https://www.youtube.com/watch?v=weX6vsG96ZY
+https://www.youtube.com/watch?v=JUiRv74kgHU
 https://www.youtube.com/watch?v=cXln3eAat5g
 https://www.youtube.com/watch?v=Pk0mm0ly7Og
 https://www.youtube.com/watch?v=SZhwVVZuRkY

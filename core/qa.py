@@ -39,6 +39,15 @@ _NON_SONG_MARKERS: tuple[str, ...] = (
 )
 _STUDIO_TIERS: set[str] = {"1_album_naomi", "1_album_creator", "2_album_original"}
 _LIVE_MARKERS_HE: tuple[str, ...] = ("בהופעה", "הופעה חיה", "צוותא", "קונצרט")
+_ALLOWED_PAREN_PERFORMERS: set[str] = {"בנימין (ביני) לנדאו"}
+
+
+def _norm_ensemble_key(name: str) -> str:
+    """Normalize ensemble name across quote marks and double-yod/double-vav spelling."""
+    s = re.sub(r'["״\'׳־\-]+', " ", str(name or "").strip())
+    s = re.sub(r"יי+", "י", s)
+    s = re.sub(r"וו+", "ו", s)
+    return re.sub(r"\s+", " ", s).strip()
 
 
 def _parse_year(val: Any) -> int | None:
@@ -201,6 +210,7 @@ def audit_composer(slug: str) -> dict[str, Any]:
     primary_keys = {id(it) for it in primary_items}
     tv_keys = {id(it) for it in blocks["tv"]}
     tail_keys = {id(it) for it in blocks["tail"]}
+    norm_ensembles = {_norm_ensemble_key(k): k for k in cfg.ensembles}
 
     for item in playlist:
         idx = item.get("index")
@@ -308,6 +318,7 @@ def audit_composer(slug: str) -> dict[str, Any]:
         vtitle = sel.get("video_title", "")
         channel = sel.get("channel", "")
         perf = sel.get("matched_performer", "")
+        perf_detail = sel.get("performer_detail", "")
         desc = sel.get("description", "")
         is_tv = id(item) in tv_keys
         is_tail = id(item) in tail_keys
@@ -324,13 +335,13 @@ def audit_composer(slug: str) -> dict[str, Any]:
                 )
             )
 
-        blob_low = f" {vtitle} {desc} {perf} ".lower()
+        blob_low = f" {vtitle} {desc} {perf} {perf_detail} ".lower()
         if any(mk in blob_low for mk in _AI_FANMIX_MARKERS):
             warnings.append(
                 _issue("AI_OR_FAN_MIX", idx, title, vid, f"Possible AI or fan-remixed audio in '{vtitle}'")
             )
 
-        title_perf_low = f"{vtitle} {perf}".lower()
+        title_perf_low = f"{vtitle} {perf} {perf_detail}".lower()
         if is_primary and any(mk in title_perf_low for mk in _NON_SONG_MARKERS):
             warnings.append(
                 _issue(
@@ -497,6 +508,30 @@ def audit_composer(slug: str) -> dict[str, Any]:
                     )
                 )
 
+        if perf:
+            perf_style_reasons: list[str] = []
+            style_rec_yr = _parse_year(item.get("recording_year") if "recording_year" in item else item.get("year"))
+            if '(מתוך "' in perf and item.get("musical"):
+                perf_style_reasons.append("redundant '(מתוך \"...\"' alongside musical field")
+            if style_rec_yr is not None and re.search(r"\b(?:19|20)\d{2}\b", perf):
+                perf_style_reasons.append(f"redundant year alongside recording_year={style_rec_yr}")
+            if ("(" in perf or ")" in perf) and perf.strip() not in _ALLOWED_PAREN_PERFORMERS:
+                perf_style_reasons.append("contains parentheses (move contextual detail into performer_detail)")
+            norm_p = _norm_ensemble_key(perf)
+            canonical_ens = norm_ensembles.get(norm_p)
+            if canonical_ens and perf != canonical_ens:
+                perf_style_reasons.append(f"ensemble spelling '{perf}' != canonical '{canonical_ens}'")
+            if perf_style_reasons:
+                warnings.append(
+                    _issue(
+                        "PERFORMER_STYLE",
+                        idx,
+                        title,
+                        vid,
+                        "; ".join(perf_style_reasons),
+                    )
+                )
+
     _check_primary_pairing(primary_items, cfg, warnings)
 
     # Same-song duplicate recording & original-vs-cover year checks across matched entries
@@ -510,22 +545,34 @@ def audit_composer(slug: str) -> dict[str, Any]:
             continue
         for i in range(len(group)):
             a = group[i]
-            pa = norm_heb((a.get("selected_video") or {}).get("matched_performer", ""))
-            da = parse_duration_seconds((a.get("selected_video") or {}).get("duration", ""))
+            sel_a = a.get("selected_video") or {}
+            pa = norm_heb(sel_a.get("matched_performer", ""))
+            det_a = norm_heb(sel_a.get("performer_detail", ""))
+            yr_a = _parse_year(a.get("recording_year") if "recording_year" in a else a.get("year"))
+            da = parse_duration_seconds(sel_a.get("duration", ""))
             if not pa or da <= 0:
                 continue
             for j in range(i + 1, len(group)):
                 b = group[j]
-                pb = norm_heb((b.get("selected_video") or {}).get("matched_performer", ""))
-                db = parse_duration_seconds((b.get("selected_video") or {}).get("duration", ""))
-                if pb == pa and db > 0 and abs(da - db) <= 12:
+                sel_b = b.get("selected_video") or {}
+                pb = norm_heb(sel_b.get("matched_performer", ""))
+                det_b = norm_heb(sel_b.get("performer_detail", ""))
+                yr_b = _parse_year(b.get("recording_year") if "recording_year" in b else b.get("year"))
+                db = parse_duration_seconds(sel_b.get("duration", ""))
+                if (
+                    pb == pa
+                    and det_a == det_b
+                    and not (yr_a is not None and yr_b is not None and abs(yr_a - yr_b) >= 2)
+                    and db > 0
+                    and abs(da - db) <= 12
+                ):
                     warnings.append(
                         _issue(
                             "POSSIBLE_DUPLICATE_RECORDING",
                             b.get("index"),
                             title,
                             b["selected_video"]["video_id"],
-                            f"Matches #{a.get('index')} ({a['selected_video']['video_id']}): same performer '{(b.get('selected_video') or {}).get('matched_performer', '')}' & ~duration ({da}s vs {db}s)",
+                            f"Matches #{a.get('index')} ({a['selected_video']['video_id']}): same performer '{sel_b.get('matched_performer', '')}' & ~duration ({da}s vs {db}s)",
                         )
                     )
 
@@ -534,7 +581,7 @@ def audit_composer(slug: str) -> dict[str, Any]:
             for x in group
             if x.get("dual_role") != "original_performance"
             and not any(
-                w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
+                w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('performer_detail', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
                 for w in _NON_CLIP_SUBSTRINGS
             )
             for y in [_parse_year(x.get("recording_year") if "recording_year" in x else x.get("year"))]
@@ -564,7 +611,7 @@ def audit_composer(slug: str) -> dict[str, Any]:
             earlier_others: list[tuple[int, dict[str, Any]]] = []
             for x in group[1:]:
                 if any(
-                    w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
+                    w in f"{(x.get('selected_video') or {}).get('matched_performer', '')} {(x.get('selected_video') or {}).get('performer_detail', '')} {(x.get('selected_video') or {}).get('video_title', '')}"
                     for w in _NON_CLIP_SUBSTRINGS
                 ):
                     continue

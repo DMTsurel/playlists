@@ -251,6 +251,13 @@ def validate_and_normalize_playlist(data: dict[str, Any], cfg: ComposerConfig) -
     return changed
 
 
+def _format_performer_display(perf: str, detail: str) -> str:
+    """Combine canonical performer name with optional contextual detail for human exports."""
+    p = str(perf or "").strip()
+    d = str(detail or "").strip()
+    return f"{p} ({d})" if (p and d) else p
+
+
 def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> list[Path]:
     """Generate and sync secondary export artifacts (CSV, MD, M3U8, streaming CSV, Wayback URLs)."""
     playlist = data["playlist"]
@@ -313,7 +320,10 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
                 "translator": item.get("translator", ""),
                 "tier": item.get("tier", ""),
                 "tier_label": item.get("tier_label", ""),
-                "matched_performer": sel.get("matched_performer") or item.get("matched_performer", ""),
+                "matched_performer": _format_performer_display(
+                    sel.get("matched_performer") or item.get("matched_performer", ""),
+                    sel.get("performer_detail", ""),
+                ),
                 "matched_album": sel.get("matched_album", ""),
                 "album_group": item.get("album_group", ""),
                 "album_track_number": item.get("album_track_number", ""),
@@ -337,7 +347,7 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
         sel = item["selected_video"]
         vid = sel["video_id"]
         yr = item.get("year") if item.get("year") and str(item.get("year")) != "2099" else "—"
-        perf = sel.get("matched_performer") or sel.get("channel", "")
+        perf = _format_performer_display(sel.get("matched_performer", ""), sel.get("performer_detail", "")) or sel.get("channel", "")
         vtitle = sel.get("video_title", "").replace("|", "·")
         md_lines.append(
             f"| {i} | {yr} | **{item['title']}** | {item.get('role_label_heb', '')} | "
@@ -388,7 +398,10 @@ def sync_all_secondary_exports(data: dict[str, Any], cfg: ComposerConfig) -> lis
         sel = item["selected_video"]
         vid = sel["video_id"]
         sec = parse_duration_seconds(sel.get("duration", ""))
-        artist = clean_artist_name(item, sel, fallback_artist=cfg.name_he)
+        artist = _format_performer_display(
+            clean_artist_name(item, sel, fallback_artist=cfg.name_he),
+            sel.get("performer_detail", ""),
+        )
         title = item.get("title", "")
         yr = item.get("year", "")
         yr_str = f" ({yr})" if (yr and str(yr) != "2099") else ""
@@ -1139,7 +1152,7 @@ def _build_songs_and_archive_payloads(
         trk = item.get("album_track_number", "")
         alb_str = clean_display_album(item, sel, include_track=True)
 
-        perf_raw_blk = sel.get("matched_performer", "")
+        perf_raw_blk = f"{sel.get('matched_performer', '')} {sel.get('performer_detail', '')}"
         is_tv_blk = ag == tv_grp
         is_tail_blk = (not is_tv_blk) and (
             sel["video_id"] in tail_vids or any(kw in perf_raw_blk for kw in tail_kws)
@@ -1243,6 +1256,12 @@ def _build_songs_and_archive_payloads(
             song_obj["orig_title"] = item["original_title"]
         if item.get("original_language"):
             song_obj["orig_lang"] = item["original_language"]
+        perf_detail = str(sel.get("performer_detail") or "").strip()
+        if perf_detail:
+            song_obj["perf_detail"] = perf_detail
+        ens_members = cfg.ensembles.get(song_obj["perf"], "")
+        if ens_members:
+            song_obj["perf_members"] = ens_members
         songs_js.append(song_obj)
 
     archive_songs_js: list[dict[str, Any]] = []

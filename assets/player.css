@@ -956,6 +956,11 @@ tr.song-row.active .playing-ind { display: inline; }
   color: var(--text-secondary);
   font-size: 13.5px;
 }
+.perf-detail {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.9em;
+}
 .perf-album {
   color: var(--muted);
   font-size: 12px;

@@ -89,6 +89,8 @@ SONGS.forEach(s => {
     (s.alt_titles || []).join(" "),
     s.vtitle,
     s.perf,
+    s.perf_detail,
+    s.perf_members,
     s.alb,
     s.alb_group,
     s.musical,
@@ -1034,11 +1036,15 @@ function updateNowPlayingCard(s) {
   const npYr = formatYearShort(s);
   document.getElementById("nowPlayingTitle").textContent = `${s.n}. ${s.raw_title}${npYr ? " " + npYr : ""}`;
   const perfText = s.perf || s.ch || "";
+  const perfSub = s.perf_detail || s.perf_members || "";
   const perfEscAttr = JSON.stringify(perfText).replace(/"/g, "&quot;");
+  const perfTitleNp = (s.perf_detail && s.perf_members)
+    ? `לחץ לסינון כל השירים של מבצע זה · חברי ההרכב: ${s.perf_members}`
+    : "לחץ לסינון כל השירים של מבצע זה";
   const cleanAlb = (s.alb || "").replace(/\s*\(#\d+\)\s*$/, "").trim();
   const albEscAttr = JSON.stringify(cleanAlb).replace(/"/g, "&quot;");
   const perfSpan = perfText
-    ? `<span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${perfEscAttr})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל השירים של מבצע זה">${esc(perfText)}</span>`
+    ? `<span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${perfEscAttr})" onkeydown="handleActivatableKey(event)" title="${esc(perfTitleNp)}">${esc(perfText)}</span>${perfSub ? ` <span class="perf-detail">(${esc(perfSub)})</span>` : ""}`
     : "";
   const albSpan = s.alb
     ? ` · <span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${albEscAttr})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל שירי האלבום">${esc(s.alb)}</span>`
@@ -1619,7 +1625,11 @@ function renderTable(skipSync = false) {
     const roleSub = s.role_cat !== "words_and_music" ? `<span class="badge r-${esc(s.role_cat)}">${esc(s.role_label)}</span>` : "";
     const titleAttrEsc = JSON.stringify(s.raw_title).replace(/"/g, "&quot;");
     const perfDisp = s.perf || s.ch || "";
+    const perfSub = s.perf_detail || s.perf_members || "";
     const perfAttrEsc = JSON.stringify(perfDisp).replace(/"/g, "&quot;");
+    const perfTitleAttr = (s.perf_detail && s.perf_members)
+      ? `לחץ לסינון כל השירים של מבצע זה · חברי ההרכב: ${s.perf_members}`
+      : "לחץ לסינון כל השירים של מבצע זה";
     const cleanAlbFilter = (s.alb || "").replace(/\s*\(#\d+\)\s*$/, "").trim();
     const albAttrEsc = JSON.stringify(cleanAlbFilter).replace(/"/g, "&quot;");
     const subNumHtml = (sortBy === "albums" && s.alb_trk && s.alb_trk < 999)
@@ -1630,11 +1640,12 @@ function renderTable(skipSync = false) {
     const hasSearchQ = qRaw.length >= 2;
     const titleHtml = hasSearchQ ? highlightText(s.raw_title, rawInput) : esc(s.raw_title);
     const perfHtml = hasSearchQ ? highlightText(perfDisp, rawInput) : esc(perfDisp);
+    const perfSubHtml = perfSub ? (hasSearchQ ? highlightText(perfSub, rawInput) : esc(perfSub)) : "";
     const albHtml = s.alb ? (hasSearchQ ? highlightText(s.alb, rawInput) : esc(s.alb)) : "";
     const musicalSub = renderMusicalBadge(s.musical, "filterBySongTitle", hasSearchQ ? rawInput : "");
     const origSub = renderOriginalSourceBadge(s.orig_title, s.orig_lang, hasSearchQ ? rawInput : "");
     const titleMatched = hasSearchQ && (s.raw_title.toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(s.raw_title).includes(qNorm)));
-    const metaMatched = hasSearchQ && ((perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).includes(qNorm)));
+    const metaMatched = hasSearchQ && ((perfDisp + " " + perfSub + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).toLowerCase().includes(qRaw) || (qNorm.length >= 2 && normHeb(perfDisp + " " + perfSub + " " + (s.alb || "") + " " + (s.musical || "") + " " + (s.orig_title || "") + " " + (s.orig_lang || "")).includes(qNorm)));
     const openingContextHtml = (hasSearchQ && s.opening_line && !titleMatched && !metaMatched)
       ? `<div class="opening-line">מתוך המילים: "${highlightText(s.opening_line, rawInput)}"</div>`
       : "";
@@ -1657,7 +1668,7 @@ function renderTable(skipSync = false) {
         ${openingContextHtml}
       </td>
       <td class="col-perf">
-        <div class="perf-primary"><span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${perfAttrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל השירים של מבצע זה">${perfHtml}</span></div>
+        <div class="perf-primary"><span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${perfAttrEsc})" onkeydown="handleActivatableKey(event)" title="${esc(perfTitleAttr)}">${perfHtml}</span>${perfSub ? ` <span class="perf-detail">(${perfSubHtml})</span>` : ""}</div>
         ${s.alb ? `<div class="perf-album"><span class="clickable-meta" role="button" tabindex="0" onclick="filterBySongTitle(event, ${albAttrEsc})" onkeydown="handleActivatableKey(event)" title="לחץ לסינון כל שירי האלבום">${albHtml}</span></div>` : ""}
       </td>
       <td class="col-meta">

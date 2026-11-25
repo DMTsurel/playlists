@@ -60,6 +60,7 @@ class ComposerConfig:
     sources: dict[str, Any] = field(default_factory=dict)
     discography: dict[str, Any] = field(default_factory=dict)
     ranking: dict[str, Any] = field(default_factory=dict)
+    ensembles: dict[str, str] = field(default_factory=dict)
     block_meta: dict[str, dict[str, str]] = field(default_factory=dict)
     jump_groups: list[dict[str, Any]] = field(default_factory=list)
     base_url: str = "https://dmtsurel.github.io/playlists"
@@ -319,6 +320,7 @@ def load_composer(slug: str, composer_dir: Path | None = None) -> ComposerConfig
         sources=dict(raw.get("sources", {})),
         discography=dict(raw.get("discography", {})),
         ranking=dict(raw.get("ranking", {})),
+        ensembles=dict(raw.get("ensembles") or {}),
         block_meta=dict(raw.get("block_meta", {})),
         jump_groups=list(raw.get("jump_groups", [])),
         base_url=raw.get("base_url") or reg.get("base_url", "https://dmtsurel.github.io/playlists"),

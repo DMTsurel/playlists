@@ -1018,7 +1018,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:08",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "השלושרים (סולן: בני אמדורסקי)",
+      "perf": "השלושרים",
       "alb": "השלושרים (1970)",
       "alb_group": "השלושרים (1970)",
       "alb_trk": 999,
@@ -1086,7 +1086,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:11",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סולן: בני אמדורסקי"
     },
     {
       "n": 12,
@@ -1800,7 +1801,7 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 20,
-      "chrono_n": 630,
+      "chrono_n": 629,
       "canon_score": 1049.5,
       "acum_v": 124,
       "layer": 1,
@@ -4074,7 +4075,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:31",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולן: דני וסלי)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -4142,7 +4143,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:25",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סולן: דני וסלי"
     },
     {
       "n": 47,
@@ -5722,7 +5724,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:41",
       "tier": "1_album_naomi",
       "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר (אלבום 1967)",
+      "perf": "נעמי שמר",
       "alb": "נעמי שמר שרה נעמי שמר (ירושלים של זהב)",
       "alb_group": "נעמי שמר שרה נעמי שמר (ירושלים של זהב)",
       "alb_trk": 999,
@@ -7281,7 +7283,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:59",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "בנות בצל ירוק 80 (סולניות: גני תמיר ויובל נדב)",
+      "perf": "בנות בצל ירוק 80",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -7316,7 +7318,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:00",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "סולניות: גני תמיר ויובל נדב"
     },
     {
       "n": 84,
@@ -8124,7 +8127,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:56",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת השעות הקטנות (סולן: שייקה לוי)",
+      "perf": "להקת השעות הקטנות",
       "alb": "עשרת הצדיקים (להקת השעות הקטנות) (#3)",
       "alb_group": "עשרת הצדיקים (להקת השעות הקטנות)",
       "alb_trk": 3,
@@ -8186,7 +8189,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)",
+      "perf_detail": "סולן: שייקה לוי"
     },
     {
       "n": 94,
@@ -8782,7 +8786,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:10",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 101,
@@ -9405,7 +9410,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:32",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת חיל הים (סולנית: חיה ארד)",
+      "perf": "להקת חיל הים",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -9452,7 +9457,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:28",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: חיה ארד"
     },
     {
       "n": 109,
@@ -9607,7 +9613,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:43",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 111,
@@ -10017,7 +10024,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:16",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 116,
@@ -10416,7 +10424,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:27",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 121,
@@ -11161,7 +11170,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:57",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 130,
@@ -11358,7 +11368,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:31",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "להקת פיקוד הצפון (סולן: לוליק לוי)",
+      "perf": "להקת פיקוד הצפון",
       "alb": "בגלל מסמר (להקת פיקוד צפון) (#1)",
       "alb_group": "בגלל מסמר (להקת פיקוד צפון)",
       "alb_trk": 1,
@@ -11421,7 +11431,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "For Want of a Nail",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_detail": "סולן: לוליק לוי"
     },
     {
       "n": 133,
@@ -13559,7 +13570,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:49",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנית: מזל שמור)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -13621,7 +13632,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "המחזמר \"חמש חמש\""
+      "musical": "המחזמר \"חמש חמש\"",
+      "perf_detail": "סולנית: מזל שמור"
     },
     {
       "n": 163,
@@ -14000,7 +14012,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:45",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
+      "perf": "משתתפי המחזמר \"חמש חמש\"",
       "alb": "חמש חמש (המחזמר) (#7)",
       "alb_group": "חמש חמש (המחזמר)",
       "alb_trk": 7,
@@ -14163,7 +14175,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:39",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנית: מזל שמור)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14217,7 +14229,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:17",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: מזל שמור"
     },
     {
       "n": 172,
@@ -14329,7 +14342,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:19",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולן: אילי גורליצקי)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14354,7 +14367,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1045212"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "סולן: אילי גורליצקי"
     },
     {
       "n": 174,
@@ -14381,7 +14395,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:58",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנית: דמומית פונדילר)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14414,7 +14428,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:56",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: דמומית פונדילר"
     },
     {
       "n": 175,
@@ -14443,7 +14458,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:20",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנית: מרגלית מזרחי)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14458,7 +14473,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045170205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "סולנית: מרגלית מזרחי"
     },
     {
       "n": 176,
@@ -14485,7 +14501,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:25",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנית: עדנה לימונצ'יק)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14520,7 +14536,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:52",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: עדנה לימונצ'יק"
     },
     {
       "n": 177,
@@ -14650,7 +14667,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:40",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת פיקוד המרכז (סולנים: שייקה לוי וניצה פרחי)",
+      "perf": "להקת פיקוד המרכז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14665,7 +14682,8 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045030205171/NLI"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "סולנים: שייקה לוי וניצה פרחי"
     },
     {
       "n": 180,
@@ -14791,8 +14809,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: שרל אזנבור)",
-      "co_creators": "מקור: שרל אזנבור",
+      "role_label": "תרגום: נעמי שמר (מקור: שארל אזנבור)",
+      "co_creators": "מקור: שארל אזנבור",
       "opening_line": "רק אתמול הכרתיך אבל לי לא אכפת",
       "links": [
         {
@@ -14890,7 +14908,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:36",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "ג'ינה ג'וי (תזמורת משה אושרוביץ)",
+      "perf": "ג'ינה ג'וי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -14921,7 +14939,8 @@ window.PLAYLIST_DATA = {
       ],
       "musical": "הסרט \"האיש שידע יותר מדי\" (1956)",
       "orig_title": "Que Sera, Sera (Whatever Will Be, Will Be)",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_detail": "תזמורת משה אושרוביץ"
     },
     {
       "n": 185,
@@ -14997,8 +15016,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
+      "role_label": "תרגום: נעמי שמר (מקור: ז'וזף קוסמה)",
+      "co_creators": "מקור: ז'וזף קוסמה",
       "opening_line": "הלילה הזה הוא דומם הלילה כחל ואלם",
       "links": [
         {
@@ -15216,7 +15235,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:01",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "שלישיית נעורים (בני ברמן, רבקה קולר ויהודית לנדס)",
+      "perf": "שלישיית נעורים",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15258,7 +15277,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "Union Train",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_members": "בני ברמן, רבקה קולר ויהודית לנדס"
     },
     {
       "n": 191,
@@ -15454,7 +15474,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:42",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "תיאטרון הסמבטיון (אריק איינשטיין, רחל אטאס, יוסי פרוסט)",
+      "perf": "תיאטרון הסמבטיון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15480,7 +15500,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
+      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)",
+      "perf_members": "אריק איינשטיין, רחל אטאס ויוסי פרוסט"
     },
     {
       "n": 194,
@@ -15614,7 +15635,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:14",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "רחל אטאס ושמעון ישראלי (תיאטרון הסמבטיון)",
+      "perf": "רחל אטאס ושמעון ישראלי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15643,7 +15664,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "התוכנית \"דבר אל הקיר\" (תיאטרון הסמבטיון)"
+      "musical": "התוכנית \"דבר אל הקיר\" (תיאטרון הסמבטיון)",
+      "perf_detail": "תיאטרון הסמבטיון"
     },
     {
       "n": 197,
@@ -15670,7 +15692,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:06",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "תיאטרון הסמבטיון (אריק איינשטיין, רחל אטאס ויוסי פרוסט)",
+      "perf": "תיאטרון הסמבטיון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15713,7 +15735,8 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ],
-      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
+      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)",
+      "perf_members": "אריק איינשטיין, רחל אטאס ויוסי פרוסט"
     },
     {
       "n": 198,
@@ -15740,7 +15763,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:30",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "תיאטרון הסמבטיון (אריק איינשטיין, רחל אטאס ויוסי פרוסט)",
+      "perf": "תיאטרון הסמבטיון",
       "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959) (#6)",
       "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
       "alb_trk": 6,
@@ -15788,7 +15811,8 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ],
-      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)"
+      "musical": "התוכנית \"השד יודע\" (תיאטרון הסמבטיון)",
+      "perf_members": "אריק איינשטיין, רחל אטאס ויוסי פרוסט"
     },
     {
       "n": 199,
@@ -15891,7 +15915,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:50",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת גייסות השריון (מגי גרוס ואלה גדרון)",
+      "perf": "להקת גייסות השריון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -15921,7 +15945,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "שיר עם מסורתי",
-      "orig_lang": "עממי אפריקאי"
+      "orig_lang": "עממי אפריקאי",
+      "perf_detail": "סולניות: מגי גרוס ואלה גדרון"
     },
     {
       "n": 201,
@@ -16769,7 +16794,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:01",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "להקת גייסות השריון (סולנית: מיכל פרס)",
+      "perf": "להקת גייסות השריון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -16816,7 +16841,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:46",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: מיכל פרס"
     },
     {
       "n": 215,
@@ -16847,7 +16873,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:23",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (לחן 1)",
+      "perf": "נעמי שמר",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -16894,7 +16920,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:01",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "לחן 1"
     },
     {
       "n": 216,
@@ -17504,7 +17531,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:08",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "זמרת לא מזוהה (זמריר המועצה לשיווק פרי הדר)",
+      "perf": "זמרת לא מזוהה",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -17519,7 +17546,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1297594"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "זמריר המועצה לשיווק פרי הדר"
     },
     {
       "n": 226,
@@ -17793,7 +17821,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:14",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת דליה והמלחים (שלישיית גשר הירקון: אריק איינשטיין, בני אמדורסקי ויהורם גאון; רביעיית מועדון התיאטרון: גדעון זינגר, יעקב בן-סירא, ראובן שפר וחנן גולדבלט; ישראל גוריון ומשתתפי הסרט)",
+      "perf": "להקת דליה והמלחים",
       "alb": "דליה והמלחים – פסקול הסרט (מקולית EP 5496, 1964)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -17817,7 +17845,8 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ],
-      "musical": "הסרט \"דליה והמלחים\" (1964)"
+      "musical": "הסרט \"דליה והמלחים\" (1964)",
+      "perf_members": "שלישיית גשר הירקון: אריק איינשטיין, בני אמדורסקי ויהורם גאון; רביעיית מועדון התיאטרון: גדעון זינגר, יעקב בן-סירא, ראובן שפר וחנן גולדבלט; ישראל גוריון ומשתתפי הסרט"
     },
     {
       "n": 231,
@@ -18075,7 +18104,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:38",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "משתתפי התכנית שייקספיר איננו",
+      "perf": "רביעיית \"שייקספיר איננו\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -18091,7 +18120,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 236,
@@ -18120,7 +18150,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:48",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "רביעיית שייקספיר איננו",
+      "perf": "רביעיית \"שייקספיר איננו\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -18170,7 +18200,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 237,
@@ -18201,7 +18232,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:55",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "להקת החמאם (רביעיית \"שייקספיר איננו\")",
+      "perf": "רביעיית \"שייקספיר איננו\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -18263,7 +18294,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 238,
@@ -18385,7 +18417,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:43",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "רביעיית \"שייקספיר איננו\" (סולנים: נירה עדי ואושיק לוי)",
+      "perf": "רביעיית \"שייקספיר איננו\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -18440,7 +18472,9 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_detail": "סולנים: נירה עדי ואושיק לוי",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 240,
@@ -18557,7 +18591,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:45",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "רביעיית \"שייקספיר איננו\" (נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן)",
+      "perf": "רביעיית \"שייקספיר איננו\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -18619,7 +18653,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 242,
@@ -18703,7 +18738,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 243,
@@ -18818,7 +18854,7 @@ window.PLAYLIST_DATA = {
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
       "perf": "רביעיית \"שייקספיר איננו\"",
-      "alb": "שייקספיר איננו (1964)",
+      "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_and_music",
@@ -18846,7 +18882,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "ההצגה \"שייקספיר איננו\""
+      "musical": "ההצגה \"שייקספיר איננו\"",
+      "perf_members": "נירה עדי, אושיק לוי, שלמה וישינסקי ואריאל פורמן"
     },
     {
       "n": 245,
@@ -19068,7 +19105,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:49",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "מיכל פרס (מתוך \"המלך ואני\")",
+      "perf": "מיכל פרס",
       "alb": "המלך ואני (הפקת גיורא גודיק) (#2)",
       "alb_group": "המלך ואני (הפקת גיורא גודיק)",
       "alb_trk": 2,
@@ -19297,7 +19334,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:04",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "מיכל פרס ודני בן ישראל (מתוך \"המלך ואני\")",
+      "perf": "מיכל פרס ודני בן ישראל",
       "alb": "המלך ואני (הפקת גיורא גודיק) (#6)",
       "alb_group": "המלך ואני (הפקת גיורא גודיק)",
       "alb_trk": 6,
@@ -19409,7 +19446,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:35",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "עפרה דירון (מתוך \"המלך ואני\")",
+      "perf": "עפרה דירון",
       "alb": "המלך ואני (הפקת גיורא גודיק) (#8)",
       "alb_group": "המלך ואני (הפקת גיורא גודיק)",
       "alb_trk": 8,
@@ -19466,7 +19503,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:25",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "עפרה דירון (מתוך \"המלך ואני\")",
+      "perf": "עפרה דירון",
       "alb": "המלך ואני (הפקת גיורא גודיק) (#9)",
       "alb_group": "המלך ואני (הפקת גיורא גודיק)",
       "alb_trk": 9,
@@ -19516,7 +19553,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:40",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "מיכל פרס ודני בן ישראל (מתוך \"המלך ואני\")",
+      "perf": "מיכל פרס ודני בן ישראל",
       "alb": "המלך ואני (הפקת גיורא גודיק) (#10)",
       "alb_group": "המלך ואני (הפקת גיורא גודיק)",
       "alb_trk": 10,
@@ -19819,7 +19856,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:39",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 262,
@@ -19871,7 +19909,8 @@ window.PLAYLIST_DATA = {
       "alts": [],
       "musical": "הסרט \"לילה של יום מפרך\" (1964)",
       "orig_title": "I'm Happy Just to Dance with You",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 263,
@@ -19925,7 +19964,8 @@ window.PLAYLIST_DATA = {
       ],
       "alts": [],
       "orig_title": "לחן של מנוס חדג'ידקיס",
-      "orig_lang": "יוונית"
+      "orig_lang": "יוונית",
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 264,
@@ -19970,7 +20010,8 @@ window.PLAYLIST_DATA = {
       "alts": [],
       "musical": "הסרט \"לילה של יום מפרך\" (1964)",
       "orig_title": "I Should Have Known Better",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 265,
@@ -20044,8 +20085,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
+      "role_label": "תרגום: נעמי שמר (מקור: ז'וזף קוסמה)",
+      "co_creators": "מקור: ז'וזף קוסמה",
       "opening_line": "נא זכרי ברברה",
       "links": [
         {
@@ -20120,8 +20161,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
       "alb_trk": 5,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
+      "role_label": "תרגום: נעמי שמר (מקור: ז'וזף קוסמה)",
+      "co_creators": "מקור: ז'וזף קוסמה",
       "opening_line": "נא זכרי ברברה",
       "links": [
         {
@@ -20680,8 +20721,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: שארל אזנבור, שרל אזנבור)",
-      "co_creators": "מקור: שארל אזנבור, שרל אזנבור",
+      "role_label": "תרגום: נעמי שמר (מקור: שארל אזנבור)",
+      "co_creators": "מקור: שארל אזנבור",
       "opening_line": "באותו מקום באותה שעה בין אותם שדות",
       "links": [
         {
@@ -20802,8 +20843,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: שארל אזנבור, שרל אזנבור)",
-      "co_creators": "מקור: שארל אזנבור, שרל אזנבור",
+      "role_label": "תרגום: נעמי שמר (מקור: שארל אזנבור)",
+      "co_creators": "מקור: שארל אזנבור",
       "opening_line": "תביטי רגע בראי אני שואל אם זה טבעי",
       "links": [
         {
@@ -21730,7 +21771,7 @@ window.PLAYLIST_DATA = {
       "vid": "ud8TFvfUJ8M",
       "vtitle": "נעמי שמר ועודד תאומי - צירצורים (מתוך נעמי שמר שרה לילדים, 1975)",
       "ch": "נעמי שמר - Topic",
-      "dur": "5:39",
+      "dur": "1:33",
       "tier": "1_album_naomi",
       "tier_label": "1. אלבום של נעמי שמר",
       "perf": "נעמי שמר ועודד תאומי",
@@ -21768,7 +21809,8 @@ window.PLAYLIST_DATA = {
           "dur": "5:39",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "start": 246
     },
     {
       "n": 291,
@@ -22090,8 +22132,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_only",
-      "role_label": "מילים: נעמי שמר · לחן: נחלת הכלל, עממי",
-      "co_creators": "לחן: נחלת הכלל, עממי",
+      "role_label": "מילים: נעמי שמר · לחן: עממי",
+      "co_creators": "לחן: עממי",
       "opening_line": "נתתי דובדבן לה ללא חרצן",
       "links": [
         {
@@ -22335,8 +22377,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: מסורתי, מן המקורות",
-      "co_creators": "מילים: מסורתי, מן המקורות",
+      "role_label": "לחן: נעמי שמר · מילים: מן המקורות",
+      "co_creators": "מילים: מן המקורות",
       "opening_line": "בצאתך משעיר בצעדך משדה אדום",
       "links": [
         {
@@ -22890,8 +22932,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "שירי נעמי שמר (חבורת בימות)",
       "alb_trk": 7,
       "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר (עם נחלת הכלל, מן המקורות)",
-      "co_creators": "עם נחלת הכלל, מן המקורות",
+      "role_label": "מילים ולחן: נעמי שמר (עם מן המקורות)",
+      "co_creators": "עם מן המקורות",
       "opening_line": "לא אמות כי אחיה ואספר מעשי יה",
       "links": [
         {
@@ -23022,7 +23064,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:35",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "עוזי מאירי (חבורת בימות)",
+      "perf": "עוזי מאירי",
       "alb": "שירי נעמי שמר (חבורת בימות) (#12)",
       "alb_group": "שירי נעמי שמר (חבורת בימות)",
       "alb_trk": 12,
@@ -23069,7 +23111,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:45",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "חבורת בימות"
     },
     {
       "n": 311,
@@ -24664,8 +24707,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "כיצד שוברים חמסין (נעמי שמר)",
       "alb_trk": 3,
       "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר (עם מסורתי, מן המקורות)",
-      "co_creators": "עם מסורתי, מן המקורות",
+      "role_label": "מילים ולחן: נעמי שמר (עם מן המקורות)",
+      "co_creators": "עם מן המקורות",
       "opening_line": "נצא השדה נלינה בכפרים",
       "links": [
         {
@@ -25645,136 +25688,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 351,
-      "chrono_n": 633,
-      "canon_score": 23.8,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
-      "title": "לא ביאליק [ביצוע מקורי] (1995)",
-      "raw_title": "לא ביאליק",
-      "alt_titles": [],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1995",
-      "rec_year": "1995",
-      "song_year": "1976",
-      "year_src": "existing_curated",
-      "decade": "1990s+",
-      "vid": "jzNc8KFQ4S4",
-      "vtitle": "לא ביאליק מאת נעמי שמר שרות נעמי שמר ורבקה מיכאלי",
-      "ch": "ללי שמר",
-      "dur": "3:05",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אני אכניס אותך תחת כנפי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1019564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "JUiRv74kgHU",
-          "vtitle": "לא ביאליק",
-          "ch": "Gitit Shoval - Topic",
-          "dur": "2:24",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "dZOJilPsiBE",
-          "vtitle": "Broadway in Monart  - לא ביאליק",
-          "ch": "Ostrovsky Music Production",
-          "dur": "2:27",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 352,
-      "chrono_n": 629,
-      "canon_score": 27.4,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "p2",
-      "ch_lbl": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
-      "title": "מנגנות ויואלדי [ביצוע מקורי] (1994)",
-      "raw_title": "מנגנות ויואלדי",
-      "alt_titles": [
-        "מנגנות ויולדי",
-        "מנגנות ויואלדי מנגנות גם באך"
-      ],
-      "ver_idx": 1,
-      "ver_total": 2,
-      "year": "1994",
-      "rec_year": "1994",
-      "song_year": "1976",
-      "year_src": "archive_desc",
-      "decade": "1990s+",
-      "vid": "l4y16i5NwwQ",
-      "vtitle": "מנגנות ויואלדי מאת נעמי שמר, שרות נעמי שמר ורבקה מיכאלי",
-      "ch": "ללי שמר",
-      "dur": "3:22",
-      "tier": "3_naomi_performance",
-      "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו מנגנות ברחוב מקום שלנו דוקא טוב",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1049876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "weX6vsG96ZY",
-          "vtitle": "מנגנות ויואלדי",
-          "ch": "Gitit Shoval - Topic",
-          "dur": "3:13",
-          "src": "direct_alternative"
-        }
-      ]
-    },
-    {
-      "n": 353,
       "chrono_n": 409,
       "canon_score": 6.5,
       "acum_v": 1,
@@ -25823,7 +25736,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "גרמנית"
     },
     {
-      "n": 354,
+      "n": 352,
       "chrono_n": 410,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -25831,14 +25744,14 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "p2",
       "ch_lbl": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
-      "title": "פקדת הארץ [ביצוע: הגשש החיוור] (1976)",
-      "raw_title": "פקדת הארץ",
+      "title": "פקדת הארץ (קטע פתיחה) (1976)",
+      "raw_title": "פקדת הארץ (קטע פתיחה)",
       "alt_titles": [
         "פקדת הארץ",
         "פקדת"
       ],
       "ver_idx": 1,
-      "ver_total": 2,
+      "ver_total": 1,
       "year": "1976",
       "rec_year": "1976",
       "song_year": "1976",
@@ -25865,18 +25778,10 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045650205171/NLI"
         }
       ],
-      "alts": [
-        {
-          "vid": "wk0pllJl1nU",
-          "vtitle": "הגשש החיוור ושוקולד מנטה מסטיק - פקדת הארץ (1976)",
-          "ch": "הגשש החיוור",
-          "dur": "2:28",
-          "src": "same_song_performance"
-        }
-      ]
+      "alts": []
     },
     {
-      "n": 355,
+      "n": 353,
       "chrono_n": 411,
       "canon_score": 6.1,
       "acum_v": 0,
@@ -25884,14 +25789,14 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "p2",
       "ch_lbl": "פרק 9: \"כיצד שוברים חמסין\" והמחזמר \"מסעות בנימין השלישי\" (1975–1976)",
-      "title": "פקדת הארץ [ביצוע מקורי] (1976)",
+      "title": "פקדת הארץ (1976)",
       "raw_title": "פקדת הארץ",
       "alt_titles": [
         "פקדת הארץ",
         "פקדת"
       ],
-      "ver_idx": 2,
-      "ver_total": 2,
+      "ver_idx": 1,
+      "ver_total": 1,
       "year": "1976",
       "rec_year": "1976",
       "song_year": "1976",
@@ -25918,18 +25823,10 @@ window.PLAYLIST_DATA = {
           "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037045650205171/NLI"
         }
       ],
-      "alts": [
-        {
-          "vid": "dGSCRDVe9NE",
-          "vtitle": "הגשש החיוור - הקדמה לשיר \"פקדת הארץ\" (1976)",
-          "ch": "הגשש החיוור",
-          "dur": "1:57",
-          "src": "same_song_performance"
-        }
-      ]
+      "alts": []
     },
     {
-      "n": 356,
+      "n": 354,
       "chrono_n": 437,
       "canon_score": 143.6,
       "acum_v": 14,
@@ -25999,7 +25896,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 357,
+      "n": 355,
       "chrono_n": 442,
       "canon_score": 20.5,
       "acum_v": 1,
@@ -26050,7 +25947,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 358,
+      "n": 356,
       "chrono_n": 447,
       "canon_score": 79.0,
       "acum_v": 0,
@@ -26110,7 +26007,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 359,
+      "n": 357,
       "chrono_n": 445,
       "canon_score": 23.6,
       "acum_v": 5,
@@ -26182,7 +26079,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 360,
+      "n": 358,
       "chrono_n": 452,
       "canon_score": 25.5,
       "acum_v": 3,
@@ -26260,7 +26157,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 361,
+      "n": 359,
       "chrono_n": 451,
       "canon_score": 8.8,
       "acum_v": 0,
@@ -26313,7 +26210,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 362,
+      "n": 360,
       "chrono_n": 453,
       "canon_score": 20.9,
       "acum_v": 1,
@@ -26367,7 +26264,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 363,
+      "n": 361,
       "chrono_n": 462,
       "canon_score": 15.5,
       "acum_v": 3,
@@ -26424,7 +26321,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "איטלקית"
     },
     {
-      "n": 364,
+      "n": 362,
       "chrono_n": 463,
       "canon_score": 19.3,
       "acum_v": 1,
@@ -26475,7 +26372,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 365,
+      "n": 363,
       "chrono_n": 488,
       "canon_score": 14.5,
       "acum_v": 1,
@@ -26531,7 +26428,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 366,
+      "n": 364,
       "chrono_n": 489,
       "canon_score": 33.7,
       "acum_v": 3,
@@ -26583,7 +26480,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 367,
+      "n": 365,
       "chrono_n": 485,
       "canon_score": 104.2,
       "acum_v": 9,
@@ -26610,7 +26507,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:10",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "קבוצת זמרים (ילדי המכביה)",
+      "perf": "קבוצת זמרים",
       "alb": "המכביה (1965)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -26657,10 +26554,11 @@ window.PLAYLIST_DATA = {
           "dur": "2:06",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "ילדי המכביה"
     },
     {
-      "n": 368,
+      "n": 366,
       "chrono_n": 490,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -26743,7 +26641,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 369,
+      "n": 367,
       "chrono_n": 491,
       "canon_score": 53.3,
       "acum_v": 12,
@@ -26826,7 +26724,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 370,
+      "n": 368,
       "chrono_n": 492,
       "canon_score": 56.8,
       "acum_v": 5,
@@ -26900,7 +26798,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 371,
+      "n": 369,
       "chrono_n": 505,
       "canon_score": 20.7,
       "acum_v": 1,
@@ -26950,7 +26848,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 372,
+      "n": 370,
       "chrono_n": 506,
       "canon_score": 27.3,
       "acum_v": 1,
@@ -27011,7 +26909,7 @@ window.PLAYLIST_DATA = {
       "musical": "המחזה \"אסתר המלכה\""
     },
     {
-      "n": 373,
+      "n": 371,
       "chrono_n": 507,
       "canon_score": 39.6,
       "acum_v": 1,
@@ -27078,7 +26976,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 374,
+      "n": 372,
       "chrono_n": 501,
       "canon_score": 57.3,
       "acum_v": 8,
@@ -27133,7 +27031,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 375,
+      "n": 373,
       "chrono_n": 502,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -27207,7 +27105,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 376,
+      "n": 374,
       "chrono_n": 512,
       "canon_score": 79.0,
       "acum_v": 4,
@@ -27267,7 +27165,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 377,
+      "n": 375,
       "chrono_n": 513,
       "canon_score": 24.7,
       "acum_v": 2,
@@ -27322,7 +27220,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 378,
+      "n": 376,
       "chrono_n": 521,
       "canon_score": 108.0,
       "acum_v": 3,
@@ -27405,7 +27303,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 379,
+      "n": 377,
       "chrono_n": 522,
       "canon_score": 14.3,
       "acum_v": 1,
@@ -27455,7 +27353,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 380,
+      "n": 378,
       "chrono_n": 518,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -27547,7 +27445,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 381,
+      "n": 379,
       "chrono_n": 530,
       "canon_score": 133.8,
       "acum_v": 11,
@@ -27621,7 +27519,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 382,
+      "n": 380,
       "chrono_n": 703,
       "canon_score": 17.4,
       "acum_v": 2,
@@ -27679,7 +27577,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 383,
+      "n": 381,
       "chrono_n": 531,
       "canon_score": 88.8,
       "acum_v": 4,
@@ -27734,7 +27632,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 384,
+      "n": 382,
       "chrono_n": 532,
       "canon_score": 27.9,
       "acum_v": 4,
@@ -27811,7 +27709,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 385,
+      "n": 383,
       "chrono_n": 540,
       "canon_score": 22.4,
       "acum_v": 1,
@@ -27887,7 +27785,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 386,
+      "n": 384,
       "chrono_n": 539,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -27954,7 +27852,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 387,
+      "n": 385,
       "chrono_n": 535,
       "canon_score": 23.6,
       "acum_v": 2,
@@ -28018,7 +27916,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 388,
+      "n": 386,
       "chrono_n": 537,
       "canon_score": 8.2,
       "acum_v": 1,
@@ -28075,7 +27973,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 389,
+      "n": 387,
       "chrono_n": 544,
       "canon_score": 96.5,
       "acum_v": 4,
@@ -28135,7 +28033,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 390,
+      "n": 388,
       "chrono_n": 545,
       "canon_score": 93.0,
       "acum_v": 5,
@@ -28211,7 +28109,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 391,
+      "n": 389,
       "chrono_n": 546,
       "canon_score": 39.4,
       "acum_v": 4,
@@ -28265,7 +28163,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 392,
+      "n": 390,
       "chrono_n": 547,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -28325,7 +28223,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 393,
+      "n": 391,
       "chrono_n": 548,
       "canon_score": 176.0,
       "acum_v": 12,
@@ -28394,7 +28292,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 394,
+      "n": 392,
       "chrono_n": 549,
       "canon_score": 30.4,
       "acum_v": 3,
@@ -28448,7 +28346,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 395,
+      "n": 393,
       "chrono_n": 550,
       "canon_score": 28.3,
       "acum_v": 2,
@@ -28500,7 +28398,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 396,
+      "n": 394,
       "chrono_n": 551,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -28574,7 +28472,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 397,
+      "n": 395,
       "chrono_n": 552,
       "canon_score": 87.6,
       "acum_v": 2,
@@ -28643,7 +28541,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 398,
+      "n": 396,
       "chrono_n": 553,
       "canon_score": 153.5,
       "acum_v": 6,
@@ -28717,7 +28615,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 399,
+      "n": 397,
       "chrono_n": 587,
       "canon_score": 25.1,
       "acum_v": 1,
@@ -28746,8 +28644,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
+      "role_label": "תרגום: נעמי שמר (מקור: ז'וזף קוסמה)",
+      "co_creators": "מקור: ז'וזף קוסמה",
       "opening_line": "עוד מהלכת הרוח בגן עוד מספר אגדות השושן",
       "links": [
         {
@@ -28787,7 +28685,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "צרפתית"
     },
     {
-      "n": 400,
+      "n": 398,
       "chrono_n": 554,
       "canon_score": 10.1,
       "acum_v": 2,
@@ -28829,7 +28727,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 401,
+      "n": 399,
       "chrono_n": 571,
       "canon_score": 44.1,
       "acum_v": 3,
@@ -28903,7 +28801,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 402,
+      "n": 400,
       "chrono_n": 572,
       "canon_score": 30.3,
       "acum_v": 2,
@@ -28957,7 +28855,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 403,
+      "n": 401,
       "chrono_n": 574,
       "canon_score": 25.5,
       "acum_v": 3,
@@ -29020,7 +28918,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 404,
+      "n": 402,
       "chrono_n": 575,
       "canon_score": 24.0,
       "acum_v": 2,
@@ -29074,7 +28972,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 405,
+      "n": 403,
       "chrono_n": 576,
       "canon_score": 137.7,
       "acum_v": 13,
@@ -29148,7 +29046,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 406,
+      "n": 404,
       "chrono_n": 687,
       "canon_score": 18.6,
       "acum_v": 2,
@@ -29213,7 +29111,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 407,
+      "n": 405,
       "chrono_n": 577,
       "canon_score": 80.6,
       "acum_v": 6,
@@ -29287,7 +29185,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 408,
+      "n": 406,
       "chrono_n": 578,
       "canon_score": 80.6,
       "acum_v": 6,
@@ -29311,7 +29209,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:42",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר, מתי כספי ואהוד מנור (1988)",
+      "perf": "נעמי שמר, מתי כספי ואהוד מנור",
       "alb": "ארכיון ללי שמר",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -29361,7 +29259,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 409,
+      "n": 407,
       "chrono_n": 580,
       "canon_score": 20.7,
       "acum_v": 1,
@@ -29413,7 +29311,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 410,
+      "n": 408,
       "chrono_n": 581,
       "canon_score": 82.5,
       "acum_v": 3,
@@ -29482,7 +29380,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 411,
+      "n": 409,
       "chrono_n": 582,
       "canon_score": 32.4,
       "acum_v": 1,
@@ -29546,7 +29444,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "ספרדית"
     },
     {
-      "n": 412,
+      "n": 410,
       "chrono_n": 583,
       "canon_score": 27.9,
       "acum_v": 1,
@@ -29624,7 +29522,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "יוונית"
     },
     {
-      "n": 413,
+      "n": 411,
       "chrono_n": 584,
       "canon_score": 19.6,
       "acum_v": 3,
@@ -29693,7 +29591,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "אנגלית"
     },
     {
-      "n": 414,
+      "n": 412,
       "chrono_n": 585,
       "canon_score": 30.2,
       "acum_v": 5,
@@ -29749,7 +29647,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 415,
+      "n": 413,
       "chrono_n": 586,
       "canon_score": 83.9,
       "acum_v": 3,
@@ -29804,7 +29702,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 416,
+      "n": 414,
       "chrono_n": 590,
       "canon_score": 53.8,
       "acum_v": 12,
@@ -29882,7 +29780,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 417,
+      "n": 415,
       "chrono_n": 591,
       "canon_score": 18.8,
       "acum_v": 3,
@@ -29956,7 +29854,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 418,
+      "n": 416,
       "chrono_n": 592,
       "canon_score": 24.3,
       "acum_v": 3,
@@ -30030,7 +29928,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 419,
+      "n": 417,
       "chrono_n": 593,
       "canon_score": 46.0,
       "acum_v": 46,
@@ -30087,7 +29985,7 @@ window.PLAYLIST_DATA = {
       "orig_lang": "ספרדית / פורטוגזית"
     },
     {
-      "n": 420,
+      "n": 418,
       "chrono_n": 597,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -30123,8 +30021,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: מסורתי, מן המקורות",
-      "co_creators": "מילים: מסורתי, מן המקורות",
+      "role_label": "לחן: נעמי שמר · מילים: מן המקורות",
+      "co_creators": "מילים: מן המקורות",
       "opening_line": "האזינה אלוהים תפילתי האזינה אלוהים תפילתי",
       "links": [
         {
@@ -30177,7 +30075,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 421,
+      "n": 419,
       "chrono_n": 598,
       "canon_score": 151.4,
       "acum_v": 13,
@@ -30255,7 +30153,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 422,
+      "n": 420,
       "chrono_n": 610,
       "canon_score": 12.6,
       "acum_v": 0,
@@ -30312,7 +30210,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 423,
+      "n": 421,
       "chrono_n": 607,
       "canon_score": 26.8,
       "acum_v": 4,
@@ -30368,7 +30266,7 @@ window.PLAYLIST_DATA = {
       "alts": []
     },
     {
-      "n": 424,
+      "n": 422,
       "chrono_n": 608,
       "canon_score": 124.1,
       "acum_v": 11,
@@ -30442,7 +30340,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 425,
+      "n": 423,
       "chrono_n": 609,
       "canon_score": 76.4,
       "acum_v": 3,
@@ -30505,7 +30403,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 426,
+      "n": 424,
       "chrono_n": 606,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -30579,7 +30477,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 427,
+      "n": 425,
       "chrono_n": 622,
       "canon_score": 57.6,
       "acum_v": 4,
@@ -30641,7 +30539,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 428,
+      "n": 426,
       "chrono_n": 625,
       "canon_score": 57.6,
       "acum_v": 4,
@@ -30703,7 +30601,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 429,
+      "n": 427,
       "chrono_n": 631,
       "canon_score": 34.1,
       "acum_v": 6,
@@ -30775,6 +30673,137 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ]
+    },
+    {
+      "n": 428,
+      "chrono_n": 630,
+      "canon_score": 27.4,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 14: עשור אחרון וחותם (1993–2004)",
+      "title": "מנגנות ויואלדי [ביצוע מקורי] (1994)",
+      "raw_title": "מנגנות ויואלדי",
+      "alt_titles": [
+        "מנגנות ויולדי",
+        "מנגנות ויואלדי מנגנות גם באך"
+      ],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1994",
+      "rec_year": "1994",
+      "song_year": "1994",
+      "year_src": "archive_desc",
+      "decade": "1990s+",
+      "vid": "l4y16i5NwwQ",
+      "vtitle": "מנגנות ויואלדי מאת נעמי שמר, שרות נעמי שמר ורבקה מיכאלי",
+      "ch": "ללי שמר",
+      "dur": "3:22",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר ורבקה מיכאלי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו מנגנות ברחוב מקום שלנו דוקא טוב",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1049876",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "weX6vsG96ZY",
+          "vtitle": "מנגנות ויואלדי",
+          "ch": "Gitit Shoval - Topic",
+          "dur": "3:13",
+          "src": "direct_alternative"
+        }
+      ]
+    },
+    {
+      "n": 429,
+      "chrono_n": 633,
+      "canon_score": 23.8,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "p2",
+      "ch_lbl": "פרק 14: עשור אחרון וחותם (1993–2004)",
+      "title": "לא ביאליק [ביצוע מקורי] (1995)",
+      "raw_title": "לא ביאליק",
+      "alt_titles": [],
+      "ver_idx": 1,
+      "ver_total": 2,
+      "year": "1995",
+      "rec_year": "1995",
+      "song_year": "1995",
+      "year_src": "existing_curated",
+      "decade": "1990s+",
+      "vid": "jzNc8KFQ4S4",
+      "vtitle": "לא ביאליק מאת נעמי שמר שרות נעמי שמר ורבקה מיכאלי",
+      "ch": "ללי שמר",
+      "dur": "3:05",
+      "tier": "3_naomi_performance",
+      "tier_label": "3. ביצוע של נעמי שמר",
+      "perf": "נעמי שמר ורבקה מיכאלי",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אני אכניס אותך תחת כנפי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1019564",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "JUiRv74kgHU",
+          "vtitle": "לא ביאליק",
+          "ch": "Gitit Shoval - Topic",
+          "dur": "2:24",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "dZOJilPsiBE",
+          "vtitle": "Broadway in Monart  - לא ביאליק",
+          "ch": "Ostrovsky Music Production",
+          "dur": "2:27",
+          "src": "direct_alternative"
+        }
+      ],
+      "perf_detail": "אצל דן שילון"
     },
     {
       "n": 430,
@@ -31655,7 +31684,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "ירושלים של זהב [ביצוע: עפרה חזה (פעמוני היובל)] (1998)",
+      "title": "ירושלים של זהב [ביצוע: עפרה חזה] (1998)",
       "raw_title": "ירושלים של זהב",
       "alt_titles": [
         "דער קילער ווינט ווי וויין איז",
@@ -31677,7 +31706,7 @@ window.PLAYLIST_DATA = {
       "dur": "5:29",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "עפרה חזה (פעמוני היובל)",
+      "perf": "עפרה חזה",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -31710,7 +31739,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "פעמוני היובל"
     },
     {
       "n": 444,
@@ -31721,7 +31751,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "ירושלים של זהב [ביצוע: דוד עשת (יידיש, 1967)] (1967)",
+      "title": "ירושלים של זהב [ביצוע: דוד עשת] (1967)",
       "raw_title": "ירושלים של זהב",
       "alt_titles": [
         "דער קילער ווינט ווי וויין איז",
@@ -31743,7 +31773,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:37",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דוד עשת (יידיש, 1967)",
+      "perf": "דוד עשת",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -31783,7 +31813,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "יידיש"
     },
     {
       "n": 445,
@@ -31794,7 +31825,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "ירושלים של זהב [ביצוע: הקומפניון דה לה שנסון (צרפתית)] (1968)",
+      "title": "ירושלים של זהב [ביצוע: הקומפניון דה לה שנסון] (1968)",
       "raw_title": "ירושלים של זהב",
       "alt_titles": [
         "דער קילער ווינט ווי וויין איז",
@@ -31816,7 +31847,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:58",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "הקומפניון דה לה שנסון (צרפתית)",
+      "perf": "הקומפניון דה לה שנסון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -31841,7 +31872,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "צרפתית"
     },
     {
       "n": 446,
@@ -31852,7 +31884,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "ירושלים של זהב [ביצוע: דמיס רוסוס (באנגלית)] (1995)",
+      "title": "ירושלים של זהב [ביצוע: דמיס רוסוס] (1995)",
       "raw_title": "ירושלים של זהב",
       "alt_titles": [
         "דער קילער ווינט ווי וויין איז",
@@ -31874,7 +31906,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:41",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דמיס רוסוס (באנגלית)",
+      "perf": "דמיס רוסוס",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -31899,7 +31931,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1017808"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "באנגלית"
     },
     {
       "n": 447,
@@ -32059,7 +32092,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "על כל אלה [ביצוע: קולולם עם שלומי שבת (יום העצמאות ה-70)] (2018)",
+      "title": "על כל אלה [ביצוע: קולולם עם שלומי שבת] (2018)",
       "raw_title": "על כל אלה",
       "alt_titles": [
         "על כל אלה (על הדבש ועל העוקץ)",
@@ -32078,7 +32111,7 @@ window.PLAYLIST_DATA = {
       "dur": "5:51",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "קולולם עם שלומי שבת (יום העצמאות ה-70)",
+      "perf": "קולולם עם שלומי שבת",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32111,7 +32144,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:56",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "יום העצמאות ה-70"
     },
     {
       "n": 450,
@@ -32122,7 +32156,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "על כל אלה [ביצוע: יונינה (Yonina)] (2021)",
+      "title": "על כל אלה [ביצוע: יונינה] (2021)",
       "raw_title": "על כל אלה",
       "alt_titles": [
         "על כל אלה (על הדבש ועל העוקץ)",
@@ -32141,7 +32175,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:24",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "יונינה (Yonina)",
+      "perf": "יונינה",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32174,7 +32208,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:56",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "Yonina"
     },
     {
       "n": 451,
@@ -32185,7 +32220,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "על כל אלה [ביצוע: תיאודור ביקל (עברית ואנגלית, הופעה חיה)] (שיר מ־1980)",
+      "title": "על כל אלה [ביצוע: תיאודור ביקל] (שיר מ־1980)",
       "raw_title": "על כל אלה",
       "alt_titles": [
         "על כל אלה (על הדבש ועל העוקץ)",
@@ -32204,7 +32239,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:28",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "תיאודור ביקל (עברית ואנגלית, הופעה חיה)",
+      "perf": "תיאודור ביקל",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32229,7 +32264,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "עברית ואנגלית, הופעה חיה"
     },
     {
       "n": 452,
@@ -32240,7 +32276,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "על כל אלה [ביצוע: עליזה קאשי (עברית ואנגלית)] (שיר מ־1980)",
+      "title": "על כל אלה [ביצוע: עליזה קאשי] (שיר מ־1980)",
       "raw_title": "על כל אלה",
       "alt_titles": [
         "על כל אלה (על הדבש ועל העוקץ)",
@@ -32259,7 +32295,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:15",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "עליזה קאשי (עברית ואנגלית)",
+      "perf": "עליזה קאשי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32284,7 +32320,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027898"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "עברית ואנגלית"
     },
     {
       "n": 453,
@@ -32640,7 +32677,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "לו יהי [ביצוע: זהו זה! והגששים (LIVE)] (2023)",
+      "title": "לו יהי [ביצוע: זהו זה! והגששים] (2023)",
       "raw_title": "לו יהי",
       "alt_titles": [],
       "ver_idx": 7,
@@ -32656,7 +32693,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:44",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "זהו זה! והגששים (LIVE)",
+      "perf": "זהו זה! והגששים",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32689,7 +32726,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:47",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "LIVE"
     },
     {
       "n": 458,
@@ -32700,7 +32738,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "עוד לא אהבתי די [ביצוע: יהורם גאון (הופעה בצוותא, 1977)] (1977)",
+      "title": "עוד לא אהבתי די [ביצוע: יהורם גאון] (1977)",
       "raw_title": "עוד לא אהבתי די",
       "alt_titles": [
         "לא אהבתי די"
@@ -32718,7 +32756,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:40",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "יהורם גאון (הופעה בצוותא, 1977)",
+      "perf": "יהורם גאון",
       "alb": "עוד לא אהבתי די (1977)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -32786,7 +32824,8 @@ window.PLAYLIST_DATA = {
           "dur": "45:04",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "הופעה בצוותא"
     },
     {
       "n": 459,
@@ -33106,7 +33145,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "אני גיטרה [ביצוע: דניאל וייס (הכוכב הבא 2025)] (2024)",
+      "title": "אני גיטרה [ביצוע: דניאל וייס] (2024)",
       "raw_title": "אני גיטרה",
       "alt_titles": [],
       "ver_idx": 3,
@@ -33122,7 +33161,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:44",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דניאל וייס (הכוכב הבא 2025)",
+      "perf": "דניאל וייס",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -33155,7 +33194,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:59",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "הכוכב הבא"
     },
     {
       "n": 464,
@@ -33886,7 +33926,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "המחזמר \"כיצד שוברים חמסין\""
+      "musical": "המחזמר \"כיצד שוברים חמסין\"",
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 473,
@@ -34027,7 +34068,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "חורשת האקליפטוס [ביצוע: חדוה עמרני (באנגלית)] (1991)",
+      "title": "חורשת האקליפטוס [ביצוע: חדוה עמרני] (1991)",
       "raw_title": "חורשת האקליפטוס",
       "alt_titles": [
         "חורשת האיקליפטוס",
@@ -34047,7 +34088,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:46",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "חדוה עמרני (באנגלית)",
+      "perf": "חדוה עמרני",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -34073,7 +34114,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"כיצד שוברים חמסין\""
+      "musical": "המחזמר \"כיצד שוברים חמסין\"",
+      "perf_detail": "באנגלית"
     },
     {
       "n": 476,
@@ -34084,7 +34126,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "חורשת האקליפטוס [ביצוע: קלאודיה מייר (Claudia Meyer, בעברית)] (2006)",
+      "title": "חורשת האקליפטוס [ביצוע: קלאודיה מייר] (2006)",
       "raw_title": "חורשת האקליפטוס",
       "alt_titles": [
         "חורשת האיקליפטוס",
@@ -34104,7 +34146,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:35",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "קלאודיה מייר (Claudia Meyer, בעברית)",
+      "perf": "קלאודיה מייר",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -34130,7 +34172,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"כיצד שוברים חמסין\""
+      "musical": "המחזמר \"כיצד שוברים חמסין\"",
+      "perf_detail": "Claudia Meyer, בעברית"
     },
     {
       "n": 477,
@@ -34779,7 +34822,7 @@ window.PLAYLIST_DATA = {
       "dur": "6:26",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר וחיים צינוביץ' (פסטיבל עין-גב)",
+      "perf": "נעמי שמר וחיים צינוביץ'",
       "alb": "פסטיבל עין-גב (1993)",
       "alb_group": "פסטיבל עין-גב (1993)",
       "alb_trk": 999,
@@ -34840,7 +34883,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:14",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "פסטיבל עין-גב"
     },
     {
       "n": 486,
@@ -34936,7 +34980,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "שבחי מעוז [ביצוע: אגם בוחבוט עם אוגדה 36 (חנוכה 2023)] (2023)",
+      "title": "שבחי מעוז [ביצוע: אגם בוחבוט עם אוגדה 36] (2023)",
       "raw_title": "שבחי מעוז",
       "alt_titles": [
         "מעוז צור",
@@ -34956,7 +35000,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:58",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אגם בוחבוט עם אוגדה 36 (חנוכה 2023)",
+      "perf": "אגם בוחבוט עם אוגדה 36",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -34989,7 +35033,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:00",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "חנוכה"
     },
     {
       "n": 488,
@@ -35171,7 +35216,8 @@ window.PLAYLIST_DATA = {
           "dur": "6:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "דינה גולן, רותי ביקל, אמנה כהן ודליה אורן"
     },
     {
       "n": 490,
@@ -35201,7 +35247,7 @@ window.PLAYLIST_DATA = {
       "dur": "6:49",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "להקת הנח\"ל, נעמי שמר, יאיר רוזנבלום ודני ליטאי (חזרה, 1969)",
+      "perf": "להקת הנח\"ל, נעמי שמר, יאיר רוזנבלום ודני ליטאי",
       "alb": "תיעוד חזרת להקת הנח\"ל (1969)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -35255,7 +35301,8 @@ window.PLAYLIST_DATA = {
           "dur": "0:54",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "חזרה"
     },
     {
       "n": 491,
@@ -35329,7 +35376,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "וולס להגנת הצומח [ביצוע: רוני דלומי (2014)] (2014)",
+      "title": "וולס להגנת הצומח [ביצוע: רוני דלומי] (2014)",
       "raw_title": "וולס להגנת הצומח",
       "alt_titles": [
         "ואלס להגנת הצומח",
@@ -35348,7 +35395,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:54",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "רוני דלומי (2014)",
+      "perf": "רוני דלומי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -36621,7 +36668,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "אהבת פועלי הבניין [ביצוע: השלושרים (\"על גשר הירקון\")] (1969)",
+      "title": "אהבת פועלי הבניין [ביצוע: השלושרים] (1969)",
       "raw_title": "אהבת פועלי הבניין",
       "alt_titles": [
         "אהבת פועלי בנין",
@@ -36644,7 +36691,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:36",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "השלושרים (\"על גשר הירקון\")",
+      "perf": "השלושרים",
       "alb": "שלושרים על גשר הירקון",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -36691,7 +36738,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:50",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "\"על גשר הירקון\""
     },
     {
       "n": 509,
@@ -36951,7 +36999,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "עיר לבנה [ביצוע: אריק איינשטיין (גרסת 1984)] (1984)",
+      "title": "עיר לבנה [ביצוע: אריק איינשטיין] (1984)",
       "raw_title": "עיר לבנה",
       "alt_titles": [
         "העיר הלבנה"
@@ -36969,7 +37017,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:31",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אריק איינשטיין (גרסת 1984)",
+      "perf": "אריק איינשטיין",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -37307,7 +37355,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "אנחנו שנינו מאותו הכפר [ביצוע: יוסי בנאי (בליווי סטו הכהן)] (1969)",
+      "title": "אנחנו שנינו מאותו הכפר [ביצוע: יוסי בנאי] (1969)",
       "raw_title": "אנחנו שנינו מאותו הכפר",
       "alt_titles": [
         "אנחנו מאותו הכפר",
@@ -37327,7 +37375,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:51",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "יוסי בנאי (בליווי סטו הכהן)",
+      "perf": "יוסי בנאי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -37395,7 +37443,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:25",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "בליווי סטו הכהן"
     },
     {
       "n": 518,
@@ -37882,7 +37931,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:07",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר והקהל (שירה בציבור בצוותא)",
+      "perf": "נעמי שמר והקהל",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -37943,7 +37992,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:53",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "שירה בציבור בצוותא"
     },
     {
       "n": 524,
@@ -38629,7 +38679,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "מטרייה בשניים [ביצוע: דני רובס ואילנית (פסטיבל עין-גב 2002)] (2002)",
+      "title": "מטרייה בשניים [ביצוע: דני רובס ואילנית] (2002)",
       "raw_title": "מטרייה בשניים",
       "alt_titles": [
         "מטריה בשניים",
@@ -38648,7 +38698,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:19",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "דני רובס ואילנית (פסטיבל עין-גב 2002)",
+      "perf": "דני רובס ואילנית",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -38682,7 +38732,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "המחזמר \"שמש במדבר\""
+      "musical": "המחזמר \"שמש במדבר\"",
+      "perf_detail": "פסטיבל עין-גב"
     },
     {
       "n": 533,
@@ -38757,7 +38808,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "מטרייה בשניים [ביצוע: אסתר עופרים וחיים טופול (באנגלית)] (1968)",
+      "title": "מטרייה בשניים [ביצוע: אסתר עופרים וחיים טופול] (1968)",
       "raw_title": "מטרייה בשניים",
       "alt_titles": [
         "מטריה בשניים",
@@ -38776,7 +38827,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:47",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אסתר עופרים וחיים טופול (באנגלית)",
+      "perf": "אסתר עופרים וחיים טופול",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -38802,7 +38853,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "alts": [],
-      "musical": "המחזמר \"שמש במדבר\""
+      "musical": "המחזמר \"שמש במדבר\"",
+      "perf_detail": "באנגלית"
     },
     {
       "n": 535,
@@ -39135,7 +39187,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:25",
       "tier": "1_album_naomi",
       "tier_label": "1. אלבום של נעמי שמר",
-      "perf": "נעמי שמר (אלבום 1981)",
+      "perf": "נעמי שמר",
       "alb": "על הדבש ועל העוקץ (נעמי שמר) (#7)",
       "alb_group": "על הדבש ועל העוקץ (נעמי שמר)",
       "alb_trk": 7,
@@ -39658,7 +39710,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "סימני דרך [ביצוע: עידן רייכל (אמפי שוני)] (2017)",
+      "title": "סימני דרך [ביצוע: עידן רייכל] (2017)",
       "raw_title": "סימני דרך",
       "alt_titles": [],
       "ver_idx": 3,
@@ -39674,7 +39726,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:06",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "עידן רייכל (אמפי שוני)",
+      "perf": "עידן רייכל",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -39707,7 +39759,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:26",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "אמפי שוני"
     },
     {
       "n": 546,
@@ -40304,7 +40357,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "הו רב חובל [ביצוע: עדי ביטי (בית ספר למוסיקה)] (2014)",
+      "title": "הו רב חובל [ביצוע: עדי ביטי] (2014)",
       "raw_title": "הו רב חובל",
       "alt_titles": [
         "הו רב-חובל",
@@ -40323,7 +40376,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:08",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "עדי ביטי (בית ספר למוסיקה)",
+      "perf": "עדי ביטי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -40358,7 +40411,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "O Captain! My Captain!",
-      "orig_lang": "אנגלית"
+      "orig_lang": "אנגלית",
+      "perf_detail": "בית ספר למוסיקה"
     },
     {
       "n": 554,
@@ -40859,7 +40913,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "נועה [ביצוע: נועה שמר (נכדתה של נעמי שמר)] (2015)",
+      "title": "נועה [ביצוע: נועה שמר] (2015)",
       "raw_title": "נועה",
       "alt_titles": [
         "נעה",
@@ -40878,7 +40932,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:35",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "נועה שמר (נכדתה של נעמי שמר)",
+      "perf": "נועה שמר",
       "alb": "עושי הסיכומים (2015)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -40946,7 +41000,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:22",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "נכדתה של נעמי שמר"
     },
     {
       "n": 560,
@@ -41060,7 +41115,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "זמר נודד [ביצוע: תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)] (1959)",
+      "title": "זמר נודד [ביצוע: תיאטרון הסמבטיון] (1959)",
       "raw_title": "זמר נודד",
       "alt_titles": [
         "שיר הנודד",
@@ -41084,7 +41139,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:47",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)",
+      "perf": "תיאטרון הסמבטיון",
       "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959) (#5)",
       "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
       "alb_trk": 5,
@@ -41152,7 +41207,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:11",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "אריק איינשטיין, רחל אטאס ויוסי פרוסט"
     },
     {
       "n": 562,
@@ -41266,7 +41322,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "זמר נודד [ביצוע: האחיות ברי (בעברית)] (1963)",
+      "title": "זמר נודד [ביצוע: האחיות ברי] (1963)",
       "raw_title": "זמר נודד",
       "alt_titles": [
         "שיר הנודד",
@@ -41290,7 +41346,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:29",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "האחיות ברי (בעברית)",
+      "perf": "האחיות ברי",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -41315,7 +41371,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "בעברית"
     },
     {
       "n": 564,
@@ -41326,7 +41383,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "זמר נודד [ביצוע: The Galliards (בעברית)] (1960)",
+      "title": "זמר נודד [ביצוע: The Galliards] (1960)",
       "raw_title": "זמר נודד",
       "alt_titles": [
         "שיר הנודד",
@@ -41350,7 +41407,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:19",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "The Galliards (בעברית)",
+      "perf": "The Galliards",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -41375,7 +41432,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1014640"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "בעברית"
     },
     {
       "n": 565,
@@ -41527,7 +41585,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "אהבה בת עשרים [ביצוע: יובל דיין (בית אבי חי)] (2014)",
+      "title": "אהבה בת עשרים [ביצוע: יובל דיין] (2014)",
       "raw_title": "אהבה בת עשרים",
       "alt_titles": [
         "הזקנים",
@@ -41548,7 +41606,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:24",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "יובל דיין (בית אבי חי)",
+      "perf": "יובל דיין",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -41583,7 +41641,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "La Chanson des vieux amants",
-      "orig_lang": "צרפתית"
+      "orig_lang": "צרפתית",
+      "perf_detail": "בית אבי חי"
     },
     {
       "n": 568,
@@ -42021,7 +42080,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "כמו חצב [ביצוע: זהו זה! ויהורם גאון (LIVE)] (2025)",
+      "title": "כמו חצב [ביצוע: זהו זה! ויהורם גאון] (2025)",
       "raw_title": "כמו חצב",
       "alt_titles": [],
       "ver_idx": 3,
@@ -42037,7 +42096,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:07",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "זהו זה! ויהורם גאון (LIVE)",
+      "perf": "זהו זה! ויהורם גאון",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -42070,7 +42129,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "LIVE"
     },
     {
       "n": 575,
@@ -43288,7 +43348,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "חמסינים במשלט [ביצוע: אילי גורליצקי, אריק איינשטיין ולהקת הצעירים (1961)] (1961)",
+      "title": "חמסינים במשלט [ביצוע: אילי גורליצקי, אריק איינשטיין ולהקת הצעירים] (1961)",
       "raw_title": "חמסינים במשלט",
       "alt_titles": [
         "חמסינים בכתה הזמן זוחל לאט כל שעור",
@@ -43307,7 +43367,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:14",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אילי גורליצקי, אריק איינשטיין ולהקת הצעירים (1961)",
+      "perf": "אילי גורליצקי, אריק איינשטיין ולהקת הצעירים",
       "alb": "שירי נעמי שמר (להקת הצעירים) (#4)",
       "alb_group": "שירי נעמי שמר (להקת הצעירים)",
       "alb_trk": 4,
@@ -43379,7 +43439,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "חמסינים במשלט [ביצוע: אף אוזן גרון (1975)] (1975)",
+      "title": "חמסינים במשלט [ביצוע: אף אוזן גרון] (1975)",
       "raw_title": "חמסינים במשלט",
       "alt_titles": [
         "חמסינים בכתה הזמן זוחל לאט כל שעור",
@@ -43398,7 +43458,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:36",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אף אוזן גרון (1975)",
+      "perf": "אף אוזן גרון",
       "alb": "שמש אחת",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -43456,7 +43516,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "חמסינים במשלט [ביצוע: אילי גורליצקי וגילה אלמגור (1958)] (1958)",
+      "title": "חמסינים במשלט [ביצוע: אילי גורליצקי וגילה אלמגור] (1958)",
       "raw_title": "חמסינים במשלט",
       "alt_titles": [
         "חמסינים בכתה הזמן זוחל לאט כל שעור",
@@ -43475,7 +43535,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:13",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אילי גורליצקי וגילה אלמגור (1958)",
+      "perf": "אילי גורליצקי וגילה אלמגור",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -43695,7 +43755,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "על כנפי הכסף [ביצוע: המקהלה לזמר עם (קול ישראל)] (1968)",
+      "title": "על כנפי הכסף [ביצוע: המקהלה לזמר עם] (1968)",
       "raw_title": "על כנפי הכסף",
       "alt_titles": [],
       "ver_idx": 4,
@@ -43711,7 +43771,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:51",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "המקהלה לזמר עם (קול ישראל)",
+      "perf": "המקהלה לזמר עם",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -43736,7 +43796,8 @@ window.PLAYLIST_DATA = {
           "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1027901"
         }
       ],
-      "alts": []
+      "alts": [],
+      "perf_detail": "קול ישראל"
     },
     {
       "n": 594,
@@ -45204,7 +45265,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "מיכאל [ביצוע: משתתפי אצלנו בפסנתר (מיקי קם)] (1993)",
+      "title": "מיכאל [ביצוע: משתתפי אצלנו בפסנתר] (1993)",
       "raw_title": "מיכאל",
       "alt_titles": [],
       "ver_idx": 3,
@@ -45220,7 +45281,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:17",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "משתתפי אצלנו בפסנתר (מיקי קם)",
+      "perf": "משתתפי אצלנו בפסנתר",
       "alb": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993) (#11)",
       "alb_group": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993)",
       "alb_trk": 11,
@@ -45274,7 +45335,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:54",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "מיקי קם"
     },
     {
       "n": 613,
@@ -45285,7 +45347,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "בדמייך חיי [ביצוע: רוחמה רז (2014)] (2014)",
+      "title": "בדמייך חיי [ביצוע: רוחמה רז] (2014)",
       "raw_title": "בדמייך חיי",
       "alt_titles": [
         "מלים העתיקות נותנות בי כח",
@@ -45305,7 +45367,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:31",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "רוחמה רז (2014)",
+      "perf": "רוחמה רז",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -45454,7 +45516,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:07",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "חבורת \"שירו שיר\" (סולנית: הדסה סיגלוב)",
+      "perf": "חבורת \"שירו שיר\"",
       "alb": "תחרות שירו שיר (1959–1960)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -45515,7 +45577,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:33",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סולנית: הדסה סיגלוב"
     },
     {
       "n": 616,
@@ -45791,7 +45854,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "שלום כיתה א' [ביצוע: מקהלת בית הספר לאמנויות (פתיחה: נעמי שמר)] (1992)",
+      "title": "שלום כיתה א' [ביצוע: מקהלת בית הספר לאמנויות] (1992)",
       "raw_title": "שלום כיתה א'",
       "alt_titles": [
         "שלום כיתה א",
@@ -45812,7 +45875,7 @@ window.PLAYLIST_DATA = {
       "dur": "4:03",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "מקהלת בית הספר לאמנויות (פתיחה: נעמי שמר)",
+      "perf": "מקהלת בית הספר לאמנויות",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -45859,7 +45922,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:45",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "פתיחה: נעמי שמר"
     },
     {
       "n": 620,
@@ -46152,7 +46216,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "מר נרקיס [ביצוע: דני גרנות וחבורת בימות (גרסה 2, 1972)] (1972)",
+      "title": "מר נרקיס [ביצוע: דני גרנות וחבורת בימות] (1972)",
       "raw_title": "מר נרקיס",
       "alt_titles": [],
       "ver_idx": 2,
@@ -46168,7 +46232,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:55",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "דני גרנות וחבורת בימות (גרסה 2, 1972)",
+      "perf": "דני גרנות וחבורת בימות",
       "alb": "שירי נעמי שמר (חבורת בימות)",
       "alb_group": "שירי נעמי שמר (חבורת בימות)",
       "alb_trk": 999,
@@ -46222,7 +46286,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "גרסה 2"
     },
     {
       "n": 624,
@@ -46542,7 +46607,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה א': קלאסיקות ושירי ילדים קאנוניים",
       "blk": "e1",
       "ch_lbl": "",
-      "title": "הפסנתר [ביצוע: משתתפי אצלנו בפסנתר (מיקי קם ונעמי שמר)] (1993)",
+      "title": "הפסנתר [ביצוע: משתתפי אצלנו בפסנתר] (1993)",
       "raw_title": "הפסנתר",
       "alt_titles": [
         "מתנה מיוחדת במינה"
@@ -46560,7 +46625,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:08",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "משתתפי אצלנו בפסנתר (מיקי קם ונעמי שמר)",
+      "perf": "משתתפי אצלנו בפסנתר",
       "alb": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993) (#9)",
       "alb_group": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993)",
       "alb_trk": 9,
@@ -46593,7 +46658,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:58",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "מיקי קם ונעמי שמר"
     },
     {
       "n": 629,
@@ -47192,7 +47258,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר חמש חמש (1965)] (1965)",
+      "title": "רב האור והתכלת [ביצוע: אביבה פז ובנות המחזמר \"חמש חמש\"] (1965)",
       "raw_title": "רב האור והתכלת",
       "alt_titles": [],
       "ver_idx": 3,
@@ -47208,7 +47274,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:23",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "אביבה פז ובנות המחזמר חמש חמש (1965)",
+      "perf": "אביבה פז ובנות המחזמר \"חמש חמש\"",
       "alb": "חמש חמש (המחזמר) (#1)",
       "alb_group": "חמש חמש (המחזמר)",
       "alb_trk": 1,
@@ -47288,7 +47354,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "בא הגדוד [ביצוע: משתתפי המחזמר חמש חמש (1965)] (1965)",
+      "title": "בא הגדוד [ביצוע: משתתפי המחזמר \"חמש חמש\"] (1965)",
       "raw_title": "בא הגדוד",
       "alt_titles": [
         "הגיע גדוד אל המושב באנו אל המושב"
@@ -47306,7 +47372,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:44",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש (1965)",
+      "perf": "משתתפי המחזמר \"חמש חמש\"",
       "alb": "חמש חמש (המחזמר) (#2)",
       "alb_group": "חמש חמש (המחזמר)",
       "alb_trk": 2,
@@ -47353,7 +47419,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "רומנס בכפר [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
+      "title": "רומנס בכפר [ביצוע: משתתפי המחזמר \"חמש חמש\"] (1958)",
       "raw_title": "רומנס בכפר",
       "alt_titles": [
         "ערב טוב"
@@ -47371,7 +47437,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:44",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
+      "perf": "משתתפי המחזמר \"חמש חמש\"",
       "alb": "חמש חמש (המחזמר) (#3)",
       "alb_group": "חמש חמש (המחזמר)",
       "alb_trk": 3,
@@ -47666,7 +47732,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "סמוך על התרנגול [ביצוע: אחינועם ניני והתזמורת הסימפונית ירושלים (הופעה חיה)] (2011)",
+      "title": "סמוך על התרנגול [ביצוע: אחינועם ניני והתזמורת הסימפונית ירושלים] (2011)",
       "raw_title": "סמוך על התרנגול",
       "alt_titles": [
         "תרנגול בן גבר",
@@ -47687,7 +47753,7 @@ window.PLAYLIST_DATA = {
       "dur": "5:51",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "אחינועם ניני והתזמורת הסימפונית ירושלים (הופעה חיה)",
+      "perf": "אחינועם ניני והתזמורת הסימפונית ירושלים",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -47749,7 +47815,8 @@ window.PLAYLIST_DATA = {
           "src": "direct_alternative"
         }
       ],
-      "musical": "המחזמר \"חמש חמש\""
+      "musical": "המחזמר \"חמש חמש\"",
+      "perf_detail": "הופעה חיה"
     },
     {
       "n": 644,
@@ -47760,7 +47827,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "חפש את האישה [ביצוע: משתתפי המחזמר חמש חמש] (1958)",
+      "title": "חפש את האישה [ביצוע: משתתפי המחזמר \"חמש חמש\"] (1958)",
       "raw_title": "חפש את האישה",
       "alt_titles": [
         "חפש את האשה"
@@ -47778,7 +47845,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:44",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "משתתפי המחזמר חמש חמש",
+      "perf": "משתתפי המחזמר \"חמש חמש\"",
       "alb": "חמש חמש (המחזמר) (#6)",
       "alb_group": "חמש חמש (המחזמר)",
       "alb_trk": 6,
@@ -48275,7 +48342,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "קרנבל [ביצוע: תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)] (1959)",
+      "title": "קרנבל [ביצוע: תיאטרון הסמבטיון] (1959)",
       "raw_title": "קרנבל",
       "alt_titles": [],
       "ver_idx": 2,
@@ -48291,7 +48358,7 @@ window.PLAYLIST_DATA = {
       "dur": "11:06",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "תיאטרון הסמבטיון (רחל אטאס, אריק איינשטיין ויוסי פרוסט)",
+      "perf": "תיאטרון הסמבטיון",
       "alb": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959) (#8)",
       "alb_group": "שמעון בר ורחל אטאס בשירי נעמי שמר (1959)",
       "alb_trk": 8,
@@ -48319,7 +48386,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:23",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_members": "אריק איינשטיין, רחל אטאס ויוסי פרוסט"
     },
     {
       "n": 652,
@@ -48586,7 +48654,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "שלג בצפת [ביצוע: חבורת \"שירו שיר\" (סולנית: הדסה סיגלוב)] (1962)",
+      "title": "שלג בצפת [ביצוע: חבורת \"שירו שיר\"] (1962)",
       "raw_title": "שלג בצפת",
       "alt_titles": [
         "כאן בצפת",
@@ -48606,7 +48674,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:36",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "חבורת \"שירו שיר\" (סולנית: הדסה סיגלוב)",
+      "perf": "חבורת \"שירו שיר\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -48636,7 +48704,8 @@ window.PLAYLIST_DATA = {
         }
       ],
       "orig_title": "In der Schweiz (In the Alps)",
-      "orig_lang": "גרמנית"
+      "orig_lang": "גרמנית",
+      "perf_detail": "סולנית: הדסה סיגלוב"
     },
     {
       "n": 657,
@@ -48788,7 +48857,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "קפה שחור [ביצוע: חבורת שירו שיר] (1969)",
+      "title": "קפה שחור [ביצוע: חבורת \"שירו שיר\"] (1969)",
       "raw_title": "קפה שחור",
       "alt_titles": [],
       "ver_idx": 2,
@@ -48804,7 +48873,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:41",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "חבורת שירו שיר",
+      "perf": "חבורת \"שירו שיר\"",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -48923,7 +48992,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "אוכל אדם [ביצוע: צמד הגפרורים (אריק איינשטיין ואילנה רובינא)] (1962)",
+      "title": "אוכל אדם [ביצוע: צמד הגפרורים] (1962)",
       "raw_title": "אוכל אדם",
       "alt_titles": [
         "אוכל-אדם"
@@ -48941,7 +49010,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:52",
       "tier": "2_album_original",
       "tier_label": "2. אלבום של המבצע המקורי / אוסף רשמי",
-      "perf": "צמד הגפרורים (אריק איינשטיין ואילנה רובינא)",
+      "perf": "צמד הגפרורים",
       "alb": "צמד הגפרורים (1962)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -48977,7 +49046,8 @@ window.PLAYLIST_DATA = {
           "src": "same_song_performance"
         }
       ],
-      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)"
+      "musical": "הסאטירה \"עשרת הצדיקים\" (השעות הקטנות)",
+      "perf_members": "אריק איינשטיין ואילנה רובינא"
     },
     {
       "n": 662,
@@ -50707,7 +50777,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "עוד חוזר הניגון [ביצוע: משתתפי מופע אלתרמן (1977)] (1977)",
+      "title": "עוד חוזר הניגון [ביצוע: משתתפי מופע אלתרמן] (1977)",
       "raw_title": "עוד חוזר הניגון",
       "alt_titles": [
         "עוד חוזר הנגון",
@@ -50726,7 +50796,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:46",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "משתתפי מופע אלתרמן (1977)",
+      "perf": "משתתפי מופע אלתרמן",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -51046,7 +51116,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "מותי בא לי פתע [ביצוע: זמרי הלהקות הצבאיות (גל\"צ)] (שיר מ־1974)",
+      "title": "מותי בא לי פתע [ביצוע: זמרי הלהקות הצבאיות] (שיר מ־1974)",
       "raw_title": "מותי בא לי פתע",
       "alt_titles": [],
       "ver_idx": 2,
@@ -51062,7 +51132,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:17",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "זמרי הלהקות הצבאיות (גל\"צ)",
+      "perf": "זמרי הלהקות הצבאיות",
       "alb": "",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -51095,7 +51165,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:04",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "גל\"צ"
     },
     {
       "n": 690,
@@ -51628,8 +51699,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר (עם מסורתי, מן המקורות)",
-      "co_creators": "עם מסורתי, מן המקורות",
+      "role_label": "מילים ולחן: נעמי שמר (עם מן המקורות)",
+      "co_creators": "עם מן המקורות",
       "opening_line": "נצא השדה נלינה בכפרים",
       "links": [
         {
@@ -51811,136 +51882,6 @@ window.PLAYLIST_DATA = {
     },
     {
       "n": 699,
-      "chrono_n": 664,
-      "canon_score": 23.8,
-      "acum_v": 2,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "לא ביאליק [ביצוע: גיתית שובל ורון דרויאן] (2005)",
-      "raw_title": "לא ביאליק",
-      "alt_titles": [],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "2005",
-      "rec_year": "2005",
-      "song_year": "1976",
-      "year_src": "manual_verified",
-      "decade": "1990s+",
-      "vid": "JUiRv74kgHU",
-      "vtitle": "לא ביאליק",
-      "ch": "Gitit Shoval - Topic",
-      "dur": "2:24",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "גיתית שובל ורון דרויאן",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אני אכניס אותך תחת כנפי",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1019564",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "dZOJilPsiBE",
-          "vtitle": "Broadway in Monart  - לא ביאליק",
-          "ch": "Ostrovsky Music Production",
-          "dur": "2:27",
-          "src": "direct_alternative"
-        },
-        {
-          "vid": "jzNc8KFQ4S4",
-          "vtitle": "לא ביאליק מאת נעמי שמר שרות נעמי שמר ורבקה מיכאלי",
-          "ch": "ללי שמר",
-          "dur": "3:05",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 700,
-      "chrono_n": 665,
-      "canon_score": 27.4,
-      "acum_v": 4,
-      "layer": 2,
-      "layer_label": "שכבה ב': אלבומים ותקופות",
-      "blk": "e2",
-      "ch_lbl": "",
-      "title": "מנגנות ויואלדי [ביצוע: גיתית שובל] (2005)",
-      "raw_title": "מנגנות ויואלדי",
-      "alt_titles": [
-        "מנגנות ויולדי",
-        "מנגנות ויואלדי מנגנות גם באך"
-      ],
-      "ver_idx": 2,
-      "ver_total": 2,
-      "year": "2005",
-      "rec_year": "2005",
-      "song_year": "1976",
-      "year_src": "manual_verified",
-      "decade": "1990s+",
-      "vid": "weX6vsG96ZY",
-      "vtitle": "מנגנות ויואלדי",
-      "ch": "Gitit Shoval - Topic",
-      "dur": "3:13",
-      "tier": "5_cover",
-      "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "גיתית שובל",
-      "alb": "",
-      "alb_group": "סינגל / ביצוע בודד",
-      "alb_trk": 999,
-      "role_cat": "words_and_music",
-      "role_label": "מילים ולחן: נעמי שמר",
-      "co_creators": "",
-      "opening_line": "אנחנו מנגנות ברחוב מקום שלנו דוקא טוב",
-      "links": [
-        {
-          "source": "nli",
-          "label": "הספרייה הלאומית (בית לזמר העברי)",
-          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI"
-        },
-        {
-          "source": "shironet",
-          "label": "מילים בשירונט",
-          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412"
-        },
-        {
-          "source": "acum",
-          "label": "אקו\"ם #1049876",
-          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
-        }
-      ],
-      "alts": [
-        {
-          "vid": "l4y16i5NwwQ",
-          "vtitle": "מנגנות ויואלדי מאת נעמי שמר, שרות נעמי שמר ורבקה מיכאלי",
-          "ch": "ללי שמר",
-          "dur": "3:22",
-          "src": "same_song_performance"
-        }
-      ]
-    },
-    {
-      "n": 701,
       "chrono_n": 466,
       "canon_score": 97.3,
       "acum_v": 6,
@@ -52014,7 +51955,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 702,
+      "n": 700,
       "chrono_n": 520,
       "canon_score": 151.9,
       "acum_v": 12,
@@ -52113,7 +52054,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 703,
+      "n": 701,
       "chrono_n": 570,
       "canon_score": 43.2,
       "acum_v": 4,
@@ -52180,7 +52121,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 704,
+      "n": 702,
       "chrono_n": 527,
       "canon_score": 8.2,
       "acum_v": 1,
@@ -52204,7 +52145,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:19",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "משה בקר (הופעה חיה, 1984)",
+      "perf": "משה בקר",
       "alb": "הדרן לשמואל רודנסקי (1986)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -52234,10 +52175,11 @@ window.PLAYLIST_DATA = {
           "dur": "2:45",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "הופעה חיה"
     },
     {
-      "n": 705,
+      "n": 703,
       "chrono_n": 579,
       "canon_score": 100.7,
       "acum_v": 6,
@@ -52297,7 +52239,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 706,
+      "n": 704,
       "chrono_n": 621,
       "canon_score": 142.8,
       "acum_v": 6,
@@ -52305,7 +52247,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "גיא [ביצוע: משתתפי אצלנו בפסנתר (משה בקר)] (1993)",
+      "title": "גיא [ביצוע: משתתפי אצלנו בפסנתר] (1993)",
       "raw_title": "גיא",
       "alt_titles": [],
       "ver_idx": 2,
@@ -52321,7 +52263,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:32",
       "tier": "5_cover",
       "tier_label": "5. ביצוע מחודש / קאבר",
-      "perf": "משתתפי אצלנו בפסנתר (משה בקר)",
+      "perf": "משתתפי אצלנו בפסנתר",
       "alb": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993) (#12)",
       "alb_group": "אצלנו בפסנתר – שירי הילדים של נעמי שמר (1993)",
       "alb_trk": 12,
@@ -52368,10 +52310,11 @@ window.PLAYLIST_DATA = {
           "dur": "2:27",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "משה בקר"
     },
     {
-      "n": 707,
+      "n": 705,
       "chrono_n": 728,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -52407,8 +52350,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: מסורתי, מן המקורות",
-      "co_creators": "מילים: מסורתי, מן המקורות",
+      "role_label": "לחן: נעמי שמר · מילים: מן המקורות",
+      "co_creators": "מילים: מן המקורות",
       "opening_line": "האזינה אלוהים תפילתי האזינה אלוהים תפילתי",
       "links": [
         {
@@ -52461,7 +52404,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 708,
+      "n": 706,
       "chrono_n": 704,
       "canon_score": 71.3,
       "acum_v": 14,
@@ -52497,8 +52440,8 @@ window.PLAYLIST_DATA = {
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
       "role_cat": "music_only",
-      "role_label": "לחן: נעמי שמר · מילים: מסורתי, מן המקורות",
-      "co_creators": "מילים: מסורתי, מן המקורות",
+      "role_label": "לחן: נעמי שמר · מילים: מן המקורות",
+      "co_creators": "מילים: מן המקורות",
       "opening_line": "האזינה אלוהים תפילתי האזינה אלוהים תפילתי",
       "links": [
         {
@@ -52551,7 +52494,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 709,
+      "n": 707,
       "chrono_n": 640,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -52625,7 +52568,7 @@ window.PLAYLIST_DATA = {
       ]
     },
     {
-      "n": 710,
+      "n": 708,
       "chrono_n": 611,
       "canon_score": 155.2,
       "acum_v": 12,
@@ -52694,6 +52637,136 @@ window.PLAYLIST_DATA = {
           "vtitle": "שנה טובה",
           "ch": "Yafa Yarkoni - Topic",
           "dur": "4:25",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 709,
+      "chrono_n": 664,
+      "canon_score": 27.4,
+      "acum_v": 4,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "מנגנות ויואלדי [ביצוע: גיתית שובל] (2005)",
+      "raw_title": "מנגנות ויואלדי",
+      "alt_titles": [
+        "מנגנות ויולדי",
+        "מנגנות ויואלדי מנגנות גם באך"
+      ],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "2005",
+      "rec_year": "2005",
+      "song_year": "1994",
+      "year_src": "manual_verified",
+      "decade": "1990s+",
+      "vid": "weX6vsG96ZY",
+      "vtitle": "מנגנות ויואלדי",
+      "ch": "Gitit Shoval - Topic",
+      "dur": "3:13",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "גיתית שובל",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אנחנו מנגנות ברחוב מקום שלנו דוקא טוב",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043510205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18412"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1049876",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1049876"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "l4y16i5NwwQ",
+          "vtitle": "מנגנות ויואלדי מאת נעמי שמר, שרות נעמי שמר ורבקה מיכאלי",
+          "ch": "ללי שמר",
+          "dur": "3:22",
+          "src": "same_song_performance"
+        }
+      ]
+    },
+    {
+      "n": 710,
+      "chrono_n": 665,
+      "canon_score": 23.8,
+      "acum_v": 2,
+      "layer": 2,
+      "layer_label": "שכבה ב': אלבומים ותקופות",
+      "blk": "e2",
+      "ch_lbl": "",
+      "title": "לא ביאליק [ביצוע: גיתית שובל ורון דרויאן] (2005)",
+      "raw_title": "לא ביאליק",
+      "alt_titles": [],
+      "ver_idx": 2,
+      "ver_total": 2,
+      "year": "2005",
+      "rec_year": "2005",
+      "song_year": "1995",
+      "year_src": "manual_verified",
+      "decade": "1990s+",
+      "vid": "JUiRv74kgHU",
+      "vtitle": "לא ביאליק",
+      "ch": "Gitit Shoval - Topic",
+      "dur": "2:24",
+      "tier": "5_cover",
+      "tier_label": "5. ביצוע מחודש / קאבר",
+      "perf": "גיתית שובל ורון דרויאן",
+      "alb": "",
+      "alb_group": "סינגל / ביצוע בודד",
+      "alb_trk": 999,
+      "role_cat": "words_and_music",
+      "role_label": "מילים ולחן: נעמי שמר",
+      "co_creators": "",
+      "opening_line": "אני אכניס אותך תחת כנפי",
+      "links": [
+        {
+          "source": "nli",
+          "label": "הספרייה הלאומית (בית לזמר העברי)",
+          "url": "https://www.nli.org.il/he/items/NNL_MUSIC_AL990037043200205171/NLI"
+        },
+        {
+          "source": "shironet",
+          "label": "מילים בשירונט",
+          "url": "https://shironet.mako.co.il/artist?type=lyrics&lang=1&prfid=738&wrkid=18414"
+        },
+        {
+          "source": "acum",
+          "label": "אקו\"ם #1019564",
+          "url": "https://nocs.acum.org.il/acumsitesearchdb/work?workid=1019564"
+        }
+      ],
+      "alts": [
+        {
+          "vid": "dZOJilPsiBE",
+          "vtitle": "Broadway in Monart  - לא ביאליק",
+          "ch": "Ostrovsky Music Production",
+          "dur": "2:27",
+          "src": "direct_alternative"
+        },
+        {
+          "vid": "jzNc8KFQ4S4",
+          "vtitle": "לא ביאליק מאת נעמי שמר שרות נעמי שמר ורבקה מיכאלי",
+          "ch": "ללי שמר",
+          "dur": "3:05",
           "src": "same_song_performance"
         }
       ]
@@ -53093,7 +53166,7 @@ window.PLAYLIST_DATA = {
       "layer_label": "שכבה ב': אלבומים ותקופות",
       "blk": "e2",
       "ch_lbl": "",
-      "title": "אילן [ביצוע: דורית ראובני (שירה וסיפור השיר)] (2017)",
+      "title": "אילן [ביצוע: דורית ראובני] (2017)",
       "raw_title": "אילן",
       "alt_titles": [],
       "ver_idx": 2,
@@ -53109,7 +53182,7 @@ window.PLAYLIST_DATA = {
       "dur": "7:17",
       "tier": "4_original_performance",
       "tier_label": "4. ביצוע מקורי",
-      "perf": "דורית ראובני (שירה וסיפור השיר)",
+      "perf": "דורית ראובני",
       "alb": "מוזיאון חיל האוויר",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -53132,7 +53205,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:19",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "שירה וסיפור השיר"
     },
     {
       "n": 717,
@@ -53161,7 +53235,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:26",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (ראיון אצל יצפאן)",
+      "perf": "נעמי שמר",
       "alb": "ארכיון ללי שמר",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -53222,7 +53296,8 @@ window.PLAYLIST_DATA = {
           "dur": "1:21",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "ראיון אצל יצפאן"
     },
     {
       "n": 718,
@@ -53249,7 +53324,7 @@ window.PLAYLIST_DATA = {
       "dur": "3:03",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר וקובי אשרת (סקיצה נדירה 1, 1993)",
+      "perf": "נעמי שמר וקובי אשרת",
       "alb": "סקיצה מקורית (1993)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -53296,7 +53371,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:51",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "סקיצה נדירה 1"
     },
     {
       "n": 719,
@@ -53323,7 +53399,7 @@ window.PLAYLIST_DATA = {
       "dur": "2:51",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר וקובי אשרת (סקיצה נדירה 2, 1993)",
+      "perf": "נעמי שמר וקובי אשרת",
       "alb": "סקיצה מקורית (1993)",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -53370,7 +53446,8 @@ window.PLAYLIST_DATA = {
           "dur": "3:05",
           "src": "direct_alternative"
         }
-      ]
+      ],
+      "perf_detail": "סקיצה נדירה 2"
     },
     {
       "n": 720,
@@ -53400,7 +53477,7 @@ window.PLAYLIST_DATA = {
       "dur": "0:54",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (ראיון עם יצחק שמעוני, 1970)",
+      "perf": "נעמי שמר",
       "alb": "ארכיון ללי שמר",
       "alb_group": "סינגל / ביצוע בודד",
       "alb_trk": 999,
@@ -53468,7 +53545,8 @@ window.PLAYLIST_DATA = {
           "dur": "6:49",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "ראיון עם יצחק שמעוני"
     },
     {
       "n": 721,
@@ -53501,7 +53579,7 @@ window.PLAYLIST_DATA = {
       "dur": "30:21",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (תוכנית ליום ירושלים, 1992)",
+      "perf": "נעמי שמר",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -53562,7 +53640,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:08",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "תוכנית ליום ירושלים"
     },
     {
       "n": 722,
@@ -53592,7 +53671,7 @@ window.PLAYLIST_DATA = {
       "dur": "1:32:07",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר ואמני ישראל (מופע הצדעה מלא, 1991)",
+      "perf": "נעמי שמר ואמני ישראל",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -53653,7 +53732,8 @@ window.PLAYLIST_DATA = {
           "dur": "4:34",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "מופע הצדעה מלא"
     },
     {
       "n": 723,
@@ -53869,7 +53949,7 @@ window.PLAYLIST_DATA = {
       "dur": "24:39",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר ומועדון החתול שמיל (נתן דטנר)",
+      "perf": "נעמי שמר ומועדון החתול שמיל",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -53937,7 +54017,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:16",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "נתן דטנר"
     },
     {
       "n": 726,
@@ -53970,7 +54051,7 @@ window.PLAYLIST_DATA = {
       "dur": "27:39",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר, מיקי קם וילדי בי\"ס לאמנויות (1992)",
+      "perf": "נעמי שמר, מיקי קם וילדי בי\"ס לאמנויות",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -54068,7 +54149,7 @@ window.PLAYLIST_DATA = {
       "dur": "25:16",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר, יהורם גאון וילדי בי\"ס לאמנויות (1992)",
+      "perf": "נעמי שמר, יהורם גאון וילדי בי\"ס לאמנויות",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -54167,7 +54248,7 @@ window.PLAYLIST_DATA = {
       "dur": "26:41",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר ונתן דטנר (החתול שמיל)",
+      "perf": "נעמי שמר ונתן דטנר",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -54228,7 +54309,8 @@ window.PLAYLIST_DATA = {
           "dur": "7:33",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "החתול שמיל"
     },
     {
       "n": 729,
@@ -54258,7 +54340,7 @@ window.PLAYLIST_DATA = {
       "dur": "25:15",
       "tier": "3_naomi_performance",
       "tier_label": "3. ביצוע של נעמי שמר",
-      "perf": "נעמי שמר (תוכנית לפסח, 1992)",
+      "perf": "נעמי שמר",
       "alb": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_group": "תוכניות טלוויזיה ומופעים מלאים",
       "alb_trk": 999,
@@ -54281,7 +54363,8 @@ window.PLAYLIST_DATA = {
           "dur": "2:34",
           "src": "same_song_performance"
         }
-      ]
+      ],
+      "perf_detail": "תוכנית לפסח"
     }
   ],
   "archiveSongs": [
@@ -55084,8 +55167,8 @@ window.PLAYLIST_DATA = {
       "year": "ללא שנה",
       "song_year": "",
       "role_cat": "translation",
-      "role_label": "תרגום: נעמי שמר (מקור: יוסף קוסמה)",
-      "co_creators": "מקור: יוסף קוסמה",
+      "role_label": "תרגום: נעמי שמר (מקור: ז'וזף קוסמה)",
+      "co_creators": "מקור: ז'וזף קוסמה",
       "perfs": "",
       "albums": "",
       "opening_line": "אחרי השיעורים רכבת ארכה",

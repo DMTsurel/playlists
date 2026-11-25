@@ -29,7 +29,7 @@ def partition_matched_blocks(
     for idx_item, item in enumerate(matched_entries):
         sel = item["selected_video"]
         ag = item.get("album_group", "")
-        perf_raw = sel.get("matched_performer", "")
+        perf_raw = f"{sel.get('matched_performer', '')} {sel.get('performer_detail', '')}"
         lyr = int(item.get("canonical_layer", 2))
         lyr = lyr if lyr in (1, 2, 3) else 2
 
